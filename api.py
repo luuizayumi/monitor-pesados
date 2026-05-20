@@ -13,12 +13,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# 🔥 MESMO CAMINHO DO CRAWLER
-DB_DIR = "/tmp/monitor_data"
-DB_PATH = os.path.join(DB_DIR, "noticias.db")
+# 🔥 USANDO O MESMO CAMINHO DO CRAWLER
+DB_PATH = "/tmp/monitor_data/noticias.db"
 
 def get_db():
-    os.makedirs(DB_DIR, exist_ok=True)
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.execute('''
         CREATE TABLE IF NOT EXISTS noticias (

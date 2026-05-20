@@ -7,12 +7,16 @@ from datetime import datetime
 import re
 
 class MonitorPesados:
-    def __init__(self, db_path='data/noticias.db'):
+    def __init__(self, db_path=None):
+        # Usa /tmp no Render (diretório gravável)
+        if db_path is None:
+            db_dir = '/tmp/monitor_data'
+            os.makedirs(db_dir, exist_ok=True)
+            db_path = os.path.join(db_dir, 'noticias.db')
         self.db_path = db_path
         self.init_database()
     
     def init_database(self):
-        os.makedirs('data', exist_ok=True)
         conn = sqlite3.connect(self.db_path)
         conn.execute('''
             CREATE TABLE IF NOT EXISTS noticias (
@@ -28,7 +32,7 @@ class MonitorPesados:
         ''')
         conn.commit()
         conn.close()
-        print("📦 Banco de dados inicializado")
+        print(f"📦 Banco de dados inicializado em {self.db_path}")
     
     def buscar_pagina(self, url):
         try:
@@ -105,7 +109,6 @@ class MonitorPesados:
         
         for nome, url in portais:
             print(f"\n🔍 {nome}...")
-            print(f"   URL: {url}")
             html = self.buscar_pagina(url)
             if html:
                 links = self.extrair_links(html, url)
@@ -144,7 +147,7 @@ class MonitorPesados:
                 if conn.total_changes > 0:
                     novas += 1
             except Exception as e:
-                print(f"Erro ao salvar: {e}")
+                pass
         
         conn.commit()
         conn.close()
@@ -167,6 +170,4 @@ if __name__ == "__main__":
     
     print("-" * 50)
     print(f"🏁 Finalizado: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
-    print("✅ Para ver o dashboard, execute: python api.py")
-    print("🌐 Depois acesse: http://localhost:8000/dashboard")
     

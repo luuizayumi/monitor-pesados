@@ -13,14 +13,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Caminho absoluto onde o Render permite escrever
-DB_DIR = "/tmp/data"  # Render permite escrita em /tmp
+# 🔥 MESMO CAMINHO DO CRAWLER
+DB_DIR = "/tmp/monitor_data"
 DB_PATH = os.path.join(DB_DIR, "noticias.db")
 
 def get_db():
-    """Cria pasta e banco se não existirem"""
     os.makedirs(DB_DIR, exist_ok=True)
-    
     conn = sqlite3.connect(DB_PATH)
     conn.execute('''
         CREATE TABLE IF NOT EXISTS noticias (
@@ -50,7 +48,7 @@ def get_noticias():
         conn.close()
         return [dict(n) for n in noticias]
     except Exception as e:
-        return {"erro": str(e), "mensagem": "Aguarde o crawler criar o banco"}
+        return {"erro": str(e), "mensagem": "Nenhuma notícia ainda"}
 
 @app.get("/dashboard", response_class=HTMLResponse)
 def dashboard():
@@ -80,7 +78,7 @@ def dashboard():
                 .then(r => r.json())
                 .then(dados => {
                     if (dados.erro || dados.length === 0) {
-                        document.getElementById('noticias').innerHTML = '<p>⏳ Nenhuma notícia ainda. O crawler vai começar a coletar em breve!</p><p>🔄 Aguarde alguns minutos e recarregue.</p>';
+                        document.getElementById('noticias').innerHTML = '<p>⏳ Nenhuma notícia ainda. Aguarde o crawler rodar.</p>';
                     } else {
                         document.getElementById('noticias').innerHTML = dados.map(n => `
                             <div class="card">
@@ -92,7 +90,7 @@ def dashboard():
                     }
                 })
                 .catch(() => {
-                    document.getElementById('noticias').innerHTML = '<p>❌ Erro ao carregar. Aguarde.</p>';
+                    document.getElementById('noticias').innerHTML = '<p>❌ Erro ao carregar.</p>';
                 });
         </script>
     </body>

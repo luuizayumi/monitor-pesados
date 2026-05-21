@@ -1,1 +1,46 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitor Mercado Pesado</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #f0f2f5; }
+        h1 { color: #1a472a; }
+        .card { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; border-left: 4px solid #ff6b35; }
+        .fonte { color: #666; font-size: 12px; }
+        a { color: #1a472a; text-decoration: none; }
+        a:hover { color: #ff6b35; text-decoration: underline; }
+        .loading { text-align: center; padding: 50px; color: #666; }
+        .stats { background: white; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>🚛 Monitor de Mercado Pesado</h1>
+    <p>Brasil & América Latina - Atualizado a cada 30 minutos</p>
+    <div id="stats" class="stats">📊 Carregando estatísticas...</div>
+    <div id="noticias" class="loading">Carregando notícias...</div>
+    
+    <script>
+        fetch('noticias.json')
+            .then(r => r.json())
+            .then(dados => {
+                document.getElementById('stats').innerHTML = `📊 Total de notícias: ${dados.length}`;
+                if (dados.length === 0) {
+                    document.getElementById('noticias').innerHTML = '<p>Nenhuma notícia ainda. Aguarde o crawler rodar.</p>';
+                } else {
+                    document.getElementById('noticias').innerHTML = dados.map(n => `
+                        <div class="card">
+                            <div class="fonte">📌 ${n.fonte}</div>
+                            <a href="${n.link}" target="_blank">${n.titulo}</a>
+                            <div class="fonte">📅 ${new Date(n.data_coleta).toLocaleString()}</div>
+                        </div>
+                    `).join('');
+                }
+            })
+            .catch(() => {
+                document.getElementById('noticias').innerHTML = '<p>❌ Erro ao carregar notícias.</p>';
+            });
+    </script>
+</body>
+</html>

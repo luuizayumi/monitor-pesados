@@ -5,42 +5,375 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Monitor Mercado Pesado</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 20px; background: #f0f2f5; }
-        h1 { color: #1a472a; }
-        .card { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; border-left: 4px solid #ff6b35; }
-        .fonte { color: #666; font-size: 12px; }
-        a { color: #1a472a; text-decoration: none; }
-        a:hover { color: #ff6b35; text-decoration: underline; }
-        .loading { text-align: center; padding: 50px; color: #666; }
-        .stats { background: white; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-weight: bold; }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f0f2f5;
+            color: #333;
+        }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #1a472a, #0d2818);
+            color: white;
+            padding: 1.5rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header h1 {
+            font-size: 1.8rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .header p {
+            opacity: 0.8;
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .stats {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .stat-card {
+            background: rgba(255,255,255,0.1);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            font-size: 0.85rem;
+        }
+
+        /* Container e Abas */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+
+        .tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 0.5rem;
+        }
+
+        .tab-btn {
+            padding: 0.6rem 1.2rem;
+            border: none;
+            background: white;
+            border-radius: 8px 8px 0 0;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.3s;
+            color: #666;
+        }
+
+        .tab-btn:hover {
+            background: #e0e0e0;
+        }
+
+        .tab-btn.active {
+            background: #1a472a;
+            color: white;
+        }
+
+        /* Grupos de Data */
+        .date-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .date-title {
+            background: #e0e0e0;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            font-weight: bold;
+            color: #1a472a;
+            display: inline-block;
+        }
+
+        /* Cards de Notícia */
+        .noticia-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem;
+            margin-bottom: 0.8rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+            border-left: 4px solid #ff6b35;
+        }
+
+        .noticia-card:hover {
+            transform: translateX(5px);
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+        }
+
+        .noticia-fonte {
+            display: inline-block;
+            padding: 0.2rem 0.6rem;
+            background: #e0e0e0;
+            border-radius: 20px;
+            font-size: 0.7rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .noticia-titulo {
+            font-size: 1rem;
+            color: #1a2e1a;
+            text-decoration: none;
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            line-height: 1.4;
+        }
+
+        .noticia-titulo:hover {
+            color: #ff6b35;
+            text-decoration: underline;
+        }
+
+        .noticia-data {
+            font-size: 0.7rem;
+            color: #999;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #ff6b35;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            color: #666;
+            font-size: 0.75rem;
+            border-top: 1px solid #ddd;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.2rem; }
+            .tab-btn { padding: 0.4rem 0.8rem; font-size: 0.8rem; }
+            .container { padding: 1rem; }
+        }
     </style>
 </head>
 <body>
-    <h1>🚛 Monitor de Mercado Pesado</h1>
-    <p>Brasil & América Latina - Atualizado a cada 30 minutos</p>
-    <div id="stats" class="stats">📊 Carregando estatísticas...</div>
-    <div id="noticias" class="loading">Carregando notícias...</div>
-    
+    <div class="header">
+        <h1>🚛 Monitor de Mercado Pesado</h1>
+        <p>Brasil & América Latina - Notícias do setor de caminhões, ônibus e veículos pesados</p>
+        <div class="stats" id="stats">
+            <div class="stat-card">📊 Carregando...</div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="tabs" id="tabs">
+            <button class="tab-btn active" data-fonte="ultimas">🕐 Últimos 30 min</button>
+        </div>
+        <div id="noticias-container">
+            <div class="loading"><div class="spinner"></div><p>Carregando notícias...</p></div>
+        </div>
+    </div>
+
+    <footer>
+        🔄 Atualizado automaticamente | 📊 Dados coletados via GitHub Actions a cada 30 minutos
+    </footer>
+
     <script>
-        fetch('noticias.json')
-            .then(r => r.json())
-            .then(dados => {
-                document.getElementById('stats').innerHTML = `📊 Total de notícias: ${dados.length}`;
-                if (dados.length === 0) {
-                    document.getElementById('noticias').innerHTML = '<p>Nenhuma notícia ainda. Aguarde o crawler rodar.</p>';
-                } else {
-                    document.getElementById('noticias').innerHTML = dados.map(n => `
-                        <div class="card">
-                            <div class="fonte">📌 ${n.fonte}</div>
-                            <a href="${n.link}" target="_blank">${n.titulo}</a>
-                            <div class="fonte">📅 ${new Date(n.data_coleta).toLocaleString()}</div>
-                        </div>
-                    `).join('');
+        let dadosNoticias = [];
+        let fonteAtual = 'ultimas';
+
+        function formatarData(dataISO) {
+            const data = new Date(dataISO);
+            const now = new Date();
+            const diffHoras = (now - data) / (1000 * 60 * 60);
+            
+            if (diffHoras < 24) {
+                return data.toLocaleString('pt-BR', { 
+                    hour: '2-digit', 
+                    minute: '2-digit',
+                    day: '2-digit',
+                    month: '2-digit'
+                });
+            } else {
+                return data.toLocaleDateString('pt-BR', { 
+                    day: '2-digit', 
+                    month: '2-digit', 
+                    year: 'numeric' 
+                });
+            }
+        }
+
+        function agruparPorData(noticias) {
+            const grupos = {};
+            noticias.forEach(noticia => {
+                const data = new Date(noticia.data_coleta);
+                const chave = data.toLocaleDateString('pt-BR');
+                if (!grupos[chave]) {
+                    grupos[chave] = [];
                 }
-            })
-            .catch(() => {
-                document.getElementById('noticias').innerHTML = '<p>❌ Erro ao carregar notícias.</p>';
+                grupos[chave].push(noticia);
             });
+            return grupos;
+        }
+
+        function filtrarUltimasNoticias(noticias) {
+            const agora = new Date();
+            const limite = new Date(agora - 30 * 60 * 1000); // 30 minutos atrás
+            return noticias.filter(n => new Date(n.data_coleta) >= limite);
+        }
+
+        function renderizarNoticias(noticias) {
+            const container = document.getElementById('noticias-container');
+            
+            if (!noticias || noticias.length === 0) {
+                container.innerHTML = '<div class="loading">📭 Nenhuma notícia encontrada</div>';
+                return;
+            }
+
+            const grupos = agruparPorData(noticias);
+            const datasOrdenadas = Object.keys(grupos).sort((a, b) => {
+                const [da, ma, aa] = a.split('/');
+                const [db, mb, ab] = b.split('/');
+                return new Date(ab, mb-1, db) - new Date(aa, ma-1, da);
+            });
+
+            let html = '';
+            for (const data of datasOrdenadas) {
+                const noticiasDoDia = grupos[data];
+                html += `
+                    <div class="date-group">
+                        <div class="date-title">📅 ${data}</div>
+                        ${noticiasDoDia.map(n => `
+                            <div class="noticia-card">
+                                <div class="noticia-fonte">📌 ${n.fonte}</div>
+                                <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
+                                <div class="noticia-data">🕐 ${formatarData(n.data_coleta)}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            }
+            container.innerHTML = html;
+        }
+
+        function carregarNoticias(fonte) {
+            const container = document.getElementById('noticias-container');
+            container.innerHTML = '<div class="loading"><div class="spinner"></div><p>Carregando...</p></div>';
+            
+            let noticiasFiltradas = [];
+            
+            if (fonte === 'ultimas') {
+                noticiasFiltradas = filtrarUltimasNoticias(dadosNoticias);
+                document.getElementById('stats').innerHTML = `
+                    <div class="stat-card">🕐 Últimos 30 min: ${noticiasFiltradas.length}</div>
+                    <div class="stat-card">📰 Total: ${dadosNoticias.length}</div>
+                    <div class="stat-card">📌 Portais: ${Object.keys(portaisAgrupados).length}</div>
+                    <div class="stat-card">🔄 Atualização: ${new Date().toLocaleTimeString()}</div>
+                `;
+            } else {
+                noticiasFiltradas = portaisAgrupados[fonte] || [];
+                document.getElementById('stats').innerHTML = `
+                    <div class="stat-card">📌 ${fonte}: ${noticiasFiltradas.length}</div>
+                    <div class="stat-card">📰 Total geral: ${dadosNoticias.length}</div>
+                    <div class="stat-card">🔄 Atualização: ${new Date().toLocaleTimeString()}</div>
+                `;
+            }
+            
+            renderizarNoticias(noticiasFiltradas);
+        }
+
+        let portaisAgrupados = {};
+
+        function construirAbas() {
+            const tabsDiv = document.getElementById('tabs');
+            tabsDiv.innerHTML = '<button class="tab-btn active" data-fonte="ultimas">🕐 Últimos 30 min</button>';
+            
+            const portais = Object.keys(portaisAgrupados).sort();
+            portais.forEach(portal => {
+                const btn = document.createElement('button');
+                btn.className = 'tab-btn';
+                btn.dataset.fonte = portal;
+                btn.textContent = `${portal} (${portaisAgrupados[portal].length})`;
+                btn.onclick = () => {
+                    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    fonteAtual = portal;
+                    carregarNoticias(portal);
+                };
+                tabsDiv.appendChild(btn);
+            });
+            
+            const btnUltimas = tabsDiv.querySelector('[data-fonte="ultimas"]');
+            if (btnUltimas) {
+                btnUltimas.onclick = () => {
+                    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                    btnUltimas.classList.add('active');
+                    fonteAtual = 'ultimas';
+                    carregarNoticias('ultimas');
+                };
+            }
+        }
+
+        function processarDados(noticias) {
+            noticias.sort((a, b) => new Date(b.data_coleta) - new Date(a.data_coleta));
+            
+            portaisAgrupados = {};
+            noticias.forEach(n => {
+                if (!portaisAgrupados[n.fonte]) {
+                    portaisAgrupados[n.fonte] = [];
+                }
+                portaisAgrupados[n.fonte].push(n);
+            });
+            
+            construirAbas();
+            carregarNoticias(fonteAtual);
+        }
+
+        function atualizarDados() {
+            fetch('noticias.json?t=' + new Date().getTime())
+                .then(r => r.json())
+                .then(dados => {
+                    dadosNoticias = dados;
+                    processarDados(dadosNoticias);
+                })
+                .catch(() => {
+                    document.getElementById('noticias-container').innerHTML = '<div class="loading">❌ Erro ao carregar notícias. Aguarde o crawler rodar.</div>';
+                });
+        }
+
+        atualizarDados();
+        setInterval(atualizarDados, 60000);
     </script>
 </body>
 </html>

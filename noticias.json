@@ -1,5 +1,89 @@
 [
   {
+    "id": "e6f4030fe00ac68018a518ef82604a0d",
+    "titulo": "Voge inicia produção de motos na fábrica de Manaus",
+    "link": "https://automotivebusiness.com.br/duas-rodas/voge-inicia-producao-de-motos-na-fabrica-de-manaus",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-05-21T22:22:36.087410"
+  },
+  {
+    "id": "868d62ae9e1b1d14ff5189562f189a26",
+    "titulo": "Radar AB #77: o que o SXSW revela sobre a próxima década do setor automotivo",
+    "link": "https://automotivebusiness.com.br/podcast/radar-ab-podcast-o-que-o-sxsw-revela-sobre-a-proxima-decada-do-setor-automotivo",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-05-21T22:22:36.087429"
+  },
+  {
+    "id": "9d7b2c28ab97e766f4918da08489a1ce",
+    "titulo": "Transformando Informação em Conhecimento",
+    "link": "https://www.autodata.com.br/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-21T22:22:37.021305"
+  },
+  {
+    "id": "806b670e04bcd9b1d825537d529530ec",
+    "titulo": "Mercado de reposição brasileiro deverá dobrar de tamanho até 2040Veículos mais sofisticados demandam peças de maior valor agregado, ao mesmo tempo em que setor fica mais competitivo com mudança no perfil da importaçãoLEIA MAIS",
+    "link": "https://www.autodata.com.br/noticias/2026/05/21/mercado-de-reposicao-brasileiro-devera-dobrar-de-tamanho-ate-2040/103891/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-21T22:22:37.021320"
+  },
+  {
+    "id": "76647a60ab5019a6a2bd03c151186523",
+    "titulo": "Chegada de chinesas redefine estratégia do setor automotivo brasileiro",
+    "link": "https://www.autodata.com.br/noticias/2026/05/20/chegada-de-chinesas-redefine-estrategia-do-setor-automotivo-brasileiro/103831/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-21T22:22:37.021324"
+  },
+  {
+    "id": "61d68e7ae1addec4976a8f8b07479d99",
+    "titulo": "VW Truck Rental supera 8 mil caminhões em operação após três anos",
+    "link": "https://www.autodata.com.br/news/2026/05/14/vw-truck-rental-supera-8-mil-caminhoes-em-operacao-apos-tres-anos/103570/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-21T22:22:37.021326"
+  },
+  {
+    "id": "23b462d0df7c38d45b81e49506312198",
+    "titulo": "Tukan estreia com 76% de conteúdo nacional e plataforma exclusiva da Volkswagen",
+    "link": "https://frotanews.com.br/ultimas-noticias-picapes/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-21T22:22:39.709531"
+  },
+  {
+    "id": "a41bacce56fceeb86678250b8d1b6885",
+    "titulo": "Produção de caminhões cai 17,2% no quadrimestre mesmo após incentivo do Move Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/producao-de-caminhoes-cai-172-no-quadrimestre-mesmo-apos-incentivo-do-move-brasil/",
+    "fonte": "Estradão",
+    "data_coleta": "2026-05-21T22:22:40.956743"
+  },
+  {
+    "id": "1593e4cacda6cea562f1ccd161c7ecff",
+    "titulo": "Carros elétricos ficam mais caros na China após aumento no custo de produção",
+    "link": "https://quatrorodas.abril.com.br/carros-eletricos/carros-eletricos-china-mais-caros/",
+    "fonte": "Quatro Rodas Mercado",
+    "data_coleta": "2026-05-21T22:22:42.330065"
+  },
+  {
+    "id": "d2214d5462ddc2cb48b06778fd63a340",
+    "titulo": "Man arrested in Texas after purposely driving Tesla Cybertruck into lake - Mix Vale",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmxDZjhYZTRlSlpwQVdpWXBrV3pMSGxxcGVFWTZ4a0RhbmNsd2J1N1J3LXJWVlhlNXU5XzlhMkJHQWN2eGlDWktGNTBJTlNLR3RSYUZjVFlpR3o2cUlYNzF0bTRrNUpPdTdMUkM1M3ZxU2pmcG1scEsyei0yRzlIaHhIUU5CRG1BRU9oelpuWDFObnh0ZEJyTExGU082ZlJFcWQwN2MtY0ZLM09ndkRacndtRkU?oc=5",
+    "fonte": "Google News",
+    "data_coleta": "2026-05-20T20:33:40+00:00"
+  },
+  {
+    "id": "ade58caeb718ed5161977390a32a05c2",
+    "titulo": "Lula is trying to show the left how to deal with Trump - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFFScnhfM3dKQ1AxOEFpMjM3RVA5Z3JmcVlybkg0ZWxBQjJYczBPRWYzTzRWWHdXelRNdlpZZ3NtS1BOZnJjcno1dUV4NkpYQXVOMmJvUkZYUUxDY3lUM1U1Z0liRC1CR1BCb0tFSXhiV1pucUpaZUd6ZHFldVgxRGJUSEl1WHBBY2JHeUNnbEFBeEVwTzRtSDdNQXNUQ2VvQzNxTHRzSk5zdlZiU2lVNXZfU0h1QQ?oc=5",
+    "fonte": "Google News",
+    "data_coleta": "2026-05-17T17:00:01+00:00"
+  },
+  {
+    "id": "d7a271100b06ba35f60af3fa8c1e9a07",
+    "titulo": "Watch: Passengers told virus-hit ship 'not infectious' after first death - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1Q3VENXJsVl9MUmFSSjlNNDRrdWNRYzhsNnBBSzJaLWVyUWt2Y0h3NHVzbVBoMmxMR0FKcUExUGpybTJ3ZUVUNVI5Q2FQY19wSkhad0V0RQ?oc=5",
+    "fonte": "Google News",
+    "data_coleta": "2026-05-07T07:00:00+00:00"
+  },
+  {
     "id": "b6009bfb3b284d574b6f86ac7d7071f8",
     "titulo": "2.Caminhão extrapesado da VWCO, Meteor faz 3 anos; veja a trajetória",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhao-extrapesado-da-vwco-meteor-faz-3-anos-veja-a-trajetoria/",

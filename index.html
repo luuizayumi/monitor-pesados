@@ -18,7 +18,6 @@
             color: #1a1a1a;
         }
 
-        /* Cores Evamo */
         :root {
             --reliable-purple: #4a2c6d;
             --focused-violet: #6b3fa0;
@@ -28,7 +27,6 @@
             --black: #1a1a1a;
         }
 
-        /* Header */
         .header {
             background: linear-gradient(135deg, var(--reliable-purple), var(--focused-violet));
             color: var(--white);
@@ -74,14 +72,12 @@
             font-weight: 400;
         }
 
-        /* Container */
         .container {
             max-width: 1400px;
             margin: 0 auto;
             padding: 1.5rem;
         }
 
-        /* Abas - Estilo Evamo */
         .tabs {
             display: flex;
             flex-wrap: wrap;
@@ -114,7 +110,6 @@
             border-bottom: 3px solid var(--smart-red);
         }
 
-        /* Grupos por data */
         .date-group {
             margin-bottom: 1.5rem;
         }
@@ -128,9 +123,23 @@
             color: var(--reliable-purple);
             display: inline-block;
             border-left: 3px solid var(--smart-red);
+            cursor: pointer;
+            transition: all 0.2s;
         }
 
-        /* Cards de notícia */
+        .date-title:hover {
+            background: rgba(74, 44, 109, 0.2);
+        }
+
+        .date-title .count {
+            font-size: 0.7rem;
+            background: var(--smart-red);
+            color: white;
+            padding: 0.1rem 0.5rem;
+            border-radius: 20px;
+            margin-left: 0.5rem;
+        }
+
         .noticia-card {
             background: var(--white);
             border-radius: 12px;
@@ -227,7 +236,8 @@
 
     <div class="container">
         <div class="tabs" id="tabs">
-            <button class="tab-btn active" data-fonte="ultimas">🕐 Últimos 30 min</button>
+            <button class="tab-btn active" data-tipo="ultimas">🕐 Últimos 30 min</button>
+            <button class="tab-btn" data-tipo="datas">📅 Por Data</button>
         </div>
         <div id="noticias-container">
             <div class="loading"><div class="spinner"></div><p>Carregando notícias...</p></div>
@@ -240,7 +250,9 @@
 
     <script>
         let dadosNoticias = [];
-        let fonteAtual = 'ultimas';
+        let tipoAtual = 'ultimas';
+        let timerAtualizacao = null;
+        let proximaAtualizacao = null;
 
         function getSorocabaTime(dataISO) {
             const data = new Date(dataISO);
@@ -295,12 +307,36 @@
             });
         }
 
-        function renderizarNoticias(noticias) {
-            const container = document.getElementById('noticias-container');
+        function atualizarTimerDisplay() {
+            if (!proximaAtualizacao) return;
             
-            if (!noticias || noticias.length === 0) {
-                container.innerHTML = '<div class="loading">📭 Nenhuma notícia encontrada</div>';
+            const agora = new Date();
+            const diff = proximaAtualizacao - agora;
+            
+            if (diff <= 0) {
+                atualizarDados();
                 return;
+            }
+            
+            const minutos = Math.floor(diff / 60000);
+            const segundos = Math.floor((diff % 60000) / 1000);
+            
+            const timerElement = document.getElementById('timer-contador');
+            if (timerElement) {
+                timerElement.textContent = `${minutos.toString().padStart(2, '0')}:${segundos.toString().padStart(2, '0')}`;
+            }
+        }
+
+        function iniciarTimer() {
+            if (timerAtualizacao) clearInterval(timerAtualizacao);
+            proximaAtualizacao = new Date(new Date().getTime() + 30 * 60 * 1000);
+            timerAtualizacao = setInterval(atualizarTimerDisplay, 1000);
+            atualizarTimerDisplay();
+        }
+
+        function renderizarUltimasNoticias(noticias) {
+            if (!noticias || noticias.length === 0) {
+                return '<div class="loading">📭 Nenhuma notícia nos últimos 30 minutos</div>';
             }
 
             const grupos = agruparPorData(noticias);
@@ -315,7 +351,7 @@
                 const noticiasDoDia = grupos[data];
                 html += `
                     <div class="date-group">
-                        <div class="date-title">📅 ${data}</div>
+                        <div class="date-title">📅 ${data} <span class="count">${noticiasDoDia.length}</span></div>
                         ${noticiasDoDia.map(n => `
                             <div class="noticia-card">
                                 <div class="noticia-fonte">📌 ${n.fonte}</div>
@@ -326,67 +362,70 @@
                     </div>
                 `;
             }
-            container.innerHTML = html;
+            return html;
         }
 
-        function carregarNoticias(fonte) {
+        function renderizarTodasPorData(noticias) {
+            if (!noticias || noticias.length === 0) {
+                return '<div class="loading">📭 Nenhuma notícia encontrada</div>';
+            }
+
+            const grupos = agruparPorData(noticias);
+            const datasOrdenadas = Object.keys(grupos).sort((a, b) => {
+                const [da, ma, aa] = a.split('/');
+                const [db, mb, ab] = b.split('/');
+                return new Date(ab, mb-1, db) - new Date(aa, ma-1, da);
+            });
+
+            let html = '';
+            for (const data of datasOrdenadas) {
+                const noticiasDoDia = grupos[data];
+                html += `
+                    <div class="date-group">
+                        <div class="date-title">📅 ${data} <span class="count">${noticiasDoDia.length}</span></div>
+                        ${noticiasDoDia.map(n => `
+                            <div class="noticia-card">
+                                <div class="noticia-fonte">📌 ${n.fonte}</div>
+                                <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
+                                <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            }
+            return html;
+        }
+
+        function atualizarUI() {
             const container = document.getElementById('noticias-container');
-            container.innerHTML = '<div class="loading"><div class="spinner"></div><p>Carregando...</p></div>';
-            
-            let noticiasFiltradas = [];
             const agoraSorocaba = new Date(new Date().getTime() - (3 * 60 * 60 * 1000));
             
-            if (fonte === 'ultimas') {
-                noticiasFiltradas = filtrarUltimasNoticias(dadosNoticias);
+            if (tipoAtual === 'ultimas') {
+                const ultimas = filtrarUltimasNoticias(dadosNoticias);
+                container.innerHTML = renderizarUltimasNoticias(ultimas);
+                
                 document.getElementById('stats').innerHTML = `
-                    <div class="stat-card">🕐 Últimos 30 min: ${noticiasFiltradas.length}</div>
+                    <div class="stat-card">🕐 Últimos 30 min: ${ultimas.length}</div>
                     <div class="stat-card">📰 Total: ${dadosNoticias.length}</div>
                     <div class="stat-card">📌 Portais: ${Object.keys(portaisAgrupados).length}</div>
                     <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
+                    <div class="stat-card">⏳ Próxima atualização: <span id="timer-contador">30:00</span></div>
                 `;
+                iniciarTimer();
             } else {
-                noticiasFiltradas = portaisAgrupados[fonte] || [];
+                container.innerHTML = renderizarTodasPorData(dadosNoticias);
+                
                 document.getElementById('stats').innerHTML = `
-                    <div class="stat-card">📌 ${fonte}: ${noticiasFiltradas.length}</div>
-                    <div class="stat-card">📰 Total: ${dadosNoticias.length}</div>
+                    <div class="stat-card">📅 Total de dias: ${Object.keys(agruparPorData(dadosNoticias)).length}</div>
+                    <div class="stat-card">📰 Total de notícias: ${dadosNoticias.length}</div>
+                    <div class="stat-card">📌 Portais: ${Object.keys(portaisAgrupados).length}</div>
                     <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
                 `;
+                if (timerAtualizacao) clearInterval(timerAtualizacao);
             }
-            
-            renderizarNoticias(noticiasFiltradas);
         }
 
         let portaisAgrupados = {};
-
-        function construirAbas() {
-            const tabsDiv = document.getElementById('tabs');
-            tabsDiv.innerHTML = '<button class="tab-btn active" data-fonte="ultimas">🕐 Últimos 30 min</button>';
-            
-            const portais = Object.keys(portaisAgrupados).sort();
-            portais.forEach(portal => {
-                const btn = document.createElement('button');
-                btn.className = 'tab-btn';
-                btn.dataset.fonte = portal;
-                btn.textContent = `${portal} (${portaisAgrupados[portal].length})`;
-                btn.onclick = () => {
-                    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    fonteAtual = portal;
-                    carregarNoticias(portal);
-                };
-                tabsDiv.appendChild(btn);
-            });
-            
-            const btnUltimas = tabsDiv.querySelector('[data-fonte="ultimas"]');
-            if (btnUltimas) {
-                btnUltimas.onclick = () => {
-                    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-                    btnUltimas.classList.add('active');
-                    fonteAtual = 'ultimas';
-                    carregarNoticias('ultimas');
-                };
-            }
-        }
 
         function processarDados(noticias) {
             noticias.sort((a, b) => new Date(b.data_coleta) - new Date(a.data_coleta));
@@ -399,8 +438,7 @@
                 portaisAgrupados[n.fonte].push(n);
             });
             
-            construirAbas();
-            carregarNoticias(fonteAtual);
+            atualizarUI();
         }
 
         function atualizarDados() {
@@ -411,12 +449,29 @@
                     processarDados(dadosNoticias);
                 })
                 .catch(() => {
-                    document.getElementById('noticias-container').innerHTML = '<div class="loading">❌ Erro ao carregar notícias. Aguarde o crawler rodar.</div>';
+                    document.getElementById('noticias-container').innerHTML = '<div class="loading">❌ Erro ao carregar notícias</div>';
                 });
         }
 
+        function initTabs() {
+            const tabs = document.querySelectorAll('.tab-btn');
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    const tipo = tab.dataset.tipo;
+                    tipoAtual = tipo;
+                    
+                    tabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    
+                    atualizarUI();
+                });
+            });
+        }
+
         atualizarDados();
-        setInterval(atualizarDados, 60000);
+        initTabs();
+        setInterval(atualizarDados, 30000);
     </script>
 </body>
 </html>
+

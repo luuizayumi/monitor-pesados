@@ -14,7 +14,7 @@
 
         body {
             font-family: 'Sora', 'Noto Sans', 'Tahoma', sans-serif;
-            background: #f5f5f5;
+            background: #f0f2f5;
             color: #1a1a1a;
         }
 
@@ -30,14 +30,11 @@
         .header {
             background: linear-gradient(135deg, var(--reliable-purple), var(--focused-violet));
             color: var(--white);
-            padding: 1.5rem 2rem;
-            position: sticky;
-            top: 0;
-            z-index: 100;
+            padding: 1.2rem 2rem;
         }
 
         .header h1 {
-            font-size: 1.8rem;
+            font-size: 1.5rem;
             font-weight: 700;
             display: flex;
             align-items: center;
@@ -46,30 +43,21 @@
 
         .header h1::before {
             content: "▶";
-            font-size: 1.2rem;
+            font-size: 1rem;
             color: var(--smart-red);
         }
 
         .header p {
             opacity: 0.85;
-            margin-top: 0.5rem;
-            font-size: 0.9rem;
+            margin-top: 0.3rem;
+            font-size: 0.8rem;
             font-weight: 300;
         }
 
-        .stats {
-            display: flex;
-            gap: 1rem;
-            margin-top: 1rem;
-            flex-wrap: wrap;
-        }
-
-        .stat-card {
-            background: rgba(255,255,255,0.12);
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-            font-size: 0.85rem;
-            font-weight: 400;
+        .fuso {
+            font-size: 0.7rem;
+            margin-top: 0.2rem;
+            opacity: 0.7;
         }
 
         .container {
@@ -78,6 +66,7 @@
             padding: 1.5rem;
         }
 
+        /* Abas */
         .tabs {
             display: flex;
             flex-wrap: wrap;
@@ -88,7 +77,7 @@
         }
 
         .tab-btn {
-            padding: 0.6rem 1.2rem;
+            padding: 0.5rem 1rem;
             border: none;
             background: transparent;
             border-radius: 8px 8px 0 0;
@@ -97,6 +86,7 @@
             font-family: 'Sora', sans-serif;
             transition: all 0.3s;
             color: var(--cool-gray);
+            font-size: 0.8rem;
         }
 
         .tab-btn:hover {
@@ -110,16 +100,18 @@
             border-bottom: 3px solid var(--smart-red);
         }
 
+        /* Grupos de data - ACORDEÃO */
         .date-group {
             margin-bottom: 1rem;
             border: 1px solid rgba(108, 117, 125, 0.2);
             border-radius: 12px;
             overflow: hidden;
+            background: white;
         }
 
         .date-title {
-            background: rgba(74, 44, 109, 0.08);
-            padding: 1rem 1.2rem;
+            background: rgba(74, 44, 109, 0.06);
+            padding: 0.8rem 1.2rem;
             font-weight: 600;
             color: var(--reliable-purple);
             cursor: pointer;
@@ -130,11 +122,11 @@
         }
 
         .date-title:hover {
-            background: rgba(74, 44, 109, 0.15);
+            background: rgba(74, 44, 109, 0.12);
         }
 
         .date-title .count {
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             background: var(--smart-red);
             color: white;
             padding: 0.2rem 0.6rem;
@@ -143,17 +135,19 @@
         }
 
         .date-title .arrow {
-            font-size: 0.8rem;
+            font-size: 0.7rem;
             transition: transform 0.2s;
+            color: var(--cool-gray);
         }
 
         .date-title .arrow.open {
             transform: rotate(90deg);
+            color: var(--smart-red);
         }
 
         .noticias-container-dia {
             display: none;
-            padding: 0.5rem 1rem 1rem 1rem;
+            padding: 1rem;
             background: white;
         }
 
@@ -161,19 +155,28 @@
             display: block;
         }
 
+        /* GRADE de notícias - 3 colunas */
+        .noticias-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+
         .noticia-card {
-            background: var(--white);
+            background: #fafafa;
             border-radius: 12px;
             padding: 1rem;
-            margin-bottom: 0.8rem;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
             transition: transform 0.2s, box-shadow 0.2s;
-            border-left: 4px solid var(--focused-violet);
+            border: 1px solid rgba(107, 63, 160, 0.15);
+            height: 100%;
+            display: flex;
+            flex-direction: column;
         }
 
         .noticia-card:hover {
-            transform: translateX(5px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+            border-color: var(--focused-violet);
         }
 
         .noticia-fonte {
@@ -181,21 +184,23 @@
             padding: 0.2rem 0.6rem;
             background: rgba(107, 63, 160, 0.1);
             border-radius: 20px;
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             font-weight: 600;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.7rem;
             color: var(--focused-violet);
+            align-self: flex-start;
         }
 
         .noticia-titulo {
-            font-size: 1rem;
+            font-size: 0.85rem;
             color: var(--black);
             text-decoration: none;
             display: block;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.7rem;
             font-weight: 500;
             line-height: 1.4;
             transition: color 0.2s;
+            flex: 1;
         }
 
         .noticia-titulo:hover {
@@ -204,8 +209,11 @@
         }
 
         .noticia-data {
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             color: var(--cool-gray);
+            border-top: 1px solid rgba(108, 117, 125, 0.15);
+            padding-top: 0.5rem;
+            margin-top: 0.2rem;
         }
 
         .loading {
@@ -231,18 +239,18 @@
 
         footer {
             text-align: center;
-            padding: 1.5rem;
+            padding: 1rem;
             color: var(--cool-gray);
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             border-top: 1px solid rgba(108, 117, 125, 0.2);
-            font-weight: 300;
         }
 
         @media (max-width: 768px) {
-            .header h1 { font-size: 1.2rem; }
-            .tab-btn { padding: 0.4rem 0.8rem; font-size: 0.7rem; }
+            .noticias-grid {
+                grid-template-columns: 1fr;
+            }
+            .tab-btn { padding: 0.3rem 0.6rem; font-size: 0.7rem; }
             .container { padding: 1rem; }
-            .date-title { font-size: 0.9rem; }
         }
     </style>
 </head>
@@ -250,15 +258,12 @@
     <div class="header">
         <h1>Monitor de Mercado Pesado</h1>
         <p>Brasil & América Latina - Notícias do setor de caminhões, ônibus e veículos pesados</p>
-        <p style="font-size: 0.7rem; margin-top: 0.2rem; opacity: 0.7;">📍 Fuso horário: Sorocaba/SP (GMT-3) | Pump Technology Solutions</p>
-        <div class="stats" id="stats">
-            <div class="stat-card">📊 Carregando...</div>
-        </div>
+        <div class="fuso">📍 Fuso horário: Sorocaba/SP (GMT-3) | Pump Technology Solutions</div>
     </div>
 
     <div class="container">
         <div class="tabs" id="tabs">
-            <!-- Abas serão geradas dinamicamente -->
+            <!-- Abas geradas dinamicamente -->
         </div>
         <div id="noticias-container">
             <div class="loading"><div class="spinner"></div><p>Carregando notícias...</p></div>
@@ -266,14 +271,12 @@
     </div>
 
     <footer>
-        🔄 Atualizado automaticamente a cada 30 minutos | 📊 Dados coletados via GitHub Actions
+        🔄 Atualizado automaticamente a cada 30 minutos | Dados coletados via GitHub Actions
     </footer>
 
     <script>
         let dadosNoticias = [];
         let tipoAtual = 'ultimas';
-        let timerAtualizacao = null;
-        let proximaAtualizacao = null;
         let portaisDisponiveis = [];
 
         function getSorocabaTime(dataISO) {
@@ -326,55 +329,33 @@
             });
         }
 
-        function atualizarTimerDisplay() {
-            if (!proximaAtualizacao) return;
-            const agora = new Date();
-            const diff = proximaAtualizacao - agora;
-            if (diff <= 0) {
-                atualizarDados();
-                return;
-            }
-            const minutos = Math.floor(diff / 60000);
-            const segundos = Math.floor((diff % 60000) / 1000);
-            const timerElement = document.getElementById('timer-contador');
-            if (timerElement) {
-                timerElement.textContent = `${minutos.toString().padStart(2, '0')}:${segundos.toString().padStart(2, '0')}`;
-            }
-        }
-
-        function iniciarTimer() {
-            if (timerAtualizacao) clearInterval(timerAtualizacao);
-            proximaAtualizacao = new Date(new Date().getTime() + 30 * 60 * 1000);
-            timerAtualizacao = setInterval(atualizarTimerDisplay, 1000);
-            atualizarTimerDisplay();
-        }
-
-        function renderizarUltimasNoticias(noticias) {
-            if (!noticias || noticias.length === 0) {
-                return '<div class="loading">📭 Nenhuma notícia nos últimos 30 minutos</div>';
-            }
+        function renderizarNoticiasEmGrade(noticias) {
+            if (!noticias || noticias.length === 0) return '<div class="loading">📭 Nenhuma notícia</div>';
+            
             return `
-                <div class="date-group">
-                    <div class="date-title">📅 Últimos 30 minutos</div>
-                    <div class="noticias-container-dia open">
-                        ${noticias.map(n => `
-                            <div class="noticia-card">
-                                <div class="noticia-fonte">📌 ${n.fonte}</div>
-                                <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
-                                <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
-                            </div>
-                        `).join('')}
-                    </div>
+                <div class="noticias-grid">
+                    ${noticias.map(n => `
+                        <div class="noticia-card">
+                            <span class="noticia-fonte">📌 ${n.fonte}</span>
+                            <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo.substring(0, 100)}${n.titulo.length > 100 ? '...' : ''}</a>
+                            <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
+                        </div>
+                    `).join('')}
                 </div>
             `;
         }
 
-        function renderizarPorData(noticias) {
-            if (!noticias || noticias.length === 0) {
+        function renderizarUltimasNoticias() {
+            const ultimas = filtrarUltimasNoticias(dadosNoticias);
+            return renderizarNoticiasEmGrade(ultimas);
+        }
+
+        function renderizarPorData() {
+            if (!dadosNoticias || dadosNoticias.length === 0) {
                 return '<div class="loading">📭 Nenhuma notícia encontrada</div>';
             }
 
-            const grupos = agruparPorData(noticias);
+            const grupos = agruparPorData(dadosNoticias);
             const datasOrdenadas = Object.keys(grupos).sort((a, b) => {
                 const [da, ma, aa] = a.split('/');
                 const [db, mb, ab] = b.split('/');
@@ -394,13 +375,15 @@
                             <span class="arrow">▶</span>
                         </div>
                         <div class="noticias-container-dia" id="${groupId}">
-                            ${noticiasDoDia.map(n => `
-                                <div class="noticia-card">
-                                    <div class="noticia-fonte">📌 ${n.fonte}</div>
-                                    <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
-                                    <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
-                                </div>
-                            `).join('')}
+                            <div class="noticias-grid">
+                                ${noticiasDoDia.map(n => `
+                                    <div class="noticia-card">
+                                        <span class="noticia-fonte">📌 ${n.fonte}</span>
+                                        <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo.substring(0, 100)}${n.titulo.length > 100 ? '...' : ''}</a>
+                                        <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
+                                    </div>
+                                `).join('')}
+                            </div>
                         </div>
                     </div>
                 `;
@@ -408,8 +391,9 @@
             return html;
         }
 
-        function renderizarPorPortal(portal, noticias) {
-            const noticiasFiltradas = noticias.filter(n => n.fonte === portal);
+        function renderizarPorPortal(portal) {
+            const noticiasFiltradas = dadosNoticias.filter(n => n.fonte === portal);
+            
             if (noticiasFiltradas.length === 0) {
                 return '<div class="loading">📭 Nenhuma notícia deste portal</div>';
             }
@@ -434,12 +418,14 @@
                             <span class="arrow">▶</span>
                         </div>
                         <div class="noticias-container-dia" id="${groupId}">
-                            ${noticiasDoDia.map(n => `
-                                <div class="noticia-card">
-                                    <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
-                                    <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
-                                </div>
-                            `).join('')}
+                            <div class="noticias-grid">
+                                ${noticiasDoDia.map(n => `
+                                    <div class="noticia-card">
+                                        <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo.substring(0, 100)}${n.titulo.length > 100 ? '...' : ''}</a>
+                                        <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
+                                    </div>
+                                `).join('')}
+                            </div>
                         </div>
                     </div>
                 `;
@@ -449,7 +435,9 @@
 
         window.toggleGrupo = function(groupId) {
             const container = document.getElementById(groupId);
-            const arrow = container.previousElementSibling.querySelector('.arrow');
+            const dateTitle = container.previousElementSibling;
+            const arrow = dateTitle.querySelector('.arrow');
+            
             if (container.classList.contains('open')) {
                 container.classList.remove('open');
                 arrow.classList.remove('open');
@@ -461,37 +449,21 @@
 
         function atualizarUI() {
             const container = document.getElementById('noticias-container');
-            const agoraSorocaba = new Date(new Date().getTime() - (3 * 60 * 60 * 1000));
             
             if (tipoAtual === 'ultimas') {
-                const ultimas = filtrarUltimasNoticias(dadosNoticias);
-                container.innerHTML = renderizarUltimasNoticias(ultimas);
-                document.getElementById('stats').innerHTML = `
-                    <div class="stat-card">🕐 Últimos 30 min: ${ultimas.length}</div>
-                    <div class="stat-card">📰 Total: ${dadosNoticias.length}</div>
-                    <div class="stat-card">📌 Portais: ${portaisDisponiveis.length}</div>
-                    <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
-                    <div class="stat-card">⏳ Próxima atualização: <span id="timer-contador">30:00</span></div>
-                `;
-                iniciarTimer();
+                container.innerHTML = renderizarUltimasNoticias();
             } else if (tipoAtual === 'datas') {
-                container.innerHTML = renderizarPorData(dadosNoticias);
-                document.getElementById('stats').innerHTML = `
-                    <div class="stat-card">📅 Total de dias: ${Object.keys(agruparPorData(dadosNoticias)).length}</div>
-                    <div class="stat-card">📰 Total de notícias: ${dadosNoticias.length}</div>
-                    <div class="stat-card">📌 Portais: ${portaisDisponiveis.length}</div>
-                    <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
-                `;
-                if (timerAtualizacao) clearInterval(timerAtualizacao);
+                container.innerHTML = renderizarPorData();
             } else {
-                container.innerHTML = renderizarPorPortal(tipoAtual, dadosNoticias);
-                const qtd = dadosNoticias.filter(n => n.fonte === tipoAtual).length;
-                document.getElementById('stats').innerHTML = `
-                    <div class="stat-card">📌 ${tipoAtual}: ${qtd}</div>
-                    <div class="stat-card">📰 Total geral: ${dadosNoticias.length}</div>
-                    <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
-                `;
-                if (timerAtualizacao) clearInterval(timerAtualizacao);
+                container.innerHTML = renderizarPorPortal(tipoAtual);
+            }
+            
+            // Abrir primeiro grupo por padrão
+            const primeirosGrupos = document.querySelectorAll('.noticias-container-dia');
+            if (primeirosGrupos.length > 0 && !primeirosGrupos[0].classList.contains('open')) {
+                primeirosGrupos[0].classList.add('open');
+                const arrow = primeirosGrupos[0].previousElementSibling.querySelector('.arrow');
+                if (arrow) arrow.classList.add('open');
             }
         }
 
@@ -504,7 +476,7 @@
             
             portaisDisponiveis.sort().forEach(portal => {
                 const qtd = dadosNoticias.filter(n => n.fonte === portal).length;
-                html += `<button class="tab-btn" data-tipo="${portal}">📌 ${portal} (${qtd})</button>`;
+                html += `<button class="tab-btn" data-tipo="${portal.replace(/"/g, '&quot;')}">📌 ${portal} (${qtd})</button>`;
             });
             
             tabsDiv.innerHTML = html;

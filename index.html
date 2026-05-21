@@ -111,33 +111,54 @@
         }
 
         .date-group {
-            margin-bottom: 1.5rem;
+            margin-bottom: 1rem;
+            border: 1px solid rgba(108, 117, 125, 0.2);
+            border-radius: 12px;
+            overflow: hidden;
         }
 
         .date-title {
-            background: rgba(74, 44, 109, 0.1);
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-            margin-bottom: 1rem;
+            background: rgba(74, 44, 109, 0.08);
+            padding: 1rem 1.2rem;
             font-weight: 600;
             color: var(--reliable-purple);
-            display: inline-block;
-            border-left: 3px solid var(--smart-red);
             cursor: pointer;
             transition: all 0.2s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         .date-title:hover {
-            background: rgba(74, 44, 109, 0.2);
+            background: rgba(74, 44, 109, 0.15);
         }
 
         .date-title .count {
-            font-size: 0.7rem;
+            font-size: 0.75rem;
             background: var(--smart-red);
             color: white;
-            padding: 0.1rem 0.5rem;
+            padding: 0.2rem 0.6rem;
             border-radius: 20px;
             margin-left: 0.5rem;
+        }
+
+        .date-title .arrow {
+            font-size: 0.8rem;
+            transition: transform 0.2s;
+        }
+
+        .date-title .arrow.open {
+            transform: rotate(90deg);
+        }
+
+        .noticias-container-dia {
+            display: none;
+            padding: 0.5rem 1rem 1rem 1rem;
+            background: white;
+        }
+
+        .noticias-container-dia.open {
+            display: block;
         }
 
         .noticia-card {
@@ -219,8 +240,9 @@
 
         @media (max-width: 768px) {
             .header h1 { font-size: 1.2rem; }
-            .tab-btn { padding: 0.4rem 0.8rem; font-size: 0.8rem; }
+            .tab-btn { padding: 0.4rem 0.8rem; font-size: 0.7rem; }
             .container { padding: 1rem; }
+            .date-title { font-size: 0.9rem; }
         }
     </style>
 </head>
@@ -236,8 +258,7 @@
 
     <div class="container">
         <div class="tabs" id="tabs">
-            <button class="tab-btn active" data-tipo="ultimas">🕐 Últimos 30 min</button>
-            <button class="tab-btn" data-tipo="datas">📅 Por Data</button>
+            <!-- Abas serão geradas dinamicamente -->
         </div>
         <div id="noticias-container">
             <div class="loading"><div class="spinner"></div><p>Carregando notícias...</p></div>
@@ -253,32 +274,20 @@
         let tipoAtual = 'ultimas';
         let timerAtualizacao = null;
         let proximaAtualizacao = null;
+        let portaisDisponiveis = [];
 
         function getSorocabaTime(dataISO) {
             const data = new Date(dataISO);
             return new Date(data.getTime() - (3 * 60 * 60 * 1000));
         }
 
-        function formatarDataHora(dataISO) {
+        function formatarDataExtenso(dataISO) {
             const data = getSorocabaTime(dataISO);
-            const agora = new Date();
-            const agoraSorocaba = new Date(agora.getTime() - (3 * 60 * 60 * 1000));
-            const diffHoras = (agoraSorocaba - data) / (1000 * 60 * 60);
-            
-            const dia = data.getDate().toString().padStart(2, '0');
-            const mes = (data.getMonth() + 1).toString().padStart(2, '0');
-            const ano = data.getFullYear();
-            const horas = data.getHours().toString().padStart(2, '0');
-            const minutos = data.getMinutes().toString().padStart(2, '0');
-            
-            if (diffHoras < 24) {
-                return `${dia}/${mes}/${ano} ${horas}:${minutos}`;
-            } else {
-                return `${dia}/${mes}/${ano}`;
-            }
+            const meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+            return `${data.getDate()} de ${meses[data.getMonth()]} de ${data.getFullYear()}`;
         }
 
-        function formatarData(dataISO) {
+        function formatarDataSimples(dataISO) {
             const data = getSorocabaTime(dataISO);
             const dia = data.getDate().toString().padStart(2, '0');
             const mes = (data.getMonth() + 1).toString().padStart(2, '0');
@@ -286,10 +295,20 @@
             return `${dia}/${mes}/${ano}`;
         }
 
+        function formatarDataHora(dataISO) {
+            const data = getSorocabaTime(dataISO);
+            const dia = data.getDate().toString().padStart(2, '0');
+            const mes = (data.getMonth() + 1).toString().padStart(2, '0');
+            const ano = data.getFullYear();
+            const horas = data.getHours().toString().padStart(2, '0');
+            const minutos = data.getMinutes().toString().padStart(2, '0');
+            return `${dia}/${mes}/${ano} ${horas}:${minutos}`;
+        }
+
         function agruparPorData(noticias) {
             const grupos = {};
             noticias.forEach(noticia => {
-                const chave = formatarData(noticia.data_coleta);
+                const chave = formatarDataSimples(noticia.data_coleta);
                 if (!grupos[chave]) {
                     grupos[chave] = [];
                 }
@@ -309,18 +328,14 @@
 
         function atualizarTimerDisplay() {
             if (!proximaAtualizacao) return;
-            
             const agora = new Date();
             const diff = proximaAtualizacao - agora;
-            
             if (diff <= 0) {
                 atualizarDados();
                 return;
             }
-            
             const minutos = Math.floor(diff / 60000);
             const segundos = Math.floor((diff % 60000) / 1000);
-            
             const timerElement = document.getElementById('timer-contador');
             if (timerElement) {
                 timerElement.textContent = `${minutos.toString().padStart(2, '0')}:${segundos.toString().padStart(2, '0')}`;
@@ -338,21 +353,11 @@
             if (!noticias || noticias.length === 0) {
                 return '<div class="loading">📭 Nenhuma notícia nos últimos 30 minutos</div>';
             }
-
-            const grupos = agruparPorData(noticias);
-            const datasOrdenadas = Object.keys(grupos).sort((a, b) => {
-                const [da, ma, aa] = a.split('/');
-                const [db, mb, ab] = b.split('/');
-                return new Date(ab, mb-1, db) - new Date(aa, ma-1, da);
-            });
-
-            let html = '';
-            for (const data of datasOrdenadas) {
-                const noticiasDoDia = grupos[data];
-                html += `
-                    <div class="date-group">
-                        <div class="date-title">📅 ${data} <span class="count">${noticiasDoDia.length}</span></div>
-                        ${noticiasDoDia.map(n => `
+            return `
+                <div class="date-group">
+                    <div class="date-title">📅 Últimos 30 minutos</div>
+                    <div class="noticias-container-dia open">
+                        ${noticias.map(n => `
                             <div class="noticia-card">
                                 <div class="noticia-fonte">📌 ${n.fonte}</div>
                                 <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
@@ -360,12 +365,11 @@
                             </div>
                         `).join('')}
                     </div>
-                `;
-            }
-            return html;
+                </div>
+            `;
         }
 
-        function renderizarTodasPorData(noticias) {
+        function renderizarPorData(noticias) {
             if (!noticias || noticias.length === 0) {
                 return '<div class="loading">📭 Nenhuma notícia encontrada</div>';
             }
@@ -378,23 +382,82 @@
             });
 
             let html = '';
-            for (const data of datasOrdenadas) {
-                const noticiasDoDia = grupos[data];
+            for (const dataSimples of datasOrdenadas) {
+                const noticiasDoDia = grupos[dataSimples];
+                const dataExtenso = formatarDataExtenso(noticiasDoDia[0].data_coleta);
+                const groupId = `grupo_${dataSimples.replace(/\//g, '_')}`;
+                
                 html += `
                     <div class="date-group">
-                        <div class="date-title">📅 ${data} <span class="count">${noticiasDoDia.length}</span></div>
-                        ${noticiasDoDia.map(n => `
-                            <div class="noticia-card">
-                                <div class="noticia-fonte">📌 ${n.fonte}</div>
-                                <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
-                                <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
-                            </div>
-                        `).join('')}
+                        <div class="date-title" onclick="toggleGrupo('${groupId}')">
+                            <span>📅 ${dataExtenso} <span class="count">${noticiasDoDia.length}</span></span>
+                            <span class="arrow">▶</span>
+                        </div>
+                        <div class="noticias-container-dia" id="${groupId}">
+                            ${noticiasDoDia.map(n => `
+                                <div class="noticia-card">
+                                    <div class="noticia-fonte">📌 ${n.fonte}</div>
+                                    <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
+                                    <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
+                                </div>
+                            `).join('')}
+                        </div>
                     </div>
                 `;
             }
             return html;
         }
+
+        function renderizarPorPortal(portal, noticias) {
+            const noticiasFiltradas = noticias.filter(n => n.fonte === portal);
+            if (noticiasFiltradas.length === 0) {
+                return '<div class="loading">📭 Nenhuma notícia deste portal</div>';
+            }
+            
+            const grupos = agruparPorData(noticiasFiltradas);
+            const datasOrdenadas = Object.keys(grupos).sort((a, b) => {
+                const [da, ma, aa] = a.split('/');
+                const [db, mb, ab] = b.split('/');
+                return new Date(ab, mb-1, db) - new Date(aa, ma-1, da);
+            });
+
+            let html = '';
+            for (const dataSimples of datasOrdenadas) {
+                const noticiasDoDia = grupos[dataSimples];
+                const dataExtenso = formatarDataExtenso(noticiasDoDia[0].data_coleta);
+                const groupId = `portal_${portal.replace(/\s/g, '_')}_${dataSimples.replace(/\//g, '_')}`;
+                
+                html += `
+                    <div class="date-group">
+                        <div class="date-title" onclick="toggleGrupo('${groupId}')">
+                            <span>📅 ${dataExtenso} <span class="count">${noticiasDoDia.length}</span></span>
+                            <span class="arrow">▶</span>
+                        </div>
+                        <div class="noticias-container-dia" id="${groupId}">
+                            ${noticiasDoDia.map(n => `
+                                <div class="noticia-card">
+                                    <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
+                                    <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            return html;
+        }
+
+        window.toggleGrupo = function(groupId) {
+            const container = document.getElementById(groupId);
+            const arrow = container.previousElementSibling.querySelector('.arrow');
+            if (container.classList.contains('open')) {
+                container.classList.remove('open');
+                arrow.classList.remove('open');
+            } else {
+                container.classList.add('open');
+                arrow.classList.add('open');
+            }
+        };
 
         function atualizarUI() {
             const container = document.getElementById('noticias-container');
@@ -403,41 +466,69 @@
             if (tipoAtual === 'ultimas') {
                 const ultimas = filtrarUltimasNoticias(dadosNoticias);
                 container.innerHTML = renderizarUltimasNoticias(ultimas);
-                
                 document.getElementById('stats').innerHTML = `
                     <div class="stat-card">🕐 Últimos 30 min: ${ultimas.length}</div>
                     <div class="stat-card">📰 Total: ${dadosNoticias.length}</div>
-                    <div class="stat-card">📌 Portais: ${Object.keys(portaisAgrupados).length}</div>
+                    <div class="stat-card">📌 Portais: ${portaisDisponiveis.length}</div>
                     <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
                     <div class="stat-card">⏳ Próxima atualização: <span id="timer-contador">30:00</span></div>
                 `;
                 iniciarTimer();
-            } else {
-                container.innerHTML = renderizarTodasPorData(dadosNoticias);
-                
+            } else if (tipoAtual === 'datas') {
+                container.innerHTML = renderizarPorData(dadosNoticias);
                 document.getElementById('stats').innerHTML = `
                     <div class="stat-card">📅 Total de dias: ${Object.keys(agruparPorData(dadosNoticias)).length}</div>
                     <div class="stat-card">📰 Total de notícias: ${dadosNoticias.length}</div>
-                    <div class="stat-card">📌 Portais: ${Object.keys(portaisAgrupados).length}</div>
+                    <div class="stat-card">📌 Portais: ${portaisDisponiveis.length}</div>
+                    <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
+                `;
+                if (timerAtualizacao) clearInterval(timerAtualizacao);
+            } else {
+                container.innerHTML = renderizarPorPortal(tipoAtual, dadosNoticias);
+                const qtd = dadosNoticias.filter(n => n.fonte === tipoAtual).length;
+                document.getElementById('stats').innerHTML = `
+                    <div class="stat-card">📌 ${tipoAtual}: ${qtd}</div>
+                    <div class="stat-card">📰 Total geral: ${dadosNoticias.length}</div>
                     <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
                 `;
                 if (timerAtualizacao) clearInterval(timerAtualizacao);
             }
         }
 
-        let portaisAgrupados = {};
+        function construirAbas() {
+            const tabsDiv = document.getElementById('tabs');
+            let html = `
+                <button class="tab-btn" data-tipo="ultimas">🕐 Últimos 30 min</button>
+                <button class="tab-btn" data-tipo="datas">📅 Por Data</button>
+            `;
+            
+            portaisDisponiveis.sort().forEach(portal => {
+                const qtd = dadosNoticias.filter(n => n.fonte === portal).length;
+                html += `<button class="tab-btn" data-tipo="${portal}">📌 ${portal} (${qtd})</button>`;
+            });
+            
+            tabsDiv.innerHTML = html;
+            
+            document.querySelectorAll('.tab-btn').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    tipoAtual = tab.dataset.tipo;
+                    document.querySelectorAll('.tab-btn').forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    atualizarUI();
+                });
+            });
+            
+            document.querySelector('.tab-btn').classList.add('active');
+        }
 
         function processarDados(noticias) {
             noticias.sort((a, b) => new Date(b.data_coleta) - new Date(a.data_coleta));
             
-            portaisAgrupados = {};
-            noticias.forEach(n => {
-                if (!portaisAgrupados[n.fonte]) {
-                    portaisAgrupados[n.fonte] = [];
-                }
-                portaisAgrupados[n.fonte].push(n);
-            });
+            const portaisSet = new Set();
+            noticias.forEach(n => portaisSet.add(n.fonte));
+            portaisDisponiveis = Array.from(portaisSet);
             
+            construirAbas();
             atualizarUI();
         }
 
@@ -453,25 +544,8 @@
                 });
         }
 
-        function initTabs() {
-            const tabs = document.querySelectorAll('.tab-btn');
-            tabs.forEach(tab => {
-                tab.addEventListener('click', () => {
-                    const tipo = tab.dataset.tipo;
-                    tipoAtual = tipo;
-                    
-                    tabs.forEach(t => t.classList.remove('active'));
-                    tab.classList.add('active');
-                    
-                    atualizarUI();
-                });
-            });
-        }
-
         atualizarDados();
-        initTabs();
-        setInterval(atualizarDados, 30000);
+        setInterval(atualizarDados, 60000);
     </script>
 </body>
 </html>
-

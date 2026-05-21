@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monitor Mercado Pesado - Sorocaba/SP</title>
+    <title>Evamo - Monitor de Mercado Pesado</title>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -12,14 +13,25 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #f0f2f5;
-            color: #333;
+            font-family: 'Sora', 'Noto Sans', 'Tahoma', sans-serif;
+            background: #f5f5f5;
+            color: #1a1a1a;
         }
 
+        /* Cores Evamo */
+        :root {
+            --reliable-purple: #4a2c6d;
+            --focused-violet: #6b3fa0;
+            --smart-red: #e63946;
+            --cool-gray: #6c757d;
+            --white: #ffffff;
+            --black: #1a1a1a;
+        }
+
+        /* Header */
         .header {
-            background: linear-gradient(135deg, #1a472a, #0d2818);
-            color: white;
+            background: linear-gradient(135deg, var(--reliable-purple), var(--focused-violet));
+            color: var(--white);
             padding: 1.5rem 2rem;
             position: sticky;
             top: 0;
@@ -28,15 +40,23 @@
 
         .header h1 {
             font-size: 1.8rem;
+            font-weight: 700;
             display: flex;
             align-items: center;
             gap: 0.5rem;
         }
 
+        .header h1::before {
+            content: "▶";
+            font-size: 1.2rem;
+            color: var(--smart-red);
+        }
+
         .header p {
-            opacity: 0.8;
+            opacity: 0.85;
             margin-top: 0.5rem;
             font-size: 0.9rem;
+            font-weight: 300;
         }
 
         .stats {
@@ -47,115 +67,126 @@
         }
 
         .stat-card {
-            background: rgba(255,255,255,0.1);
+            background: rgba(255,255,255,0.12);
             padding: 0.5rem 1rem;
             border-radius: 8px;
             font-size: 0.85rem;
+            font-weight: 400;
         }
 
+        /* Container */
         .container {
             max-width: 1400px;
             margin: 0 auto;
             padding: 1.5rem;
         }
 
+        /* Abas - Estilo Evamo */
         .tabs {
             display: flex;
             flex-wrap: wrap;
             gap: 0.5rem;
             margin-bottom: 1.5rem;
-            border-bottom: 2px solid #ddd;
+            border-bottom: 2px solid var(--cool-gray);
             padding-bottom: 0.5rem;
         }
 
         .tab-btn {
             padding: 0.6rem 1.2rem;
             border: none;
-            background: white;
+            background: transparent;
             border-radius: 8px 8px 0 0;
             cursor: pointer;
             font-weight: 500;
+            font-family: 'Sora', sans-serif;
             transition: all 0.3s;
-            color: #666;
+            color: var(--cool-gray);
         }
 
         .tab-btn:hover {
-            background: #e0e0e0;
+            background: rgba(74, 44, 109, 0.1);
+            color: var(--reliable-purple);
         }
 
         .tab-btn.active {
-            background: #1a472a;
-            color: white;
+            background: var(--reliable-purple);
+            color: var(--white);
+            border-bottom: 3px solid var(--smart-red);
         }
 
+        /* Grupos por data */
         .date-group {
             margin-bottom: 1.5rem;
         }
 
         .date-title {
-            background: #e0e0e0;
+            background: rgba(74, 44, 109, 0.1);
             padding: 0.5rem 1rem;
             border-radius: 8px;
             margin-bottom: 1rem;
-            font-weight: bold;
-            color: #1a472a;
+            font-weight: 600;
+            color: var(--reliable-purple);
             display: inline-block;
+            border-left: 3px solid var(--smart-red);
         }
 
+        /* Cards de notícia */
         .noticia-card {
-            background: white;
+            background: var(--white);
             border-radius: 12px;
             padding: 1rem;
             margin-bottom: 0.8rem;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
-            border-left: 4px solid #ff6b35;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            transition: transform 0.2s, box-shadow 0.2s;
+            border-left: 4px solid var(--focused-violet);
         }
 
         .noticia-card:hover {
             transform: translateX(5px);
-            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.12);
         }
 
         .noticia-fonte {
             display: inline-block;
             padding: 0.2rem 0.6rem;
-            background: #e0e0e0;
+            background: rgba(107, 63, 160, 0.1);
             border-radius: 20px;
             font-size: 0.7rem;
-            font-weight: bold;
+            font-weight: 600;
             margin-bottom: 0.5rem;
+            color: var(--focused-violet);
         }
 
         .noticia-titulo {
             font-size: 1rem;
-            color: #1a2e1a;
+            color: var(--black);
             text-decoration: none;
             display: block;
             margin-bottom: 0.5rem;
             font-weight: 500;
             line-height: 1.4;
+            transition: color 0.2s;
         }
 
         .noticia-titulo:hover {
-            color: #ff6b35;
+            color: var(--smart-red);
             text-decoration: underline;
         }
 
         .noticia-data {
             font-size: 0.7rem;
-            color: #999;
+            color: var(--cool-gray);
         }
 
         .loading {
             text-align: center;
             padding: 2rem;
-            color: #666;
+            color: var(--cool-gray);
         }
 
         .spinner {
-            border: 3px solid #f3f3f3;
-            border-top: 3px solid #ff6b35;
+            border: 3px solid rgba(74, 44, 109, 0.1);
+            border-top: 3px solid var(--smart-red);
             border-radius: 50%;
             width: 40px;
             height: 40px;
@@ -171,9 +202,10 @@
         footer {
             text-align: center;
             padding: 1.5rem;
-            color: #666;
-            font-size: 0.75rem;
-            border-top: 1px solid #ddd;
+            color: var(--cool-gray);
+            font-size: 0.7rem;
+            border-top: 1px solid rgba(108, 117, 125, 0.2);
+            font-weight: 300;
         }
 
         @media (max-width: 768px) {
@@ -185,9 +217,9 @@
 </head>
 <body>
     <div class="header">
-        <h1>🚛 Monitor de Mercado Pesado</h1>
+        <h1>Monitor de Mercado Pesado</h1>
         <p>Brasil & América Latina - Notícias do setor de caminhões, ônibus e veículos pesados</p>
-        <p style="font-size: 0.8rem; margin-top: 0.2rem;">📍 Fuso horário: Sorocaba/SP (GMT-3)</p>
+        <p style="font-size: 0.7rem; margin-top: 0.2rem; opacity: 0.7;">📍 Fuso horário: Sorocaba/SP (GMT-3) | Pump Technology Solutions</p>
         <div class="stats" id="stats">
             <div class="stat-card">📊 Carregando...</div>
         </div>
@@ -203,17 +235,15 @@
     </div>
 
     <footer>
-        🔄 Atualizado automaticamente | 📊 Dados coletados via GitHub Actions a cada 30 minutos
+        🔄 Atualizado automaticamente a cada 30 minutos | 📊 Dados coletados via GitHub Actions
     </footer>
 
     <script>
         let dadosNoticias = [];
         let fonteAtual = 'ultimas';
 
-        // Fuso horário de Sorocaba/SP (GMT-3)
         function getSorocabaTime(dataISO) {
             const data = new Date(dataISO);
-            // Ajusta para GMT-3 (Sorocaba/SP - horário de Brasília)
             return new Date(data.getTime() - (3 * 60 * 60 * 1000));
         }
 

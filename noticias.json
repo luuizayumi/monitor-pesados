@@ -1,5 +1,54 @@
 [
   {
+    "id": "22e6d6d4a85836a01e287ebae267e6e6",
+    "titulo": "MDIC ressalta importância do autônomo na renovação de frota, que deverá ser perene",
+    "link": "https://www.autodata.com.br/noticias/2026/05/20/mdic-ressalta-importancia-do-autonomo-na-renovacao-de-frota-que-devera-ser-perene/103796/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-21T23:04:00.004813"
+  },
+  {
+    "id": "c1816c983d24b220d3315906355b04c1",
+    "titulo": "Cenário de Frotas Sustentáveis 2026: Entre a instabilidade nos EUA e o caminho para o Brasil",
+    "link": "https://frotanews.com.br/frota-sustentavel-frotas-2026/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-21T23:04:03.049566"
+  },
+  {
+    "id": "6e1859ad286f791f7011f54e86527812",
+    "titulo": "MWM apresenta motor a biometano de 570 cv e entra no segmento de pesados a gás",
+    "link": "https://frotanews.com.br/frota-sustentavel-tupy-mwm/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-21T23:04:03.049578"
+  },
+  {
+    "id": "27a0d57e2eba567af15306f0d78f4b90",
+    "titulo": "Sula Miranda participa do 15º episódio do FrotaCast e defende mais oportunidades para mulheres no transporte",
+    "link": "https://frotanews.com.br/sula-miranda-participa-do-15o-episodio-do-frotacast-e-defende-mais-oportunidades-para-mulheres-no-transporte/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-21T23:04:03.049582"
+  },
+  {
+    "id": "198353f1925105b3fde679e2eec3f3d9",
+    "titulo": "Volvo expande Google Gemini para carros produzidos desde 2020",
+    "link": "https://frotanews.com.br/ultimas-noticias-roteiro-automotivo/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-21T23:04:03.049584"
+  },
+  {
+    "id": "e5371186502e19f6e6a806013f76de80",
+    "titulo": "2.Mercedes, Range Rover e Cadillac da Deolane apreendidos somam mais de R$ 5 milhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-range-rover-e-cadillac-da-deolane-apreendidos-somam-mais-de-r-5-milhoes/",
+    "fonte": "Estradão",
+    "data_coleta": "2026-05-21T23:04:04.371060"
+  },
+  {
+    "id": "be62dd2083b148d8924ba32d1a8e4f0d",
+    "titulo": "5.Donos de elétricos e híbridos que deixarem o carro estacionado após o fim da recarga serão multados",
+    "link": "https://www.estadao.com.br/jornal-do-carro/donos-de-eletricos-e-hibridos-que-deixarem-o-carro-estacionado-apos-o-fim-da-recarga-serao-multados/",
+    "fonte": "Estradão",
+    "data_coleta": "2026-05-21T23:04:04.371071"
+  },
+  {
     "id": "e6f4030fe00ac68018a518ef82604a0d",
     "titulo": "Voge inicia produção de motos na fábrica de Manaus",
     "link": "https://automotivebusiness.com.br/duas-rodas/voge-inicia-producao-de-motos-na-fabrica-de-manaus",

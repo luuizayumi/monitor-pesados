@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monitor Mercado Pesado</title>
+    <title>Monitor Mercado Pesado - Sorocaba/SP</title>
     <style>
         * {
             margin: 0;
@@ -17,7 +17,6 @@
             color: #333;
         }
 
-        /* Header */
         .header {
             background: linear-gradient(135deg, #1a472a, #0d2818);
             color: white;
@@ -54,7 +53,6 @@
             font-size: 0.85rem;
         }
 
-        /* Container e Abas */
         .container {
             max-width: 1400px;
             margin: 0 auto;
@@ -90,7 +88,6 @@
             color: white;
         }
 
-        /* Grupos de Data */
         .date-group {
             margin-bottom: 1.5rem;
         }
@@ -105,7 +102,6 @@
             display: inline-block;
         }
 
-        /* Cards de Notícia */
         .noticia-card {
             background: white;
             border-radius: 12px;
@@ -191,6 +187,7 @@
     <div class="header">
         <h1>🚛 Monitor de Mercado Pesado</h1>
         <p>Brasil & América Latina - Notícias do setor de caminhões, ônibus e veículos pesados</p>
+        <p style="font-size: 0.8rem; margin-top: 0.2rem;">📍 Fuso horário: Sorocaba/SP (GMT-3)</p>
         <div class="stats" id="stats">
             <div class="stat-card">📊 Carregando...</div>
         </div>
@@ -213,32 +210,44 @@
         let dadosNoticias = [];
         let fonteAtual = 'ultimas';
 
-        function formatarData(dataISO) {
+        // Fuso horário de Sorocaba/SP (GMT-3)
+        function getSorocabaTime(dataISO) {
             const data = new Date(dataISO);
-            const now = new Date();
-            const diffHoras = (now - data) / (1000 * 60 * 60);
+            // Ajusta para GMT-3 (Sorocaba/SP - horário de Brasília)
+            return new Date(data.getTime() - (3 * 60 * 60 * 1000));
+        }
+
+        function formatarDataHora(dataISO) {
+            const data = getSorocabaTime(dataISO);
+            const agora = new Date();
+            const agoraSorocaba = new Date(agora.getTime() - (3 * 60 * 60 * 1000));
+            const diffHoras = (agoraSorocaba - data) / (1000 * 60 * 60);
+            
+            const dia = data.getDate().toString().padStart(2, '0');
+            const mes = (data.getMonth() + 1).toString().padStart(2, '0');
+            const ano = data.getFullYear();
+            const horas = data.getHours().toString().padStart(2, '0');
+            const minutos = data.getMinutes().toString().padStart(2, '0');
             
             if (diffHoras < 24) {
-                return data.toLocaleString('pt-BR', { 
-                    hour: '2-digit', 
-                    minute: '2-digit',
-                    day: '2-digit',
-                    month: '2-digit'
-                });
+                return `${dia}/${mes}/${ano} ${horas}:${minutos}`;
             } else {
-                return data.toLocaleDateString('pt-BR', { 
-                    day: '2-digit', 
-                    month: '2-digit', 
-                    year: 'numeric' 
-                });
+                return `${dia}/${mes}/${ano}`;
             }
+        }
+
+        function formatarData(dataISO) {
+            const data = getSorocabaTime(dataISO);
+            const dia = data.getDate().toString().padStart(2, '0');
+            const mes = (data.getMonth() + 1).toString().padStart(2, '0');
+            const ano = data.getFullYear();
+            return `${dia}/${mes}/${ano}`;
         }
 
         function agruparPorData(noticias) {
             const grupos = {};
             noticias.forEach(noticia => {
-                const data = new Date(noticia.data_coleta);
-                const chave = data.toLocaleDateString('pt-BR');
+                const chave = formatarData(noticia.data_coleta);
                 if (!grupos[chave]) {
                     grupos[chave] = [];
                 }
@@ -248,9 +257,12 @@
         }
 
         function filtrarUltimasNoticias(noticias) {
-            const agora = new Date();
-            const limite = new Date(agora - 30 * 60 * 1000); // 30 minutos atrás
-            return noticias.filter(n => new Date(n.data_coleta) >= limite);
+            const agoraSorocaba = new Date(new Date().getTime() - (3 * 60 * 60 * 1000));
+            const limite = new Date(agoraSorocaba - 30 * 60 * 1000);
+            return noticias.filter(n => {
+                const dataNoticia = getSorocabaTime(n.data_coleta);
+                return dataNoticia >= limite;
+            });
         }
 
         function renderizarNoticias(noticias) {
@@ -278,7 +290,7 @@
                             <div class="noticia-card">
                                 <div class="noticia-fonte">📌 ${n.fonte}</div>
                                 <a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo}</a>
-                                <div class="noticia-data">🕐 ${formatarData(n.data_coleta)}</div>
+                                <div class="noticia-data">🕐 ${formatarDataHora(n.data_coleta)}</div>
                             </div>
                         `).join('')}
                     </div>
@@ -292,6 +304,7 @@
             container.innerHTML = '<div class="loading"><div class="spinner"></div><p>Carregando...</p></div>';
             
             let noticiasFiltradas = [];
+            const agoraSorocaba = new Date(new Date().getTime() - (3 * 60 * 60 * 1000));
             
             if (fonte === 'ultimas') {
                 noticiasFiltradas = filtrarUltimasNoticias(dadosNoticias);
@@ -299,14 +312,14 @@
                     <div class="stat-card">🕐 Últimos 30 min: ${noticiasFiltradas.length}</div>
                     <div class="stat-card">📰 Total: ${dadosNoticias.length}</div>
                     <div class="stat-card">📌 Portais: ${Object.keys(portaisAgrupados).length}</div>
-                    <div class="stat-card">🔄 Atualização: ${new Date().toLocaleTimeString()}</div>
+                    <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
                 `;
             } else {
                 noticiasFiltradas = portaisAgrupados[fonte] || [];
                 document.getElementById('stats').innerHTML = `
                     <div class="stat-card">📌 ${fonte}: ${noticiasFiltradas.length}</div>
-                    <div class="stat-card">📰 Total geral: ${dadosNoticias.length}</div>
-                    <div class="stat-card">🔄 Atualização: ${new Date().toLocaleTimeString()}</div>
+                    <div class="stat-card">📰 Total: ${dadosNoticias.length}</div>
+                    <div class="stat-card">🕒 ${agoraSorocaba.toLocaleTimeString('pt-BR')}</div>
                 `;
             }
             

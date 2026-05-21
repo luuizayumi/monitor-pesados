@@ -1,1 +1,32 @@
+name: Crawler Automático
 
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  crawler:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout do código
+      uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Executar crawler
+      run: python crawler_github.py
+    
+    - name: Commit e push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add noticias.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Atualização automática: $(date +'%Y-%m-%d %H:%M')"
+        git push

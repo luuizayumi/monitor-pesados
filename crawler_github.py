@@ -14,7 +14,7 @@ PORTAIS = [
     ("Automotive Business", "https://automotivebusiness.com.br/"),
     ("AutoData", "https://www.autodata.com.br/"),
     ("Frota News", "https://frotanews.com.br/"),
-    ("Estradão", "https://estradao.estadao.com.br/caminhoes/"),
+    ("Estradão - Jornal do Carro", "https://estradao.estadao.com.br/caminhoes/"),
     ("Quatro Rodas Mercado", "https://quatrorodas.abril.com.br/noticias/mercado/"),
     ("Truck & Bus", "https://truckebus.com.br/"),
     ("Balcão Automotivo", "https://www.balcaoautomotivo.com/"),

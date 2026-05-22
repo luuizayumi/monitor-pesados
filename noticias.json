@@ -1,5 +1,145 @@
 [
   {
+    "id": "21f546144a86a2baa2c041dc175528af",
+    "titulo": "ABVE reforça liderança do Latam Mobility e destaca eletrificação no transporte público",
+    "link": "https://abve.org.br/abve-reforca-protagonismo-no-latam-mobility-e-destaca-desafios-para-avanco-da-eletrificacao-no-transporte-publico/",
+    "fonte": "ABVE",
+    "data_coleta": "2026-05-22T17:02:03.679228"
+  },
+  {
+    "id": "67d2203a3f3e903a1fb8f02b570fcc33",
+    "titulo": "Mais de 60% dos brasileiros já compraram carro por financiamento",
+    "link": "https://automotivebusiness.com.br/mercado/mais-de-60-brasileiros-ja-compraram-carro-por-financiamento",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-05-22T17:02:04.182632"
+  },
+  {
+    "id": "7d8e3141f33acb6e24b9d01a535c97f3",
+    "titulo": "Ram 1500 Rumble Bee é a picape mais potente da história da marca",
+    "link": "https://automotivebusiness.com.br/lancamentos/ram-1500-rumble-bee-picape-mais-potente-historia",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-05-22T17:02:04.182651"
+  },
+  {
+    "id": "e6f4030fe00ac68018a518ef82604a0d",
+    "titulo": "Voge inicia produção de motos na fábrica de Manaus",
+    "link": "https://automotivebusiness.com.br/duas-rodas/voge-inicia-producao-de-motos-na-fabrica-de-manaus",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-05-22T17:02:04.182655"
+  },
+  {
+    "id": "c2f18f6f278541a1e292ca9bf78e726c",
+    "titulo": "Como as mulheres ganharam espaço no automobilismo",
+    "link": "https://automotivebusiness.com.br/videos/como-mulheres-ganharam-espaco-automobilismo-liderancas-diversas-podcast",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-05-22T17:02:04.182660"
+  },
+  {
+    "id": "79527e080802b70758c8e59a2558b161",
+    "titulo": "Com capacidade produtiva no teto em Piracicaba, para onde vai a Hyundai no Brasil?",
+    "link": "https://automotivebusiness.com.br/videos/capacidade-produtiva-piracicaba-para-onde-vai-a-hyundai-no-brasil",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-05-22T17:02:04.182663"
+  },
+  {
+    "id": "9d7b2c28ab97e766f4918da08489a1ce",
+    "titulo": "Transformando Informação em Conhecimento",
+    "link": "https://www.autodata.com.br/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-22T17:02:05.102563"
+  },
+  {
+    "id": "61d68e7ae1addec4976a8f8b07479d99",
+    "titulo": "VW Truck Rental supera 8 mil caminhões em operação após três anos",
+    "link": "https://www.autodata.com.br/news/2026/05/14/vw-truck-rental-supera-8-mil-caminhoes-em-operacao-apos-tres-anos/103570/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-22T17:02:05.102582"
+  },
+  {
+    "id": "71c4ecb0cc00f9aac87c6272f6414181",
+    "titulo": "Tukan estampado na tampa traseira exigiu esforços da Volkswagen",
+    "link": "https://www.autodata.com.br/noticias/2026/05/22/tukan-estampado-na-tampa-traseira-exigiu-esforcos-da-volkswagen/104259/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-22T17:02:05.102592"
+  },
+  {
+    "id": "9087b7ed389eb8f6e4622a03e1591301",
+    "titulo": "Rogério Sasaki é o novo diretor de produto da Hyundai América Central e do Sul",
+    "link": "https://www.autodata.com.br/noticias/2026/05/21/rogerio-sasaki-e-o-novo-diretor-de-produto-da-hyundai-america-central-e-do-sul/103864/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-05-22T17:02:05.102595"
+  },
+  {
+    "id": "8eaaf2c2a18fb0ffbfdfea6a31c01379",
+    "titulo": "Tata Motors avança para concluir compra do Iveco Group por R$ 22,8 bilhões",
+    "link": "https://frotanews.com.br/iveco-tata-motors/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-22T17:02:06.653126"
+  },
+  {
+    "id": "20cd918c90b2ef47558ebbad6da40ff5",
+    "titulo": "Tukan estreia com 76% de conteúdo nacional e plataforma exclusiva da Volkswagen",
+    "link": "https://frotanews.com.br/ultimas-noticias-picapes-tukan/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-22T17:02:06.653139"
+  },
+  {
+    "id": "b62f3868fbc44c2e3e8610539caf1323",
+    "titulo": "ACT Expo 2026 mostra freio na eletrificação pesada e retomada de investimentos em biodiesel e biometano",
+    "link": "https://frotanews.com.br/frota-sustentavel-act-expo-2026/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-22T17:02:06.653151"
+  },
+  {
+    "id": "ec463910332d51626caf020b103b2830",
+    "titulo": "2.GM fatura R$ 1,8 bi com Sonic em 14 dias; VW ganha quase o mesmo com Tera em menos de uma hora",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gm-fatura-r-18-bi-com-sonic-em-14-dias-vw-ganha-quase-o-mesmo-com-tera-em-menos-de-uma-hora/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-05-22T17:02:07.378581"
+  },
+  {
+    "id": "babe37136456b69bac0f66d971ef28e2",
+    "titulo": "BYD vê lucro cair 55% no primeiro trimestre, mas exportações batem novo recorde",
+    "link": "https://quatrorodas.abril.com.br/noticias/byd-queda-lucro-primeiro-trimestre-2026/",
+    "fonte": "Quatro Rodas Mercado",
+    "data_coleta": "2026-05-22T17:02:07.793780"
+  },
+  {
+    "id": "3651b56a19a2f82b7631192867482abb",
+    "titulo": "Hyundai aposta em nova linha de carros elétricos na China para competir com BYD",
+    "link": "https://quatrorodas.abril.com.br/noticias/hyundai-aposta-em-nova-linha-de-carros-eletricos-na-china-para-competir-com-byd/",
+    "fonte": "Quatro Rodas Mercado",
+    "data_coleta": "2026-05-22T17:02:07.793789"
+  },
+  {
+    "id": "01b0f4d2fd98a263a83af4fea5463915",
+    "titulo": "Fiat Strada lidera, VW Tera é 2º: os 50 carros mais vendidos em outubro",
+    "link": "https://quatrorodas.abril.com.br/noticias/50-carros-mais-vendidos-brasil-outubro-2025/",
+    "fonte": "Quatro Rodas Mercado",
+    "data_coleta": "2026-05-22T17:02:07.793799"
+  },
+  {
+    "id": "8a22767e8f77be1af8fb8be0e9a5c8ed",
+    "titulo": "BYD, Chevrolet e Renault têm os concessionários mais insatisfeitos, revela pesquisa",
+    "link": "https://quatrorodas.abril.com.br/noticias/byd-chevrolet-e-renault-tem-os-concessionarios-mais-insatisfeitos-revela-pesquisa/",
+    "fonte": "Quatro Rodas Mercado",
+    "data_coleta": "2026-05-22T17:02:07.793802"
+  },
+  {
+    "id": "584e5eb1373ec8742cb601e495249200",
+    "titulo": "Venda de leves cresce 3,5% na primeira quinzena de maio e 16,6% no acumulado do ano",
+    "link": "https://www.balcaoautomotivo.com/2026/05/22/venda-de-leves-cresce-35-na-primeira-quinzena-de-maio-e-166-no-acumulado-do-ano/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-05-22T17:02:09.302616"
+  },
+  {
+    "id": "e0daa3d0af95f5de65abe85c546e2dd1",
+    "titulo": "Aliança Aftermarket Automotivo detalha números do setor e pauta reuniões internacionais sobre Direito de Reparar",
+    "link": "https://www.balcaoautomotivo.com/2026/05/22/alianca-aftermarket-automotivo-detalha-numeros-do-setor-e-pauta-reunioes-internacionais-sobre-direito-de-reparar/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-05-22T17:02:09.302627"
+  },
+  {
     "id": "2988cd373e0a525195155c80fdd39902",
     "titulo": "China vende a produção de caminhões pesados de um ano do Brasil em apenas um mês: ranking das maiores fabricantes",
     "link": "https://frotanews.com.br/industria-automotiva-china-sinotruk/",

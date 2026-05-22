@@ -45,8 +45,46 @@ def extrair_links(html, base_url):
                 else:
                     link = base_url.rstrip('/') + '/' + link.lstrip('/')
             if not link.startswith(('javascript:', 'mailto:', '#')):
-                # Filtra por palavras-chave do setor pesado
-                if any(p in texto.lower() for p in ['caminhão', 'caminhao', 'ônibus', 'onibus', 'pesado', 'frota', 'carga', 'scania', 'volvo', 'mercedes', 'venda', 'mercado', 'veiculo', 'automotivo']):
+                # Filtra por palavras-chave do setor pesado (COMPLETO)
+                if any(p in texto.lower() for p in [
+                    # Categorias gerais
+                    'caminhão', 'caminhao', 'ônibus', 'onibus', 'pesado', 'pesados',
+                    'frota', 'carga', 'venda', 'mercado', 'veiculo', 'automotivo',
+                    
+                    # Marcas de caminhões (tradicionais)
+                    'volkswagen', 'vw', 'vwco', 'mercedes', 'mercedes-benz', 'mercedes benz',
+                    'volvo', 'scania', 'iveco', 'daf', 'man', 'foton', 'jac', 'ford', 
+                    'agrale', 'ram', 'hyundai',
+                    
+                    # Marcas de ônibus (tradicionais)
+                    'volksbus', 'marcopolo', 'busscar', 'caio', 'neobus', 'comil',
+                    
+                    # Termos do setor (tradicionais)
+                    'anfavea', 'fenabrave', 'emplacamentos', 'licenciamentos', 'renavam',
+                    
+                    # Marcas de caminhões elétricos
+                    'byd', 'e-delivery', 'edelivery', 'eactros', 'fm electric', 'e-transit',
+                    'etransit', 'e-daily', 'edaily', 'iev1200t', 'iev1800t', 'iblue',
+                    'eon etruck', 'xcmg', 'tevx', 'higer',
+                    
+                    # Marcas de ônibus elétricos
+                    'eletra', 'e-bus', 'ebus', 'eotro', 'd9w', 'd11a', 'attivi integral',
+                    'a12br', 'a18br', 'e500u', 'e-millennium', 'emillennium', 'e-volksbus',
+                    
+                    # Termos de eletrificação
+                    'caminhão elétrico', 'caminhao eletrico', 'ônibus elétrico',
+                    'onibus eletrico', 'veículo elétrico', 'veiculo eletrico',
+                    'mobilidade elétrica', 'mobilidade eletrica', 'frota elétrica',
+                    'frota eletrica', 'transição energética', 'bateria blade',
+                    'bateria de lítio', 'infraestrutura de recarga', 'recarga rápida',
+                    'emissão zero', 'zero emissão', 'carbono neutro', 'eletrificação',
+                    'eletrificacao', 'veículo elétrico pesado', 'veiculo eletrico pesado',
+                    
+                    # Termos específicos ônibus elétricos
+                    'ônibus elétrico urbano', 'onibus eletrico urbano',
+                    'ônibus elétrico articulado', 'onibus eletrico articulado',
+                    'troleybus', 'trolebus', 'eletrobus'
+                ]):
                     links.append((texto, link))
     return links
 

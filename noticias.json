@@ -1,5 +1,26 @@
 [
   {
+    "id": "a786eef321b8d8738d48a382c731111f",
+    "titulo": "1.GM fatura R$ 1,8 bi com Sonic em 14 dias; VW ganha quase o mesmo com Tera em menos de uma hora",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gm-fatura-r-18-bi-com-sonic-em-14-dias-vw-ganha-quase-o-mesmo-com-tera-em-menos-de-uma-hora/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-05-23T09:57:54.903189"
+  },
+  {
+    "id": "88db1dc909f3fcfc420b0edb614f9b4c",
+    "titulo": "2.De Volkswagen a Xiaomi: os carros que fizeram montadoras faturarem bilhões em minutos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/de-volkswagen-a-xiaomi-os-carros-que-fizeram-montadoras-faturarem-bilhoes-em-minutos/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-05-23T09:57:54.903205"
+  },
+  {
+    "id": "771ec9f213942eafb9248a47d28eab16",
+    "titulo": "4.Marcopolo entrega primeiros ônibus urbanos com dois eixos dianteiros direcionais",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/marcopolo-entrega-primeiros-onibus-urbanos-com-dois-eixos-dianteiros-direcionais/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-05-23T09:57:54.903209"
+  },
+  {
     "id": "a23cf1e527b4300271a1c1793f244f0f",
     "titulo": "4.Donos de elétricos e híbridos que deixarem o carro estacionado após o fim da recarga serão multados",
     "link": "https://www.estadao.com.br/jornal-do-carro/donos-de-eletricos-e-hibridos-que-deixarem-o-carro-estacionado-apos-o-fim-da-recarga-serao-multados/",

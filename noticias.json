@@ -1,5 +1,40 @@
 [
   {
+    "id": "2029d29e7835ba0143efe0bb551350ca",
+    "titulo": "Com investimento de R$ 10 milhões, Foton e Malabar ampliam presença em SP",
+    "link": "https://frotanews.com.br/foton-malabar-guarulhos/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-23T14:10:25.408365"
+  },
+  {
+    "id": "6c4813c44efaa89014138631301ff9c1",
+    "titulo": "3.BYD King é vendido com desconto de R$ 25 mil e fica mais barato que VW Virtus e Honda City",
+    "link": "https://www.estadao.com.br/jornal-do-carro/byd-king-e-vendido-com-desconto-de-r-25-mil-e-fica-mais-barato-que-vw-virtus-e-honda-city/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-05-23T14:10:25.897136"
+  },
+  {
+    "id": "e93115383a8d8668e4dde724a26b5c88",
+    "titulo": "5.De Volkswagen a Xiaomi: os carros que fizeram montadoras faturarem bilhões em minutos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/de-volkswagen-a-xiaomi-os-carros-que-fizeram-montadoras-faturarem-bilhoes-em-minutos/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-05-23T14:10:25.897148"
+  },
+  {
+    "id": "dcc08d2fbac7884d7915059b0e7dca9d",
+    "titulo": "Fatores que aceleram o desgaste e causam danos às pastilhas de freio do veículo",
+    "link": "https://www.balcaoautomotivo.com/2026/05/23/fatores-que-aceleram-o-desgaste-e-causam-danos-as-pastilhas-de-freio-do-veiculo/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-05-23T14:10:27.480854"
+  },
+  {
+    "id": "4c72ec9e1e31270ba21de48b6ed8e4c1",
+    "titulo": "SEG Automotive na Autopar 2026 reforça presença no mercado automotivo",
+    "link": "https://www.balcaoautomotivo.com/2026/05/22/seg-automotive-na-autopar-2026-reforca-presenca-no-mercado-automotivo/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-05-23T14:10:27.480873"
+  },
+  {
     "id": "f4640f3fe434670e3de3d5beffca7a2d",
     "titulo": "1.De Volkswagen a Xiaomi: os carros que fizeram montadoras faturarem bilhões em minutos",
     "link": "https://www.estadao.com.br/jornal-do-carro/de-volkswagen-a-xiaomi-os-carros-que-fizeram-montadoras-faturarem-bilhoes-em-minutos/",

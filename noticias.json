@@ -1,5 +1,75 @@
 [
   {
+    "id": "13413e792231f3ced1c2b342e393001c",
+    "titulo": "Implementos rodoviários",
+    "link": "https://frotanews.com.br/Categoria/veiculos/implementos-rodoviarios/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482617"
+  },
+  {
+    "id": "fb3521a5a29f44ec1490d38fcba17982",
+    "titulo": "Indústria chinesa de caminhões acelera avanço na América Latina com foco em produção local até 2030",
+    "link": "https://frotanews.com.br/industria-chinesa-america-latina/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482638"
+  },
+  {
+    "id": "18d404d33ec3ec981ae6a44a3588a1a2",
+    "titulo": "Ter uma usina de energia solar na empresa já é realidade para muitas transportadoras",
+    "link": "https://frotanews.com.br/usina-de-energia-solar-na-transportadora/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482641"
+  },
+  {
+    "id": "a8278c271e9a65fc26a0afe41c6bf9b8",
+    "titulo": "SCGÁS testa ônibus 100% a gás natural e mira expansão do transporte sustentável em SC",
+    "link": "https://frotanews.com.br/ultimas-noticias-frota-sustentavel-scgas/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482644"
+  },
+  {
+    "id": "42e669144a51d4afeb6da2ae036aafca",
+    "titulo": "Copersucar tira o biometano do discurso e quer 500 caminhões no projeto BioRota",
+    "link": "https://frotanews.com.br/frota-sustentavel-copersucar/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482647"
+  },
+  {
+    "id": "c94ee4abe679d92e561890f4a4efcd24",
+    "titulo": "Frota de Construção: Case dinamarquês mostra como eletrificar transporte de concreto é possível",
+    "link": "https://frotanews.com.br/frota-de-construcao-betoneiras/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482653"
+  },
+  {
+    "id": "0d38002e8392c3d4977de1844521008a",
+    "titulo": "Cedro testa caminhão 100% elétrico na mineração para a descarbonização da frota",
+    "link": "https://frotanews.com.br/caminhao-mineracao-teste-cedro/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482656"
+  },
+  {
+    "id": "b3013de7d51fa2b6c8966e97c91d87e4",
+    "titulo": "Andreani Logística celebra 80 años en Argentina y 25 en Brasil",
+    "link": "https://frotanews.com.br/andreani-logistica-celebra-80-anos-en-argentina-y-25-en-brasil/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482659"
+  },
+  {
+    "id": "e70461aa8bb2815123643e38160526e5",
+    "titulo": "Scania, Toyota e Yusen Logistics lideran la logística con el primer bitren de 9 ejes en Argentina",
+    "link": "https://frotanews.com.br/scania-toyota-e-yusen-logistics-lideran-la-logistica-con-el-primer-bitren-de-9-ejes-en-argentina/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-05-25T11:48:53.482661"
+  },
+  {
+    "id": "a41bacce56fceeb86678250b8d1b6885",
+    "titulo": "Produção de caminhões cai 17,2% no quadrimestre mesmo após incentivo do Move Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/producao-de-caminhoes-cai-172-no-quadrimestre-mesmo-apos-incentivo-do-move-brasil/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-05-25T11:48:54.201744"
+  },
+  {
     "id": "be1adf2f134a918894dee8452a831dc6",
     "titulo": "4.BYD King é vendido com desconto de R$ 25 mil e fica mais barato que VW Virtus e Honda City",
     "link": "https://www.estadao.com.br/jornal-do-carro/byd-king-e-vendido-com-desconto-de-r-25-mil-e-fica-mais-barato-que-vw-virtus-e-honda-city/",

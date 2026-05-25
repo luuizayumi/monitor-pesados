@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 import re
 
-print("🚛 INICIANDO CRAWLER...")
+print("🚛 INICIANDO CRAWLER (Filtro Contextual)...")
 
 # Lista dos portais especializados em mercado pesado
 PORTAIS = [
@@ -20,6 +20,48 @@ PORTAIS = [
     ("Balcão Automotivo", "https://www.balcaoautomotivo.com/"),
 ]
 
+# ✅ PALAVRAS QUE INDICAM VEÍCULOS PESADOS (pelo menos uma é obrigatória)
+PALAVRAS_PESADO = [
+    'caminhão', 'caminhao', 'caminhões', 'caminhoes',
+    'ônibus', 'onibus', 'pesado', 'pesados',
+    'frota', 'carga', 'logística', 'logistica',
+    'transportadora', 'entregas', 'distribuição', 'distribuicao',
+    'caminhoneiro', 'treminhão', 'bitrem', 'rodotrem',
+    'carreta', 'carretas', 'baú', 'baús', 'graneleiro',
+    'cavalo mecânico', 'cavalo mecanico', 'semirreboque',
+    'implemento rodoviário', 'implementos rodoviários',
+]
+
+# 🚫 PALAVRAS QUE BLOQUEIAM (se aparecer, a notícia é descartada)
+PALAVRAS_BLOQUEIO = [
+    # Carros e SUVs
+    'carro', 'carros', 'sedan', 'hatch', 'suv', 'pick-up', 'pickup', 'picape',
+    'esportivo', 'crossover', 'conversível', 'conversivel', 'cupê', 'coupe',
+    'hatchback', 'perua', 'station wagon', 'minivan', 'minivan',
+    'utilitário', 'utilitario', 'off-road', 'offroad',
+    
+    # Motos
+    'moto', 'motocicleta', 'motovelocidade', 'speed', 'motoqueiro',
+    'motogp', 'superbike', 'motocross', 'ciclomotor', 'scooter',
+    'motoneta', 'motard', 'custom', 'naked', 'trail', 'big trail',
+    
+    # Marcas que são predominantemente leves (bloqueio total)
+    'king', 'dolphin', 'seal', 'yuan plus', 'song', 'han', 'tang',  # BYD carros
+    'tera', 'gol', 'golf', 'polo', 'virtus', 'saveiro', 'fox', 'up',  # VW carros
+    'ka', 'fiesta', 'fusion', 'focus', 'ecosport',  # Ford carros
+    'mobi', 'argo', 'cronos', 'pulse', 'fastback',  # Fiat carros
+    'onix', 'prisma', 'cruze', 'spin', 'tracker',  # GM carros
+    'hb20', 'creta', 'santa fé', 'sonata', 'i30',  # Hyundai carros
+    'corolla', 'civic', 'city', 'fit', 'hr-v', 'cr-v',  # Honda/Toyota carros
+    
+    # Modelos de picapes leves (não pesadas)
+    'strada', 'toro', 'rampage', 'maui', 'montana', 'saveiro',
+    
+    # Termos de competição
+    'fórmula', 'formula', 'indy', 'stock car', 'automobilismo', 'piloto',
+    'grande prêmio', 'grande premio', 'gp', 'corrida', 'pista',
+]
+
 def buscar_pagina(url):
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
@@ -28,6 +70,22 @@ def buscar_pagina(url):
     except Exception as e:
         print(f"   Erro: {e}")
         return None
+
+def noticia_eh_pesada(texto):
+    """Verifica se a notícia é sobre veículos pesados"""
+    texto_lower = texto.lower()
+    
+    # 🚫 BLOQUEIO PRIORITÁRIO: se tem palavra de carro/moto, rejeita
+    for bloqueio in PALAVRAS_BLOQUEIO:
+        if bloqueio in texto_lower:
+            return False
+    
+    # ✅ REJEITA se NÃO tem NENHUMA palavra de pesado
+    for pesado in PALAVRAS_PESADO:
+        if pesado in texto_lower:
+            return True
+    
+    return False
 
 def extrair_links(html, base_url):
     links = []
@@ -45,46 +103,7 @@ def extrair_links(html, base_url):
                 else:
                     link = base_url.rstrip('/') + '/' + link.lstrip('/')
             if not link.startswith(('javascript:', 'mailto:', '#')):
-                # Filtra por palavras-chave do setor pesado (COMPLETO)
-                if any(p in texto.lower() for p in [
-                    # Categorias gerais
-                    'caminhão', 'caminhao', 'ônibus', 'onibus', 'pesado', 'pesados',
-                    'frota', 'carga', 'venda', 'mercado', 'veiculo', 'automotivo',
-                    
-                    # Marcas de caminhões (tradicionais)
-                    'volkswagen', 'vw', 'vwco', 'mercedes', 'mercedes-benz', 'mercedes benz',
-                    'volvo', 'scania', 'iveco', 'daf', 'man', 'foton', 'jac', 'ford', 
-                    'agrale', 'ram', 'hyundai',
-                    
-                    # Marcas de ônibus (tradicionais)
-                    'volksbus', 'marcopolo', 'busscar', 'caio', 'neobus', 'comil',
-                    
-                    # Termos do setor (tradicionais)
-                    'anfavea', 'fenabrave', 'emplacamentos', 'licenciamentos', 'renavam',
-                    
-                    # Marcas de caminhões elétricos
-                    'byd', 'e-delivery', 'edelivery', 'eactros', 'fm electric', 'e-transit',
-                    'etransit', 'e-daily', 'edaily', 'iev1200t', 'iev1800t', 'iblue',
-                    'eon etruck', 'xcmg', 'tevx', 'higer',
-                    
-                    # Marcas de ônibus elétricos
-                    'eletra', 'e-bus', 'ebus', 'eotro', 'd9w', 'd11a', 'attivi integral',
-                    'a12br', 'a18br', 'e500u', 'e-millennium', 'emillennium', 'e-volksbus',
-                    
-                    # Termos de eletrificação
-                    'caminhão elétrico', 'caminhao eletrico', 'ônibus elétrico',
-                    'onibus eletrico', 'veículo elétrico', 'veiculo eletrico',
-                    'mobilidade elétrica', 'mobilidade eletrica', 'frota elétrica',
-                    'frota eletrica', 'transição energética', 'bateria blade',
-                    'bateria de lítio', 'infraestrutura de recarga', 'recarga rápida',
-                    'emissão zero', 'zero emissão', 'carbono neutro', 'eletrificação',
-                    'eletrificacao', 'veículo elétrico pesado', 'veiculo eletrico pesado',
-                    
-                    # Termos específicos ônibus elétricos
-                    'ônibus elétrico urbano', 'onibus eletrico urbano',
-                    'ônibus elétrico articulado', 'onibus eletrico articulado',
-                    'troleybus', 'trolebus', 'eletrobus'
-                ]):
+                if noticia_eh_pesada(texto):
                     links.append((texto, link))
     return links
 
@@ -101,6 +120,9 @@ def salvar_noticias(noticias):
 # Executar
 print("=" * 50)
 print("🚛 MONITOR DE MERCADO PESADO")
+print("🎯 Filtro contextual: apenas veículos PESADOS")
+print("   (caminhões, ônibus, frotas, carga, logística)")
+print("🚫 Bloqueio: carros, SUVs, picapes leves, motos")
 print("=" * 50)
 
 todas_noticias = carregar_noticias_existentes()
@@ -113,7 +135,7 @@ for nome, url in PORTAIS:
     html = buscar_pagina(url)
     if html:
         links = extrair_links(html, url)
-        print(f"   ✅ {len(links)} links encontrados")
+        print(f"   ✅ {len(links)} notícias sobre veículos pesados")
         
         for titulo, link in links[:15]:
             id_hash = hashlib.md5(f"{titulo}{link}".encode()).hexdigest()
@@ -137,7 +159,7 @@ salvar_noticias(todas_noticias)
 print("\n" + "=" * 50)
 print("📊 RESULTADO FINAL")
 print("=" * 50)
-print(f"   ✨ Novas notícias: {len(novas_noticias)}")
+print(f"   ✨ Novas notícias sobre PESADOS: {len(novas_noticias)}")
 print(f"   📰 Total acumulado: {len(todas_noticias)}")
 print("=" * 50)
 print("✅ Finalizado!")

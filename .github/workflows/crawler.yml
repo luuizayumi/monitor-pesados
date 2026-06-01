@@ -12,18 +12,27 @@ jobs:
       contents: write
     
     steps:
-    - name: Checkout
+    - name: Checkout do código
       uses: actions/checkout@v4
+    
+    - name: Listar arquivos (debug)
+      run: ls -la
     
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
+    - name: Instalar dependências (se houver)
+      run: |
+        pip install --upgrade pip
+        # O crawler usa apenas bibliotecas padrão, mas vamos garantir
+        pip install requests beautifulsoup4 2>/dev/null || true
+    
     - name: Executar crawler
       run: python backend/crawler.py
     
-    - name: Commit e push
+    - name: Commit e push do noticias.json
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"

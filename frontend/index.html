@@ -1,1 +1,368 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evamo - Monitor Mercado Pesado</title>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Sora', sans-serif; background: #f0f2f5; color: #1a1a1a; }
+        :root {
+            --reliable-purple: #4a2c6d;
+            --focused-violet: #6b3fa0;
+            --smart-red: #e63946;
+            --cool-gray: #6c757d;
+            --electric-green: #00c853;
+            --sales-orange: #ff6d00;
+            --white: #ffffff;
+        }
+        .header { background: linear-gradient(135deg, var(--reliable-purple), var(--focused-violet)); color: var(--white); padding: 1rem 2rem; }
+        .header-container { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+        .logo { height: 70px; width: auto; background: white; border-radius: 12px; padding: 8px 15px; object-fit: contain; }
+        .header h1 { font-size: 1.3rem; font-weight: 700; margin: 0; }
+        .header h1::before { content: "▶"; font-size: 0.8rem; color: var(--smart-red); margin-right: 5px; }
+        .header p { opacity: 0.85; margin-top: 0.2rem; font-size: 0.7rem; font-weight: 300; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 1.5rem; }
+        .top-actions { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.5rem; }
+        .home-btn { background: var(--cool-gray); color: white; border: none; padding: 0.5rem 1rem; border-radius: 8px; cursor: pointer; font-family: 'Sora', sans-serif; font-weight: 500; transition: all 0.3s; }
+        .home-btn:hover { background: #5a6268; }
+        .categorias-abas { display: flex; flex-wrap: wrap; gap: 0.5rem; background: white; padding: 0.5rem; border-radius: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .categoria-btn { padding: 0.5rem 1rem; border: none; background: #f0f2f5; border-radius: 8px; cursor: pointer; font-family: 'Sora', sans-serif; font-weight: 500; transition: all 0.3s; color: var(--cool-gray); }
+        .categoria-btn:hover { background: var(--reliable-purple); color: white; }
+        .categoria-btn.active { background: var(--reliable-purple); color: white; }
+        .filtros-container { background: white; border-radius: 12px; padding: 1rem; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .filtros-row { display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-end; }
+        .filtro-group { display: flex; flex-direction: column; gap: 0.3rem; }
+        .filtro-group label { font-size: 0.7rem; font-weight: 600; color: var(--cool-gray); }
+        .filtro-group input, .filtro-group select { padding: 0.5rem; border: 1px solid #ddd; border-radius: 8px; font-family: 'Sora', sans-serif; }
+        .btn-primary { background: var(--reliable-purple); color: white; border: none; padding: 0.5rem 1rem; border-radius: 8px; cursor: pointer; font-family: 'Sora', sans-serif; font-weight: 500; transition: all 0.3s; }
+        .btn-primary:hover { background: var(--focused-violet); }
+        .btn-resumo, .btn-pdf { font-family: 'Sora', sans-serif; font-weight: 500; padding: 0.5rem 1rem; border-radius: 8px; cursor: pointer; border: none; transition: all 0.3s; }
+        .btn-resumo { background: var(--electric-green); color: white; }
+        .btn-resumo:hover { background: #00a844; }
+        .btn-pdf { background: var(--sales-orange); color: white; }
+        .btn-pdf:hover { background: #e06000; }
+        .stats { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.5rem; }
+        .stat-card { background: white; padding: 0.8rem 1.2rem; border-radius: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .stat-card .numero { font-size: 1.5rem; font-weight: 700; color: var(--reliable-purple); }
+        .stat-card .label { font-size: 0.7rem; color: var(--cool-gray); }
+        .tabs { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; border-bottom: 2px solid #ddd; padding-bottom: 0.5rem; }
+        .tab-btn { padding: 0.5rem 1rem; border: none; background: transparent; border-radius: 8px 8px 0 0; cursor: pointer; font-weight: 500; font-family: 'Sora', sans-serif; transition: all 0.3s; color: var(--cool-gray); font-size: 0.8rem; }
+        .tab-btn:hover { background: rgba(74, 44, 109, 0.1); color: var(--reliable-purple); }
+        .tab-btn.active { background: var(--reliable-purple); color: var(--white); border-bottom: 3px solid var(--smart-red); }
+        .noticias-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; }
+        .noticia-card { background: white; border-radius: 12px; padding: 1rem; transition: all 0.2s; border: 1px solid rgba(107, 63, 160, 0.12); height: 100%; display: flex; flex-direction: column; }
+        .noticia-card.destaque-eletrico { border-left: 4px solid var(--electric-green); background: #f0fff4; }
+        .noticia-card.destaque-vendas { border-left: 4px solid var(--sales-orange); background: #fff8f0; }
+        .noticia-card.destaque-ambos { border-left: 4px solid var(--smart-red); background: #fff0f0; }
+        .noticia-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); }
+        .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 20px; font-size: 0.6rem; font-weight: 600; margin-right: 0.3rem; margin-bottom: 0.5rem; }
+        .badge-eletrico { background: var(--electric-green); color: white; }
+        .badge-vendas { background: var(--sales-orange); color: white; }
+        .badge-ambos { background: var(--smart-red); color: white; }
+        .noticia-fonte { font-size: 0.65rem; color: var(--cool-gray); margin-bottom: 0.3rem; }
+        .noticia-montadora { font-size: 0.7rem; font-weight: 600; color: var(--focused-violet); margin-bottom: 0.5rem; }
+        .noticia-titulo { font-size: 0.85rem; color: var(--black); text-decoration: none; margin-bottom: 0.7rem; font-weight: 500; line-height: 1.4; flex: 1; }
+        .noticia-titulo:hover { color: var(--smart-red); text-decoration: underline; }
+        .temas { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-bottom: 0.5rem; }
+        .tema { background: #f0f0f0; padding: 0.15rem 0.5rem; border-radius: 12px; font-size: 0.6rem; color: var(--cool-gray); }
+        .noticia-data { font-size: 0.6rem; color: var(--cool-gray); border-top: 1px solid rgba(108,117,125,0.15); padding-top: 0.5rem; margin-top: 0.2rem; }
+        .loading { text-align: center; padding: 2rem; color: var(--cool-gray); }
+        .spinner { border: 3px solid rgba(74,44,109,0.1); border-top: 3px solid var(--smart-red); border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .footer-info { background: linear-gradient(135deg, #1a1a2e, #16213e); color: white; padding: 1.5rem 2rem; margin-top: 2rem; border-radius: 12px; }
+        .footer-info h3 { font-size: 1rem; margin-bottom: 1rem; color: var(--smart-red); }
+        .footer-info .info-grid { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: space-between; }
+        .footer-info .info-item { flex: 1; min-width: 200px; }
+        .footer-info .info-item .titulo { font-weight: 700; margin-bottom: 0.5rem; }
+        .footer-info .info-item .conteudo { font-size: 0.8rem; opacity: 0.9; }
+        .footer-info .legendas { display: flex; gap: 1rem; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.2); }
+        .footer-info .legenda { display: flex; align-items: center; gap: 0.5rem; font-size: 0.7rem; }
+        .footer-info .badge-verde { width: 20px; height: 10px; background: var(--electric-green); border-radius: 10px; }
+        .footer-info .badge-laranja { width: 20px; height: 10px; background: var(--sales-orange); border-radius: 10px; }
+        @media (max-width: 1200px) { .noticias-grid { grid-template-columns: repeat(3, 1fr); } }
+        @media (max-width: 900px) { .noticias-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 600px) { .noticias-grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-container">
+            <div>
+                <h1>Monitor de Mercado Pesado</h1>
+                <p>Monitoramento inteligente do setor de caminhões, ônibus e veículos pesados</p>
+            </div>
+        </div>
+    </div>
 
+    <div class="container">
+        <div class="top-actions">
+            <button class="home-btn" onclick="resetarHome()">🏠 Home</button>
+            <div class="categorias-abas">
+                <button class="categoria-btn active" data-categoria="todas" onclick="filtrarPorCategoria('todas')">📰 Todas</button>
+                <button class="categoria-btn" data-categoria="eletrico" onclick="filtrarPorCategoria('eletrico')">⚡ Eletrificação</button>
+                <button class="categoria-btn" data-categoria="vendas" onclick="filtrarPorCategoria('vendas')">📈 Vendas</button>
+            </div>
+        </div>
+
+        <div class="filtros-container">
+            <div class="filtros-row">
+                <div class="filtro-group">
+                    <label>📅 Data inicial</label>
+                    <input type="date" id="dataInicio">
+                </div>
+                <div class="filtro-group">
+                    <label>📅 Data final</label>
+                    <input type="date" id="dataFim">
+                </div>
+                <div class="filtro-group">
+                    <label>🏭 Montadora</label>
+                    <select id="filtroMontadora">
+                        <option value="">Todas</option>
+                    </select>
+                </div>
+                <div class="filtro-group">
+                    <label>⭐ Destaque</label>
+                    <select id="filtroDestaque">
+                        <option value="">Todos</option>
+                        <option value="eletrico">⚡ Eletrificação</option>
+                        <option value="vendas">📈 Vendas</option>
+                    </select>
+                </div>
+                <button class="btn-primary" onclick="aplicarFiltros()">🔍 Aplicar Filtros</button>
+                <button class="btn-resumo" onclick="gerarResumo()">🤖 Resumir Notícias</button>
+                <button class="btn-pdf" onclick="exportarPDF()">📄 Exportar PDF</button>
+            </div>
+        </div>
+
+        <div id="resumoPainel" class="resumo-painel" style="display: none;"></div>
+        <div class="stats" id="stats"></div>
+        <div class="tabs" id="tabs"></div>
+        <div id="noticias-container"><div class="loading"><div class="spinner"></div><p>Carregando notícias...</p></div></div>
+    </div>
+
+    <div class="footer-info">
+        <h3>📊 Sobre o Monitor</h3>
+        <div class="info-grid">
+            <div class="info-item">
+                <div class="titulo">🌎 Área de Cobertura</div>
+                <div class="conteudo">Brasil & América Latina<br>Foco: Vendas de caminhões e ônibus | Eletrificação de frotas</div>
+            </div>
+            <div class="info-item">
+                <div class="titulo">📍 Fuso Horário</div>
+                <div class="conteudo">Sorocaba/SP (GMT-3)</div>
+            </div>
+            <div class="info-item">
+                <div class="titulo">🔄 Atualização</div>
+                <div class="conteudo">A cada 30 minutos<br>via GitHub Actions</div>
+            </div>
+        </div>
+        <div class="legendas">
+            <div class="legenda"><div class="badge-verde"></div> Destaque em VERDE = Eletrificação</div>
+            <div class="legenda"><div class="badge-laranja"></div> Destaque em LARANJA = Vendas/Mercado</div>
+        </div>
+    </div>
+
+    <footer style="text-align: center; padding: 1rem; color: #6c757d; font-size: 0.65rem;">
+        🔄 Dados coletados de portais especializados + Google News | 🤖 Resumo inteligente
+    </footer>
+
+    <script>
+        let dadosNoticias = [];
+        let tipoAtual = 'todas';
+        let categoriaFiltro = 'todas';
+        let dataInicio = '';
+        let dataFim = '';
+        let filtroMontadora = '';
+        let filtroDestaque = '';
+
+        function classificarDestaque(noticia) {
+            const texto = (noticia.titulo + ' ' + noticia.temas.join(' ')).toLowerCase();
+            const isEletrico = texto.includes('elétrico') || texto.includes('eletrico') || texto.includes('bateria');
+            const isVendas = texto.includes('venda') || texto.includes('mercado') || texto.includes('ranking') || texto.includes('mil');
+            if (isEletrico && isVendas) return 'ambos';
+            if (isEletrico) return 'eletrico';
+            if (isVendas) return 'vendas';
+            return 'normal';
+        }
+
+        function filtrarPorCategoria(categoria) {
+            categoriaFiltro = categoria;
+            document.querySelectorAll('.categoria-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.dataset.categoria === categoria) btn.classList.add('active');
+            });
+            atualizarUI();
+        }
+
+        function resetarHome() {
+            document.getElementById('dataInicio').value = '';
+            document.getElementById('dataFim').value = '';
+            document.getElementById('filtroMontadora').value = '';
+            document.getElementById('filtroDestaque').value = '';
+            dataInicio = '';
+            dataFim = '';
+            filtroMontadora = '';
+            filtroDestaque = '';
+            tipoAtual = 'todas';
+            categoriaFiltro = 'todas';
+            
+            document.querySelectorAll('.categoria-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.dataset.categoria === 'todas') btn.classList.add('active');
+            });
+            
+            construirAbas();
+            atualizarUI();
+            document.getElementById('resumoPainel').style.display = 'none';
+        }
+
+        function aplicarFiltros() {
+            dataInicio = document.getElementById('dataInicio').value;
+            dataFim = document.getElementById('dataFim').value;
+            filtroMontadora = document.getElementById('filtroMontadora').value;
+            filtroDestaque = document.getElementById('filtroDestaque').value;
+            tipoAtual = 'todas';
+            atualizarUI();
+            construirAbas();
+        }
+
+        function filtrarNoticias() {
+            let noticias = [...dadosNoticias];
+            
+            if (dataInicio) {
+                const inicio = new Date(dataInicio);
+                inicio.setHours(0, 0, 0, 0);
+                noticias = noticias.filter(n => new Date(n.data_coleta) >= inicio);
+            }
+            if (dataFim) {
+                const fim = new Date(dataFim);
+                fim.setHours(23, 59, 59, 999);
+                noticias = noticias.filter(n => new Date(n.data_coleta) <= fim);
+            }
+            if (filtroMontadora && filtroMontadora !== '') {
+                noticias = noticias.filter(n => n.montadora === filtroMontadora);
+            }
+            
+            if (categoriaFiltro === 'eletrico') {
+                noticias = noticias.filter(n => classificarDestaque(n) === 'eletrico' || classificarDestaque(n) === 'ambos');
+            } else if (categoriaFiltro === 'vendas') {
+                noticias = noticias.filter(n => classificarDestaque(n) === 'vendas' || classificarDestaque(n) === 'ambos');
+            }
+            
+            if (filtroDestaque === 'eletrico') {
+                noticias = noticias.filter(n => classificarDestaque(n) === 'eletrico' || classificarDestaque(n) === 'ambos');
+            } else if (filtroDestaque === 'vendas') {
+                noticias = noticias.filter(n => classificarDestaque(n) === 'vendas' || classificarDestaque(n) === 'ambos');
+            }
+            
+            return noticias;
+        }
+
+        function atualizarUI() {
+            let noticiasFiltradas = filtrarNoticias();
+            if (tipoAtual !== 'todas') {
+                noticiasFiltradas = noticiasFiltradas.filter(n => n.montadora === tipoAtual);
+            }
+            renderizarNoticias(noticiasFiltradas);
+            renderizarStats();
+        }
+
+        function renderizarStats() {
+            const noticiasFiltradas = filtrarNoticias();
+            const eletricas = noticiasFiltradas.filter(n => classificarDestaque(n) === 'eletrico' || classificarDestaque(n) === 'ambos').length;
+            const vendas = noticiasFiltradas.filter(n => classificarDestaque(n) === 'vendas' || classificarDestaque(n) === 'ambos').length;
+            const montadoras = [...new Set(dadosNoticias.map(n => n.montadora))];
+            document.getElementById('stats').innerHTML = `
+                <div class="stat-card"><div class="numero">${dadosNoticias.length}</div><div class="label">Total</div></div>
+                <div class="stat-card"><div class="numero">${noticiasFiltradas.length}</div><div class="label">No filtro</div></div>
+                <div class="stat-card"><div class="numero">⚡ ${eletricas}</div><div class="label">Eletrificação</div></div>
+                <div class="stat-card"><div class="numero">📈 ${vendas}</div><div class="label">Vendas</div></div>
+                <div class="stat-card"><div class="numero">${montadoras.length}</div><div class="label">Montadoras</div></div>
+            `;
+        }
+
+        function renderizarNoticias(noticias) {
+            const container = document.getElementById('noticias-container');
+            if (noticias.length === 0) {
+                container.innerHTML = '<div class="loading">📭 Nenhuma notícia</div>';
+                return;
+            }
+            container.innerHTML = `<div class="noticias-grid">${noticias.map(n => {
+                const destaque = classificarDestaque(n);
+                let badgeHtml = '', classeDestaque = '';
+                if (destaque === 'eletrico') {
+                    badgeHtml = '<span class="badge badge-eletrico">⚡ ELÉTRICO</span>';
+                    classeDestaque = 'destaque-eletrico';
+                } else if (destaque === 'vendas') {
+                    badgeHtml = '<span class="badge badge-vendas">📈 VENDAS</span>';
+                    classeDestaque = 'destaque-vendas';
+                } else if (destaque === 'ambos') {
+                    badgeHtml = '<span class="badge badge-ambos">⚡📈 AMBOS</span>';
+                    classeDestaque = 'destaque-ambos';
+                }
+                return `<div class="noticia-card ${classeDestaque}">${badgeHtml}<div class="noticia-fonte">📌 ${n.fonte}</div><div class="noticia-montadora">🏭 ${n.montadora}</div><a href="${n.link}" target="_blank" class="noticia-titulo">${n.titulo.length > 100 ? n.titulo.substring(0, 100) + '...' : n.titulo}</a><div class="temas">${n.temas.map(t => `<span class="tema">${t}</span>`).join('')}</div><div class="noticia-data">🕐 ${new Date(n.data_coleta).toLocaleString('pt-BR')}</div></div>`;
+            }).join('')}</div>`;
+        }
+
+        function gerarResumo() {
+            const noticiasFiltradas = filtrarNoticias();
+            const noticiasVendas = noticiasFiltradas.filter(n => classificarDestaque(n) === 'vendas' || classificarDestaque(n) === 'ambos');
+            const todasFontes = [...new Set(noticiasFiltradas.map(n => n.fonte))];
+            let fontesHtml = '<div class="resumo-fontes"><strong>📚 Fontes consultadas:</strong><ul>';
+            todasFontes.forEach(fonte => { fontesHtml += `<li>📌 ${fonte}</li>`; });
+            fontesHtml += '</ul></div>';
+            let linksHtml = '<div class="resumo-fontes"><strong>🔗 Links das notícias mencionadas:</strong><ol>';
+            noticiasFiltradas.slice(0, 10).forEach((n, idx) => { linksHtml += `<li><a href="${n.link}" target="_blank">${n.titulo.substring(0, 80)}...</a> - ${n.fonte}</li>`; });
+            linksHtml += '</ol></div>';
+            const resumoHtml = `<div class="resumo-titulo">🤖 Resumo Inteligente (${noticiasFiltradas.length} notícias)</div><div class="resumo-itens"><div class="resumo-item"><div class="categoria">📈 Principais notícias sobre VENDAS/MERCADO</div><div class="lista">${noticiasVendas.slice(0, 5).map((n, i) => `${i+1}. ${n.titulo.substring(0, 80)}...`).join('<br>') || 'Nenhuma notícia'}</div></div></div>${fontesHtml}${linksHtml}`;
+            document.getElementById('resumoPainel').innerHTML = resumoHtml;
+            document.getElementById('resumoPainel').style.display = 'block';
+        }
+
+        function exportarPDF() {
+            const noticiasFiltradas = filtrarNoticias();
+            const element = document.createElement('div');
+            element.innerHTML = `<div style="padding: 20px;"><h1>Monitor Mercado Pesado</h1><p>Relatório - ${new Date().toLocaleString('pt-BR')}</p><hr>${noticiasFiltradas.map(n => `<p><strong>${n.titulo}</strong><br>Fonte: ${n.fonte}<br>Link: ${n.link}</p>`).join('')}</div>`;
+            html2pdf().from(element).save();
+        }
+
+        function construirAbas() {
+            const montadoras = [...new Set(dadosNoticias.map(n => n.montadora))].sort();
+            let html = `<button class="tab-btn ${tipoAtual === 'todas' ? 'active' : ''}" onclick="mudarAba('todas')">📰 Todas</button>`;
+            montadoras.forEach(m => {
+                html += `<button class="tab-btn ${tipoAtual === m ? 'active' : ''}" onclick="mudarAba('${m}')">🏭 ${m}</button>`;
+            });
+            document.getElementById('tabs').innerHTML = html;
+            const select = document.getElementById('filtroMontadora');
+            select.innerHTML = '<option value="">Todas</option>';
+            montadoras.forEach(m => {
+                select.innerHTML += `<option value="${m}">${m}</option>`;
+            });
+        }
+
+        function mudarAba(tipo) {
+            tipoAtual = tipo;
+            construirAbas();
+            atualizarUI();
+        }
+
+        function carregarDados() {
+            fetch('noticias.json')
+                .then(r => r.json())
+                .then(dados => {
+                    dadosNoticias = dados;
+                    construirAbas();
+                    atualizarUI();
+                })
+                .catch(() => {
+                    document.getElementById('noticias-container').innerHTML = '<div class="loading">❌ Erro ao carregar notícias</div>';
+                });
+        }
+
+        carregarDados();
+    </script>
+</body>
+</html>

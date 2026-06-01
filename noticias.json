@@ -1,5 +1,253 @@
 [
   {
+    "id": "917a42c8f781c3502e4f741aeacb12a8",
+    "titulo": "Maio é o melhor mês do ano em vendas de veículosEmplacamentos cresceram 21,5% na comparação anual e 10,5% sobre abril, segundo dados do RenavamLEIA MAIS",
+    "link": "https://www.autodata.com.br/noticias/2026/06/01/maio-e-o-melhor-mes-do-ano-em-vendas-de-veiculos/105014/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-01T19:56:22.365859"
+  },
+  {
+    "id": "78ef78d103452f68429c93c7c8c887af",
+    "titulo": "GM decide manter os preços promocionais de lançamento do Sonic",
+    "link": "https://www.autodata.com.br/noticias/2026/05/29/gm-decide-manter-os-precos-promocionais-de-lancamento-do-sonic/104706/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-01T19:56:22.365876"
+  },
+  {
+    "id": "2aeb138b887a5370ad7f84d111c68c14",
+    "titulo": "Volvo Financial Services anuncia Ruy Meirelles como novo presidente na América Latina",
+    "link": "https://www.autodata.com.br/noticias/2026/06/01/volvo-financial-services-anuncia-ruy-meirelles-como-novo-presidente-na-america-latina/104948/",
+    "fonte": "AutoData",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-01T19:56:22.365892"
+  },
+  {
+    "id": "7ab02085d9f683fcaa033c37b2218f86",
+    "titulo": "Roubos de motocicletas caem 21% e Honda CG 160 lidera ranking",
+    "link": "https://www.autodata.com.br/noticias/2026/06/01/roubos-de-motocicletas-caem-21-e-honda-cg-160-lidera-ranking/104969/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-01T19:56:22.365895"
+  },
+  {
+    "id": "af53178a73429d24d9cdb53c0fd34d69",
+    "titulo": "Ruy Meirelles assume presidência da Volvo Financial Services na América Latina a partir de 1º de agosto",
+    "link": "https://frotanews.com.br/carreira-grupo-volvo-meirelles/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-01T19:56:23.793604"
+  },
+  {
+    "id": "81f56367e58f8cf6ad3a7036773cf747",
+    "titulo": "ZF foi reconhecida com prêmio de qualidade da DAF",
+    "link": "https://www.balcaoautomotivo.com/2026/06/01/zf-foi-reconhecida-com-premio-de-qualidade-da-daf/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-01T19:56:30.329450"
+  },
+  {
+    "id": "17b95dca4322e02fa705b067ad304f7b",
+    "titulo": "Saiba como limpar o radiador do caminhão e evitar paradas nas estradas",
+    "link": "https://www.balcaoautomotivo.com/2026/06/01/saiba-como-limpar-o-radiador-do-caminhao-e-evitar-paradas-nas-estradas/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-01T19:56:30.329469"
+  },
+  {
+    "id": "2e44b6cf597e32e62dd2a1912617aedb",
+    "titulo": "Venda de carros novos em 2026 atinge maior nível desde 2013 - Tribuna do Sertão",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE9GRVFQcG5aNW00a2dxbGtVdVluaEU3SFNEVmU4czFwYUMxTWhCdjNaZVZKZFZoQlhfQkNBZ19hMjdPQzRvTmE0TzdsSlE2S2dtbmxzWUpTMjRqVndLMDVoR0FmazFDNXNIWmxZYlRHbko3WndaWWtpOEdqLVdad1VibjdkbFFjUEZZTDhteVR1THpJWDRYVjhuUDBWSGRnczk4a1h2eG1MUnhSeWRmcnNRbjVGQ3h1aUE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-05T07:00:00+00:00"
+  },
+  {
+    "id": "09b5d4992bdaaebe4b3093b228d95864",
+    "titulo": "Os 50 carros mais vendidos em abril de 2026 - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMWE4UkR6V1VJakk0NGdDVGlYYTNja1dGbHFyVHNIVTNwck1FaHVMSzM2UEp5Zkk0X19HRzVvUGpwRWVEWlNvNUpPMTV0RFQzV3N5Zm1BOWE0UUVJXzNtdlhnOHpxd2RXVEtudThya092dksyWWh4MUxneGJkLS1lMHFubw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-09T07:00:00+00:00"
+  },
+  {
+    "id": "3bce718cbf5364ccc0751a3ffec8dfa4",
+    "titulo": "Venda de carros novos no país em 2026 atinge maior patamar desde 2013 - Tribuna do Norte Apucarana - tribunadonorte.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkxzaHlNT2pmcUwyb2NpQzItNVRGdnYxMklEcGNET3p1NGo0ZFBDZXVzQUJITUNWVmJtZFczSzN5RzE2QkFmNEJBeGYwNVoybnlHR2EwUFJ0NHBJeS12TlVqSm5BLXE1V3pGakViZ2dDZDVxOFJpRXlhbEtqOHlGSHByaGhnRVNWS2lNazBqZVAxaDVmUUxDcHY2RzFXRURyZER2M2VoaGE3TkVoMWJUV0JuZ9IBuwFBVV95cUxPNm03ck1xb0tISks2M08yZUhxemRFdFU3aTRLak80ODByUWpoNUxsVW04a2p3SlRxWllvb21KTVptVERxcWFTemI4UksyaEtJUEU1MFluS2lnM282cHRHMVpzcUJCV1Z5cWtidE9tQlFRaE11QUJVTlZyOW1LZUNYWFNoRzljRlJBWlluQ1dpR0NLVFZJZXVtR0tzdGpTc3UxZlJkRFA3QS1ULUtlRmxDNTU0OWRJRGpNeHRZ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-05T20:42:00+00:00"
+  },
+  {
+    "id": "71c7779ddcc31238a19fc051eb297130",
+    "titulo": "São Paulo lidera buscas por passagens de ônibus no Brasil para feriado de Corpus Christi 2026 - Mercado e Eventos",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ2ZsdXJIbmxvT0VZWkFUMkVWOFRkaG1acFhGN19FRDFoVDZPd3VOdW4wUGhIVjZzaUhuR1B0b2dlT0NxMTh6aGpJaEhJN1dmSWlBTDdoSUNPTHp2R1hXYkM5dG9QUEl0NVZfaVFXQVljTDYxa0VNakpYdFhQZWppWDB1clBnY2M3YmpCcjVEZUMwdnNfTkpaSk14SmpKUi1RWmxQVWZyQllCcjBuamppdEkzSFVHSFVQNmM0U0xBRkhoWGg5d3dNa3VhR1VET3VQVlVpdWltUm4weWpIN0tNWk5BckFXTms?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-05-29T15:16:56+00:00"
+  },
+  {
+    "id": "2b64177aa3bbcbdef91ae04547d9630c",
+    "titulo": "Ônibus no Rio: cartão Jaé vai passar a ser vendido em banca de jornal - VEJA RIO",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfUUpXSGpQOF95Wm9vS1NqWXAwUXNTTU9yNEJmVXpoZE9VV3BqTGplM3Azdlk5bnI5LUxINHZMNTdCSU5STFNES2RneUw1TjMtaE5vaHJZcGFYUUpka3lGeTJGa1ZjaDlqX3prRA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-19T07:00:00+00:00"
+  },
+  {
+    "id": "0dc0442db0b945350e73338e9b4a9097",
+    "titulo": "Venda de carros elétricos dispara no Brasil e bate recorde - A Crítica de Campo Grande",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUJYcWNWMWhaY2RVRXBLZnp1NldyNGpqenJ0VHB2UGlmS1NGNFY3emJ6LUROb0l0OExhVjZLZjdMOFZXWWRyNU1RbWgzUU1QRmtHTTZSN3J2TUlSTUxIVktpY3RsVGc2VF9XMklPb3Q0N2QwUmNiaGdlYVNjZW91UUpRSmJ3bnFNSUtKNkhBUGd5ZHRDMVE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-05-17T07:00:00+00:00"
+  },
+  {
+    "id": "b5fb1eaecd5739b5d4d0c3545dd33ac2",
+    "titulo": "GAC Aion UT: novo rival do BYD Dolphin entra em pré-venda - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODJWa3BxSUVmQ1diMGxOUU9namY1YXV6ME02U3BuSTJqczVoTENmVVpZM1FFaUJ3OVBGVkt1S19kMVoweXJqVkd6RXRGcktMT0drcUcwVGpNcWtvbzBKZHVsSkNQLVpmU1JYVE96WVQ2QXNDSHFrTE5udURaQjRwRWkwQTZ4VHhnandrSUtKb0Z4SVR2OUZBa3FOLURXU25kd19mWHR0Q1laOWM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-27T22:53:25+00:00"
+  },
+  {
+    "id": "a44701457ff43554fe2779c983ddd6ea",
+    "titulo": "Os carros mais vendidos no varejo no 1º quadrimestre de 2026; BYD Dolphin Mini lidera e deixa Creta para trás - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjlDcDZLcXRfdU1DdG1vRDk0RlFIYnlxQzRRa2RjdW1Nc0FWa2U3OFVITGtrOXRKUkpvQVZvSkVXSG1RMG1DMTFiQmxycTBfWHlfTG5NUDY5SUtJbV9NbHJOSVlKT1NvaDIzb19QQ1JhU1FkV0l6c1QxRlNNSnFudWluVW1KQTEwRm9pQ0k0NG9JQUZYazJranh4ajgzMEdCLWfSAacBQVVfeXFMTWR6NmNIQ2hNN213SlhKTnJYWm5JQkRyajRvUkFTb1kwc28xUEM4eHVLUDFWYlZTbnBrSlhIQlc1UnE2dmVtRHRBa3Jwam9CYnBBZC1BUG5aSmNMVXpCN1VtZTVHRkJCRUs1S0FNQ1JoZEx1dVBiRDVKWk1ncnVnR0dqUGhlQmNuM1J3cWFpMXk4aGZMU0ZhMEk2U3AxbXdjdWdkMklhSVk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-19T07:00:00+00:00"
+  },
+  {
+    "id": "87eb3856c32840b358674a68b43eb32b",
+    "titulo": "BYD King supera Toyota Corolla e lidera vendas no varejo pela primeira vez - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1dVR0Jablh5YThhMlBDWGp0bzRDVHVmdTRBMmNmcTdhU1owT3R5ZUk0OW9nMjljYzVodENpZlFmX09GTU1zMS1STnVvYUo0RE95dTBuLVZPRkZ5OUt2RU1BYjdpSDd0WjUtNlQ2RzJSZUpYd2NSMG5iY3lNeDR4N3Q5X0otdnJFa0FlSG5IM1BZT3hHM29VTTlhbVNzQUtSbzhRSERtcElMVU5kRF9nT09fbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-08T07:00:00+00:00"
+  },
+  {
+    "id": "d311ff57cd07e47299bbe2e573081f17",
+    "titulo": "BYD Song Pro é oferecido para CNPJ com R$ 30 mil de desconto em maio de 2026 - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3RhcnRIWEV6TU9IS0hFX2ZsdFlmcUd1Y3JlOEZrMk1JSUNETXJWa21ubWZuRWFzTXpiNmJYMkprNXNXVTExM1dXclNBVk1vQkNfOEptbFh3LXFTa1FZNkR0NmtlOXV3N3Q4ZjREWmk5RHp4cEU5b05hN0QtUW1KUUhqZ07SAYoBQVVfeXFMUDlfbHc2YWdfeGVaRzR0NjRja1VQMWNpQU1XY1ZDMjAyVm13UFduNWI0STZQNVE5bS01cFpvWnI4WUVCUUY1NlNHam80SzFvSy1hQlNZc1oyLWtqNW1ad3M5S3RfbWFSd18xSTZIWGtXaTc0cDllV3NVQU9nVDhudzgyZ2xjc1h0bnd3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-22T07:00:00+00:00"
+  },
+  {
+    "id": "8f579dab32471b3370645db5faf27f25",
+    "titulo": "Geely EX2 dispara em abril, cresce 211% e supera vendas do 1º trimestre somado – Fipe Carros - Portal N10",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1RRMlJ0eHNXcTRBeXRjZjRjQzZUeHJPTDhYaXlGMDBEY2hSZzdTcE9GNGticlF5ZDhXMWVnUWNYS0hoMmJnTVpublpJT3VyREFxZnQzZ2IxenBZWC0zUkt0YnJ2cVIxM0NCclE0NTJJc0Q2R2RhcDFWSGk0ZEttS3BJbURHWnRlZ0ZUWDUyQnp5bXpEUDduZDFIT3JsWkhkZDRzVVNXU01ZQXlveWJQTDdpQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-04T07:00:00+00:00"
+  },
+  {
+    "id": "014a8d5a63902015a75345005fd0afa4",
+    "titulo": "Checagem de fatos: Mercedes-Benz fechou fábrica de carros no Brasil em 2020; nova unidade na Argentina produz caminhões - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUc2cDRNRVloYW9nOVBOeENlUmotLVlSd0Q1VGF1Z21zT1paa2dKZzkxZThMeC16eEVsNDl2blVaQUhnY3h3YlJZNmUwdmlTX1BxYi0xd01LLU1UZHRqcndGVUpBeXpYd0hxTi1RbWJEelp4V3VnUFQySUwyZmQ0eU1ySEdNaDlHa21z?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-27T20:50:22+00:00"
+  },
+  {
+    "id": "f81b7cb1ab9735d5ffa42fdb4025b50c",
+    "titulo": "Venda de carros novos atinge maior patamar desde 2013 no Brasil - CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSExVYzRVSjk5VWl6YXdwNUJKZ2paczBoRkkxNDZab3VON29rdTBxcmVOVDhiNG5fZHBtQ1F3NERNTUdkN0dzOGtqTlhEaW9qdVo1Sm5tc3dTQ3h1NGxNaE4wenBXRnNrQUdpaEt0WFlyOHptRF9vdzZXSUMteWpQSUx1MF9OTXczTVZBNlZWQm90bGF2WmNSaFZWUlhUUW1YSUttaGpuUjU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-05T07:00:00+00:00"
+  },
+  {
     "id": "f80b8a5f0c08dc1f71bf2a87d70a7ba5",
     "titulo": "Hot Wheels Monster Trucks Live™ supera 200 mil ingressos vendidos no país - Portal ABC do ABC",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LVkN3dVlZSG5iRGp5U2x0eFdLMm5QeDVvS2FwRS1vSDdvZFNJTFl2U2U0dlZSS3F4dDNqN1BzX21uVGRWaDF1M0tYQ0Y1MnI3MzdXc0FvV0w0c1JackxFMzNFdzB3QW5OMUJ2UnVVZW5XWUI0OVNz?oc=5",

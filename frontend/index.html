@@ -350,7 +350,7 @@
         }
 
         function carregarDados() {
-            fetch('noticias.json')
+            fetch('https://raw.githubusercontent.com/luuizayumi/monitor-pesados/main/noticias.json')
                 .then(r => r.json())
                 .then(dados => {
                     dadosNoticias = dados;

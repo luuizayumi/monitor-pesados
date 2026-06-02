@@ -1,5 +1,69 @@
 [
   {
+    "id": "768fc98fd097b151c3e648628e66c507",
+    "titulo": "Ruy Meirelles é o novo presidente da Volvo Financial Services",
+    "link": "https://automotivebusiness.com.br/carreira/ruy-meirelles-e-o-novo-presidente-da-volvo-financial-services-na-america-latina",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-02T00:16:21.679306"
+  },
+  {
+    "id": "fcc12787f27dd2d2e7a548f371ba4ebb",
+    "titulo": "Scania investe € 70 milhões para acelerar produção de elétricos - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd052cjJnazNWYW83eVg2dWpQZjZNajQxYkpuZU01dUU4QW5WVks2ZHR4RTg4VUxFNFYzTV9qcnhoNUN3Tk16NzJMNHVHV1Y0SnRINDhjOTQ4d2VtNnpnXzlaLURXNUNEazgtSFRmRnlhTHhPMkpRZEh2LTV6UmVYQzhkUkt4Q2ppdDJfcDRXVXdzMklSQVh0aU1tTDBac1Q1MjFMblRDMllWZkFhTC1nZHJn0gGyAUFVX3lxTE13TnZyMmdrM1Zhbzd5WDZ1alBmNk1qNDFiSm5lTTV1RThBblZWSzZkdHhFODhVTEU0VjNNX2pyeGg1Q3dOTXo3Mkw0dUdXVjRKdEg0OGM5NDh3ZW02emdfOVotRFc1Q0RrOC1IVGZGeWFMeE8ySlFkSHYtNXpSZVhDOGRSS3hDaml0Ml9wNFdVd3MySVJBWHRpTW1MMFpzVDUyMUxuVEMyWVZmQWFMLWdkcmc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-01T19:06:00+00:00"
+  },
+  {
+    "id": "b556fb4422e43a0db888ec8a14c741d3",
+    "titulo": "BYD supera Volkswagen e alcança liderança em vendas no varejo no Brasil - Autoesporte",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYlJGM0tWVWt6SWJjQ0FKQUZoQU9fZ3JJdGN3N3cyZXNHUkZ2eFVyQ1ZQTDYxcS1FNU9YTEVITW81OUx2WHdPYVlibkNmeHZjbnFia3FzSnNfRl9vZHF3SWUyYm1qX2ZjT2VBcDJ2anpsZk1zS0llOHVYRFpIZFF1OGZTSXo0MURJYmYzWUdRRVBERlJ5VXpaX3llLWZTN1VucXJoam1mdmpHcTBPeDJWa0ZlTHJOMC1UMnkzQUEySjdvdVJ6VUJYaklPVkNzcmdsUUU0dmFINzV0dENoTjY3NVJB0gHwAUFVX3lxTE5INms1Q1ZIUkMzdXJ6ZjJJZjRPVDZJOFpHLVQxRnNWSDg2czJyWEFuYy1ycmZIYVgyU29WcmtRa2xTYXY5MW15LVNaalA0Sjl2c2pwMldpTVN1bmNfejdaNnpMMFNVM282U2dkNTktRWdGMGd1ODBMZGctLXVaQVQ2MkNlTVNiSFk5NFRKWkZDSGlSYk80M3JZdFJBdENOSHI5N0cweGw0M3lIWHUyRnJQWjVoYjNackxqRzNBRjJiaG9FSEVjbjN3TWhCUG12ODFndUZoaElvMDdXblpSdzlRaUFKMkU1eDBOMjVHUWJoOQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-04T07:00:00+00:00"
+  },
+  {
+    "id": "65b181be6e91a94e4361d1deef7637f3",
+    "titulo": "BYD Dolphin Mini encosta no Onix e supera Tera nas vendas de maio; veja ranking - AUTOO",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUloRk5ZVjVlWWtoSDdPd2MxMHZVM05HZmVKQlF6akstT01JUzFQNjlyWVQxRFlGVV9icGwxMzZFVDNqWjM4d3VPQzB1Q2F6YmtEVk9YVE55Sk5jbFkzbFphT2ROMnZqV3gxX19KMGd2ZGVSMGFqSEswQlBVVC11endudnlYeVFITmViSjhsclRhdjNnQVNURGE3WFFuNW03bGpxZGxHTQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-01T19:31:00+00:00"
+  },
+  {
+    "id": "20452892c81973fb2c4648070a07fe47",
+    "titulo": "BYD Dolphin Mini lidera vendas de elétricos e supera rivais tradicionais – Fipe Carros - Portal N10",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFUyRDRqOXFSSXFVenpyY1dpUGJCbVctejEwTmh0Mm12UVhMZGY2dDlwbno0eVYtc29RSlp0UFAxTEx2SktkYTdvNW1jMmEtRU96QnJ3V3F2M2lLazlZUFpyb1J0NFhjandVOGZmLVYybWpTdkRNZF90TkRVeTBlUU9wanRMYm53NEtSZ0RqX3dVRWVkQmdaOS13WUZtZVhkZTF4NUdMZFBUeVlDYW51Zk9yUmdzN0I5TVE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-05-04T07:00:00+00:00"
+  },
+  {
     "id": "bb2c905fd205464ea1f2f4489ce5ff38",
     "titulo": "Volvo anuncia primeira mulher presidente na América Latina: Silvia Gerber",
     "link": "https://frotanews.com.br/carreira-volvo/",

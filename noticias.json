@@ -1,5 +1,141 @@
 [
   {
+    "id": "a596b472a5bb0fc95b72cdfa06e7babc",
+    "titulo": "Maio é o melhor mês do ano em vendas de veículos",
+    "link": "https://www.autodata.com.br/noticias/2026/06/01/maio-e-o-melhor-mes-do-ano-em-vendas-de-veiculos/105014/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T21:33:21.702103"
+  },
+  {
+    "id": "ed6fc4322288ff220c0593cef4bd748d",
+    "titulo": "Venda de veículos usados cresce 8% de janeiro a maio",
+    "link": "https://www.autodata.com.br/noticias/2026/06/02/venda-de-veiculos-usados-cresce-8-de-janeiro-a-maio/105294/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T21:33:21.702130"
+  },
+  {
+    "id": "7a4c1c1b100f29c31408f4def5d0a966",
+    "titulo": "Desafio Zero Acidentes: transportadoras brasileiras avançam na gestão da segurança com apoio da Volvo",
+    "link": "https://frotanews.com.br/desafio-zero-acidentes-volvo/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-02T21:33:23.814015"
+  },
+  {
+    "id": "af5bbfa552b830ebbfbdc68ee86c5f3c",
+    "titulo": "Caminhão comum e de corrida: o que muda entre estradas e pistas hoje?",
+    "link": "https://www.balcaoautomotivo.com/2026/06/02/caminhao-comum-e-de-corrida-o-que-muda-entre-estradas-e-pistas-hoje/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-02T21:33:31.443291"
+  },
+  {
+    "id": "08b6094f7862335e0b3325769bebd068",
+    "titulo": "Ranking de carros mais vendidos em maio de 2026 no dia 29 - motorvicio.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzd2S19CLTJ5WV95MkY4RzBUcVc0ZU4xXzNkNEJJMDhIaFhZZzUyLVlyWmExTGEyYV85NFlwWjZIUVZXNVotOFlZQURZTTJkSFFRbnhiM1lTSkFXOFducnBXYzBkcnc5R0tZRm41eHZjeGFTWTdzcl90d2p4ZzlkYzlITXVkZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-30T12:44:00+00:00"
+  },
+  {
+    "id": "ec586dd8340590771c65054a6f0ecfbe",
+    "titulo": "Os 160 carros mais vendidos do Brasil em abril de 2026 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WemVlVEhlc1NlWXYyLW1UbzBqS25NU0w0NUZqajlYRnhuR016UG5LY1dyY0VFVmVlWDg3Vzc2NFRYWnpYeW9vSjNXVWVKbTNIVkxlbFR0R3ZIa2xLbExndVVFQlcyeVpxMHBYeTMzVjI2Uzd0cjYyUnMwbXUxQ3c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-05T07:00:00+00:00"
+  },
+  {
+    "id": "fa10e0b15bdfe13429778696606c828e",
+    "titulo": "Maio é o melhor mês do ano em vendas de veículos - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelNFbUpQaVNxNjVzQlBMc1FMU3c2ZXpIOGREZzFmT0E2TWtsVTR6eXc2ZnlwWklDYVdlOXJEbEdwa0c3RFV1NENrVUozd2lkWFVTRE41S2k5eEJjNXpyTEdFeEpvWWx3VkI5MUJVbXVqTGZhTjNwSHJfaXR2WUtFSzEzMXFrLWowc1QxbE1nTG84X082U1AzYkNSZHBpNFZneWliZjFGaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-01T19:42:17+00:00"
+  },
+  {
+    "id": "70b6fa676adcc3e5a8bcd14bc07d07c3",
+    "titulo": "Vendas de veículos sobem 19%, com melhor abril em 12 anos, diz Fenabrave - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUk9tcGZMa2VueTNqMk0xTENZMS1uRldsRWJIMXF5OVhlUlZEQ04tUXFnU2tKbDgtWm9OX1NXX1lKNjRNbzRlSUJ4aV9RVmJHY0VtRklrSkJjUExMVVZRUkQ4enJGS19Ma0w1NUtaVk9fa3NvMFcxaXZpU3MtWFp2Zk1qMmFsYmU2MGg0MDZPTE10bXNvQmhKc3UzRmVLYlNreGp3RE96a1Qwb2tUbFVaY3J3MGNOd2lGR2VOeFNLQVdLQW55SUdqRVZkSm96UVk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-05T07:00:00+00:00"
+  },
+  {
+    "id": "32d890ba78f6db9af38bc2680a6ac383",
+    "titulo": "Mais vendidos de abril tem Strada líder e Dolphin Mini em sétimo | Diário do Grande ABC - Notícias e informações - Diário do Grande ABC",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmYySkxqcUpKRk5UVEM1dnF3Mlk0VW9uaVBnS3RhZ2lPSWQ0c010RjhPLW5PNjNUWkllRUJiRUlLdlhPbXNrSjhzSmZ2VVNHU1N2SEtBbkxpdGNMaUhfQm40T0dIWG5mN1ZQZFVDLUt6elphRjRIOTVzS0wzbTUwZFZWN3U2VE4yWE90dVdmeElUdWNNTUJmZ2N2MUlqUzROeHJHYXNGdjk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-05T07:00:00+00:00"
+  },
+  {
+    "id": "db415a9ce70ae05f4ad724bcc31c411c",
+    "titulo": "BYD Dolphin Mini quase autônomo: marca reage à queda nas vendas e eleva nível do hatch elétrico na China - Fala Regional",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZG9GYVluTUZpN0k1WTlrb3FIaS12V2Jfc2F2MzVGQWM5dzhoWnlYeVB5VWpOdXNMMU9HZGVORXhwUVQ3LWVJRzZaNnFQWTRjS1EySmVwZ2ZLMGcycExMaHduVHRmbExkNjhnZUI1Z2RLa1pfNG1icUNLNDQzaWQ3SlA2MXVSU2tGczZVMGE1R0JBTXFqbTAtVnktVmpHekotQ3g0dkpJQ0sxMVUyZTllQWlGbHFTVS1pUW16UDJUQWwwRFpoTHdnTGZrMnEyRGRGNVHSAd4BQVVfeXFMTlJmc2ROVjc1R2REOGxYOWNwUGVvRXdOcC1nUDlhd3JxZjNXeVYwTElfTUh4YjBRYTFsNGRwOUJlc0JCakFrQ2dVN3FCVTVuT1VuRHBsNldSUlJNVXBpWEN5NGd3Z056RkZ4enNnRmJfckpjNWlkWUtMcGtvUzJzRzZxQUktVjAwRklfemJwQjNQU2FNNTd1UDhkdW5ScTlSWHVGNDloQk12eUhQbTlzQzdCUzZ1ZkZraXQxbHBqbFh5bEFERDhtZ2hSLWJBY092dW5BLS0xajJKUnIyWEpR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-05-11T07:00:00+00:00"
+  },
+  {
+    "id": "e69a46f6739ae6206f2b96f11bc4dedc",
+    "titulo": "Vendas na 1ª quinzena de maio mantêm Polo na ponta, mas a surpresa vem atrás: BYD Dolphin Mini já é 4º e encosta no pódio - Notícias Automotivas",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUUlMZ0JEX21aUjZTRm83UHBvODZ4cEh4bFBVOGpxZDVxNnNnYnpIX01jSFdMTElVb2g3Q25ZNXAxbEJGclVtUDRJOGRUUFVhZTRGUnh6MFpEbE4tSEQwVFdYSTNyX2tiVy0xRVFpWmxRcTRVWENVaUpJU2dZNkw0c09od2oySzFLcm5Ka3hncnJOSlRVZ1AtTy1qaDh0MXhaUi0zYy02ZG1KMDFtbUstSGNhVUFKaWtHLVdGdHlNQWVKaG9CSEhQbGpNOGpUUGlLdC0tTF9xOVdYek13YkFOWjFkUXNNSkdhS3NwLWR2c3Q?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-18T07:00:00+00:00"
+  },
+  {
     "id": "62a0752da94652ebde2978ba74b23610",
     "titulo": "VW Truck Rental atinge 8 mil caminhões em operação - Oficina News",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzN0Y18yeXBlVllpSjlUbFUybm9ZNEVKbENsOWl3ck1HQ241MlFCeXFrQ0tQdmhBY3NNNU1kSlp5dEhCZFhTakNwX3JLQU5JR0lkWXpUNm5RbVlDSEp6c1FtZDlxaWZoVWVfWWR5NVNwTEx5U1dkVEFYQmt1MmMyVDh3SE9Mc2s5MFRDZWhR?oc=5",

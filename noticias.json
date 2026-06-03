@@ -1,5 +1,70 @@
 [
   {
+    "id": "cf30ecb44bda546143f1cbad83a9a622",
+    "titulo": "Em poucos dias 15% dos recursos do Move Brasil 2 foram contratadosSegundo Igor Calvet, presidente da Anfavea, mais de R$ 3 bilhões já têm destino para caminhões, ônibus e implementos rodoviáriosLEIA MAIS",
+    "link": "https://www.autodata.com.br/noticias/2026/06/03/em-poucos-dias-15-dos-recursos-do-move-brasil-2-foram-contratados/105423/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-03T18:35:47.904823"
+  },
+  {
+    "id": "1b56056ea04462805a4e863529c48e0a",
+    "titulo": "eActros 600 e NextGenH2: as diferenças entre os caminhões elétricos a bateria e hidrogênio da Mercedes-Benz",
+    "link": "https://frotanews.com.br/caminhoes-eletricos-eactros-600-e-nextgenh2/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-03T18:35:49.438219"
+  },
+  {
+    "id": "864f33d065a6d654ecc167fed293bce9",
+    "titulo": "Compre Sua Peça fecha parceria com Mercado Livre e prevê +50% vendas",
+    "link": "https://www.balcaoautomotivo.com/2026/06/03/compre-sua-peca-fecha-parceria-com-mercado-livre-e-preve-50-vendas/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T18:35:57.206847"
+  },
+  {
+    "id": "301450cc4e23bde7765bc6690fdf3060",
+    "titulo": "Veja os 50 carros novos mais vendidos no Brasil em maio de 2026 - Autoesporte",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSTlfUjNlTXp0eHJHRmItQ3JPbTA4bnVBdGdmMkV0eWxDOWxSdG9wRHVZT2U5N0RSMFZyOXBLTF8yWWx0Z3VxbHVDRTZ3NzVPSjRRbll4MnFsTExRZVBUaXRrb2JXNlJmSU90b1ZTOEVwNkNLN3drajE5ekRlaGVCUHJyRTd2RENKR1J4T2NWSndxYkJLeDdZa256eFY3bTBDd1E5a3lqcFZoaUo3cWJQMmVIRzJtSTkxamRqLThBNTRvWGc0Zi1WadIB1wFBVV95cUxNclI3RTBpb2dYbkFtQ3c5OEUtVXZoV2g3U21Ebk9xNlFvUlhCVjBfVENkZmNOZ21ERjFkZWR1RUFCdW9ZWW01LUl3TExwekQ0T202QnVGWWtMMzJMTVRxMjE3c3cxLW5zUkd4YnVQNXFfaTRNVjhwNS0zOWdjR3lZQ1E2Q3AxTEVCN0wtZmc0UFRFbVJmWGVfTHp4TlVkUFhZZFdPUkZhbGxRUGRnODZ0dFlhSkp0dmRDaVpTQ0pyUjNoMFZZN19lZWhlRWloeUtMVW4yc2JHUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-01T15:04:14+00:00"
+  },
+  {
+    "id": "bb241db85fe0f1ba37389ee01915f37c",
+    "titulo": "Vendas de caminhões elétricos explodem na China: o custo por quilômetro virou a nova religião - Notícias Automotivas",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzBiMU5ORGg2N2FWNWVqY0FJc0JfWWh3LVQ0WXR3aFRYQnQzZ2k2YjhqMnBsUVhXbUhkT2RTRm9DSUZRalZvaGJUamFmdHBHNnA5TmRCSFI4MnZNOVhzZzVZbnM1ZTBIZkpvQVpyVzE2WWw5UXJoX3M0YTFaS0UtN3VQYmlzRGtDU2pfbFFsRTdNNlo2eEpGdUEzdTQ2U2syWF83alNxdHhUZGVDOXB6enFfWGpaQy1LTndaNTlONzNveGU4SzBSM0RwTjM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-05-07T07:00:00+00:00"
+  },
+  {
     "id": "c21ce29819e90de66f7e422e0953ce60",
     "titulo": "Caminhão elétrico Mercedes-Benz eActros Lowliner chega em 2026 com foco em carga volumétrica",
     "link": "https://frotanews.com.br/ultimas-noticias-mercedes-benz/",

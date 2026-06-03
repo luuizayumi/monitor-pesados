@@ -1,5 +1,30 @@
 [
   {
+    "id": "c21ce29819e90de66f7e422e0953ce60",
+    "titulo": "Caminhão elétrico Mercedes-Benz eActros Lowliner chega em 2026 com foco em carga volumétrica",
+    "link": "https://frotanews.com.br/ultimas-noticias-mercedes-benz/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-03T14:14:08.729836"
+  },
+  {
+    "id": "13bd237211dc6c1450fc0705c4cc4ed4",
+    "titulo": "Em 3 anos, VW Truck Rental atinge 8 mil caminhões rodando no País - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjNpVnRjRU5ibS1RTTR1MHg2ZUhLZFJ6NUlrU2wzb2xfQUtLSGgyTXBaN2hzbzhfcHgwZFVOOXZkUlZXZnJ6TXZvaVAwbk5mQ0hPVlNzRnhqLUlVX2RNb3JMMmFMUERqeFJ4Q3RWVG9Zb3I1QVlMbDdETHVKajdVSnBOMU1xR1Q1Q2VKUEdacEZUV19yRjgxSVVva1c2eV8zN1RmTDQ0UElRbERlenfSAbMBQVVfeXFMTUJRTGJpMWV5S212VkE2U2owdFhfcDdtUFZWMXY2UTN5ZGNCZm9CenA0TnRBRE9kaTFIVDdfT2tVVm1rNGVaNXhqOHBKOG0zMFFnQkdfajBFeDBLWHdkWWpDMG1UWWRrNHAzdGZRQ09fUFVfWkgyVFJpaDhiZFJSY0RFWHB0eWc3VmVNRk8xd3ZDdlpWREdOSllLb0IzaUcxOXRyYVE1US1ydml6MWJTdTN6Y3c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-14T07:00:00+00:00"
+  },
+  {
     "id": "e906e17835b72409822f9feafdfec6ec",
     "titulo": "5.Renault Niagara terá versão de trabalho com câmbio manual",
     "link": "https://www.estadao.com.br/jornal-do-carro/renault-niagara-tera-versao-de-trabalho-com-cambio-manual/",

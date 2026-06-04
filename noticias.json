@@ -1,5 +1,155 @@
 [
   {
+    "id": "13277cecd79e0115fe7d76d30db403d8",
+    "titulo": "2.Koenigsegg Agera RS com 1.340 cv está à venda por mais de 30 milhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/koenigsegg-agera-rs-com-1-340-cv-esta-a-venda-por-mais-de-30-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-04T04:18:34.487983"
+  },
+  {
+    "id": "43fe98cd23c90e5661f00a6874ce96d2",
+    "titulo": "Vendas de caminhões seguem em queda no Brasil - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2VzaUI2bEVHQkJtdnBRdEFQTHQxYUViRUczV08yV2tPZHlmUmVfT2pJdUN6SDB1LXlESTlFMHROcXQxeTlBcUw0SnE2Sjl2MnBWZ1M5SW1kQkFPbjRvbWphdThYY3NmOUlBMnhFVGRiUUpzTkdqQ0YzcF94NHVmYnNxVi1XbE9YTnQ2aS1Cc1dQTms?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T14:36:46+00:00"
+  },
+  {
+    "id": "115f5ef65f9a614b58fc14b84e7dabe0",
+    "titulo": "Em compasso de espera pelos efeitos do Move Brasil 2 venda de caminhões segue em queda - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFBGS1FuanZuRXpCb2VlOERnR1Z1T0NLQzBfRnd2LVFCZjF2cVVjVkJ5VHlTUF9mZXhNUC1Ic1lEYXRON2ZDTzlxXzRpeDBJalBGYUhLX0F3RkxCcHVQeENfaTlNdXBpTkRrLXZrS3dEVTNtTGJsbVZXTjBwcHF1V1I3TnFFQUtOZ0ZxTndQLVVLaXlLREpHZzB0empkMTdGT21aeWowWXFxakk4NG1qNzZob0hYTWszN1JWdmE3dXFQcW5hanZ4WlpJRHVOd0o2T1FaUWZHOG5tUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T19:44:38+00:00"
+  },
+  {
+    "id": "f99b3c77459f378d7d79d5875fe21488",
+    "titulo": "Venda de caminhões usados cresce 6,2%; Mercedes-Benz lidera a lista - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFQzV3c0NlJaWkM2V2J0Y01teHVjMDcwX1kya1RQSVZxSy1ocDVEUVNFNFJRdUxBMWFfd2xYVkFmVWtzMnhXcXdQMTVFTVZ1RUgweG80RmlQNl9PaURQUmNESVRLYnNmeVkyTGFFUVkzQUd5OXJ3Vk1RTDRlSlFYb2ZFREF5SlVMV1lCOENJZUpuZFZsbEh6MjJ6NTN6TGs?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T16:55:05+00:00"
+  },
+  {
+    "id": "dffa01830ca46df0a4765ecc445b2cb4",
+    "titulo": "Caminhões mais vendidos em maio de 2026 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFItZk9qVlI3VnY5MTNSMmVEOHRGX2N2a1lCN3JDZHREMGx2YzRaUGJSVDNJNlJYMnlEeWtWcHExQVYtUlNkdjhMX2Uwcl9mc2lPcXp0U0N3cVdqSW1jVmcwQmdKT0Ytd0tkcWhNaXJWbmFKUTBuVUFGemZjYmtfQmk3cHAwRlhFNW5tZzVIQlgzMU9WRzVDTWZ0REhVcFE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T20:53:54+00:00"
+  },
+  {
+    "id": "93c33cefd43716c9ac3480fb77f49ff8",
+    "titulo": "Vendas de caminhões seguem em queda no Brasil - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE9saDB5blRseGZqN3kwQ05CZGsxOWNhOXNPOXA3czh4LTRhZFZNQXlHUk80UXRvSUFOd3VzektQLUUyejNrb1pxZ094dVF6YWxMMy1kZHZwWll3NlY3MXBGTU5LYnJVQ05xTE1Pck5uNG1uV2Rzcnp3M3VScUhhNWJCMzNveHZBUTR5RF9n?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T14:26:31+00:00"
+  },
+  {
+    "id": "646f045c15b25855fdae7624da23ec56",
+    "titulo": "Move Brasil 2 injeta R$ 310 milhões na Scania em apenas dois dias e impulsiona renovação de frota - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbmp4WjBINUNkNEhHdlp3VDR6SlRwazZyM2RkUngtZ1dldE9zc2E4M2NDZUx5NnVvdm1MWmZtN29ZX0phQ0NQbG1MYS1qYXo1ZkY3ZGhlSW5fSHVMeVRnRlF4b1E1QUJqczZzZDlaV05NNlRmbXl0WHU4cHp5dHdKZDlkaHZCZlFfSkN2RVpTTkVtNWRGTzVuS3pNQUFrb3dvYkJPcDg3X0laMjFrd2lHM3ZySkFYeHBjdEZfNjZQazRTbjJ0TVlYdG85c185SXNuazNCYlNyUkp1ZHZGNFJRejdCTdIB6AFBVV95cUxNOTFWR2M4dTVpc2JtOTZqNm5aZ1ZDRi1xNWV3by1DMWMyZDg1WTR5cDJ4RUY1bXpObklKSTl3b0c2N3QydGR2Yy1JM2tDOFVtVExmN0VzbFhIVHU1UU05X2RaOXE1WDVJUTQxSVlUcGxnSFRWTlN5WVJDaTcxTFpTVVZOWE9Md185WlpNTE1qT004VVJuOFUxLW5BWGNmY1JkVEJKamM5SUhTT2JOdUpYaG9wUmJrckpkY19NcjJoN2Exd1BwaXdOUS1JRHEzSjFUMmFpUXBZR0FLRWZ2cnhROXBKNG9ENl9K?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T13:20:00+00:00"
+  },
+  {
+    "id": "c3e34115188e106dc146947d6f4c0e9d",
+    "titulo": "Scania Banco tem R$ 310 milhões aprovados em apenas dois dias do programa Move Brasil 2 - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXBuMUpLOFFzTE41TzV2ZGFhSnB0TjBwTDVybHNMdndlWWhXNzJqT3ZGM0lFY2JsRkZydGlmVkFjX2FRRzlKczdSSGswcjFrS3RxeU5oQnZVTjkyTnBjNUVsTllTRm5lVUtzQmc5V29EOEpxSWk3LUViclR2LUU1TW1Wc05IUXBDVVlhdS00MWRwaVUyaFJGSEN3aEw5bnE4OHNkbTNMVU1aQjlOeHl1QzVRT0tSYWdFR1lXSTNpaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T11:47:32+00:00"
+  },
+  {
+    "id": "3af0e99dd961df057b619390ffdcc441",
+    "titulo": "Scania Banco aprova R$ 310 milhões em dois dias do Move Brasil 2 - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDRKMUtYWnVNenFUNGVnSFdzMmNXaWJSV3ZsOXBOLU12QU9ncENpaGhmZ3FQdUlneHhyNzFwU09SdXYyZlFRM0ZvblE0TFFoMHdnLW5MNE5fRGdZZi1ScGptQURBMGh5b21Va29GemtFb0RHLVpoRXJkSUxSeWRQQ2Y0d291OXh3bks1bFllUkpVSDRCLXU1bXBKVE55aXNiVklIcS1XTV9jdXNuSG9SRFdn0gGyAUFVX3lxTE1MNEoxS1hadU16cVQ0ZWdIV3MyY1dpYlJXdmw5cE4tTXZBT2dwQ2loaGZncVB1SWd4eHI3MXBTT1J1djJmUVEzRm9uUTRMUWgwd2ctbkw0Tl9EZ1lmLVJwam1BREEwaHlvbVVrb0Z6a0VvREctWmhFcmRJTFJ5ZFBDZjR3b3U5eHduSzVsWWVSSlVINEItdTVtcEpUTnlpc2JWSUhxLVdNX2N1c25Ib1JEV2c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T20:30:45+00:00"
+  },
+  {
+    "id": "6fd8c9b607ad25100a4b1edfd15a3cfd",
+    "titulo": "Vendas de veículos leves em maio continuaram em alta - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzZnVHhmMldxUUxmdFFDdFM4LVdwX3dNUHhlMzhFTGN1aGRhZlZyazZ6VWJPYXhCMW5DdHk2NDl4UGVveVZlLU0yYXQ2U3gzTWw4Y25TR0FacHlSNHJvVnNUbDd2VTJINy1UdkV6YWktWjFqbk82ZUtwRDIzQ3pjQ25veVNjeUl5OTVOY2JHTlpiMzRtUUljWVhlRTAtWnVvcDRV0gGjAUFVX3lxTE5XNmdUeGYyV3FRTGZ0UUN0UzgtV3Bfd01QeGUzOEVMY3VoZGFmVnJrNnpVYk9heEIxbkN0eTY0OXhQZW95VmUtTTJhdDZTeDNNbDhjblNHQVpweVI0cm9Wc1RsN3ZVMkg3LVR2RXphaS1aMWpuTzZlS3BEMjNDemNDbm95U2N5SXk5NU5jYkdOWmIzNG1RSWNZWGVFMC1adW9wNFU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T20:31:27+00:00"
+  },
+  {
+    "id": "d36bc3a24b315022316fdf9011be9a49",
+    "titulo": "GWM bate recorde histórico de vendas no Brasil e Haval H9 volta a superar Toyota SW4 - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWkZtQTBoRUxmaXBOVElROEZUVU00V2FpTXpmZVhVcmVsTG9Oa2VLRlN1aVJ2TjVFUjJJVld2TzB5YXlrRDJEZVJCLWpuNWYxM2hNd0pMSWt0LUxHaWw1eHMxME0yQWJUaW5JZGNMUjR3eVNsY3ViZnFvNk56SlRVdzM1VlhQU2Etb2dYZEszbDgxLXpkSkxXUVZxZHBlcF95Ym9uN3UyRmtLRmdZbm1KWUw3UWYwMkhlOXoxVnBhMl9TYWhSWFM2YWpIeGNRVmMtTXfSAdcBQVVfeXFMUDQ3TDVBZlk4am5JZzRVUHhJYTQzYThjOWRVVjNkSGNXWng2QVI1LUJ2VENIR3dfQXdFLUtpcXZXLV9PbTJtZG5xMWEwaVhYNnhULTBqc29hc0w4cnVYTjR4bHAyc3BNYjAxWC03eVREWHVka09CSkp2VXN1N0JTYkZSSDg2SjZtMlhkWnNHdGlLcUhNY0RuS2dEQlY2SW5pem9vNzVMQ1RFZy1yX0RiQ2JpYXdGYWh1ZHNKSU1iVlZmdXhEVHJWWjZhZHM2WjZ5MVQzMmhWYmM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T16:00:00+00:00"
+  },
+  {
+    "id": "96a443b01c1ce0e5ad484f1ff85e8592",
+    "titulo": "R$ 310 milhões em dois dias: Scania Banco aprova financiamento de mais de 300 caminhões pelo Move Brasil - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWxJZ0xwNU43VTN3aUZuUWtFRjVMdWF2TGd5R3dOQkNpemNTVlNqcG50N09UNVM2Z1V6cXhnamlUSEdrZ3EydmRYbEFMSDZVSFVPc3J4ak1zZXhoWVg5dWxnR0R3dHRKY25DZWJmVUxhRXprS2ZCT1duUm5iN3FXMnd4cXZlV0gzNHc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T14:50:00+00:00"
+  },
+  {
     "id": "5016943462505d20d5dc19692d5f286d",
     "titulo": "Em compasso de espera pelos efeitos do Move Brasil 2 venda de caminhões segue em queda",
     "link": "https://www.autodata.com.br/noticias/2026/06/03/em-compasso-de-espera-pelos-efeitos-do-move-brasil-2-venda-de-caminhoes-segue-em-queda/105411/",

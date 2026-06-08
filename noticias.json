@@ -1,5 +1,29 @@
 [
   {
+    "id": "11022c46c23644adc15d427b3652a127",
+    "titulo": "Maio é o melhor mês do ano em vendas de veículos",
+    "link": "https://www.balcaoautomotivo.com/2026/06/08/maio-e-o-melhor-mes-do-ano-em-vendas-de-veiculos/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T20:28:07.329956"
+  },
+  {
+    "id": "fef45a00a7597b9a42d7b31a87ef4a6c",
+    "titulo": "Marcopolo pode liderar nova onda de crescimento no setor de ônibus, após avanço do marco do transporte público - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMEM3d3FfZTRWcTVlTlZpeGxMcWVyYk1uclJkanBTaVd2cjJjcUFOM1F4cW9YWmp2S040aFJtQXZ3SmxVb2lHYW1IUm55VDFFM0ZYMmdQcGROS1VmYUhYbG1zckNFTTBrQ0tkUjVXeXk5RDBmMGYybHJnY3lGUjJlUUdBa0xNOV93ejRwaVM1SWJFSkVBWG13NDVOUFY2VXpsVlRWbFlkYzltdnJYTUhQYUhvMUFFWlpORXN0Q0tIV2tqSVVwUlFJNjhOR3NPRjkxX184cUt6d0tMV1BSaGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-05-22T07:00:00+00:00"
+  },
+  {
     "id": "897603d0a1470ef4d4524034d3620de3",
     "titulo": "Mercedes-Benz lança nova linha de caminhões elétricos pesados",
     "link": "https://automotivebusiness.com.br/lancamentos/mercedes-lanca-caminhoes-eletricos-pesados",

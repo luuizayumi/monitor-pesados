@@ -1,5 +1,30 @@
 [
   {
+    "id": "c1e210271226ad44314a40acb431f274",
+    "titulo": "5.Clientes Volvo agora vão pagar recarga em carregadores da marca; entenda",
+    "link": "https://www.estadao.com.br/jornal-do-carro/clientes-volvo-agora-vao-pagar-recarga-em-carregadores-da-marca-entenda/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T22:11:50.786248"
+  },
+  {
+    "id": "151e608f55256fa86443e22977061864",
+    "titulo": "Thyssenkrupp aposta R$ 50 milhões em fábrica rara no Brasil para ampliar produção de sistemas de suspensão de caminhões, atender marcas como Scania, Mercedes-Benz e Volkswagen e transformar São Paulo em base estratégica para exportações auto - CPG Click Petróleo e Gás",
+    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMnQ0d19jOGlIcUF6bVNkRmNzcHQwNjQwT01sN3ZaWkI2c1FyU1RCY0xPVldUWkVJeTV4OExQYW9MTzdLb25aOUJ1X0o2ODFuY3B2ZzNPQlh2d3lha3dxYTVyMlpycDlqcFhHZUw0MzM3Szc4dXU0d1VaQWtsazR1cVRCc3MycE1MVjNuRzhUN0RaSXZLOG4ybE5oZlRJVlNhc2RBWS1MVmpUSGh6b1JWTThCOXd6dmZjdC1JaUpqN1k5RHJiUGFWQmhnc3g4Rk5OdHhxX1hBSkdzc3kzeFRIVHFmMGV2TGVpTERSTHBvc1pMZDFBZEZuV2p1TUdCdUtFZy1VN3MxMDBld1pkMjk5TGI2RjdudkI2VFItSjFVR3NfNHZhU2ZiWkZTeDJybmM4WUNMX0N6cw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-16T07:00:00+00:00"
+  },
+  {
     "id": "11022c46c23644adc15d427b3652a127",
     "titulo": "Maio é o melhor mês do ano em vendas de veículos",
     "link": "https://www.balcaoautomotivo.com/2026/06/08/maio-e-o-melhor-mes-do-ano-em-vendas-de-veiculos/",

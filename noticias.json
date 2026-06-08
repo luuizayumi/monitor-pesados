@@ -1,5 +1,54 @@
 [
   {
+    "id": "897603d0a1470ef4d4524034d3620de3",
+    "titulo": "Mercedes-Benz lança nova linha de caminhões elétricos pesados",
+    "link": "https://automotivebusiness.com.br/lancamentos/mercedes-lanca-caminhoes-eletricos-pesados",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T14:35:07.888082"
+  },
+  {
+    "id": "7f34ab0cb96bc252c20e9fe999e0f4b9",
+    "titulo": "Novos ônibus Volvo 6&#215;2 de 15 m da Eucatur prometem mais lucro e menor custo por assento",
+    "link": "https://frotanews.com.br/transportadoras-eucatur/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-08T14:35:11.669815"
+  },
+  {
+    "id": "6902bfec7f7ef1c0200a4dce2e2a126d",
+    "titulo": "Brasil registra maior volume de vendas de veículos desde 2013 - Encontracarros - Encontracarros",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZjVxWTNXaWxlODZhaGFlNW94MmNaLWZabHZWWDdwMy1wV1BWWXJadElEU3ZkQ2VWcXFmWExaLU82dGlzYkN1dGlZUkU1a1dudWI0STBHUTBIZVg2RHBDUzFTM0p0dXBXVXlRZFd0TlVJdU9qWXB5cnRZeEthd9IBgwFBVV95cUxPN0FwMTJCTVBiNElFZHVFRDNGUlJ1Q1FqTldjbGMzVVZLUW9BTG1qdzNkTVNtc0NJSk9wbnFOc2hscnplMzFXZ0VpcHpTUS10dG96d09zVmttZ196clJzbnhGcTdtYk14cWVEX1NxTmo2MURWMVJkY3lMN3lHVUhwY3psYw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-09T07:00:00+00:00"
+  },
+  {
+    "id": "dad94fb0677c62e47978575cf28d7cbb",
+    "titulo": "Crise nos ônibus urbanos ganha força em 2026 e fecha abril com 2,4 mil motoristas a menos - - Brasil do Trecho",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVZxUFVXeEJQYlNGZm9Fd0R3c3QxQ1A1amYyNUgyRUtEN09WVmdSSjlZN0xMVV9WeDZ4MG9UQTh4NVF2OTNQQmRObDZkd09JQmpFalgzMDV1amw3MGNTRlRMUDlqOXFnbkxzWjNSMG9JVE9BblR1a1d6ZFdPRjJWRDZqV05nNmg2WnpYUExn0gGOAUFVX3lxTE11VnFQVVd4QlBiU0Zmb0V3RHdzdDFDUDVqZjI1SDJFS0Q3T1ZWZ1JKOVk3TExVX1Z4Nngwb1RBOHg1UXY5M1BCZE5sNmR3T0lCakVqWDMwNXVqbDcwY1NGVExQOWo5cWduTHNaM1Iwb0lUT0FuVHVrV3pkV09GMlZENmpXTmc2aDZaelhQTGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-07T20:02:00+00:00"
+  },
+  {
     "id": "25519ffd06521450c31e99120b162967",
     "titulo": "Projeto SADA–Gasmig inaugura novo modelo de descarbonização no transporte pesado",
     "link": "https://frotanews.com.br/frota-sustentavel-sada-gasmig/",

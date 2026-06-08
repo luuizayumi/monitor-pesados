@@ -1,5 +1,115 @@
 [
   {
+    "id": "583c11ee7d17a10623e9b6685b505f61",
+    "titulo": "Mercedes-Benz eActros testado na Suzano revela maturidade técnica da eletrificação",
+    "link": "https://www.autodata.com.br/mobility/2026/06/01/mercedes-benz-eactros-testado-na-suzano-revela-maturidade-tecnica-da-eletrificacao/104662/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T23:47:40.612475"
+  },
+  {
+    "id": "9768ced76e103b299c7bc38c0fa0edc9",
+    "titulo": "Voge inicia produção em Manaus e prepara ofensiva com motos e scooters premium no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/05/20/voge-inicia-producao-em-manaus-e-prepara-ofensiva-com-motos-e-scooters-premium-no-brasil/103824/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-08T23:47:40.612500"
+  },
+  {
+    "id": "f3cb50a3d96a1173ba94c9deb672bc36",
+    "titulo": "Caio entrega 95 ônibus elétricos para o transporte público de São Paulo",
+    "link": "https://www.autodata.com.br/news/2026/03/11/caio-entrega-95-onibus-eletricos-para-o-transporte-publico-de-sao-paulo/100706/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T23:47:40.612504"
+  },
+  {
+    "id": "f7e8ac297e55a925df43c9cfc010dfb0",
+    "titulo": "BYD montará baterias Blade em Manaus",
+    "link": "https://www.autodata.com.br/noticias/2025/08/12/byd-montara-baterias-blade-em-manaus/92280/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T23:47:40.612507"
+  },
+  {
+    "id": "27b1cc758b2d01be170728354c28f19d",
+    "titulo": "Volvo vende articulados elétricos para Goiânia",
+    "link": "https://www.autodata.com.br/noticias/2025/08/12/volvo-vende-articulados-eletricos-para-goiania/92268/",
+    "fonte": "AutoData",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T23:47:40.612510"
+  },
+  {
+    "id": "880fb70deec0c9d31194712b888d701b",
+    "titulo": "Venda de veículos eletrificados mais do que dobra no acumulado do ano",
+    "link": "https://www.autodata.com.br/noticias/2026/06/08/venda-de-veiculos-eletrificados-mais-do-que-dobra-no-acumulado-do-ano/105517/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T23:47:40.612512"
+  },
+  {
+    "id": "92a423d8f57cdd8f9af49a6a31ac7d3b",
+    "titulo": "Stellantis lidera ranking de patentes do INPI",
+    "link": "https://www.autodata.com.br/noticias/2026/05/26/stellantis-lidera-ranking-de-patentes-do-inpi/104452/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T23:47:40.612516"
+  },
+  {
+    "id": "fcd14e2b118fd48e54f0e64fe9107a45",
+    "titulo": "2.Clientes Volvo agora vão pagar recarga em carregadores da marca; entenda",
+    "link": "https://www.estadao.com.br/jornal-do-carro/clientes-volvo-agora-vao-pagar-recarga-em-carregadores-da-marca-entenda/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T23:47:43.628754"
+  },
+  {
+    "id": "a7e18068d0864608ba9b17a02f23bca9",
+    "titulo": "Mais de 600 mil motoristas se cadastraram para o Move Brasil Táxi e Aplicativos - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWFpyUHFjREs0bWtrZzVHazVXZlRJT21RRU1FcWtvTzBKQzlsbjNtT1g4WElySmgwYXdoV190RmVQWjRZejZiamtaM0VrXzNWZnhtaUE5Y2k0U1JGLU9RcllFWHJNaDhvRDBPbnhyd0hreGZCLXpTYkZrNm01WWJveVFXdlFXNVU0bmNhRUZQY2Z6N05aVnJ1NVpBczlWZDN6NWJLMlhlTERDcWhpVlByTnJIYnFYSVA0bXdvXzBzUFhxRm5vOEdNRzIxV1U0Z3Fo?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T16:07:00+00:00"
+  },
+  {
     "id": "c1e210271226ad44314a40acb431f274",
     "titulo": "5.Clientes Volvo agora vão pagar recarga em carregadores da marca; entenda",
     "link": "https://www.estadao.com.br/jornal-do-carro/clientes-volvo-agora-vao-pagar-recarga-em-carregadores-da-marca-entenda/",

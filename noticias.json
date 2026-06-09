@@ -1,5 +1,30 @@
 [
   {
+    "id": "144b0314fd5bd14bff4e420697cb40cd",
+    "titulo": "Vendas de importados da Abeifa avançam 3% até maio",
+    "link": "https://www.autodata.com.br/noticias/2026/06/09/vendas-de-importados-da-abeifa-avancam-3-ate-maio/105690/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-09T21:19:44.002058"
+  },
+  {
+    "id": "6707e11e5cb33cf1795df26a511519f7",
+    "titulo": "Mário Brescancini é o novo responsável por vendas da Wega no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/06/09/mario-brescancini-e-o-novo-responsavel-por-vendas-da-wega-no-brasil/105700/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-09T21:19:44.002070"
+  },
+  {
     "id": "abe7d116dd69b00973d60b61fce3f5c8",
     "titulo": "Carlos Fraga é o novo diretor de vendas da DAF",
     "link": "https://www.autodata.com.br/noticias/2026/06/09/carlos-fraga-e-o-novo-diretor-de-vendas-da-daf/105685/",

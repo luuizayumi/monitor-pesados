@@ -1,5 +1,145 @@
 [
   {
+    "id": "2d46c366dfc94db36f3f0845c114affe",
+    "titulo": "Animada com Move Brasil, Volkswagen Caminhões projeta venda de mil ônibus",
+    "link": "https://automotivebusiness.com.br/montadoras/animada-com-move-brasil-volkswagen-caminhoes-projeta-venda-de-mil-onibus",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-09T03:46:34.323602"
+  },
+  {
+    "id": "201e204301ec7b763e5e7651387b16fb",
+    "titulo": "VW Caminhões e Ônibus prevê fim dos recursos do Move Brasil 2 até agosto",
+    "link": "https://www.autodata.com.br/noticias/2026/06/08/vw-caminhoes-e-onibus-preve-fim-dos-recursos-do-move-brasil-2-ate-agosto/105667/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-09T03:46:36.325927"
+  },
+  {
+    "id": "a550e78f5b418404b27bd220bd6de66d",
+    "titulo": "Volkswagen Caminhões e Ônibus amplia liderança e prepara estreia de nova linha e-Volksbus - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2dSV0pVMWt1RVE3dlVCVDJhUUlkdnU2SW9RTGxYYWRURkhVYzRXQnVrUVRUNWRiUExUQzJ1d2dpX0NiQTc0MEphS2tnY0p4NmhzeXdBV2E5MEJqLXB4aVBiclNhZmxkVi0tb2tDcG9xVFZlUHhyMV96b1NJeWhXVWJpU1lUS2Rqak0wcklXbDY2YVc4Nk1wX2hwcGpyS1dwcVJScDI2ODJqNjFFY3dObnZoM2VObVNKTl9uOW5TOWRERUxGc00w?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-09T00:30:05+00:00"
+  },
+  {
+    "id": "42bb3df79e3342341d37711c298b385e",
+    "titulo": "Volkswagen projeta mercado de ônibus acima de 23,8 mil unidades em 2026 - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3N0UWR2dDlrdmV2a0lRN3BLbENod0tocy1VbHUzR3hTSC1rR2pRYXBDX2Zlb09pMlJUelhhWW5LSUVfaFg5OFRRWW5NYk81dGplS3hfOG9ZOVpxcFhnengzWFFQQWRMQmY0cUlpRXl6eDkyT2VNQ25aNTl6SDNsVms1Q00xYWJsVDhuZ3JPNnBRLVFXZllFMzQ4RHBHaFVfZFZHelNOaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T17:13:37+00:00"
+  },
+  {
+    "id": "b8e28bd95bf7e657b6789f0f688ca386",
+    "titulo": "VWCO se prepara para Lat.Bus 2026 com aumento da oferta de ônibus elétricos - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXhPckp5R1FwWmhlMTFBZVlOQl91cGpHZENiWHBvZm9jYjhpXzBpbFhNZHRhbjJBcTZrczR0STk4T1E2SktrNEtaYUxGSnVYcDFLRUdCNUd5R3d5TUM4OU9FZU9WUVUxa2NSWDhpWm1ub0wwd1Jlbm03UnJ2cVJleHVuODg1UXN1QXplWF81eHhzUE5oV3Rta2JXUk5pNGU0UGdqbTVTbFlmakNGTVBWRC03cm5nRTZaYll4ZDJ2Y3JtQdIBwgFBVV95cUxOSXhPckp5R1FwWmhlMTFBZVlOQl91cGpHZENiWHBvZm9jYjhpXzBpbFhNZHRhbjJBcTZrczR0STk4T1E2SktrNEtaYUxGSnVYcDFLRUdCNUd5R3d5TUM4OU9FZU9WUVUxa2NSWDhpWm1ub0wwd1Jlbm03UnJ2cVJleHVuODg1UXN1QXplWF81eHhzUE5oV3Rta2JXUk5pNGU0UGdqbTVTbFlmakNGTVBWRC03cm5nRTZaYll4ZDJ2Y3JtQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T21:34:02+00:00"
+  },
+  {
+    "id": "aa73ae79f4c88ce7b1478adb1b3e6176",
+    "titulo": "Polo dispara, chineses crescem forte e abril mexe no ranking dos carros mais vendidos do Brasil - Terra",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWmxBdnlwVXpBMjBlbmtITG9ESjdPVFBMY2RCQmI4X2Y4WXR2a05Fak9RZWVXV1VGWXNaTUpkdVBoR0EtUi1zWlh3OGdBRVo5ZHFMemJMRjExZ3JBS0NaNkFqVGkzdjNESDZlVlI0Z2N6eEZVWnNxb2hVUWxmT3ZDVmlncTBLVm9oY2ZHU1RBQlg1SXZ3Qmc0dEhJOXNIc192MVo5NXdYMjY1aHFNSzFlUXZ5Y3QyTE1tRk1rN2lFS191T01JNGFzNXRmVXYxb2UwNlRNNDJVYzNwLS1MNWxFR1o0TTlLejdiWGFkVUFXSmxCQmRueENiZUNkZU1rSG54TEpkaFhmbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-20T07:00:00+00:00"
+  },
+  {
+    "id": "67731e200b03f8f1ba0157d918b13fa5",
+    "titulo": "BYD Dolphin Mini segue no topo: Veja a lista dos carros elétricos e híbridos mais vendidos do Brasil em maio de 2026 - Fala Regional",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYlh6TU42eHVqMVctV3JHY3BjdU43ZVNjQnY4SXdLTkktNmhmTXdUekxPdnZ0RHREdkt5MXdNd2dJd3VwSjExY0tOYUdRdGNPSmNXRW1iVUhMNjI2YlJ2NklZYzBIdVNrdWJlQ0pVQng5STBJbW91TnlyV205dGRESHo4MmFFanF0Q1FKZmV2dnJWNnR6ZnRXYkE4LVBhaFJZNXBUY3BiWWFnMDFkdGNtVmQxRS1kbE9qRF9Kd3U3NEpVSEFueWpwQ2FKSGloWnRNc3dUZXNkTkd2dlA4My1kUDB3V0VORmp2Zi16dy1R0gHuAUFVX3lxTFBiWHpNTjZ4dWoxVy1XckdjcGN1TjdlU2NCdjhJd0tOSS02aGZNd1R6TE92dnREdER2S3kxd013Z0l3dXBKMTFjS05hR1F0Y09KY1dFbWJVSEw2MjZiUnY2SVljMEh1U2t1YmVDSlVCeDlJMEltb3VOeXJXbTl0ZERIejgyYUVqcXRDUUpmZXZ2clY2dHpmdFdiQTgtUGFoUlk1cFRjcGJZYWcwMWR0Y21WZDFFLWRsT2pEX0p3dTc0SlVIQW55anBDYUpIaWhadE1zd1Rlc2ROR3Z2UDgzLWRQMHdXRU5GanZmLXp3LVE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-08T21:22:49+00:00"
+  },
+  {
+    "id": "48268f89f6893452f06cc442889fcc0a",
+    "titulo": "Carboni IVECO investe mais R$ 35 milhões em nova concessionária em Joinville (SC) - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kQW15ckxlYUxVRk5iQmxJeTJuakkxRFhCbEZUWG9jRHFJVV9EcWc3ZlpJMWpjLXFoWXRya2IyTXZLMDhvdFhSdmFXbm9ZRnVlY3dwWXEzRzZic0ozeXRJQXYtdjVYX0RKWHVvUGc2NWQ1M1M2RENtdXJmQnBQQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T15:22:00+00:00"
+  },
+  {
+    "id": "854882b94bc066915bffff30a07b2e67",
+    "titulo": "Gobrax anuncia Julian Boeira como diretor de Pós-Vendas - Mundo Logística",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUxuMXpsSnZ6cGtIXzhJVHNlYzlWdERyclQwNFI2TWdRUnRLdERtQzdXOEVBeEdQdDhyLUZiOFB0QXRIcFNsNEwwN2pYZ3ktTUhKb09kQXpsOFJhTnRTOVctbEFRQ3dVM0xUeFZqeVZ4anlQb2VHWHJ5eXpJVmVuYmRtbDdfdlBOYnZXTjZsTjBCZ0U?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T20:21:36+00:00"
+  },
+  {
+    "id": "c5a4628fc5b891eeb4ece94c267b41e5",
+    "titulo": "DAF Caminhões Brasil anuncia novo diretor de vendas - aRede - aRede",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0h1ZTNlOWp4TUt6NG9ucjc0RHVDYmZjV3VkS2ZyN05FeEtNOFJLMWt4dEF2SDJvaWk3dmRrMlhvLW1fOXY1dndpZFZhMjlyY3czdmx5bVJNX0JNVGp3WnpWbmdjOElldTRHd3lWZUU5XzV0N3Y3WTRuTFBveWxWQ1BUUFN2dXpXYVRzT1o4ZmjSAZgBQVVfeXFMT2NZNENRUnpGd09pVmtvRXdFRXpvZ21kWjJ1U3E2bEtTMzVPREFlZlhjcjN0QXU0YXQ2TXRSaDZpZzRvZjhCa2VrUW5QeHViM2M5NFRVblo2Uk9LRmhhY3RzeFpqRjA1TDBERFo4d1FHSTFUMUsxdGNmTW1xd0pTTXB2THdnYUtrZVEtM21iLXIxczZ3ZTRteVY?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T22:22:41+00:00"
+  },
+  {
+    "id": "f8d948048912531e6c7adc2ca9d6d937",
+    "titulo": "Carlos Eduardo Fraga assume liderança comercial da DAF Caminhões Brasil - News Rondônia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHJXQUUxOVZzb3o5S2t0N2VJbUZHb3d5UkU0MzI0RnVmdXdRd045Y2VOQ1lTSUlHLXh0X0VnQzNPWFNvNkQwcWhJOWlxNGdCU1VwOUNwWERTT3BQMUdFN3d4SHlfV1BvVUhEQWVRbS1XYU02WjR5R09kdEZXc1FEMmhaa1BZRVlicFdWNG1tclBoNXMzc3RCdkctQ2liblJ0cWZ2a2xxWXZqdURfUnpLWWVycHotQUZubThv?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-09T00:21:30+00:00"
+  },
+  {
     "id": "583c11ee7d17a10623e9b6685b505f61",
     "titulo": "Mercedes-Benz eActros testado na Suzano revela maturidade técnica da eletrificação",
     "link": "https://www.autodata.com.br/mobility/2026/06/01/mercedes-benz-eactros-testado-na-suzano-revela-maturidade-tecnica-da-eletrificacao/104662/",

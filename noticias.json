@@ -1,5 +1,82 @@
 [
   {
+    "id": "93d5fe39ae1967efacef8f1f35063e7b",
+    "titulo": "DAF Caminhões Brasil anuncia Carlos Eduardo Fraga como novo Diretor de Vendas",
+    "link": "https://frotanews.com.br/ultimas-noticias-daf/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-09T07:53:01.876036"
+  },
+  {
+    "id": "6fb7107b2d550a9eda273ee957518fcc",
+    "titulo": "Petrobras busca aumento de produção para mitigar efeitos da guerra - o progresso",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc1E3RGQ3aVJHRHl6NXNKWS1iNnZpa3VVTkFkOXZjVVFIUTZhSG1ZWTNOOVF4aWVMYVlOaU9QT2hPb2pIZlgydHBKLVJLZzJwa3NaN3BWajNsY2haRkFDYndCU0w5b2VyRVJMMkxIeVp4ZE42LWV4VWhmcG1YYzRyOTZqcm42MEtLSGhqVDdJQzRCY1h0czdWMi10blNidFVDTUZldC1uTFlLRzA2TzBWVGJUOA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-05-12T07:00:00+00:00"
+  },
+  {
+    "id": "3812733c32d68963897a1fe01956434c",
+    "titulo": "Venda de veículos novos no país sobe 15% até maio - Tribuna da Bahia",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUM2WTU5NFpia0lEQnlMZjA1eUZYWkg2N0w1NTVia3hwS2RKT01qaXUwRkhiNE1WdnZpeVBSMkFfa0xiRGx3Zl8tWmpGZ2JRTUItdzBwNUlrNFk5d3lkXzl6dVlFSzNRUnBaamR6ZDFiOFBYUnlCYi1ZbVllRjlrZnVCMDhRNnpZWGE5c0Q3X0ZMZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T10:24:00+00:00"
+  },
+  {
+    "id": "18149b4a8e1b2dd6d28711881a1e04d1",
+    "titulo": "Volkswagen contabiliza 260 unidades de ônibus elétricos vendidos - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTU4TEstNXpybUZXUzlDcDBrSXZrcVVvLUEwbzBCZ185NWNMNFlOSTJ1T0dOOHI3YnZ4emtwUlp1cmpULWhEcXRVcEVjbjdFbm9lMnM4MGU4a0hMOXZTeVdEeE5USUI2cjJrc0NEczZSbEZuYUpWeEZ4YXdZT0dmTWJ4cFBfUmM3NWVoZTFVVkdjdjgtbVM2WTlZV2hZU0w0QUxndERQWkJ3UTlUMmJZ0gG0AUFVX3lxTE5DMXdGdE5EX0tvTFFHdm1FWUl4VXlYWm1xOVlzOFRoQU9odWZTb0VQVzI1NExqa0FWX1ZoNDJPaXhyNE5rcWY2OXQyOC14aW5RekJPLU5RRDFkUmJqZGpmWFhoYUVBWHA5UnZZYlFIWm5sNGs1WENWMVlyeWF2LWJIRmJSdzdyYlVhdWwyUHFDTGQzd1pvOEFiUlRtR09IUmVNMGpoaW1aNlpnd1JXZTduNFJyOQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-08T13:57:28+00:00"
+  },
+  {
+    "id": "62c4912b712c92ef9760a7c84cea0bf4",
+    "titulo": "Carros mais vendidos dos países da Copa do Mundo: Grupo A - AutoPapo",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TDFFV0tiS2RrUU1jRE5wc3FtVFNwWW4xY09FekdCM19QWHZVWXVvVjZHT0pZQ1d2V1JJTHBRTll3LVp6anI4dGZFSFhIbmFwZ1Z5MlhFX3h4VkRXVkZjbFNTTWRtQ1BwWXdpNQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-08T10:00:00+00:00"
+  },
+  {
+    "id": "e8d894487a74c5f599b502e3de5ad9e7",
+    "titulo": "Venda de veículos usados cresce 8% de janeiro a maio - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTJQTkY4NXYwZFlCWmlkcFVKemF5YjhCU1FfdzNfR0JRQmxOdFloOUJoc3dtd2ktYlM2bzhPeUtXUDlyRU5ub1Zsb3BXbzdEUnhfV1lQc0RURW5SaEFpYTVwZ2l0WEVhMkdmY0JvY0ptMklkTXZDTnZQRHhEM2pTTWRIOE1STktpWXhWYjlGbGFpVmpndWc1clBEYmtRaWY4N2VabXdfVDVtWms?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T18:52:32+00:00"
+  },
+  {
     "id": "2d46c366dfc94db36f3f0845c114affe",
     "titulo": "Animada com Move Brasil, Volkswagen Caminhões projeta venda de mil ônibus",
     "link": "https://automotivebusiness.com.br/montadoras/animada-com-move-brasil-volkswagen-caminhoes-projeta-venda-de-mil-onibus",

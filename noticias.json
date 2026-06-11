@@ -1,5 +1,115 @@
 [
   {
+    "id": "6ea3c5d697a12a9dedf2b4398ee36d4e",
+    "titulo": "Scania vê possível guerra de preços e admite que há o que aprender com os chineses",
+    "link": "https://www.autodata.com.br/noticias/2026/06/11/scania-ve-possivel-guerra-de-precos-e-admite-que-ha-o-que-aprender-com-os-chineses/105989/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T19:58:13.747461"
+  },
+  {
+    "id": "601893eafba66aba2b6e22877e43136a",
+    "titulo": "Volkswagen faz parceria com Uber para alavancar vendas do Move Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/06/11/volkswagen-faz-parceria-com-uber-para-alavancar-vendas-do-move-brasil/105996/",
+    "fonte": "AutoData",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-11T19:58:13.747477"
+  },
+  {
+    "id": "11dfb5cfab88725d52415e5145f60870",
+    "titulo": "Em clima de Copa: andamos no ônibus que transportou a seleção brasileira de futebol masculino.",
+    "link": "https://www.autodata.com.br/mobility/2026/06/11/em-clima-de-copa-andamos-no-onibus-que-transportou-a-selecao-brasileira-de-futebol-masculino/105964/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T19:58:13.747482"
+  },
+  {
+    "id": "e13cfac2ad4fc9e0ebf5517069a139b8",
+    "titulo": "Sinergia com o Brasil fortalece operação da Mercedes-Benz na Argentina",
+    "link": "https://www.autodata.com.br/noticias/2026/05/11/sinergia-com-o-brasil-fortalece-operacao-da-mercedes-benz-na-argentina/103325/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T19:58:13.747502"
+  },
+  {
+    "id": "27a2718e4158d547a04fff7fa99b2e7e",
+    "titulo": "Para Mercedes-Benz integração regional busca formar escudo contra chineses",
+    "link": "https://www.autodata.com.br/noticias/2026/05/11/para-mercedes-benz-integracao-regional-busca-formar-escudo-contra-chineses/103334/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T19:58:13.747506"
+  },
+  {
+    "id": "6898574b38cd7ffaa11e69ae18c10017",
+    "titulo": "Mercedes-Benz inaugura fábrica de caminhões e ônibus na Argentina",
+    "link": "https://www.autodata.com.br/noticias/2026/05/08/mercedes-benz-inaugura-fabrica-de-caminhoes-e-onibus-na-argentina/103262/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T19:58:13.747509"
+  },
+  {
+    "id": "3e9b10b65f0b5e1ac92157631be50bf2",
+    "titulo": "Sprinter e Classe G são as novidades da Mercedes-Benz para defesa contra drones",
+    "link": "https://frotanews.com.br/mercedes-benz-defesa/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T19:58:15.057581"
+  },
+  {
+    "id": "964ebaffee5c99cf56cd6e24a9280eb0",
+    "titulo": "ZF celebra 30 anos do Projeto Pescar formando futuros profissionais",
+    "link": "https://www.balcaoautomotivo.com/2026/06/11/zf-celebra-30-anos-do-projeto-pescar-formando-futuros-profissionais/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T19:58:21.776608"
+  },
+  {
+    "id": "853dc413c916f7fd5b5625fae09c8c04",
+    "titulo": "VWCO se prepara para Lat.Bus 2026 com aumento da oferta de ônibus elétricos - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONE56dHFsN1dKZlVCU3NFZEZseWxfZzZwWV80TWdrVUp2akFOVTZqVGZnX2hXT2hDQkgzREJzSDAwYlJLbUUtWkpTWEVmQUVpUFhrX3R2MGs3LUFTYkFMeGVsZFdtUXZuOUhmTjlpdzRuRmhGMkpNZkpraTdETU81NE1GRmFJUlVGZFhDTnBZT1piYWxKUEhwNHQxTE02Q1JnWUVXMll1dXFHR201Z01iLXBjZXZxNDZwNUFfNNIBwgFBVV95cUxOSXhPckp5R1FwWmhlMTFBZVlOQl91cGpHZENiWHBvZm9jYjhpXzBpbFhNZHRhbjJBcTZrczR0STk4T1E2SktrNEtaYUxGSnVYcDFLRUdCNUd5R3d5TUM4OU9FZU9WUVUxa2NSWDhpWm1ub0wwd1Jlbm03UnJ2cVJleHVuODg1UXN1QXplWF81eHhzUE5oV3Rta2JXUk5pNGU0UGdqbTVTbFlmakNGTVBWRC03cm5nRTZaYll4ZDJ2Y3JtQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-08T21:18:00+00:00"
+  },
+  {
     "id": "6a1b2d328a5947a3848d60933c10c945",
     "titulo": "Venda de veículos novos no país sobe 15% até maio - Rádio Fandango",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEJVVmRXcTM4VXUyWC12MC1xZTItakNhdmFyYnhEdDVxR1p5Nl92NlFvSHpXaGlDOXNZWm51QXA5Y3NkMXRrVzhUX01QV2RPdnBmNzlxa3dYdW5qMkVJYVhPZGpGS2VCQVZSVWlJelB2NF9vU2VvVVZacjJNbmxFeTUySlFWMy1OZEs4QWMxaV94VmtiQUExTA?oc=5",

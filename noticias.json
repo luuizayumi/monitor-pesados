@@ -1,5 +1,30 @@
 [
   {
+    "id": "b7bb5be7980f2ccf6b58975be0821eb3",
+    "titulo": "Média diária de vendas de veículos é a maior em doze anos",
+    "link": "https://www.autodata.com.br/noticias/2026/06/12/media-diaria-de-vendas-de-veiculos-e-a-maior-em-doze-anos/106174/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-12T18:23:52.377645"
+  },
+  {
+    "id": "1cc4140bf8fbddad530985ce5f68a627",
+    "titulo": "Carlos Eduardo Fraga assume liderança comercial da DAF Caminhões Brasil - Conexão Tocantins",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2pBRkw2Yl9sdVItdlIwUFF5VG5JVlU5eThQQnBOUnFMQXNNa3pueG81WDRmYW1kbURibXlHVkM4eTJiZ3VKamVJZWJ6YWlCdUpiZXE1ZjFaWjNnRTNycldmM0NJVVlnVWJFRWY2cXRTc2VoZHVnRFFZY3FDcFpuTjJ1S193NmtIakNlYllJd08wckhKdFgzWGtKMnhLOWZPdjk5bnpVeVlqcnc?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-09T11:32:00+00:00"
+  },
+  {
     "id": "7b0bdd6dcf1e7aa5d630d6096128958f",
     "titulo": "Transporte de cargas cobra cautela em debate sobre redução da jornada semanal",
     "link": "https://frotanews.com.br/transporte-de-carga-jornada/",

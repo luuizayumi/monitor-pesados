@@ -1,5 +1,91 @@
 [
   {
+    "id": "3e2c966f26fcc8165d6e4ca6a7a8dbea",
+    "titulo": "Produção de motocicletas cresce 10% e vendas são recorde até maio",
+    "link": "https://www.autodata.com.br/noticias/2026/06/11/producao-de-motocicletas-cresce-10-e-vendas-sao-recorde-ate-maio/105990/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-12T00:04:04.965403"
+  },
+  {
+    "id": "450ce2b4cdbb7d63a16eb36a78d55386",
+    "titulo": "Carros mais vendidos do Brasil em maio de 2026 - até dia 26 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZVR2MzFPVFlkWElYNGhjZHNGY3UzWlMxNWt6SWFQRmItMjJvbkJ0QnRhb3hnRUc3MzNqV0lpSkhaWEk3TEhzN29ES05BWGJkbURwbWllUzNNa2ZYanlUNGhyNWxOc2NRR1ZiODBJSHpoX0tQcjc2NHUtWE92Tjd0cQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-26T07:00:00+00:00"
+  },
+  {
+    "id": "19eb9e485c2c50d684282ebf943d8f02",
+    "titulo": "Fretamento puxa vendas da Marcopolo em Minas Gerais - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUVlQU4wZXRNWVJ0TzNJY1JkU3RFbmw3VmR6MWpxdHJpcS0yaVB3Y0xlZVJhRzVTZU5YLUFFMG1OMU40dUFwNjh3T2VXSEI4bm10MUgtb3FwdHZUOFRsS3kxSlBta2RVdDFkNVoyUDNIcjhnSm9uWkloRWF3UWxIblN4cVJ0THlrVG95WFVHbng?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-09T19:39:29+00:00"
+  },
+  {
+    "id": "907db6b314532c3f26ff5e3ccf7d0e44",
+    "titulo": "BYD lidera os emplacamentos de ônibus elétricos no Brasil - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUt3V0JWM0EyU0hYekkzMk1tdGJuZnFtQXFEU2dJeUhkMlp5ZWEtQk5rZmduWWxKVEFHZWFfQTdMSTZxUURENG5KSUxqazh6ZTMtVXhjZTZiTlhhRmx2XzNUSkZRS1o3eXJvaEJvRF95eEhkMmI4a0lJc3Q0anQzU1ZkTy03U0xZUGN2bGxLancyOW4zR1poUA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-11T17:48:55+00:00"
+  },
+  {
+    "id": "5883d70167cc90d86983e5d9fbd3f63a",
+    "titulo": "BYD lidera mercado de ônibus elétricos e impulsiona melhor resultado de emplacamentos de 2026 - Frota&amp;Cia",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Edjd3UEUwSDEyMUVhQVRpajdCaUE4Zzh4cGpXdHNyVWNlTU53V29lQ3l3RFZ6QTZIWWxKUmF1Q3Y0V0I5SWlWQWYzRU9jWV82SlllVTAyUEZ5VFFmaXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-11T11:51:00+00:00"
+  },
+  {
+    "id": "b08fb360f5d0b1d98e5a6dec624c2fb8",
+    "titulo": "Produção de motocicletas cresce 10% e vendas são recorde até maio - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmEtZUdJdUpQS083NktMNUtJNzZzUG82RmtCMGhKZmN4LUlEcFFnaEFZOHVoLXJJbXZ3LTJrUlRjdU9GMHpqOWhJVU14eVRQb0NnTk9JaGVwczRVQmRhSndURmlEQ05YaGdZbWtOVkphb0daaURlRm04eGJZV2hNWUFMRWpQWVBfZ2VaVGd0eUQ3c0ZvOWxMejNlRGZSOGZ3RWh5YmtlZ2RHNTQ0ZGxWQnVZdUZ3OUZfWUxndQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-11T18:17:57+00:00"
+  },
+  {
+    "id": "5800c01a9cdbde65b9b83593ddf31519",
+    "titulo": "Gobrax projeta faturamento de R$ 300 milhões até 2028 - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUhwOTU2UGg4eXdUVU0zYzdIQ2lMeTlKQklRekUyVlk4ZUpTcFN0dGRRWkx0NWhJVUlMSnlmNmJrVGxiU2V2VTE1VmRWVTNoYTRXbjNJbG9mbk5OeUF3UjdlTXZQZWs2a3lXbkVRU3I5akhsNWlOTUlFT3dQRHhFRk41Y202c3RQQzdBbHFGUWR1emFabkNFd2hhUnlVdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-11T18:12:04+00:00"
+  },
+  {
     "id": "c82213dd81ae5aa9eb017e4694a23c0f",
     "titulo": "Transporte e gestão de frotas: as tendências globais que merecem nossa atenção nos próximos anos",
     "link": "https://automotivebusiness.com.br/mercado/transporte-e-gestao-de-frotas-as-tendencias-globais-que-merecem-nossa-atencao-nos-proximos-anos",

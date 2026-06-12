@@ -1,5 +1,29 @@
 [
   {
+    "id": "e28eb3ffdcd94859807b90e2bc44c31f",
+    "titulo": "Produção de chassis de ônibus cresce apesar da queda nas vendas",
+    "link": "https://www.autodata.com.br/noticias/2026/06/12/producao-de-chassis-de-onibus-cresce-apesar-da-queda-nas-vendas/106183/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-12T20:35:33.612780"
+  },
+  {
+    "id": "cdaa0404f0182daf5a5eb621d04d37ef",
+    "titulo": "4.Scania R 450 Collector Edition será prêmio para cotistas de consórcio da marca",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-r-450-collector-edition-sera-premio-para-cotistas-de-consorcio-da-marca/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-12T20:35:38.169135"
+  },
+  {
     "id": "b7bb5be7980f2ccf6b58975be0821eb3",
     "titulo": "Média diária de vendas de veículos é a maior em doze anos",
     "link": "https://www.autodata.com.br/noticias/2026/06/12/media-diaria-de-vendas-de-veiculos-e-a-maior-em-doze-anos/106174/",

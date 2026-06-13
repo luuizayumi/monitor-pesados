@@ -1,5 +1,56 @@
 [
   {
+    "id": "5c572917a82ff63b410c0c7eb14e4637",
+    "titulo": "1.Preço anunciado pela BYD para o Atto 2 é restrito a vendas corporativas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/preco-anunciado-pela-byd-para-o-atto-2-e-restrito-a-vendas-corporativas/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-13T23:08:56.900573"
+  },
+  {
+    "id": "ce9b8a26c29db73357c5427a000a171f",
+    "titulo": "CONTEÚDO PATROCINADO por @sindicom.oficial | Por trás do abastecimento dos postos existe uma cadeia logística complexa, que envolve refinarias, portos, bases de distribuição e milhares de revendas espalhadas pelo território nacional. Segundo espe - instagram.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1V0hjYjF2UDdjSVJlaDZGRUwyRkowUU9kTFA4SGxtd0NYQlJFaE5pbnRMQi1tdWEyYV92MmpJelNFMHlqTTV5cVNlN0ZIcWl3dlhVbmJR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T07:00:00+00:00"
+  },
+  {
+    "id": "4ccaa180ec484be82fd8453180feb660",
+    "titulo": "Amazonas vende mais de 39 mil veículos em cinco meses, com alta de 9% em maio - Rádio Rio Mar",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlpRWFRPOUZ0QTVEaDRHUnVySmZzRlVEQ3NJMTk5OWlzQlBZZEkxSEVjdGNwRDhwRGIxbWRZcEpSQmlkR1kxdjRBb0U4YjNUUEVNTHVHMW56OXd4WmRJY0l0eG5xcjczYldrQ0xYNHVoYW5lQ1l5TS1VTHRNMlpLRkQ4Y2d1NjRWSFFULVVDWGYyclFQcUMxRWRYQXVZcXZaLU5lVHZvQlE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-04T11:13:48+00:00"
+  },
+  {
+    "id": "e03709e4db1fcef657e5ef6712b66379",
+    "titulo": "Venda de veículos novos no país sobe 15% até maio - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTzNOejUyMnpqNzZYbUNMSUdfX0RFd0RSY0tlc3p3Mzh0dlQzTzNWSjg1dlVOSk5LNkdLZ0tKYXFuOU9sRHZMR2UxMFY1Rzd4SW5OcGNocnpBVG0wQ2x0aUVWS1dqSWRZSTctSi1JUllmZkEyYm9fSzBQRHZwNHh6dlJCaGg1YzA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T23:22:00+00:00"
+  },
+  {
     "id": "e097bc3b6f04aa1bcad04ff2d7a8b4bb",
     "titulo": "2.Arocs 3351 é o caminhão fora de estrada mais vendido no Brasil",
     "link": "https://www.estadao.com.br/web-stories/jornal-do-carro/estradao/arocs-3351-e-o-caminhao-fora-de-estrada-mais-vendido-no-brasil/",

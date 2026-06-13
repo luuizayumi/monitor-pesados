@@ -1,5 +1,32 @@
 [
   {
+    "id": "fe3c0527836966eb215d6d75df946791",
+    "titulo": "4.Preço anunciado pela BYD para o Atto 2 é restrito a vendas corporativas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/preco-anunciado-pela-byd-para-o-atto-2-e-restrito-a-vendas-corporativas/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-13T15:17:52.494316"
+  },
+  {
+    "id": "3e7dc249fd6365d040cc7ef4f92efd12",
+    "titulo": "BYD lança SUV elétrico por R$ 140 mil e assusta concorrentes - Diário do Estado",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUTI5LTMtOWtnNXFOd0dXbHNYQTRJTmwwRTc2Wldlam5QTWtCRWRuQWtrWnZ6ckM0T2pLa0VtTGk5U1V4N2lpdGI5X1psSDRWbWVkalo4UjI2dGowNU9kNEppWWt6ZFZnR1lMMnAtQ1ltcHVSbjVzSm9WNTFIdE1Qb2M3aTlFM00wQXlfRThyYk9qbjktell3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-10T23:25:58+00:00"
+  },
+  {
     "id": "d27ab19cc8d49e1ed54f02a9662a9d8b",
     "titulo": "SUVs mais vendidos no Brasil em maio - dia 20 - CAR.BLOG.BR",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUstVWRJNFRGT1ZwZXZqM0ZpNzRIdHFHS2c3Qng0TXlMcXN6RmxLN2xXZURmbGhPY3lnWFFDVGxKSFYxdTlId1F0aUxPMVRSNkM2T3RoUU9LRWRCdzVoYU1tLUktZDlVRFlCX0JIamx0LW5TNjRzaUFyLUpZX2QxMW41R3dGM3M4VkE?oc=5",

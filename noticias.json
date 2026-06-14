@@ -1,5 +1,55 @@
 [
   {
+    "id": "b1c3ee2c1064ccc675ba4cf897c24a90",
+    "titulo": "Carros mais vendidos no Brasil em junho — dia 13 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnpNMlVxZVdLem84ZVFGelpQaEVTSS1qaVgzMmRYOVRsZkdmM0VLek1YckF4bXZ1akxCcFdxUjVDRDJTYjRLUjBVSUJYcGpaT3dGdjhfLUFZcER5ckNqNFA2cUFKWTl4SHg2NlhKenZRSnJMWTBtaXF3NVhyaVV1ZjNqQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-13T14:47:00+00:00"
+  },
+  {
+    "id": "5916f9b90ec62171519fae4fb41d30ba",
+    "titulo": "Fabricação de chassis de ônibus cresceu 7,1% nos primeiros cinco meses de 2026 - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJPRVg5Z093ZEgwdHQyTVpKN3NGQnhwQjE5RkV0UXU4NzVPaHhtaHZHeDNaa0RhZ2M4TzRiSWF6dFpOVGdKN2pKNXRtaUJjQzBGYU95T2RCY01iTm05QlVibnpRYlUzRFlNbFRtRERBSUxjVGZlS3I2LVNhc19QZHdweTZNQThiN0lDYUtXMGR6WFRKTFNCVHAtZmlISy0zNEF1SWhRUWZmZUFOdXEwYjVXdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-13T09:45:53+00:00"
+  },
+  {
+    "id": "0e5357e44096222307a723c9f9fbb5c4",
+    "titulo": "BYD lidera mercado de ônibus elétricos na América Latina - Diário do Estado",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYWQxbEp2Z1J2aG5tOGlKWFZvNUlYYk1OV09fcmVwUHRoaEFnLVZkRC1FcWJQZFJXMnRTQnJsSlRUZXpIakFFRlZCZDJHZXZ2NFFiU3JGSmp3MkJLY1lFZ2dkUzdmZHg4eGlmTW1FOWpHdkhPd0ZPVFR0VWJCTk5nSTQyZjJDN2dYWFNGZ3RVQWZ4UWc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-12T22:00:34+00:00"
+  },
+  {
+    "id": "1d7c02f5fc61ff58f6f2ac6979034f8e",
+    "titulo": "Elias Vaz Agueiro fala sobre os desafios do pós-venda, tecnologia e a expansão da DAF Caminhões - RCN 67",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeGZJTFdhWHFsaEFmWDl4RGV1cm51VW9sU29wdnZjajNSc3VHYkphQ3F3S2MyODk5bGJHZEYtaGZSRWx1TWZYdnY5a1hmVzBVdUwyQWNVUHZPZzJYVG9FQW9UbmFPbi1UalM4R3hBWWlURnM1VFpNbUhEeElmcGNrUHNvck5FTVFuU0dHZVFLbFVtOTVLdmFqb1haRjBud0gwQldjNDZxTnZJSmhpQ1hMd3UyVHIzd1JGSUh6SlhheE1ZRnh5ZVVFUGFPWklheXdJNzZjYnBR?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-13T17:34:00+00:00"
+  },
+  {
     "id": "5c572917a82ff63b410c0c7eb14e4637",
     "titulo": "1.Preço anunciado pela BYD para o Atto 2 é restrito a vendas corporativas",
     "link": "https://www.estadao.com.br/jornal-do-carro/preco-anunciado-pela-byd-para-o-atto-2-e-restrito-a-vendas-corporativas/",

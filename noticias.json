@@ -1,5 +1,32 @@
 [
   {
+    "id": "fd053774ff0c8c061dafbcc25f690363",
+    "titulo": "Scania entrega primeiro caminhão híbrido elétrico-diesel militar, e lança cabine blindada",
+    "link": "https://frotanews.com.br/www-scania-primeiro-caminhao-hibrido/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-16T08:27:59.600030"
+  },
+  {
+    "id": "e27b98229c1ae7a5d83383f8d63b0709",
+    "titulo": "4 dos 5 carros mais vendidos no varejo brasileiro já são eletrificados - InsideEVs Brasil",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDZBWVRhNXRBaDFTaDRJZkRNUFFnblF6ckVPLTAzR0Q3bmxrTUhLZlV0T0lfRHVTcjFoNFE3LV8zLWpwNjRnZ0lGWlBEd3hrVnpCMXVCa1RVazVMbDcwY084a3dvT3JZSmZ4VVFqTkgteG1ERDRKYVJRNWp3X19KdlVMclVtc0paYTZ4WHZDcEJXRm11WjN5Q1ZuT2xidw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-06T07:00:00+00:00"
+  },
+  {
     "id": "6b7bee798980c616e7489ca081f43f05",
     "titulo": "Volvo CE anuncia novo head de contas estratégicas para América Latina",
     "link": "https://automotivebusiness.com.br/carreira/volvo-ce-novo-head-contas-estrategicas-america-latina",

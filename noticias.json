@@ -1,5 +1,41 @@
 [
   {
+    "id": "4321b6efd92b65fd20bcb9d64e398965",
+    "titulo": "Renault Boreal híbrido já é vendido&amp;#8230; na Europa",
+    "link": "https://automotivebusiness.com.br/lancamentos/renault-boreal-hibrido-ja-e-vendido-na-europa",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-16T18:17:23.823018"
+  },
+  {
+    "id": "dc522bf6e44d210c7822794cdbdac680",
+    "titulo": "Audi abre pré-venda da dupla A5 Avant e A6 Avant e-tron no Brasil",
+    "link": "https://automotivebusiness.com.br/lancamentos/audi-a5-a6-avant-e-tron-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-16T18:17:23.823034"
+  },
+  {
+    "id": "585b00eca59586892177f65e3d08e734",
+    "titulo": "Produção de automóveis acumula 7,1% de aumento em relação a 2025 - al1.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVU4tVUh0aWxleU5RcnBFWU1LU0llcTZNRmh5ZzgwQTl1S3NIcXl3bVpoelNxM2RVWWtYY1FCZXZabnlIc1NlV0piWnJHZ1lQZWFaSTBrVUFEdWNOVjlJWXFzM2JNbHUwSGdEY19YUUUxb1NXbWtFOXlCekdCYzRiVXZyYWV2MUJMODUyeWVHdmkwSEVsM2xHejN5RVZCbFlRVjNWcVNVOGkzQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-13T17:06:42+00:00"
+  },
+  {
     "id": "fd053774ff0c8c061dafbcc25f690363",
     "titulo": "Scania entrega primeiro caminhão híbrido elétrico-diesel militar, e lança cabine blindada",
     "link": "https://frotanews.com.br/www-scania-primeiro-caminhao-hibrido/",

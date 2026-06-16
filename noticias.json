@@ -1,5 +1,118 @@
 [
   {
+    "id": "6b7bee798980c616e7489ca081f43f05",
+    "titulo": "Volvo CE anuncia novo head de contas estratégicas para América Latina",
+    "link": "https://automotivebusiness.com.br/carreira/volvo-ce-novo-head-contas-estrategicas-america-latina",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-16T02:09:11.174908"
+  },
+  {
+    "id": "6eecb0cf67ac01be41f06d771c72ed4c",
+    "titulo": "2.Caminhão russo Valdai 45 é &#x27;a cara&#x27; do Mercedes-Benz Actros",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhao-russo-valdai-45-e-a-cara-do-mercedes-benz-actros/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-16T02:09:15.903824"
+  },
+  {
+    "id": "fc2e8fd57465a988add8c3ca5e33cc3c",
+    "titulo": "Caminhões menores avançam e desafiam domínio dos pesados: veja os 20 mais vendidos. - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSmtDZE1LZjYxczRMWWplSmZXamJJN3BmeThMZkg4M2VIRnhVRzFIRkk4cE1UOVNnTlR3WGMxeEV3NTNJSmE3NkQ0MDAzN1ZObmZ4c0o5RnpqTTQ2dGU4R2piaDhsd0ZTSjI0RmtlQWZKUV9pQWZoQTRRWXgxOHBxRHB4dW9qdld3TVhMaUQ5WFQ0V3ItNVRDcGRTbEhubm9GZEJqUXVGaXBoSWFuM0NaRzltdm11WFEyNmQtd2tpX3ZTRkRlSmI2SXMybjdUekhNT2lF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-15T20:05:58+00:00"
+  },
+  {
+    "id": "e0092e212341dd2ff0b867d69df57239",
+    "titulo": "Produção de caminhões cai, mas vendas mostram resiliência no acumulado do ano - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR05uMEFwMW9aNlpCak5SOTUxWlVNTFNFejRrT0RsRUlyUkttNy1VZ3JiWnhyOWF5UmpoczdFelJpcEpLTDM1QU9yTHNrMHdRV0p0VEc1SFFqVGNIcHNkcDhxcjZaeFJ2NTVoTGxkYTRaekp1andDSkdJbURHS3RWUWhwN3h2OWd6QzFTTENsRk9yOEJJLU9RT05OcDFTWHNtYW80QmxBa1R0UUFNaEdIWXZOSXVrZEFGUnB4ZnVMS0k3YmVCRlJR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-16T02:00:00+00:00"
+  },
+  {
+    "id": "1b3ccf541c252a7979938042553dea76",
+    "titulo": "Venda de veículos novos cresce 15,3% e alcança marca histórica no Brasil - GC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGVJLVFIUm5zb2NDYktZaVB1WEpwVGcxMWNsNVZaQ3l4LWhUTjBVY183U3FfYWFWbG15LW41ZVYyakxleGY4YzZMYkVpczkzMUhkY19fVlNSY2d3M1hJbGF0MW9xcU43X1VndEVpX0ZTTFlEbFdaSjItaWJocnh0NmZmUmhPQ3JEd0Q0dXZpN0l4TUJtdlY0TVFiOHp5TUlYQzNVMFZ4dWdtcmsyTTZIZzlWS0t1WGs1?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T07:00:00+00:00"
+  },
+  {
+    "id": "496ad2f3b318a401883fd2ca983bb48c",
+    "titulo": "BYD lidera mercado de ônibus elétricos no Brasil e impulsiona recorde de emplacamentos em maio - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVpXOF9EZVBfYmZJTzhza0JiYUkyTkVkZVF1dDZkOGI5MHV0N2pBNDEwdzBlYTItcE5NbTdwdTJQLVVYVldBcGtPVU01dXFEbjFTUkNsR1BXQlF5Z2t5OTNxQktybmdmS3ZtdnlVdzBrOWxaNjZOc0piVXAtM1FtUXl0WTFWRHBfWHlSV3dfM29Wa0dhbjlublZ2MzNmNXd4bmg4QWlVUGxMQ0tudjRLTGk5dy1feTdLcDFPNERfMnpwY0kwb296MUhFblRzYUotMFhOaVBpbVBBY0VNdC1FTjBnVHU2Z9IB6wFBVV95cUxOdDdZRDZuOF9BWnRHSlhSbXRfTTczSmxrcndPT195cHZhXy0zRDVQY1ZLekM0TENPZ3ZEOWRqaUhhaDc5a082YW1fM25mci1uSkEtTldxcnc5N2RQaGdnZkdPdmpVbEZFMXNvX2U0X1lrcmlJaDlndkRteEMzMl8wVGlmdUdlNFRFQ3ozM2JHTWY5Ty1sLTJ1cVZ6ZU1vaGdRT0l5c2N4Ny1zV0RLbU1May1HdW1CVEtuZmtNRHB5YnJrT0ZqbWxzY2JHUmM4U2dhU0dEeEU5RGFBTjQxbXA4aUxJbjBFM2c4empR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-15T11:30:00+00:00"
+  },
+  {
+    "id": "e631b6f546b881d313fc90d445b96c8f",
+    "titulo": "Ingressos a US$ 10 mil e passagens de trem a US$ 98: Copa de preços exorbitantes afasta torcedores dos estádios - O Globo",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPOGRINVlTcy1oVUdrOGx5TzhZZVVXOXFna0lvajk2LTRHdnJaMzdkaFY5d2FfaVJadG82cmQ0cjROYWFRSWl0a2pncWt1akRyRGpzRW5YX3RMVTNRR0JuYzVHRTBfN0RyNzB5WURoaWM0Z2NKekUtY1k5a0RpMlBkZUZfOUtHdUJSeENOT3FmQTFJeTMzdlRSaGc1Y2J3UkRfbzh4NTJ3MUswSlAyWkNLX2I4UllKZFZrc2xGV1RxU1JjU2h4OE90YkZYX2VOWFlpeWlSM1pxSUdaZS00TkRPRk9UcUsxT0lkbGVKUTJ6M3M5S25BY0szbzZRWnd3c3R2cGR0U1U5VURGTVU2TFFUbm9TS2HSAaMCQVVfeXFMT1dLYW9kUTNnYzFBOEh2YkFQVWxMdGE5TlFaQ1d1dkVINzJ4VjZXdkNiVzE5S0tWR3ZQajFmNl9YX09hSmFHa3FsS1JCN3FyVGZBdHloNUZhRzVObEtQZTZIWTBwSmRnbFFTQUFwc09fVnJXZ3BYTjNtTXByTng1eHFsV1ZGaGF0QTJfOTlpNzN2UWlWQlFYQVpxaEpaZzVrdjJWcm54d25kbzl2cjNMNnpFWG5fZjJMV002WWZkeV9FQUYtNTZCQk83anpRY2Z2akJaek1qR1dmQmh1ZWJya2FwQ3RiandjX1BjZmpFT0xCdUVDV1FITUJKNndvNFhZdXUyRzJRdDhCRXZ6aTVTT09BVzVJbTB6dnhKdGxvM3JCa2dN?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-12T07:00:57+00:00"
+  },
+  {
+    "id": "46ea4becaad002f9fdc4ef341b2d040b",
+    "titulo": "Geely supera BYD em vendas em 2026 e desponta como nova chinesa avançando no mercado global - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWNrUjFYQmpJNUFONTRIN3BlczZHTjdvOUtoZDBtUll0aVJzanYxc1p2bThYOFFRaVRlRlQ4VW43MERaM0d5dC1odFNTM2dOVWpiMVJhSFAtZEFJVkxnamJSSnNzazV2MVdZX3J2bWpwb3RnQ3pSZmRRczYxRTZjWDlTaGJ5T0R2UUJZWHI4NWhnRHo5NlJCYXI3NnZpcWxqbWF4MWpMVkZkUnE4a1RYbVVYb3YyQndSYUp3Tzg5LXc4R05UaVVsbG1xUDFGRkNGekZZZ0t4cWFpYXfSAeABQVVfeXFMUEE0VmMtWExfQXdVenlrX3dDWU9oNDlwbllfTGh4ampHRnowVG5LZ2dVRWRjaFE4R25SbFlKaGlvNGxPRFFiNHRxREw2WW4yNk5KN0V2S0tsclNfODJKMDBKWW9sdXNZZmVfalNwbS1aVnFJWHk1TFZxUmxoSWJNVWZ4N3BrQ2MxcGVpck4zWkVrN2U4TXhZYkwzLW5lN3huNk9LYnBfeERETGo3R1JuMjJwTjZwZEkzd3VBMl8zTHlCMzV3TzNsTWZPR0Iwa0Q2UGdhSjhubmNPVlMxc1ZSX0g?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-19T07:00:00+00:00"
+  },
+  {
+    "id": "62ac564c69336858c4763af3ddc0b14b",
+    "titulo": "BYD aposta em taxa zero e bônus no usado para impulsionar vendas do Dolphin Plus - Fala Regional",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1gzb1cxZlRRbmszT245U0U4Si0ycndzNFhnTnQzaTJrTm9fYy14RGM5Y01oY0pHak4ta1pyYlN2c0NWWkpaby1USXpLdDRHcmc3cVBlcS1RZDQ2MElFT05jYl9MUFlMbHo3Z2tfOG1ZelN5aU00U3BTU05fVC1aRVpEajhpTG0xNG1CR3FvTUs1cElRdVczYUpWc2J2ZFpScklHZFlaYmwyQlVMenpobTBCWdIBvwFBVV95cUxPS0tYMUpGeXNaUWE1bzVpajNnT2o2RlB2bl81VlJNVGpUektRbThTMkdWdkM5RHpaVi1jOVFocklRNTROYWhLbE5BT1hsTW1nV0hFX0dpLTNJZHVlVkRxUlBrOVIyT2E1aTRsZF9XOTZNTlhkUHBuS1ZXY2hKdVhhdjJWMU5uUjZtelotQVlxaThYZXRYckFybWtZYnVHcWJUbm5xSTVXOVRDSS1sQnBkUFBNR1VTazVNQ0Vrb0Y5VQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-10T17:07:05+00:00"
+  },
+  {
     "id": "f24568341bf6fac6338e3cd2c3cb8290",
     "titulo": "Audi abre pré-venda de A5 Avant e A6 Avant e-tron no Brasil",
     "link": "https://www.autodata.com.br/noticias/2026/06/15/audi-abre-pre-venda-de-a5-avant-e-a6-avant-e-tron-no-brasil/106340/",

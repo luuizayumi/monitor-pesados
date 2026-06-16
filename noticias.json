@@ -1,5 +1,42 @@
 [
   {
+    "id": "749352efc89532201499bf904928e12a",
+    "titulo": "Produção nacional já impulsiona crescimento recorde de vendas de eletrificados leves no Brasil",
+    "link": "https://abve.org.br/producao-nacional-ja-impulsiona-crescimento-recorde-de-vendas-de-eletrificados-leves-no-brasil/",
+    "fonte": "ABVE",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-16T21:26:32.683800"
+  },
+  {
+    "id": "c147b665e3e5aeea3da7ada1d0c0a93a",
+    "titulo": "Vendas de caminhões caem 15,3% no quadrimestre apesar da expectativa com o Move Brasil - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnVVaS1WOXNEMlEwb3Q5TWhiem1IbTBFX0VhQmJzVmVDZzY2V1BEYlVjSXZQbU94UW5hX2w3SFZ5WmdvdGNlS1FqZklXdk10bWlEMHZsRHJYSFN0RmZUN2VfVGVHSTEzZjFteVM0bWROU29rNTZLd0FmY21TbUdLTU1zQXhfY09PcmQ5ZUlJZ3NoTEFZM2dMQUxfNnVMOUp1TXcxVHlRT3dTZTlkZVE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T07:00:00+00:00"
+  },
+  {
+    "id": "8ff971610dde13213a081432d38010f7",
+    "titulo": "Jaé será vendido em bancas de jornal do Rio: comercialização começa nesta terça-feira - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSk8yOGlUMUM2bXY3SGdxQ2o1R0ZPQWpRY1FTdVZRR2hFZ3c1Vjd0RkZUVVd3b180Yl8xM1o3Rjc1QjhDdWRwTDBPakJ0UWJJUW1EYjFJNkNfNUx1Mm4tLWs4Znh6RElabGVhelNjX09naG9QUGNxVllKR0s4STg5RnhfMzg0dmRLb25sQ2xpRUJSUVNnUk13VGtvOGgzODd0LVB3Z2ViTS1XT2RpalltTmtCLUZGUEw1U25tS1YtbHQwX1dqUzBfYW9QbHF6a2U0VmxlYtIB4wFBVV95cUxPbEZEUG1FVEd2Skd0QUFBSTlqQS0xTXJZbXhUeENRVExDNjVHQnNmOWVPVTR6S3RDVmhXSXJXM3ZlUWJSX3J0MGEtOUJmdWs4cDBybHZPaXBWT0hyZ29VX3FrSENwNW1Nek9iSjhTNGpCNHc1d29vQm5Zazk4X2xmbU9EenJBVDkxOGxidW1vaUpfWFRuVlRwdF9tX0s1bVJXaVNFZ1BXRUM5SlVIMllnWGEzYnVlYzFRQVRfa01rNi02OXBfWlVRMXZfUkVpNG5BTU52Zm9IaGhMbTVXYWtfZ1QyRQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-25T07:00:00+00:00"
+  },
+  {
     "id": "4321b6efd92b65fd20bcb9d64e398965",
     "titulo": "Renault Boreal híbrido já é vendido&amp;#8230; na Europa",
     "link": "https://automotivebusiness.com.br/lancamentos/renault-boreal-hibrido-ja-e-vendido-na-europa",

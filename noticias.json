@@ -1,5 +1,29 @@
 [
   {
+    "id": "d4c2f0abda22ae08dc0d2f5f063f2276",
+    "titulo": "Scania acumula quase R$ 1 bilhão em liberações do Move Brasil 2",
+    "link": "https://www.autodata.com.br/noticias/2026/06/16/scania-acumula-quase-r-1-bilhao-em-liberacoes-do-move-brasil-2/106424/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-16T23:06:44.457014"
+  },
+  {
+    "id": "4805220a77bda045cf3e5a02ca999129",
+    "titulo": "Volkswagen cortará mais 28 mil postos de trabalho na Alemanha",
+    "link": "https://www.autodata.com.br/noticias/2026/06/16/volkswagen-cortara-mais-28-mil-postos-de-trabalho-na-alemanha/106371/",
+    "fonte": "AutoData",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-16T23:06:44.457035"
+  },
+  {
     "id": "749352efc89532201499bf904928e12a",
     "titulo": "Produção nacional já impulsiona crescimento recorde de vendas de eletrificados leves no Brasil",
     "link": "https://abve.org.br/producao-nacional-ja-impulsiona-crescimento-recorde-de-vendas-de-eletrificados-leves-no-brasil/",

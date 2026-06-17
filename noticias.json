@@ -1,5 +1,80 @@
 [
   {
+    "id": "88dde836e3a474fcf255d984d9ca25d1",
+    "titulo": "Mercedes-Benz Trucks apresenta números de economia com diesel em operações reais com caminhões elétricos",
+    "link": "https://frotanews.com.br/viabilidade-caminhoes-eletricos-operacoes-reais/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-17T18:43:09.853846"
+  },
+  {
+    "id": "23d032cdc1b4f9a53ea18a2f9f1d1b1e",
+    "titulo": "Move Brasil 2 dispara e já usa metade dos recursos para renovação de frotas",
+    "link": "https://frotanews.com.br/move-brasil/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-17T18:43:09.853859"
+  },
+  {
+    "id": "29b942e9def4b2f76e4e641d8610b9bd",
+    "titulo": "Farizon lança Oficina Móvel SuperVan e amplia suporte técnico para frotas elétricas no Brasil",
+    "link": "https://frotanews.com.br/novos-veiculos-eletricos-da-farizon/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-17T18:43:09.853862"
+  },
+  {
+    "id": "5a10d41eb7fb28b4595a33c5f7a40c95",
+    "titulo": "Frota 162 lança Check-list de Veículos digital e amplia controle sobre riscos operacionais nas frotas",
+    "link": "https://frotanews.com.br/gestao-frota-162/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-17T18:43:09.853865"
+  },
+  {
+    "id": "c0725cfb936df721fd52e61280c735b9",
+    "titulo": "Future Mobility: Farizon e Foton são as marcas com foco em frotistas confirmadas e com veículos para test-drive",
+    "link": "https://frotanews.com.br/future-mobility-2026/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-17T18:43:09.853867"
+  },
+  {
+    "id": "8b6d14dc908577c8ffaa9799b59080f7",
+    "titulo": "BYD Dolphin supera vendas do SUV Tracker na primeira quinzena de junho - AUTOO",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjNsdnJoZHZGWTJlWi1Mb2tod2c2VXdHengwQTR2dXJ2RGxEOUwtem5sT2M0VTJRN1NsVHNhZVlLbXB3eVJ2VHZnUk4zNUVjMGxSNEhpSTl1UEs2bERPX0NTZjEzT1oyV3p3SURsTExPbDVqZzc2QnFtbkxJMElhZGxzWlE2UGJWYk1SNk4xb3gzSWdVX1JyUlpsR0U?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-16T21:06:51+00:00"
+  },
+  {
     "id": "86b62aec77bd80d256022253eba8f7a7",
     "titulo": "4.Scania 30 G, primeiro cavalo mecânico elétrico da marca, chega por R$ 2,5 milhões",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-30-g-primeiro-cavalo-mecanico-eletrico-da-marca-chega-por-r-25-milhoes/",

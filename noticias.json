@@ -1,5 +1,41 @@
 [
   {
+    "id": "05b5eb86e5da62f28e3f57b67fbfe4c3",
+    "titulo": "Vendas de veículos avançam 26% na primeira quinzena de junho",
+    "link": "https://www.autodata.com.br/noticias/2026/06/17/vendas-de-veiculos-avancam-26-na-primeira-quinzena-de-junho/106569/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-17T21:10:08.034250"
+  },
+  {
+    "id": "c57d807099ceb1e726a73c59007699dd",
+    "titulo": "Cinquentona CG representa 30% das vendas da Moto Honda",
+    "link": "https://www.autodata.com.br/noticias/2026/06/17/cinquentona-cg-representa-30-das-vendas-da-moto-honda/106503/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-17T21:10:08.034268"
+  },
+  {
+    "id": "5902b43edeb95d33b352a135f515b5d6",
+    "titulo": "Banco Mercedes-Benz amplia condições de financiamento para caminhões, ônibus, Sprinter e automóveis",
+    "link": "https://www.autodata.com.br/mobility/2026/06/17/banco-mercedes-benz-amplia-condicoes-de-financiamento-para-caminhoes-onibus-sprinter-e-automoveis/106508/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-17T21:10:08.034273"
+  },
+  {
     "id": "88dde836e3a474fcf255d984d9ca25d1",
     "titulo": "Mercedes-Benz Trucks apresenta números de economia com diesel em operações reais com caminhões elétricos",
     "link": "https://frotanews.com.br/viabilidade-caminhoes-eletricos-operacoes-reais/",

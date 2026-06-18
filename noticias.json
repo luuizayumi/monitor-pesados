@@ -1,5 +1,82 @@
 [
   {
+    "id": "90dfabfbee6a7eac954160eecd161410",
+    "titulo": "Antes de chegar ao Brasil, Kia lança Tasman na Argentina",
+    "link": "https://automotivebusiness.com.br/internacional/antes-brasil-kia-lanca-tasman-argentina",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-18T12:56:36.552983"
+  },
+  {
+    "id": "8825b989fa6f77e147cb88ddec62ef78",
+    "titulo": "3.Nem Gol, nem Strada: Honda CG é o veículo mais vendido do Brasil e vira cinquentona",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nem-gol-nem-strada-honda-cg-e-o-veiculo-mais-vendido-do-brasil-e-vira-cinquentona/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-18T12:56:41.203545"
+  },
+  {
+    "id": "a3b17876b11296c337d522965052f910",
+    "titulo": "Master Freios celebra 40 anos com 20 milhões de freios produzidos - Balcão Automotivo",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1hZX0UxMTNoNVZnVTNtUXVYZG82a24yZlNQSkxqYmhfd3RLbjRqbWdYR2Y3TUEtSm4zZmx5TnlscUtfRGY3YWE4R2lZTE4yY1VONlp2UmdLYXFYOVo4bXJsR0luWGhlTVhKMUZCOUN2bXJaOHB1bWRESTF6OEhEV0hUdmpORDVKTzdqQ0p3TjN1bFlVSlBCcm9jdUVlRnpOQUpyQmxNME1lNWJiajBB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-12T19:42:33+00:00"
+  },
+  {
+    "id": "b598d6b1855ddb5def8937d37b828545",
+    "titulo": "SUVs mais vendidos no Brasil em junho — dia 16 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnRNcjNDRG1EQTA1TzlXd3lzYzQ0TjNKWU5kSmpFYkhWdDlmMzhvN2xGTGQ2WjN0OEFYbGcxWXJxWDR6NllzOV9DVkplZEZ1TFZjYmh4WGFzdkoxZF8tcTRzbHVFLVhQSE5rTExyNjM1dVl1RjMzSnFtYkY1MUQ1bg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-16T10:59:00+00:00"
+  },
+  {
+    "id": "cb835e50460c2fd0a744c4805ed336dc",
+    "titulo": "PROGRAMA DE DESCARTE CONSCIENTE DA ABRAFILTROS JÁ RECICLOU MAIS DE DOIS MILHÕES FILTROS NOS PRIMEIROS 4 MESES DE 2026 - Petronotícias",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaWN5ZTlDWGRtQ2JiTjk0dGhxT2VlMm1iZmEtYVhBNXpnbVpzclVreHBjeklkNFRIZ2RlczE4amJWZkduNnFHbXdGMzJOcmdMTU9mVkJhREVpbXYzUW10UGxGNzlWU1ZXWUprMGtPeUtWYjVNRHZQT3A2emNzTlBtNWVqaTdoTzU0di1ZWDctZzZnd2NhWG52T2ZYbWM0MEJkaEsyZVl3SzdHWUhYSFE4RHJDQjJwVFlPS3ZmZ1FCWXJMWmQxLVRnT0ZFRXF2ZlFqRTlBOXVreFBNWjl6MGRENg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-17T22:00:00+00:00"
+  },
+  {
+    "id": "5248b66bd697abe29baae64cd46db6f7",
+    "titulo": "DAF Caminhões Brasil anuncia novo diretor de vendas - aRede",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVFIc1VORXpzakVudEt6TmdJb2k4dmdRZExYbEprMXVhMG54NjFCWWwwQy1nYXZkZ056WVVST1BrRlNQc09MME1iU3o5ZW02bW1uZGtMRGJMTGJaLWJWTENTZGN0NklNVHJpNTlkbWdnb0NBLU5RcF9xb1VNSlp1LTJOOW9kTnhCeGFFYWVCMWNLTjJILXJrbXl0V3pDUUlOcEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-18T04:00:37+00:00"
+  },
+  {
     "id": "b9faf901eee59931b5d991facd434d77",
     "titulo": "Produção e vendas de veículos sobem em maio ante abril, diz Anfavea - InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjBRbERCOU82bVBMYWQxMXhGOV9neFVVQWM5eU8yMXhYeFFVN21PSHVENzA2RUg4Zi1vNFhuMWpoR1J4VEY4d3ZLWUpZdGNWbXFHaG0tQjA1bjA2YUp6R0MyZVhEQng4MVJYYzhQMTVDVGZOQ1dtNzBjMmxaVENCN2lCMlJYaHd1dWNkcWdjUnlSZnpBUnBrNzZ2VmE0WW1ZUXhuV1J3dmbSAa4BQVVfeXFMTVpCYzJSbGxyNTJJSFhrVlRJUXp5cTFBb0JBRmx5cGZtZ3FZbVk2bzc1ZlktMFVrU2l4eFMtRFNfWmNtakxXczJjbklRdF82XzZoNUVMMUpoWHdIS1NKZVhLcWxvWlpmRWpva0lBd19aWFlIbExGRHJvYWw5WXhPUElzZEFVVnNnOVl0T3F6cDV2eFFkZlN0azlwN1pyamZnTFozbDJ6T2lGNjlnS2NR?oc=5",

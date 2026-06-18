@@ -1,5 +1,30 @@
 [
   {
+    "id": "556a09f43c41924c039558b8405e5d38",
+    "titulo": "Stellantis descarta venda da Maserati e negocia parceria para a marca na Itália",
+    "link": "https://www.autodata.com.br/noticias/2026/06/18/stellantis-descarta-venda-da-maserati-e-negocia-parceria-para-a-marca-na-italia/106688/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-18T22:12:29.870881"
+  },
+  {
+    "id": "39136a79883004eab0821399765a63e3",
+    "titulo": "Mesmo com caminhões modernos e GPS avançado, conhecimento humano segue decisindo operações",
+    "link": "https://frotanews.com.br/experiencia-motoristas-supera-gps-nas-estradas/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-18T22:12:32.157372"
+  },
+  {
     "id": "d39d6007020c1649d83028049a790146",
     "titulo": "Foton lança linha eAumark mais eficiente para ganhar espaço no Brasil",
     "link": "https://www.autodata.com.br/mobility/2026/06/18/foton-lanca-linha-eaumark-mais-eficiente-para-ganhar-espaco-no-brasil/106670/",

@@ -1,5 +1,56 @@
 [
   {
+    "id": "b9faf901eee59931b5d991facd434d77",
+    "titulo": "Produção e vendas de veículos sobem em maio ante abril, diz Anfavea - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjBRbERCOU82bVBMYWQxMXhGOV9neFVVQWM5eU8yMXhYeFFVN21PSHVENzA2RUg4Zi1vNFhuMWpoR1J4VEY4d3ZLWUpZdGNWbXFHaG0tQjA1bjA2YUp6R0MyZVhEQng4MVJYYzhQMTVDVGZOQ1dtNzBjMmxaVENCN2lCMlJYaHd1dWNkcWdjUnlSZnpBUnBrNzZ2VmE0WW1ZUXhuV1J3dmbSAa4BQVVfeXFMTVpCYzJSbGxyNTJJSFhrVlRJUXp5cTFBb0JBRmx5cGZtZ3FZbVk2bzc1ZlktMFVrU2l4eFMtRFNfWmNtakxXczJjbklRdF82XzZoNUVMMUpoWHdIS1NKZVhLcWxvWlpmRWpva0lBd19aWFlIbExGRHJvYWw5WXhPUElzZEFVVnNnOVl0T3F6cDV2eFFkZlN0azlwN1pyamZnTFozbDJ6T2lGNjlnS2NR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-12T15:42:11+00:00"
+  },
+  {
+    "id": "fa97683c010845e7774e4a0f50dbf0f4",
+    "titulo": "Produção e vendas de veículos no Brasil sobem em maio ante abril, diz Anfavea - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdU1EUjRham03UnZHTUplbGp6SFQzaEF6amkwTkdfQjdCTGNYdGVJYU1Vd2dSeTZ2QV9RMTVkTjhVTTRtMzBzRzV5c2VyR3VHRExuMzFTMWpGdFZYMUwwTmNaMlNiX0syQS1fcGxqLXpYRUVGRXROb2hQRi1XMjAzWTZmZXA1MkRXdFlqQjYxYmRXdVNDVUR1VlJqUXFTcVAwcmNjUXZnenQ0UXJqSnBrVFN2d25hQ0I5MGlhQjFMa01uVlpjWTBELU5DZHR4TEVscnAtVi0wbzBRZzhEcWhDekEyVWg4Y0RTUEpiLQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-12T16:06:00+00:00"
+  },
+  {
+    "id": "40b9b0df41b517c350faa81f244ba9b7",
+    "titulo": "Eletra entrega o milésimo ônibus elétrico no Brasil - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDJRNXl4ak4tRzh5U0xZQnpwUE41anBEaVQ4WnVjOGZEbGRuMWZGLS1BS1RsVlpiOXptS0dmWnhEeTYzZ2FMenk3dE4ybERxU19XUnhCMjB6QnVlVXJoZVotWklBN2hOZGpWSHUwTkJPaEZSLVZMZHlxTDZnak1XeERRWnZIZE9ob2NyZFAyU00?oc=5",
+    "fonte": "Google News",
+    "montadora": "Eletra",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-05-26T07:00:00+00:00"
+  },
+  {
+    "id": "a5ee43db52d51c98900eacac91b7a45c",
+    "titulo": "Gobrax anuncia novo diretor de pós-vendas - ClienteSA",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lOWdNZndFa3ZQeUxjZGJjM3FRQVVnYUM3TDlyVGJnTlhZY3lmbFdvdUJqWjczSmN4LUowU3lqcjROQTNFdEFVY241SkNtTEg0dUF3QkpXQkNZOG5PWkhzTlFTamNLR1RDX1JlUG9zZmFVQXZUaUtXTk1DdmFsYWM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-15T15:03:14+00:00"
+  },
+  {
     "id": "8501cc948c3c055bf13f69d6449d43df",
     "titulo": "Vendas de veículos avançam 26% na primeira quinzena de junho - autodata.com.br",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenEzMlN6bXg5UmJDc3JSZEJFYlQzUTVHOGN6ZzQ1cmRLejRBUDV0X3AtN2JCUVNteXRBaGZleHRuaS1FTDBiMUhJREdzNVNnQkROS0Z4c3hFbHFPM0lGUElTcEtBbC14dzRSWUloTzJTb2QxMVQ2Q2JRYTQ0Smp1NWFKQkgtRVdEWC01Q2hOY2lnbkI0YW85UlZGdDFoOGwxNE5aMDhHUHV5SDRTVDRNUDMyWWgzZw?oc=5",

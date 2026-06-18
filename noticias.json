@@ -1,5 +1,29 @@
 [
   {
+    "id": "d39d6007020c1649d83028049a790146",
+    "titulo": "Foton lança linha eAumark mais eficiente para ganhar espaço no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/06/18/foton-lanca-linha-eaumark-mais-eficiente-para-ganhar-espaco-no-brasil/106670/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-18T19:31:29.218602"
+  },
+  {
+    "id": "38a94fb445233eb5ba06bcf1d49b6b4e",
+    "titulo": "Marcopolo fortalece presença no Chile com entrega de 36 ônibus Paradiso G8 1800 Double Decker para a ETM",
+    "link": "https://frotanews.com.br/marcopolo-entrega-36-onibus-g8-double-decker-etm-chile/",
+    "fonte": "Frota News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-18T19:31:30.974044"
+  },
+  {
     "id": "80d1f23d37267a46012b9d49167863c6",
     "titulo": "Projeto nacional levará curso de manutenção da mobilidade elétrica a 50 escolas",
     "link": "https://abve.org.br/projeto-nacional-levara-curso-de-manutencao-da-mobilidade-eletrica-a-50-escolas-e-busca-apoio-da-industria/",

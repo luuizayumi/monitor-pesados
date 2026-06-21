@@ -1,5 +1,19 @@
 [
   {
+    "id": "1d7ba7b403db20f92aee3830361a5b74",
+    "titulo": "Ônibus elétricos: São Paulo amplia maior frota sustentável do Brasil com 500 novos veículos",
+    "link": "https://frotanews.com.br/onibus-eletricos-eletra-sao-paulo/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-21T20:12:40.429966"
+  },
+  {
     "id": "01934c8ea2cf4423e7fa641959d9ff57",
     "titulo": "Cummins aposta no biometano para transporte pesado: X15N nos EUA, mas qual o caminho para o Brasil?",
     "link": "https://frotanews.com.br/uso-do-gas-cummins-motor-x15n/",

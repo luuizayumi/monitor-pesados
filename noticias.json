@@ -1,5 +1,43 @@
 [
   {
+    "id": "c101c4a1573b55603623330bbf87e5ca",
+    "titulo": "Produção de motocicletas cresce 10% e vendas são recorde até maio",
+    "link": "https://www.balcaoautomotivo.com/2026/06/22/producao-de-motocicletas-cresce-10-e-vendas-sao-recorde-ate-maio/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-22T08:39:06.732135"
+  },
+  {
+    "id": "ce7a4a11855cfc77d0ca9323b89908e2",
+    "titulo": "Financiamento de veículos cresceu 3% no Rio em abril - Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNy1jWmxkV0dWTkpYbzF5NVVocnZmQmV2dXFrS3lqaGlfZkV4ZkRRdXQxY3B5NmpmMVlVZng2am9zR0FxaG94SmJ5VVZwdFZaRTZCSlV2ekQ3eTkxSFN6SXFpNDFyTjhGYlFLWmdXalhkWmJwRGEyZ0wxOFVQV0hCcWJ6QXJ5dmFmMGwzTA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-19T16:09:45+00:00"
+  },
+  {
+    "id": "f223ecc9cd09946b4ff27447d464c362",
+    "titulo": "São Paulo entrega 500 novos ônibus elétricos e lidera frota sustentável do país - Jovem Pan",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMk5JVDFYODlPZmZySnhMdC1iS0xsOUtudTdqQ01NcEtCdHJrTGVLVzNaQXFFWjhJUEEyYXdnQ0w0UE5UdlQ0QWFQdnNRbmhwUmhEUVJlVkRSelp5Sm1PeURhWEZJdDRYcDZkdldzOVZXRG5LOGJvSXFRVXJJaWN0X1MxVlFPZHVDcnNLRXY3SkEweVhZ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-21T17:39:56+00:00"
+  },
+  {
     "id": "ab4ac926a5a582ca6d96e868903da6e2",
     "titulo": "5.Foton lança caminhão semileve Aumark S 315 com transmissão automatizada; veja o preço",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/foton-lanca-caminhao-semileve-aumark-s-315-com-transmissao-automatizada-veja-o-preco/",

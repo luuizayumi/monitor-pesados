@@ -1,5 +1,30 @@
 [
   {
+    "id": "3c68caf9d0684b0580b1d458b12f05df",
+    "titulo": "Prefeitura de São Paulo entrega quinhentos novos ônibus elétricos",
+    "link": "https://www.autodata.com.br/noticias/2026/06/22/prefeitura-de-sao-paulo-entrega-quinhentos-novos-onibus-eletricos/106897/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-22T21:32:16.184195"
+  },
+  {
+    "id": "89e488a332e15bb8809891af64641e0b",
+    "titulo": "Move Brasil 2 acelera compras e deve ter recursos esgotados já em julho, aponta Scania Banco",
+    "link": "https://frotanews.com.br/move-brasil-2-esgota-recursos-julho-scania-banco/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-22T21:32:17.515183"
+  },
+  {
     "id": "e4f181c395d333c48c2c3c48c517bb8a",
     "titulo": "Turnê da FAW Trucks pela América Latina gerou vendas de 1.640 caminhões para países vizinhos do Brasil",
     "link": "https://frotanews.com.br/faw-trucks-expansao-america-latina-1640-caminhoes/",

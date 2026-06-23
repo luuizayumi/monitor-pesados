@@ -1,5 +1,31 @@
 [
   {
+    "id": "acdc5658a6c2fdb94e4403d9429a512e",
+    "titulo": "BNDES aprova R$ 340 milhões para ampliar frota de e-bikes da Tembici e reduzir custo para entregadores",
+    "link": "https://frotanews.com.br/e-bikes-para-entregadores-bndes-tembici-ifood/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-23T20:34:30.448560"
+  },
+  {
+    "id": "82c487f1e44bbf22105d881af8f4ef66",
+    "titulo": "BYD já supera Fiat no Top 10 dos automóveis nas vendas parciais de maio; Saveiro é ultrapassada pela Ranger: já é o efeito Tukan? - Notícias Automotivas",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3BIV0wzUEc1MTNKUzRPdWdDU2QxUTNveXo5UzNEaUwwSkhKQlB0dkxSOWlRc01mdDJVLTNLckgyaU1xNk9UXzVZcE9UVm41VmM5dklhWWxLVmtWS0FwNDdaTVNUVjJuWWxVQWtza2E1Z0hURGVHcHFhb2NwM0VLbC0xODltTlgtY0UzSjhzX0Q0Q1kydUoxdjc2T0ZYc0JtcVZfWXZjbmxNV3BkUDAwazBsS3p1SGhYUGx4aEdlSVdfSHpKVlhZd0d6dkVNX1QwMkJqcERCdHBSQ0NhTnBHRnBfaVBxcGUwT3UtczlnVXQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-05-30T07:00:00+00:00"
+  },
+  {
     "id": "877b77902b44ed4b2e22dcde8953ffd8",
     "titulo": "Mercedes-Benz amplia presença da eSprinter na frota elétrica da FedEx no Brasil",
     "link": "https://frotanews.com.br/mercedes-benz-esprinter/",

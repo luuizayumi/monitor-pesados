@@ -1,5 +1,44 @@
 [
   {
+    "id": "f44e11892f2dcc47d31907051e7efef8",
+    "titulo": "4.Caminhões a gás avançam no Brasil, mas ainda representam 0,1% da frota pesada",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-a-gas-avancam-no-brasil-mas-ainda-representam-01-da-frota-pesada/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-23T23:36:27.758677"
+  },
+  {
+    "id": "d8af9db3714d8389f202a738f8152ef0",
+    "titulo": "Com elétricos ganhando espaço no país, BYD celebra marca histórica e entrega o Song Pro GL como o carro de número 300 mil no Brasil - Notícias Automotivas",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSUY5U3A3V3U5Y0FWemZONDhIVUg3WWUxYV9zZ3VqLVRZb2VXZ3JmUHRpZFdLbFZBazFZYUlJSGIwRmpHZndJRWdvd3EwNi1GenFaZlJYcWt6RFNWMGx2NkQta3dwYWhrbmlfaUVOUy1waVJYS2M4dEZzY1N6V0ItRHRrOXRVYWU3MWdRSTl0V2FyR01kbENGWmdWcXB6RHQ3bjlWMkM5bmxIY1pLbHpqTVprc1VxWkthc2VsMDZxbEpMcjA2Y2MtYmFPOGgxNi1YRlRza29lbllxRk4yNUJrYmlnN3FKT0RSTDI3WlpRbnlSUUFwbkplX0NUeUgzcEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-22T19:23:40+00:00"
+  },
+  {
+    "id": "a4474bc4bbc4265e6ed1d53472e31938",
+    "titulo": "BYD antecipa preços do Dolphin G DM-i antes das vendas completas e mira rivais locais; com subsídio, o hatch pode cair para € 18.990 - Notícias Automotivas",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWmpQcWYtUC1nWU9NX0Vhd1drdHVGdlhXbEMwNFVJZU9WckV0Z0tLcFI2V3NrVGExWEdOWFRzVU9YNjhkRGprRWljeTZGQzZZVDRlb0ZWQ2d1RUVVblVVOUItalRMS2F4Mnk0Y2lZc0xza3JXdDRJaDZDazdrQXllaXh4UUdLTnJoVnVZQzM5OFJOdE9kbE1uaFdobEw0ZDRQNXA5QzVTZEE2Z3lubGFkMk9NMS1CYVJiYWxWcHlMdUtJSzlHTGlhQ3Z4UE5iZ2NIMVBzam1jSkV6UUZYUG52VjlKaloxUHlwRHlmNnRHTjRHN1EzbHZHZ0p3VG5DMm8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-13T07:00:00+00:00"
+  },
+  {
     "id": "1193a2bb0ff2619a3a21b95ca01e07a3",
     "titulo": "Brasil amplia presença dos ônibus elétricos e acelera transição para frotas mais limpa",
     "link": "https://abve.org.br/brasil-amplia-presenca-dos-onibus-eletricos-e-acelera-transicao-para-frotas-mais-limpa/",

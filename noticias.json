@@ -1,5 +1,42 @@
 [
   {
+    "id": "1193a2bb0ff2619a3a21b95ca01e07a3",
+    "titulo": "Brasil amplia presença dos ônibus elétricos e acelera transição para frotas mais limpa",
+    "link": "https://abve.org.br/brasil-amplia-presenca-dos-onibus-eletricos-e-acelera-transicao-para-frotas-mais-limpa/",
+    "fonte": "ABVE",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-06-23T22:16:13.580356"
+  },
+  {
+    "id": "4471170d6ebffd018abfccd53caa8ecb",
+    "titulo": "Zeekr 7X Premium entra em pré-venda no Brasil por R$ 378 mil",
+    "link": "https://www.autodata.com.br/noticias/2026/06/23/zeekr-7x-premium-entra-em-pre-venda-no-brasil-por-r-378-mil/106966/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-23T22:16:33.342227"
+  },
+  {
+    "id": "551fe52e8bef5526ed0c0479d3a83df4",
+    "titulo": "1.Caminhões a gás avançam no Brasil, mas ainda representam 0,1% da frota pesada",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-a-gas-avancam-no-brasil-mas-ainda-representam-01-da-frota-pesada/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-23T22:16:36.876675"
+  },
+  {
     "id": "acdc5658a6c2fdb94e4403d9429a512e",
     "titulo": "BNDES aprova R$ 340 milhões para ampliar frota de e-bikes da Tembici e reduzir custo para entregadores",
     "link": "https://frotanews.com.br/e-bikes-para-entregadores-bndes-tembici-ifood/",

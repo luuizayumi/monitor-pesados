@@ -1,5 +1,43 @@
 [
   {
+    "id": "796e35e3eeb03452d348e8a2bd92b9ec",
+    "titulo": "Vendas de veículos na União Europeia mantêm alta de 4% até maio",
+    "link": "https://www.autodata.com.br/noticias/2026/06/24/vendas-de-veiculos-na-uniao-europeia-mantem-alta-de-4-ate-maio/106979/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-24T19:56:59.996883"
+  },
+  {
+    "id": "739c9e52a9ce92c5a43f0061284fbd7b",
+    "titulo": "Scania começa a fomentar mercado de caminhões a gás seminovos no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/06/24/scania-comeca-a-fomentar-mercado-de-caminhoes-a-gas-seminovos-no-brasil/107054/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-24T19:56:59.996899"
+  },
+  {
+    "id": "961bc9b4e991854af0085afdcad7f122",
+    "titulo": "Guanabara e Luck Viagens avançam na renovação de frota no Nordeste",
+    "link": "https://frotanews.com.br/acao-fenatran-renovacao-de-frota-guanabara/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-24T19:57:01.575865"
+  },
+  {
     "id": "13784486fa20d0b0875702220ea435fd",
     "titulo": "Future Mobility mostra veículos para diferentes segmentos: de patinetes a caminhões pesados",
     "link": "https://frotanews.com.br/future-mobility-2026/",

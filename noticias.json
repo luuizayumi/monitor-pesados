@@ -1,5 +1,42 @@
 [
   {
+    "id": "95224b4327ecfaad902ea6d6672330be",
+    "titulo": "BAIC estreia no Brasil sob comando de ex-GWM",
+    "link": "https://automotivebusiness.com.br/mercado/baic-estreia-brasil-sob-comando-ex-gwm",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-25T17:29:49.627256"
+  },
+  {
+    "id": "548d9c38a80da2a68842f00649d333d2",
+    "titulo": "93% confiam na IA na logística, mas supervisão humana segue essencialLevantamento mostra que inteligência artificial ganha espaço na logística e já influencia percepção dos empreendedores sobre eficiência operacional",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/93-confiam-na-ia-na-logistica-mas-supervisao-humana-segue-essencial/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-25T17:29:55.306406"
+  },
+  {
+    "id": "710d66b61b98c8969e562c9dde4a89a8",
+    "titulo": "Caminhões a gás avançam no Brasil, mas ainda representam 0,1% da frota pesada",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-a-gas-avancam-no-brasil-mas-ainda-representam-01-da-frota-pesada/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-25T17:29:55.306423"
+  },
+  {
     "id": "26f987d3659b98c71a7ffef2075702df",
     "titulo": "2.Motorhome com preço de R$ 8 mi é mansão sobre rodas",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-com-preco-de-r-8-mi-e-mansao-sobre-rodas/",

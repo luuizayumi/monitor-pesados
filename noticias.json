@@ -1,5 +1,29 @@
 [
   {
+    "id": "b4d5403800312cb287a541e0ea072859",
+    "titulo": "2.93% confiam na IA na logística, mas supervisão humana segue essencial",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/93-confiam-na-ia-na-logistica-mas-supervisao-humana-segue-essencial/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-26T11:46:07.243158"
+  },
+  {
+    "id": "eb5a6b8581e17d7ad4d87c8b7c1dc9e8",
+    "titulo": "Geely EX2 será produzido no Brasil após disparar nas vendas - Auto+ TV",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2NSdXptZzJNY0lMSEI1cEtGQ3dvRS1wd1NJc2ZLQnFPOU9zZTItbGdsZThFQ2ktdGptekZpVDNZQnQ4eWVlVDlPRjBzY2FkSk05cXNXSnZMUWh3RUNWZGc4U2pqbEpkRG5nVXRpb0JOZ0k5aV9hckFyeVFIM2RLRy1IS25pX1VGTEJqdGN2eTBad0VHbE96bmxCT2h4TjlpYlE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T07:00:00+00:00"
+  },
+  {
     "id": "89ed318e81359844a43b1cbe3136aa08",
     "titulo": "Aposta em 2.000 caminhões a GNL no Brasil une Nimofast, Edge e Green Cargo com uma frota recorde para descarbonizar transporte",
     "link": "https://frotanews.com.br/alianca-8-bilhoes-caminhoes-a-gnl/",

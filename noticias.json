@@ -1,5 +1,17 @@
 [
   {
+    "id": "ba4d4a558b49d190e7486bc484604dc2",
+    "titulo": "4.Esportivos usados têm revenda complicada",
+    "link": "https://www.estadao.com.br/jornal-do-carro/esportivos-usados-tem-revenda-complicada/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-27T22:05:15.791169"
+  },
+  {
     "id": "19a9b10b235ae07b0513ece80f990e03",
     "titulo": "3.Automóveis Polo e Argo têm 70% das vendas para CNPJ; veja",
     "link": "https://www.estadao.com.br/jornal-do-carro/polo-argo-70-vendas-para-cnpj/",

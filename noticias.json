@@ -1,5 +1,30 @@
 [
   {
+    "id": "19a9b10b235ae07b0513ece80f990e03",
+    "titulo": "3.Automóveis Polo e Argo têm 70% das vendas para CNPJ; veja",
+    "link": "https://www.estadao.com.br/jornal-do-carro/polo-argo-70-vendas-para-cnpj/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-27T20:38:33.276923"
+  },
+  {
+    "id": "04f9d88568be7eff82f4ec8045cdfa17",
+    "titulo": "Indústria automotiva tem melhor maio em sete anos com 253,5 mil veículos - O Estado CE",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1p3X2E5VVpUMFl6SFhKRURXYzA5XzFQblo5NDFNYUZzeE9lcUhMWVQzMXhXaTlWNDlPZTFyaF9vdjQxMUhOMFBwZjZOMWtFSTFzQjY2bUNTa2Zva1FncHBQMFZNMGdtYzN6MlRrMWVYV08yTGRiTUJXWUZGaHZpTEg2OEdRRHBWM0xDY3FQc2tUUU5maVp4LVQ4WjJuck9iR2tFc0lac004UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-15T03:01:00+00:00"
+  },
+  {
     "id": "af8f2cefff0a2ff8ef0609a59019c22e",
     "titulo": "4.Volvo S60 e XC60 ganham versões esportivas Polestar",
     "link": "https://www.estadao.com.br/jornal-do-carro/volvo-s60-xc60-polestar/",

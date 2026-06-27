@@ -1,5 +1,29 @@
 [
   {
+    "id": "af8f2cefff0a2ff8ef0609a59019c22e",
+    "titulo": "4.Volvo S60 e XC60 ganham versões esportivas Polestar",
+    "link": "https://www.estadao.com.br/jornal-do-carro/volvo-s60-xc60-polestar/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-27T19:24:18.491097"
+  },
+  {
+    "id": "1701b6b2e1c55e7b321c7eb0dc04beb4",
+    "titulo": "Chineses avançam entre os carros mais vendidos de 2026 - Automotive Business",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGt5OVVzUGhZX3UyWXhOT1FwU21uZW5FamtaYzN2S0NSMHhiYVAxMWJ2VjdzVlh4YnBkOGpCYnR4SlZhdUJnQWJITzZsTWpuZVM4ZzlGZXFld0RtbUpEUjF6cGYzSTh4RjVuXzNlYlBGblh1Mlh0ZFFoejYxWUlQRFB5cnFYQ2U2?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T07:00:00+00:00"
+  },
+  {
     "id": "7966c09610dc9e1a17eec91c0adc7c37",
     "titulo": "1.Teste: novo Mercedes-Benz Actros 2653 é o caminhão tecnológico de mais de R$ 1 milhão",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/teste-novo-mercedes-benz-actros-2653-e-o-caminhao-tecnologico-de-mais-de-r-1-milhao/",

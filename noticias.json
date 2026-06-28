@@ -1,5 +1,31 @@
 [
   {
+    "id": "abac9a773116fee1814c4d88324dd5ee",
+    "titulo": "3.Scania lança novo painel digital para seus caminhões com duas telas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-lanca-novo-painel-digital-para-seus-caminhoes-com-duas-telas/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-28T04:04:35.867806"
+  },
+  {
+    "id": "c1edc4d6f545bf94461546f5af6b4900",
+    "titulo": "Preço do combustível faz venda de carro elétrico chinês disparar no Uruguai - Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjhnVDBnV3dSbDdUeUtfOENIU1ZJSzFNb0g3Z0FLMGZXMEVqYjAwRjBIem9NLUpBZ3paaGIzNllRSGw0V3lzVHRRaXB4cTlZMzFMVDhnaWR5TmNjOHY1MXZrZG9FM083WXNWN3NKNHN5NDhHUmJGXy1ZZURVZFlxa01vNnBoeVgyQW1TNHZPODFUM2R1STNBWE1aNkxuZ3lFTzUwa2laYnpIakxEd0l1TDM5R0p2Z1dBTlQ00gHPAUFVX3lxTFBod0JNOXdRTFdYejVULTNUaFFGSmJ0NFFjUHdsaU5Zd3JlQlVjQWE1TVpRM2ZlOFVOOFFhWm93aEh5eFNaTVJQMnBIazJrSlhYdmJ4dTJMZTkwUEZzUnBDcWNuUjhXNUNRUEZIMkxyUXZmV0dLUDBlZ2lEb0pEaFktZHdtSC1VWDRRdGE0U3ZhLWNCQm44T2JadFk2Tk9YNktrTmtubmF4c1I0SmVDRjZwMm9hcjhOY29ZSFJJei04Wl9kVGtTOUFIemZxY3Rxaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-27T12:26:52+00:00"
+  },
+  {
     "id": "ba4d4a558b49d190e7486bc484604dc2",
     "titulo": "4.Esportivos usados têm revenda complicada",
     "link": "https://www.estadao.com.br/jornal-do-carro/esportivos-usados-tem-revenda-complicada/",

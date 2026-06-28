@@ -1,5 +1,29 @@
 [
   {
+    "id": "261bb0d16bbda26dc305ab7452f17044",
+    "titulo": "5.Motorhome com preço de R$ 8 mi é mansão sobre rodas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-com-preco-de-r-8-mi-e-mansao-sobre-rodas/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-28T23:05:07.241471"
+  },
+  {
+    "id": "54966a9d301f344da0c5fc98f501a62d",
+    "titulo": "Japonesa Yanmar acelera nova fábrica, ganha participação de mercado e fatura R$ 1 bi - AgFeed",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUNoM2ZoWTBDNVpxc251ejMwelg2Z19KTWYtTEpCMTdjNjFlWmtKMmJ6MXB2Q0dfemF1bk5lWEgxcTQ1Q1RsZUtmbVpaSGNObXFSQ3FRbGQ3NmZXTC0wc2tRalRRVVFRclNvYVF6WVEybGFPd1Z0LUJ2bU5Cb0dWMU10UDUtdXNabkR0a0RyZi1kc2w4Y1dGNWFUWWtEanNTTm0wcFZCa0RjT3RsWmdiNkxNc0I?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-24T10:30:00+00:00"
+  },
+  {
     "id": "48b9b8c5b60ced9d07e4b343dccbcb10",
     "titulo": "Fechamento da fábrica da Michelin há um ano revela o crescente processo de desindustrialização alarmante",
     "link": "https://frotanews.com.br/industria-brasileira-fechamento-michelin/",

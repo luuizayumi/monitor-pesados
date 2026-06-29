@@ -1,5 +1,55 @@
 [
   {
+    "id": "8a4dc5f1f4f52e1fdad7a9abcf9e3035",
+    "titulo": "2.O caminhão que nunca te atropela: veja tecnologias que vão inibir acidentes com veículos pesados",
+    "link": "https://www.estadao.com.br/jornal-do-carro/o-caminhao-que-nunca-te-atropela-veja-tecnologias-que-vao-inibir-acidentes-com-veiculos-pesados/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-29T18:29:35.461133"
+  },
+  {
+    "id": "1adb3f218f99ff5d3f15965368b31cc2",
+    "titulo": "3.Conheça os melhores simuladores de ônibus para PC e smartphone",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/conheca-os-melhores-simuladores-de-onibus-para-pc-e-smartphone/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-29T18:29:35.461147"
+  },
+  {
+    "id": "29be059f96845cf811bd60244cd9c760",
+    "titulo": "Nas vendas mundiais de EVs chineses, uma única marca vendeu quase 377 mil carros e ainda assim ficou “empatada” no ano, por apenas 60 carros - Notícias Automotivas",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPY1BFaTgtTDlSLW9Cc1czQW54cm9tS041MVNESkd4SnpoVVhjSE8wclRQSGd1OVJfR3VZblV3QlF4czRjOWhqbWxMZG45U0Z6YWRLMWFWcWZEZjdvdGJiYjFNeTlEbzdIYVN0R1lFU25yVFJlQzNnZ1ZnNnh6Mld1dlBnRVNMWExHY2R0aFNFcmMyUVI0M2xVNGFLckM2ZnB6VmdUNGNCV0xmaGQ3eWkyRlpVZXFtbFhpaHNMc0xDS0p1TlphWFB1SGR3YXFoanFOTEJ3SXJNZklua01NMEhLMXZCTjRzOWo3amdEdWZLU3JGQUMwVXNDenUtc25vaVZFOFJzMkozZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T07:00:00+00:00"
+  },
+  {
+    "id": "79bcdf8dd7d5baa1f59e8a0b1b6a879e",
+    "titulo": "BYD Dolphin Mini lidera vendas de elétricos no Brasil - Diário do Estado",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWFTMDhkMzNMR1hSSU5SZGhXSGZjOW4yLUc3cVlJRUhsdlRYMGNXdkpTYzI4dmowQm42Mnd3Vy1pQmVQb3FkWFdxQWFxTllXLU5kbXVmS1R3THE1NG8yX1kwVnFjUGJucEJDOHA5SV9LZDc1bDdOUjVjX0s1T1RhUHNTMllhQW1ON1dxcVR4cw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-03T07:00:00+00:00"
+  },
+  {
     "id": "f2a65446c786db713a116f97a960650a",
     "titulo": "Chinesa Sany montará caminhões na antiga Mercedes-Benz até o fim do ano",
     "link": "https://www.autodata.com.br/noticias/2026/06/29/chinesa-sany-comeca-a-montar-caminhoes-em-campinas-ate-novembro/107211/",

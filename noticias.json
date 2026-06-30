@@ -1,5 +1,42 @@
 [
   {
+    "id": "ad1aac4db954737e8284a35520760bc6",
+    "titulo": "Volkswagen avalia cortes e fechamento de quatro fábricas na Alemanha",
+    "link": "https://automotivebusiness.com.br/internacional/volkswagen-avalia-cortes-e-fechamento-de-quatro-fabricas-na-alemanha",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-30T19:19:24.454630"
+  },
+  {
+    "id": "67b8ce167f0063067e91453608a63262",
+    "titulo": "3.Abastecer caminhão Scania S 770 V8 no Brasil pode custar quase quatro salários mínimos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/abastecer-caminhao-scania-s-770-v8-no-brasil-pode-custar-quase-quatro-salarios-minimos/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-30T19:19:34.384370"
+  },
+  {
+    "id": "aec71705c864f841b35ed2d71f01deb4",
+    "titulo": "Polícia Civil intercepta ônibus com duas mil camisas falsificadas da seleção brasileira - O Globo",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVYxLVVVemRSMUhrT2pzZ2U0VWJISk9nOWJqcDVmSEVtM0ZQcjcwRGQ0dFJ6Wk9xYjkxVWhxU2l6aVkwdzltaF9Bb2VFRldjaW56bUlwbHhGbzFOZTlZX0lFSmR1WndVT3BmU0RuM1U3WU43bWExMlpYNVhWRHdwRjJKWGUybklncGh3aXp0anM1YmZhajY1cXNmLXNuZkhpcEVNZjNtdUdoQXI3cmhMbEdEbWh1MkVNS0x5Mm9fMDY4ZWtYRnFDZkhobTF6bmNXWUJjQl85REPSAecBQVVfeXFMTTR0eWlXbnRkd0w2d2dzakFQVE01ZXREYUQ4NkR0QjZoUHlGS0FrLWp3VlV2VXkwRG9YaWJ3cUxmZExxak1UdFo1X1Q1MnBHeFVWc3VlckNLYUJ1VFRMS01Tal9yOHNhYm5HS0c5SzJGdEdEQXZLNkVjckNxek5vMGJ5THV2WXhxWlBsZFhUeVpyMzY0Q09YRHNHMDk1Z3p3UG5FSURjR0JVYW5JbzdteERnZFZEWUQ1TzZlbEJzRVo2aUh1V0dkNld3aDI5WmhFdEhYY3dlTzREdlNKanZGY0l6X0ZVZXZF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-10T07:00:00+00:00"
+  },
+  {
     "id": "86feed657d1167e19d0e289dee71810b",
     "titulo": "Grupo Potencial incorpora 31 caminhões Volvo FH B100 Flex e amplia operações com biodiesel puro",
     "link": "https://frotanews.com.br/grupo-potencial-volvo-fh-b100-flex-biodiesel-puro/",

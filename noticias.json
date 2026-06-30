@@ -1,5 +1,41 @@
 [
   {
+    "id": "adad67f92066b3bddf1bc2955cce1deb",
+    "titulo": "No Paraná, Volvo entrega primeiro lote de caminhões com motor bicombustível",
+    "link": "https://automotivebusiness.com.br/negocios/no-parana-volvo-entrega-primeiro-lote-de-caminhoes-com-motor-bicombustivel",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-30T22:50:20.326690"
+  },
+  {
+    "id": "bd41efbb93e46d711d4205081c5b4ef5",
+    "titulo": "MG4 Urban entra em pré-venda pelo site da MG Motor",
+    "link": "https://www.autodata.com.br/noticias/2026/06/30/mg4-urban-entra-em-pre-venda-pelo-site-da-mg-motor/107586/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-30T22:50:22.392537"
+  },
+  {
+    "id": "5391bad940fc4c3ef837994183f252ce",
+    "titulo": "Iveco Bus entrega 308 veículos para o Caminho da Escola",
+    "link": "https://www.autodata.com.br/noticias/2026/06/30/iveco-bus-entrega-308-veiculos-para-o-caminho-da-escola/107541/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-30T22:50:22.392566"
+  },
+  {
     "id": "ad1aac4db954737e8284a35520760bc6",
     "titulo": "Volkswagen avalia cortes e fechamento de quatro fábricas na Alemanha",
     "link": "https://automotivebusiness.com.br/internacional/volkswagen-avalia-cortes-e-fechamento-de-quatro-fabricas-na-alemanha",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "d8b49356ef1a38854aa7b5a759e27201",
+    "titulo": "Vendas de veículos leves crescem 20% no primeiro semestre",
+    "link": "https://www.autodata.com.br/noticias/2026/07/01/vendas-de-veiculos-leves-crescem-20-no-primeiro-semestre/107611/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-01T15:19:47.923415"
+  },
+  {
+    "id": "755cee373120250fcfc50b93929e1a46",
+    "titulo": "3.Zeekr 7X Premium entra em pré-venda por R$ 378.000 e troca desempenho por autonomia",
+    "link": "https://www.estadao.com.br/jornal-do-carro/zeekr-7x-premium-entra-em-pre-venda-por-r-378000-e-troca-desempenho-por-autonomia/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-01T15:19:51.350662"
+  },
+  {
     "id": "bb08dd949c67a4a2f5a4916b1727eaf2",
     "titulo": "Panda Logística e Turismo amplia e eleva frota para 44 micro-ônibus Volare",
     "link": "https://frotanews.com.br/volare-fly-10-fretamento-panda-logistica-amplia-frota/",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "d980dfae58f230b666803f3fb0147b33",
+    "titulo": "Como a tecnologia embarcada protege a frota de caminhões contra combustível de má qualidade",
+    "link": "https://frotanews.com.br/feira-dos-cegonheiros-tecnologia-embarcada/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-01T22:47:43.788511"
+  },
+  {
+    "id": "78be2a85995a3000242e07170e99bd43",
+    "titulo": "Como a Inteligência Artificial vem transformando o setor de logística, por MXP Transportes",
+    "link": "https://frotanews.com.br/inteligencia-artificial-na-logistica-mxp-transportes/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-01T22:47:43.788528"
+  },
+  {
+    "id": "1325a56b26931137d3b8f47c5e2047ed",
+    "titulo": "Mercado automotivo mantém alta e supera 2,2 milhões de veículos vendidos em 2026 - Hojemais",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMzBuUGFLMFlLVVJjN19FdUIwdVdybHVNMWNtbHVRQzM1cHRiY3lyb19QZ2VRanhVMWlFZWg1UU50aW4yWEktVmFWblp4THNZWmlNTlhILTVHTDZxLWo1RGpoZEJad1BkRFdZSTUwUFY3SWZMRWJVTzdqdExTNnJkN1VLUW5aU1RrZzZBNWQ5eDBxcTlUdVJGOFhDN1JxWkctUlJpemhra3dxdjhaTGtrWS1JMUlrR2FNRDJBYXpfRGh6VXk2MlJSVnFSSXNLRzU5X2c?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-03T12:12:11+00:00"
+  },
+  {
     "id": "6bbf9b1f90851900e9db4d0acce8c9e8",
     "titulo": "Volvo entrega lote de caminhões FH B100 Flex para rodar com 100% de biodiesel",
     "link": "https://www.autodata.com.br/noticias/2026/07/01/volvo-entrega-lote-de-caminhoes-fh-b100-flex-para-rodar-com-100-de-biodiesel/107641/",

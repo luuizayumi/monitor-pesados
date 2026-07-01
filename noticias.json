@@ -1,5 +1,55 @@
 [
   {
+    "id": "bb08dd949c67a4a2f5a4916b1727eaf2",
+    "titulo": "Panda Logística e Turismo amplia e eleva frota para 44 micro-ônibus Volare",
+    "link": "https://frotanews.com.br/volare-fly-10-fretamento-panda-logistica-amplia-frota/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-01T12:15:01.814844"
+  },
+  {
+    "id": "7eb3fcf5af4df02257434e6a2c335de4",
+    "titulo": "Viação Pássaro Verde amplia operações com novos ônibus Marcopolo Paradiso",
+    "link": "https://frotanews.com.br/viacao-passaro-verde-renova-frota/",
+    "fonte": "Frota News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-01T12:15:01.814897"
+  },
+  {
+    "id": "13e51de0d43bb1d5216264912ae90435",
+    "titulo": "Venda de veículos novos no país sobe 15% até maio - O Pantaneiro",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0I2YU5ob3NZUm9nRS1zNmlhZ1dlNW5wbzVic3RxQl9yREw2MUstb0x6Z0pHZEo0TTJkUzdSMEVnaUNQelNyRmVFVDFwWHpyOWdxVS1OTmZGNFZIWjZkcTlabm1CaF9NRmNRQ0VrUENsRHY4ZTN5N0ljOTdId3EyM1VrbXozWHpPVHJNTUgxaUtQYV9mMlhiRk9sVlo?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T07:00:00+00:00"
+  },
+  {
+    "id": "3d66ed12c470ed70a8ce42a27fd92956",
+    "titulo": "Túlio Bendo defende a liderança da Fórmula Truck em Cuiabá - O Paraná",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2ZMQlE3ZkFIYk0xZmNSSk9FT0g5a1FTYjBmbF92MVI1Z2hheWI1NVd5dmxNR25fSElxaTNfMXdVUzF3TXY5NmtIMm9HNkJPa3RVTUlpOEwyQ3RCX3pGUEFESGYwSldqOGdib2NRZllvV3UxS2tYd0dBRGZWT0lPSkRWU1IwRHZGSllybTJ6WkZhXzBuVzBIWXpPcGJXZm9MN08xVw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-11T07:00:00+00:00"
+  },
+  {
     "id": "7281e5f0a6654dddd831bcce3c096cd5",
     "titulo": "Mercedes-Benz Cars &#038; Vans Brasil promove reestruturação em Vendas, Produto, Negócios e Pessoas",
     "link": "https://frotanews.com.br/reestruturacao-mercedes-benz-cars-vans-brasil/",

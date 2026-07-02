@@ -1,5 +1,56 @@
 [
   {
+    "id": "451674b3f9490a4a44ed06bb666b4a0f",
+    "titulo": "Concessionárias projetam vendas de veículos novos 8% maiores em 2026",
+    "link": "https://automotivebusiness.com.br/mercado/concessionarias-projetam-vendas-de-veiculos-novos-8-maiores-em-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T20:43:03.055275"
+  },
+  {
+    "id": "013b8bfb4c921e6d5b34c937b51f298c",
+    "titulo": "Vendas de caminhões acumulam queda de 9% no primeiro semestre",
+    "link": "https://www.autodata.com.br/noticias/2026/07/02/vendas-de-caminhoes-acumulam-queda-de-9-no-primeiro-semestre/107677/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T20:43:04.798490"
+  },
+  {
+    "id": "dc13c48ab8a39b92a426386575d95543",
+    "titulo": "Recursos do Move Brasil 2, para caminhões e ônibus, estão esgotados",
+    "link": "https://www.autodata.com.br/noticias/2026/07/02/recursos-do-move-brasil-2-para-caminhoes-e-onibus-estao-esgotados/107681/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-02T20:43:04.798510"
+  },
+  {
+    "id": "cf459b8c25b4561175f571baf8bcc09f",
+    "titulo": "3.Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especial",
+    "link": "https://www.estadao.com.br/jornal-do-carro/por-mais-de-r-13-milhao-caminhao-mais-potente-do-brasil-atrai-clientela-especial/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T20:43:08.140750"
+  },
+  {
     "id": "0055d62f536e48612ce37f1f866270f3",
     "titulo": "Fenabrave revisa para cima projeção de vendas de veículos para 2026",
     "link": "https://www.autodata.com.br/noticias/2026/07/02/fenabrave-revisa-para-cima-projecao-de-vendas-de-veiculos-para-2026/107669/",

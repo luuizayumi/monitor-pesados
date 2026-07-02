@@ -1,5 +1,55 @@
 [
   {
+    "id": "9352ae95d110809e993ea64d4d42668a",
+    "titulo": "Vendas de veículos novos em Sergipe no mês de maio aumentaram 11,7% - F5 News",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzllSjI3eVlzX3llSFRvZ21fTFRjdUZTRmVGQTExTjVPRTBfcXdJT0FQbm10OFVlOWZNT3FiRWtxRXV6MjNDTjFDTUhPZXNmYWlQNzZPRUI0X1Z2NlQ2cXYyU000d0IteTgySzlKZGdsbnR3QW1VZ3VITzVrQW1mNXpZNnhUUnR5a3pnSmtuTmJJb0NwUEFvZ29uUkQ4WU44VUZYb1dVbWg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-05T07:00:00+00:00"
+  },
+  {
+    "id": "449e73a7ab7d87c6e7226c3b49d72faa",
+    "titulo": "Ainda sem preço, MG abre pré-venda do MG4 Urban - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFpRNExNMnpIZkJLTExaa3g3OWtwWDg1MGZpZExTUnBkVngxWEJNOXlZSV9Vbk5EWDFaT0RUNl9KUlVJS0xoWXNQWFdKLW5wNU9HSVo5eU5FSlVBRzJmel9YTEpCQTBiVG93VlV3WUIyeW9RYTQ3WVVTZWYxWWJqZnlIeHZHeWlNazFKV0RURUk2eVRkQ0FWNmhJUdIBmwFBVV95cUxNdFpRNExNMnpIZkJLTExaa3g3OWtwWDg1MGZpZExTUnBkVngxWEJNOXlZSV9Vbk5EWDFaT0RUNl9KUlVJS0xoWXNQWFdKLW5wNU9HSVo5eU5FSlVBRzJmel9YTEpCQTBiVG93VlV3WUIyeW9RYTQ3WVVTZWYxWWJqZnlIeHZHeWlNazFKV0RURUk2eVRkQ0FWNmhJUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-01T15:39:47+00:00"
+  },
+  {
+    "id": "52348c1c6270efe84236c9d7dd4e90f0",
+    "titulo": "Carlos Eduardo Fraga assume liderança comercial da DAF Caminhões Brasil - Conexão Tocantins",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajc1QldVdGowY1JTSEhCYjduUUowbWQ5UFY5c2lsRG80VUpURmRzRkkzWVF0TWlLckNhekZIaGdsMXBJMkJIOUtoejZvNlNRVVpGZi1MNjlDc2xOa3hmVTgtbFVEb0c3emoydFg5di04ejRpZl9GTEN1TVR6b3dwU2ZmS3pFNmtjSmRLLXJwdG1wcHJxV1Jhc2pOY1AxVWNKRENUNUVaS0FnY0RxTHZ1aw?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-09T07:00:00+00:00"
+  },
+  {
+    "id": "7802235a3af87a782ef90956cb440a2f",
+    "titulo": "\"Apresentamos uma oferta diversificada, que reflete a evolução contínua dos nossos produtos e serviços\", MAN Truck &amp; Bus Portugal, Susana Matos - Revista Pós-Venda",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VzZKMjU2NHBHUmpJVF9BemlYQmdJTmlrR240S2JMUnJVdmpUamlmNnQ0YnJTRkVMeE9FS25ueEJzMjI1eFE4WFlULWE4TXozXzZVaVJ6eUpqWnFYOGRCUXp2WVc2Wmh1YkNZWQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-01T09:51:26+00:00"
+  },
+  {
     "id": "d980dfae58f230b666803f3fb0147b33",
     "titulo": "Como a tecnologia embarcada protege a frota de caminhões contra combustível de má qualidade",
     "link": "https://frotanews.com.br/feira-dos-cegonheiros-tecnologia-embarcada/",

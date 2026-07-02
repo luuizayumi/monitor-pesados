@@ -1,5 +1,45 @@
 [
   {
+    "id": "5c3b87f3f2a05b4dc3b02c44adcb8a48",
+    "titulo": "2.Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especial",
+    "link": "https://www.estadao.com.br/jornal-do-carro/por-mais-de-r-13-milhao-caminhao-mais-potente-do-brasil-atrai-clientela-especial/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T23:38:49.476477"
+  },
+  {
+    "id": "7df54525d5d1e576c1991c07a123896a",
+    "titulo": "Liderança, exportação e sustentabilidade na rota dos pesados - Portal ABC do ABC",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00Z3k3YUExYlB2cTZSYUhPeTUxbUh4V1hPeTJRMWxmQjlSTjh3Y1hCa0Q4bjlWcFVTS2hBRmZjMzU1OXRhQjlqQzRRR2RNejh1eHExR3JYa0JCX3ZTOUhOaDI0Rl9wQlE2Y3hJYXpnRk83dWZTclg5blpFWW4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-06-09T07:00:00+00:00"
+  },
+  {
+    "id": "9d6179cc58f8223d1adf018994109103",
+    "titulo": "GAC lança no Brasil o hatch elétrico Aion UT e anuncia condições especiais de vendas - dm.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMldLZkE0a1lrRTdwZXVfUkFvRkQycS1lQ3QzbFhhbVVMZ1lNVTlLa3N0bEpSazZkRkFpRnZlQUFiT05uc0VhSC1iNGk0U0VIb1VDdTNzV3hkeVd2eDE4R19TUnVnclVyZHNjZ0d4S0VCUHE5VF9tY05JbGV1R1lCSHhRSVhnZ05ZWFZ6LWlsdFFZV0h6MkVkWWFwZEVyeHFfbndnbm5aZlRPNzNUX0stZjRydWZRdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-08T07:00:00+00:00"
+  },
+  {
     "id": "9c2e13a4ce87429877a844429ef62663",
     "titulo": "4.Abastecer caminhão Scania S 770 V8 no Brasil pode custar quase quatro salários mínimos",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/abastecer-caminhao-scania-s-770-v8-no-brasil-pode-custar-quase-quatro-salarios-minimos/",

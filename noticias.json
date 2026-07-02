@@ -1,5 +1,69 @@
 [
   {
+    "id": "0055d62f536e48612ce37f1f866270f3",
+    "titulo": "Fenabrave revisa para cima projeção de vendas de veículos para 2026",
+    "link": "https://www.autodata.com.br/noticias/2026/07/02/fenabrave-revisa-para-cima-projecao-de-vendas-de-veiculos-para-2026/107669/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T19:27:45.907534"
+  },
+  {
+    "id": "02a6e9ae323f9f31ebf73bdb94f4caea",
+    "titulo": "Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especialCom motor de 770 cv, modelo da Scania passa a ser objeto de desejo entre motoristas e frotistas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/por-mais-de-r-13-milhao-caminhao-mais-potente-do-brasil-atrai-clientela-especial/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T19:27:49.338953"
+  },
+  {
+    "id": "4d16193628ae5e3864cc4e603dd3ff2d",
+    "titulo": "Caminhão elétrico de longa distância falhou? Gigante de autopeça aposta tudo em híbridos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/caminhao-eletrico-de-longa-distancia-falhou-gigante-de-autopeca-aposta-tudo-em-hibridos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-02T19:27:49.338965"
+  },
+  {
+    "id": "af0304308ff5560a7e03ab6ab7d58f1d",
+    "titulo": "5.Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especial",
+    "link": "https://www.estadao.com.br/jornal-do-carro/por-mais-de-r-13-milhao-caminhao-mais-potente-do-brasil-atrai-clientela-especial/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T19:27:49.338969"
+  },
+  {
+    "id": "45aebc6c519f4a4290e1afd751a50a16",
+    "titulo": "Brasil vende mais de 2,2 milhões de veículos novos até maio aponta pesquisa - Primeira Página",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1BuY05uTmxTaExLWjNwWEM2dWZQWTlQQy10M0pwU2M4Z0dod3BpSGtwdFRNZzhGYVpHYzY2WTVNXzZvblE3TUE3M0Y2UUZzTFhaNWoxeEZCRlVSRkJ1aXkyS0FjNXp4S2ZGTGFWR2Flb3pHWXJaVnRqcHpzVHYxaWNPY3p0N2tCeGcxZzV4ZlJ4djQxS1ZSTHk1aXVvRm1ScGdNUGpXSDJqZGdFbjBrMFh5QQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-02T07:00:00+00:00"
+  },
+  {
     "id": "69d2463c7a5a195a3cdc0367b2fe4e81",
     "titulo": "MANN-FILTER conquista o 1º lugar no Prêmio Sindirepa-SP 2026",
     "link": "https://www.balcaoautomotivo.com/2026/07/02/mann-filter-conquista-o-1o-lugar-no-premio-sindirepa-sp-2026/",

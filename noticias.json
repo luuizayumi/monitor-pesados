@@ -1,5 +1,54 @@
 [
   {
+    "id": "d9ca52c672e6807629f4a9818c274e61",
+    "titulo": "4.Linha OF de chassis Mercedes-Benz chega aos 50 anos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/linha-of-de-chassis-mercedes-benz-chega-aos-50-anos/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-04T04:12:27.497856"
+  },
+  {
+    "id": "452a00e50afb77a87d3d97e417c7e60c",
+    "titulo": "Fenabrave eleva previsão de alta na venda de veículos em 2026 - ParaibaOnline",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1ZPSmhTOS01MkZCRUI5WTlmVFhZWmRwSnUtMmhZM3hSYTBtT0tKZUFfd3I3bjRfNTVmOG9MSUkyOVpiNG1MZVYxOG1LcmtwVDNpY0g1ZW9tVExQeW1oOC01U2tZRXJObFp5SXhLZ2NDQ3NhZ1BrREZKYmRod09WX0NGQnYtaGFoYVZkWHo2aEJ0aDVDcG5QLVA2X2t2OWNvNUNxMmxwN0EtbnpfM2ZmNg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T20:22:15+00:00"
+  },
+  {
+    "id": "8c89eecc16cad4c6b1aab9d7d1ea5055",
+    "titulo": "Carro elétrico mais barato do Brasil tem vendas suspensas antes das entregas; saiba o motivo - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEo2RDRSNS16M08zYm9Ya3FvT1VGdXhBbmJwU2tCX3pGMHVFckJIaURTYjlqOHN4dW1fYng1LTlTdzNlRFFNa2dqSVFIMjlXUy1zOTZYZE9RSkZKR3VXU1ZmXzdybjlxdE4wREZldGxVbmd0T3hYbHdpemVKblI4b25XdHQyMVAwNDZzYjE5d2RIWkJUem9mdm9MVHZjNkpCUU43VFJpTzh3aFk2YWJjTk02Q0lrWmVrTkotNHVtN0Vlb3c5aVRCLVZNRdIB0AFBVV95cUxOVVMxV1RnREZ2eE9CdjRRMC13U2lFQ0plX2NXa1VVU29uNko3d1FHa2poWmR6NEZHVFU1R0NBVXgyOTI3bTJ0dkRUQ2ZfaEFBcDA5d3o1enh0TFUtRUNYaU81Ul9jVDctQXk5X0Z5a2g2ek9TY0xpRDBkbFRvdWNOR3prcFpWam5PMThBM2xTUTBrRmprTHNXZ3RUbGg2NEhpakRtOW91SDU5d2VBX1NzZ2lMa0h4SXdjcUVIYjBtdUlaLTVrSW9fdnd2YU1telJN?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-03T18:31:00+00:00"
+  },
+  {
+    "id": "1e7051d7c2a86f94f81940879adb747a",
+    "titulo": "No semestre, venda de caminhões tem queda de 9,4% - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYl9oVkZpM2g0T2EwQXZ4ZEZ5OGpiRTJUNzB6b0FKUFQybG9Yb0lpV0ktOXN5azJiMzYxZlk1dEVlVThta3NoZGJkdTNicVRLUUlpSVJFQ3MzeEs2cGFtMUo4elRTS2F5WnJ2MldnNlN2OGZLY0RFbmF6bkZRNGRhZjNuVlhtVWYwT1NZc3dGZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T15:00:15+00:00"
+  },
+  {
     "id": "e7008d9400f9a68fc6d5f53a55405e30",
     "titulo": "Veja quais foram os caminhões mais vendidos do Brasil no 1º semestre de 2026 - Estadão",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnU4MTJOTHRUX2Z2Um1lT0pIbjNzeU5OeDNDMlRSR1piM2FEZmllSDZ1LUF2d1BUQ1I2cXU4ZUhuSmhaVEl6V2VDcDNHd1NEQW42dHRpekZ1Q2FJajg1MWdDRERUS0R5eXpBWUpOWWZubWdqRzF4QXFJMnJOdzBYTEJlQURxLUphcUJpeDFDaEwtVXFHOXd5UUtZZnBmSGNtWXpKdFNKX3VpdTc4UjBMcjdDbFFPMGJ2R2JIME5JSkXSAcABQVVfeXFMTnZ1ODEyTkx0VF9mdlJtZU9KSG4zc3lOTngzQzJUUkdaYjNhRGZpZUg2dS1BdndQVENSNnF1OGVIbkpoWlRJeldlQ3AzR3dTREFuNnR0aXpGdUNhSWo4NTFnQ0REVEtEeXl6QVlKTllmbm1nakcxeEFxSTJyTncwWExCZUFEcS1KYXFCaXgxQ2hMLVVxRzl3eVFLWWZwZkhjbVl6SnRTSl91aXU3OFIwTHI3Q2xRTzBidkdiSDBOSUpF?oc=5",

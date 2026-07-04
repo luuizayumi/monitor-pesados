@@ -1,5 +1,141 @@
 [
   {
+    "id": "e7008d9400f9a68fc6d5f53a55405e30",
+    "titulo": "Veja quais foram os caminhões mais vendidos do Brasil no 1º semestre de 2026 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnU4MTJOTHRUX2Z2Um1lT0pIbjNzeU5OeDNDMlRSR1piM2FEZmllSDZ1LUF2d1BUQ1I2cXU4ZUhuSmhaVEl6V2VDcDNHd1NEQW42dHRpekZ1Q2FJajg1MWdDRERUS0R5eXpBWUpOWWZubWdqRzF4QXFJMnJOdzBYTEJlQURxLUphcUJpeDFDaEwtVXFHOXd5UUtZZnBmSGNtWXpKdFNKX3VpdTc4UjBMcjdDbFFPMGJ2R2JIME5JSkXSAcABQVVfeXFMTnZ1ODEyTkx0VF9mdlJtZU9KSG4zc3lOTngzQzJUUkdaYjNhRGZpZUg2dS1BdndQVENSNnF1OGVIbkpoWlRJeldlQ3AzR3dTREFuNnR0aXpGdUNhSWo4NTFnQ0REVEtEeXl6QVlKTllmbm1nakcxeEFxSTJyTncwWExCZUFEcS1KYXFCaXgxQ2hMLVVxRzl3eVFLWWZwZkhjbVl6SnRTSl91aXU3OFIwTHI3Q2xRTzBidkdiSDBOSUpF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T16:12:00+00:00"
+  },
+  {
+    "id": "00eae514825b3db29e5792cb3ffce6aa",
+    "titulo": "Venda de caminhões acelera, mas encerra o 1º semestre 9% menor - SINCOPEÇAS",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3BMR1IwMUdMS1lXTnV1cFVab2dweWRuSXZSNzY1bmFEa3FwbFdKdmtQdjJxWS1iNDN6bDBOLTZqa2t0U1VpYmpGd0NvNWlpcm9vRTVhQ0ZDVlE2ZVJCRmRVSk52S215Rm8wbWk0a2pIZkQtNnpnZHhKZkYwRGNDbDg0S3hpWWMzeWlGaWJEQnJYQkFSNnZhSWJBZ0hkNUlqOTJvbmhSSndDcFlm?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T20:39:51+00:00"
+  },
+  {
+    "id": "29c7d1b3e4d33e1b31a00372c407406a",
+    "titulo": "No semestre, venda de caminhões tem queda de 9,4% - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFMxYWJqVTF0THdBbFljOVNreDI2SnlWWHNIVkpKUXZkTVBRajZmT2U4cks1UnRhVjhTbVVkV0VvN0ZZVF83UWcyMUpFTzZub1NaR2x1dm4zQVFENDRldTQyVHdWQXBWcXF3a09tVVY1NlBxZF9kQ0lYRGtJVVZNVzhNUlZYU3A3TC1ySDIyTjA2cDNw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T15:35:20+00:00"
+  },
+  {
+    "id": "cf3243109333d9b85148131c30b112a2",
+    "titulo": "JAC lidera mercado brasileiro de caminhões elétricos no primeiro semestre; veja o ranking - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFpHWU82dHBibXhSUUFtN1RhYlA5Ul9RVFNOcVZvbldDTGJUNTI1MGdBQzdkQzlvSkVsbHlka1hBUllUX2xQSDVPdklqakNxN1pYbzBDNURUbDhodDc3czQyb0tjTWNVZzVLNVRSazhoZER0ZGtNS2hFSFhRUnFLSVNkVFNkNkxhUW11bHVtYlQ2QUQ1VlZrQ3ZURGdQd0tnSHdfVklZOTdjZnAtNGFSVHJDRnBRLXpTTHhEZ2JjRFhqSVVweXpUNkVqRzhLZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-03T18:08:25+00:00"
+  },
+  {
+    "id": "b8c02770f2cbb110564c2782520bf0eb",
+    "titulo": "VW Delivery 11.180 segue na liderança do mercado de caminhões - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUJkM29vT2d6STdEOUhkZlRfRjY5a2dNNUdzdThxNERZSTZVRmZjWUI4NkNTbTRRVWp2OXM4SkQwYkFZajJVdGEzbmVSTzNGN212bEVyTHJ5YUdrMkZKcGtHT0JCX2FGaFBNSXBOclNxSW9UclBWLVFPLWJuTW95cUFuZXJQa0dJa3dvQ1BxMXhEZTZ4b2NBWjFhXzl0cXEzOVFlekNXdXM4U29ZSUVV0gGvAUFVX3lxTE5NQmQzb29PZ3pJN0Q5SGRmVF9GNjlrZ001R3N1OHE0RFlJNlVGZmNZQjg2Q1NtNFFVanY5czhKRDBiQVlqMlV0YTNuZVJPM0Y3bXZsRXJMcnlhR2syRkpwa0dPQkJfYUZoUE1JcE5yU3FJb1RyUFYtUU8tYm5Nb3lxQW5lclBrR0lrd29DUHExeERlNnhvY0FaMWFfOXRxcTM5UWV6Q1d1czhTb1lJRVU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-03T18:07:25+00:00"
+  },
+  {
+    "id": "6517495a794f48a610fbb9c0f8843e75",
+    "titulo": "Fenabrave eleva projeções após alta nas vendas de veículos - Safra",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDV5QzJnRE42WDdWLWdubzlkZFJiZ0xReExKdlZ0eVhqRjJWS1ZFLUY4YTc4aGZtRFg5MTVPRjF1RDNtRFVBcUpjVmNuUmtGWldrMGdEdjdCc2h2TDRPU0RKeklBeXZ1bDRSekhJREtlaEVxcnIwU1Y1SVUwWE5XQlBR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T15:20:47+00:00"
+  },
+  {
+    "id": "a00e5ab80d89be709935e6ea1decfb3a",
+    "titulo": "Concessionárias projetam vendas de veículos novos 8% maiores em 2026 - SINCOPEÇAS",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTZBanZYaTdxYWsyNmF3Zmk3T29rbFJNRmF1ZEpVOHA3RWxycWZpbmtPc005N1c4a2Y3X2lFRVRvUUNjMHE2VkdfZjRrcUJSSW0zSmlWZl9sbHI5a1ktbTNSNFVEZGRqZ0ZPUVFlelZCRW95TzlvRmZQTkl1NVBjQmZTMVFYNE9fMk9Vb0dOcnFDbDNiVHRIblFEdGZvdDBSaEZiMlpnaWw2TmVQZ0tlc3Y2c3Uydw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T21:29:08+00:00"
+  },
+  {
+    "id": "ea9f6540c8b3abbfc597c3c4886aca3a",
+    "titulo": "Venda de veículos leves no Brasil avança 28% em junho, diz Fenabrave - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0wwQWdzZWFkMU5UMWtISFViMEJyVno3bXYxcEs1dDNlMjZORnoyd3MxWHJqZWtydjNPMVpFMFQ0VXNOYnlSOWlDVUZxNndqbW5kbEFUSGRpNHJoa1EzVUEtY2diZ2dGNzJXa3llbmdkcWZPQkFRR24wZlJ3d3lQSUxmczNMYnpnMFlCcjgtcjBQaWVhOTJ0Nk1ZMlV2bk5JUFNGRVpYWlBYekZHN0hnbXFnY3VCN0l2Z3JDMDRMbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T16:44:00+00:00"
+  },
+  {
+    "id": "3167f795100dc77bc3a7f9618062d689",
+    "titulo": "Veja quais foram os caminhões mais vendidos do Brasil no 1º semestre de 2026 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLV9uNnBQTDA1MHFZbXdBNkMwOHdXSDIwRG9hVGh3XzUwZWdIVFdGREFmb2RqT0FUaElaMm1GSFFMcGF4VFZScG1LWHcyazJHMW43bFFsZ29SbVlTb1hLMmpWay1OdHhyM1dyLVMtUlY1eDBDdXlKcFFjV1lzcUEwYXV5TGViVUxsQWEwRFo2TERMUjBNWUdaZlJ4YXN5aGdEbVNCUTVXZVZiU1RaNEllUjBoeDlyQ2I5Um930gHAAUFVX3lxTE52dTgxMk5MdFRfZnZSbWVPSkhuM3N5Tk54M0MyVFJHWmIzYURmaWVINnUtQXZ3UFRDUjZxdThlSG5KaFpUSXpXZUNwM0d3U0RBbjZ0dGl6RnVDYUlqODUxZ0NERFRLRHl5ekFZSk5ZZm5tZ2pHMXhBcUkyck53MFhMQmVBRHEtSmFxQml4MUNoTC1VcUc5d3lRS1lmcGZIY21Zekp0U0pfdWl1NzhSMExyN0NsUU8wYnZHYkgwTklKRQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T16:12:00+00:00"
+  },
+  {
+    "id": "496fb230fa18eb1af61b8060a567a082",
+    "titulo": "DAF inicia vendas controladas de caminhões XF preparados para operar com B100 - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzh3RF9wUXJKTFFhYkd1Wm9pSi1yeTRiTElEa2NGelptVTBlNUZ2QTFIZ2NPeGlrQW5vN3VtYTFMcUxXdnR5aEE0cEltSUV4RDJyMkRzTWdJN1BGRHIwTWtBd2JHQl9SUE5QZC1QSDc4VXRYbWdFZ0dCMGRMU2MzejFEaUR2U0FQeEZ2M21VWmdWdEVlb0UydnhnOXJFSVNyMHR5OVM1V3VtUnA1dE1fYVlvSTktVnA2eE1fRUtxWjQ3NnVzd0pWaGhVUjlWUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T15:39:38+00:00"
+  },
+  {
+    "id": "3e97e9b75cf72509e4cc9d2a2cc6aa4a",
+    "titulo": "Vendas de caminhões zero km caem mais de 9% no primeiro semestre de 2026 - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUU5tU29xTzNMT1ZfNlg1c1dnTFZMS3NWSDNtRGhSQ3VnMFJDQnJYV3IwVlJHd1lkMGJrdW8tbjlZaU51aTFUVW9wMkMxX29TaWEwakVLczJ0bE9BN05VVHpEVTEwMHBIdmxEZnJHbGlmejlhVmZlRW4ycHhtY2xkZ250SGhzRkZ2LXRmMnpzNUZkNXd5SWhn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T15:05:00+00:00"
+  },
+  {
     "id": "e518829ec9c5725f55d113ed695e44a2",
     "titulo": "Análise de Mercado &#8211; O raio-X dos 45 caminhões mais vendidos até junho de 2026",
     "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",

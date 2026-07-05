@@ -1,5 +1,29 @@
 [
   {
+    "id": "431ea2e567aa118a8c8bcb8eae7eab9f",
+    "titulo": "O caminhão mais antigo do mundo: será que ele rodaria nos dias de hoje?",
+    "link": "https://frotanews.com.br/caminhao-mais-antigo-do-mundo-rodaria-hoje/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-05T13:45:08.132405"
+  },
+  {
+    "id": "bea8e1ae2eb5fb3da6564877635d3909",
+    "titulo": "4.Pedágio mais caro do Brasil passa de R$ 40; veja o ranking das praças que mais pesam no bolso",
+    "link": "https://www.estadao.com.br/jornal-do-carro/pedagio-mais-caro-do-brasil-passa-de-r-40-veja-o-ranking-das-pracas-que-mais-pesam-no-bolso/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-05T13:45:09.886898"
+  },
+  {
     "id": "57aefdb6128aed8b3364cc362339ba62",
     "titulo": "Volkswagen e Mercedes-Benz mantêm &#8220;empate técnico&#8221; com 55% do mercado de caminhões no 1º semestre",
     "link": "https://frotanews.com.br/vw-mercedes-empate-mercado/",

@@ -1,5 +1,43 @@
 [
   {
+    "id": "c0ce801c1f624f8d3717190a9bc82d42",
+    "titulo": "5.Volkswagen Caminhões e Ônibus lança nova linha com motores Euro 6",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-caminhoes-e-onibus-lanca-nova-linha-com-motores-euro-6/",
+    "fonte": "Estradão",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-06T22:15:22.965203"
+  },
+  {
+    "id": "6ecec10a8a7ec6b80ede14c9efdb4abf",
+    "titulo": "Carros mais vendidos em julho de 2026 - novo líder no dia 1 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94c3VocDRQbnNseU52RVJNR2x4dE5LM183MUNFMXUxbDRtWEdIektZcXllb0UwNG5fTVMxS0M1WldRYXNYNE42VWRMcXZfZ2RyX2hpeGhQaFFuTmJKY1gtUlVVckhLZEpHdmxNWm1PYTdGaWxUaFljVEN2c0Y1Y2M?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T21:58:00+00:00"
+  },
+  {
+    "id": "6e8223505cd16e905781e05a1e6e5779",
+    "titulo": "Veja os 100 carros mais vendidos do Brasil em 2026 - Webmotors",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kb3RLZ0laS2Z5cDRlSnk0UHF1WVhhRU12NG9HTmVZM2piSGdCSXZhMDI4Qmx1dUxIYmc3RklYQmJFVTFpejIxMkdLdmNlZnNvZ2ZKT0h1c3RVdEt6RlhYbWVzSkJNeHRuX0JXSXUyUTJOVU5KcV9nbmFsNFhHYjjSAYQBQVVfeXFMTXV6RWFSZmFUTGN2emdUTzE4Ym4yQXVCZU05N0czZkVGaHdzc01yX3RSMWxuTXk0aGhneUI1TDRwbHNoLW1GbmNMdWVteXhZOFhMM01HcXZ1MGhZa1VJY3AtbDJXM0ZpZmdmem9NZ0xlZkRHRjlmYXo5eV9HVENJYWsxcjdj?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-04T05:26:38+00:00"
+  },
+  {
     "id": "d28fea206b4adde2f90da15b013718e6",
     "titulo": "De cada 100 veículos leves vendidos no Brasil no primeiro semestre, 16 foram eletrificados",
     "link": "https://abve.org.br/de-cada-100-veiculos-leves-vendidos-no-brasil-no-primeiro-semestre-16-foram-eletrificados/",

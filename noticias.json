@@ -1,5 +1,54 @@
 [
   {
+    "id": "252b2694955ad0325b3addb8f06a6da3",
+    "titulo": "Vendas de implementos rodoviários caiu 7,5% até junho",
+    "link": "https://automotivebusiness.com.br/noticias/vendas-de-implementos-rodoviarios-tem-queda-de-75-no-primeiro-semestre-de-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T19:04:04.755000"
+  },
+  {
+    "id": "f2863709e7ca70c81a817e951494184d",
+    "titulo": "Grupo Ademir Transportes acelera renovação de frota e reduz impacto ambiental no transporte rodoviário",
+    "link": "https://frotanews.com.br/renovacao-de-frota-grupo-ademir-transportes/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-07T19:04:09.316809"
+  },
+  {
+    "id": "20e0783000cc28c438727428541e9ce1",
+    "titulo": "4.Fiat Fastback MHEV é vendido com desconto de quase R$ 40 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/fiat-fastback-mhev-e-vendido-a-preco-de-volkswagen-tera-e-chevrolet-sonic/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T19:04:10.996512"
+  },
+  {
+    "id": "93cf3619956c32198e9a97174d3a9acd",
+    "titulo": "De cada 100 veículos leves vendidos em 2026, 16 são eletrificados",
+    "link": "https://www.balcaoautomotivo.com/2026/07/07/de-cada-100-veiculos-leves-vendidos-em-2026-16-sao-eletrificados/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T19:04:17.173148"
+  },
+  {
     "id": "a8358e185bfc76968ee2db631f022356",
     "titulo": "Vendas de implementos rodoviários caiu 7,5% no primeiro semestre",
     "link": "https://automotivebusiness.com.br/noticias/vendas-de-implementos-rodoviarios-tem-queda-de-75-no-primeiro-semestre-de-2026",

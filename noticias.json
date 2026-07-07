@@ -1,5 +1,29 @@
 [
   {
+    "id": "c24d92930f10090acd724f8db2dbebc5",
+    "titulo": "2.Autopeças no e-commerce: Shopee avança na digitalização da manutenção automotiva com grandes marcas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/autopecas-no-e-commerce-shopee-avanca-na-digitalizacao-da-manutencao-automotiva-com-grandes-marcas/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-07T07:41:54.475869"
+  },
+  {
+    "id": "697fe535a80a7c4b6011bdd4c1d705c5",
+    "titulo": "Confira os caminhões mais vendidos do Brasil no primeiro semestre - SINCOPEÇAS",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXcwNjUwem9oRXpLV1NqUUZBakwwcUxkYnVCU0doa1BJQmIyZVJqczJIdlNTVmRMWVY1cVd0VXRtZUkwa1U5Szh5WVhMeUFzTTZ5ejNodEw3V21CaUJ4cTVCVnBSR2ZzZVFnMXlESUNLRjJvZVhSa3VtM1ZxQ2c2WUdSSkx6ZmxURTY4bzBQT0tFbl9zVEgtRnpNcWs4cWtSOGNpX1pHclpoaE92UVpzUVZGdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T04:27:55+00:00"
+  },
+  {
     "id": "5ea0093c6782c810e995ec7c72e36075",
     "titulo": "Vendas de implementos rodoviários têm queda de 7,5% no primeiro semestre de 2026",
     "link": "https://automotivebusiness.com.br/noticias/vendas-de-implementos-rodoviarios-tem-queda-de-75-no-primeiro-semestre-de-2026",

@@ -1,5 +1,54 @@
 [
   {
+    "id": "28e691a926a7871b335b67b5bae1a327",
+    "titulo": "Actros 2663 vs. Actros 2653: as diferenças entre os pesados vendido no Brasil e na Argentina",
+    "link": "https://frotanews.com.br/actros-2663-vs-2653/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T11:09:59.850804"
+  },
+  {
+    "id": "06fead9cbbf1de4c371c9f48a186f153",
+    "titulo": "Mercedes-Benz renova fornecimento de caminhões para formação de motoristas pela Fabet",
+    "link": "https://frotanews.com.br/capacitacao-de-motoristas-mercedes-benz-fabet/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-07T11:09:59.850820"
+  },
+  {
+    "id": "1e46a9d0dfc280347ece98f0faf99274",
+    "titulo": "2.Após esgotar quase todo o estoque, Farizon prepara novo caminhão elétrico para o Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/apos-esgotar-quase-todo-o-estoque-farizon-prepara-novo-caminhao-eletrico-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-07T11:10:01.080389"
+  },
+  {
+    "id": "d5288413a46217c5ad6711177fac9f98",
+    "titulo": "MS registra alta de 4,88% nas vendas de veículos em 2026 - Campo Grande News",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmxYTHJKOWc4Znc1ZmxlNGUzNWxDV3NTdkpCblFzYTVUM1J4WGVGcmtUOGYtald3dkJGT2Ixc0otNUVvOUxuYzMycHNXNUlJd1FYNmRCY19UQzVkQ19RemZnUE1LNFlKbVdQUVlvcWhYTWU0dUhnX2N6czQtUUlESnRkWlZGbnpldUJZaFVGSWJ5Vm40NmdpZ011U1JTYzBnSmdIX1BPUGY2NW9TV2NJYk9ZRdIBswFBVV95cUxQMEwtb1gwZHpHSmk3UUUxZ3l3bzZzY2NldzF1UVVQbW1vRE1xTU1hWndodDNTRnhHMGp6YTBFMjlDMFllaG85eWtobnRaT2kzSTYteVI1NThRTTBHQ0RDcUUzV0pyVlZ6eWZBZnhyRFdrME5Ya053cEtIUWx2UXV1a2pWdVF5My1MZmZJdi1UZDA1SjNJb2p4alF1MERudExPTVBFTjY4OEFSWnpRSXl3NzU3QQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T02:28:00+00:00"
+  },
+  {
     "id": "c24d92930f10090acd724f8db2dbebc5",
     "titulo": "2.Autopeças no e-commerce: Shopee avança na digitalização da manutenção automotiva com grandes marcas",
     "link": "https://www.estadao.com.br/jornal-do-carro/autopecas-no-e-commerce-shopee-avanca-na-digitalizacao-da-manutencao-automotiva-com-grandes-marcas/",

@@ -1,5 +1,65 @@
 [
   {
+    "id": "5ea0093c6782c810e995ec7c72e36075",
+    "titulo": "Vendas de implementos rodoviários têm queda de 7,5% no primeiro semestre de 2026",
+    "link": "https://automotivebusiness.com.br/noticias/vendas-de-implementos-rodoviarios-tem-queda-de-75-no-primeiro-semestre-de-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T03:38:41.790648"
+  },
+  {
+    "id": "8ae0a873f18deda0a9f9236a56af13b8",
+    "titulo": "Conheça os caminhões mais vendidos do Brasil no primeiro semestre de 2026 - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVm5VZWFZVTlmU0FGLWtRUHMtUllwTk1HRkhha2pXQlI5WG9qX0NhVXhEbUNqRGJodTlJVUNYZ3pJQm5BMnI1SEpnNjdzRktwUjltSzgzNUVNUFpIQU50TUtKMWFLMnZKcHEyNEJZem55bXFzWFNyakNTYmlTNHlXcGRoSWdMUzdSMHdPTUN4aXpKNE9HOEs1VlhJVzVvSzFLWXBpbm91VHBwVlJwa3RZTFFtSk14cFEt?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-06T15:27:51+00:00"
+  },
+  {
+    "id": "f62cc370b29803b01eecbaa46e6559b5",
+    "titulo": "Confira os caminhões mais vendidos do Brasil no primeiro semestre - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjloSjZQdnBEVF9kWktmb29kc2ZzODdWeVJwU1lzd2gxeDdsVkd1QS0tNUY3dmp4S3dpUDkyZlVWZ2kybFBGekktaHNmSW9za21kZk95OTQ2eUJqQWt4MnpQNFNyTEdLNzlhc25aUFVnVVd6cUk5ZXpRUDBQODJKcVJYa1g2SUxiT1BrS251NF94RkFuNzlUS1ZLVWdXMDNyQ216OVhiSDRuTTctX1dneXd3QTVVVm9rVExkVS1n?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-06T11:33:00+00:00"
+  },
+  {
+    "id": "95ee3948f865a200b5fd511e0d56f701",
+    "titulo": "De cada 100 veículos leves vendidos no Brasil no primeiro semestre, 16 foram eletrificados - SINCOPEÇAS",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanVZNHhaaFFNRXJVSWE2ZTRHT0dQdGJCQWY5SnljWTBWOEVHdUtMUzZnczlSM3ZZWjM0YjhjWi1GUlJCOUJMUXNYZDkzSDJPb1h6RUtleEhFQVRWMmpsNjRBbnJWZU80MlJwTWROanIxVXIzSnN2TkVMM0ZmWGQ1RXFpa19ON3oxTE9YeFhLS0RMR1l4Qnd3U0JpY0RFd0pVY1lpdUItb0c3RTZzRjRaUVFQLXRpMlVDN05oZTQtZHVHZk9MVzdRS3lOOTZES3F3cG5R?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-06T22:37:38+00:00"
+  },
+  {
+    "id": "d01af458f7fe8a7388835d30297a14d0",
+    "titulo": "Volkswagen alcança vendas de 300 ônibus com o Move Brasil 2 - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWhBUU1GUVB2ZlRZWVFyUmZ0bkpBSWNkWXRmUWpLQVRwc3NEWTFnMlJCTTdOa05uQXUyc0Q5bHdWRFluU2dEWk1BRkNYWE5kQWJ4UDNvbUZXYlprTmJZLVJjaGxCdm52TFVCNjQxLThoa1ZKZm5VLXkxQmJhQTFCb2pCUnVuWFYtbU1EY0UyNXJOMHBTcENqbHphQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-06T18:12:20+00:00"
+  },
+  {
     "id": "c0ce801c1f624f8d3717190a9bc82d42",
     "titulo": "5.Volkswagen Caminhões e Ônibus lança nova linha com motores Euro 6",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-caminhoes-e-onibus-lanca-nova-linha-com-motores-euro-6/",

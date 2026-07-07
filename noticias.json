@@ -1,5 +1,42 @@
 [
   {
+    "id": "a8358e185bfc76968ee2db631f022356",
+    "titulo": "Vendas de implementos rodoviários caiu 7,5% no primeiro semestre",
+    "link": "https://automotivebusiness.com.br/noticias/vendas-de-implementos-rodoviarios-tem-queda-de-75-no-primeiro-semestre-de-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T16:33:02.344460"
+  },
+  {
+    "id": "50b9366a3169cfe0fe736054c5d664c5",
+    "titulo": "100 carros mais vendidos no Brasil em junho - Webmotors",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSVNpUlVqVUVVMlhZNFYtNlhCaWdvdjlIQlRreHdQVHZQR2w1VUtqSTVBTnYxNWI5MG9aRG1sTGQwai1fck9fSWVZcEtYQjV5VEZWRk15Y19wOUVOZ1h3Skx4YlBvbktVS1VVUjloR3EzSjB6eG9SM256RHFOOVByWk4xWC1lZ9IBiwFBVV95cUxPN1pnaFFUUVJTMldMdnY1ejRiU1dQR2E1VHlSZXN5b2l1UVZlRHZSNXNfdm9rZnltUWdMY05VbVhsanE3N1dnWlJpQThqTzVzV1BJdGtLanVzYXhUaWY1UkNJZ2FnUkwtRWJ4ODNQWmM5SU01eDJTQ0NuRE9tS2FwZHhaYjZETG1VLWxj?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T14:25:33+00:00"
+  },
+  {
+    "id": "9002c6b4a5cb96f7005e88f0ebaebbeb",
+    "titulo": "Vendas de caminhões e ônibus recuam 9% no semestre, aponta Fenabrave - Frota &amp; Cia",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUdxYkFwcGFSRGRoS1laRS1VRHhuM1JuN0k2ZDQ3cnpvckFSZ3hRSDJmZXQyRjBLeVJsQ2pCSjRublhjWWN5aWFja1owZzdXa05vcDBvNk82MUVMQ1Z1UVJ1Xzh1SGJzUUFuLUdsbElqckFEN2pYVDY0VXdnZ2NEUXBoSklNaGdCdlM3YktNdnpZdkVUNUVV?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T21:14:20+00:00"
+  },
+  {
     "id": "cc54463202d92b137bedee172f69a5dc",
     "titulo": "1.Após esgotar quase todo o estoque, Farizon prepara novo caminhão elétrico para o Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/apos-esgotar-quase-todo-o-estoque-farizon-prepara-novo-caminhao-eletrico-para-o-brasil/",

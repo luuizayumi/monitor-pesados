@@ -1,5 +1,41 @@
 [
   {
+    "id": "17c352472e20930f61e76bdee60de6b6",
+    "titulo": "1.Caminhão brasileiro tem mais poder computacional que o módulo da Nasa que foi à Lua",
+    "link": "https://www.estadao.com.br/jornal-do-carro/caminhao-brasileiro-tem-mais-poder-computacional-que-o-modulo-da-nasa-que-foi-a-lua/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-08T11:23:03.910738"
+  },
+  {
+    "id": "4d2377f0673d8c853623d24da25b1edb",
+    "titulo": "5.R$ 11 mil por uma troca de pneus? Centro automotivo é condenado por cobrança indevida em manutenção",
+    "link": "https://www.estadao.com.br/jornal-do-carro/r-11-mil-por-uma-troca-de-pneus-centro-automotivo-e-condenado-por-cobranca-indevida-em-manutencao/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T11:23:03.910752"
+  },
+  {
+    "id": "6fbe083cf1f3364fdc48ecc512d7fb0d",
+    "titulo": "Brasil pode voltar a vender mais de 3 milhões de veículos em 2026 após 12 anos, diz Anfavea - G1",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNME9nbm5aNUF1WkFINGkzRHNTOGY2WjZ2WVF1VnM4TFV0dmZCWC1OYWh0a3ZrMkN6dHV3ZW9WVDJsbl9qWFA5Y0ViUlNjaHBycXRkbHVONzhISHRqTV9CWU1fdjFQdm1VVVVPX296Z0tMRTNkcjB3NEpabTN1M1NTQWpEN05SM3VoYmFta2psTmFlOEhQN3pTeVhwTkJBc3p4Tl95Y1F6TXpQNWstWGNucURYS1pZNkpiZWlDb1VwNkdpcjd5eXVRc0FB0gHYAUFVX3lxTE1vOFVKMVh2TjZSMXZJSDNTZEVEQTlrVVoyZmNNeDllbFIzcTBJY2l5bnFqc0xwdEprZEh0OF9GT0N0endhQktEQnNWZ0d5T2wwSVc5em5TcnJWb0RYT282Yno3bGpqWFVZQWJlWlZOQ0szbGlpbGNyZWpvRHMzeGN6SnFvNGpfTDNCU2cyZG5GYy1zam5JZ1BtblA2RkZfRTBLV0E0SWtsSGMwbGY3c3VObUNQZEYtUjRYbm1CMEhhZEM2Yzg1VzlwSWxyUVhfTVh0UFktalIteQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T15:22:43+00:00"
+  },
+  {
     "id": "098e26ea4e3114588430a6c9c5f9e970",
     "titulo": "1.Fiat Fastback MHEV é vendido com desconto de quase R$ 40 mil",
     "link": "https://www.estadao.com.br/jornal-do-carro/fiat-fastback-mhev-e-vendido-a-preco-de-volkswagen-tera-e-chevrolet-sonic/",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "87d2c6be33a3acf0c3fa9734fd45b4b2",
+    "titulo": "Fim da linha! Nissan Sentra deixa de ser vendido no Brasil",
+    "link": "https://automotivebusiness.com.br/mercado/fim-linha-nissan-sentra-deixa-ser-vendido-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T13:06:27.087026"
+  },
+  {
+    "id": "bbbf728b0b4de0014c74a4858529dac8",
+    "titulo": "Scania amplia atuação na pecuária com P 360 8&#215;4 que transporta até 50 m³ de ração",
+    "link": "https://www.autodata.com.br/mobility/2026/07/08/scania-amplia-atuacao-na-pecuaria-com-p-360-8x4-que-transporta-ate-50-m%c2%b3-de-racao/107606/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-08T13:06:30.539920"
+  },
+  {
+    "id": "9be329af1a933bd14c181ce1e145a75f",
+    "titulo": "2.R$ 11 mil por uma troca de pneus? Centro automotivo é condenado por cobrança indevida em manutenção",
+    "link": "https://www.estadao.com.br/jornal-do-carro/r-11-mil-por-uma-troca-de-pneus-centro-automotivo-e-condenado-por-cobranca-indevida-em-manutencao/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T13:06:33.998460"
+  },
+  {
     "id": "17c352472e20930f61e76bdee60de6b6",
     "titulo": "1.Caminhão brasileiro tem mais poder computacional que o módulo da Nasa que foi à Lua",
     "link": "https://www.estadao.com.br/jornal-do-carro/caminhao-brasileiro-tem-mais-poder-computacional-que-o-modulo-da-nasa-que-foi-a-lua/",

@@ -1,5 +1,66 @@
 [
   {
+    "id": "bf863009de705eca64f40d4de5abd837",
+    "titulo": "Vendas de veículos importados crescem mais do que de nacionais",
+    "link": "https://www.autodata.com.br/noticias/2026/07/07/vendas-de-veiculos-importados-crescem-mais-do-que-de-nacionais/108035/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T19:36:01.212414"
+  },
+  {
+    "id": "61b6f8565066a34ac21a42e095b40202",
+    "titulo": "Caminhão brasileiro tem mais poder computacional que o módulo da Nasa que foi à Lua Mercedes-Benz Actros Evolution, fabricado em São Bernardo do Campo, usa de dois a três mil chips em dezenas de sistemas eletrônicos avançados",
+    "link": "https://www.estadao.com.br/jornal-do-carro/caminhao-brasileiro-tem-mais-poder-computacional-que-o-modulo-da-nasa-que-foi-a-lua/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T19:36:04.056799"
+  },
+  {
+    "id": "762ef67d2d24b00bd1ed80f090c0497f",
+    "titulo": "Após esgotar quase todo o estoque, Farizon prepara novo caminhão elétrico para o Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/apos-esgotar-quase-todo-o-estoque-farizon-prepara-novo-caminhao-eletrico-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-08T19:36:04.056815"
+  },
+  {
+    "id": "a446cc0c3a6e594bcc3004d16b85e325",
+    "titulo": "Caminhão da Tesla não para em sinal vermelho e causa tragédia; polícia investiga pane",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhao-da-tesla-nao-para-em-sinal-vermelho-e-causa-tragedia-policia-investiga-pane/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-08T19:36:04.056818"
+  },
+  {
+    "id": "4626f7e71078608613285aeef920a29f",
+    "titulo": "4.R$ 11 mil por uma troca de pneus? Centro automotivo é condenado por cobrança indevida em manutenção",
+    "link": "https://www.estadao.com.br/jornal-do-carro/r-11-mil-por-uma-troca-de-pneus-centro-automotivo-e-condenado-por-cobranca-indevida-em-manutencao/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T19:36:04.056824"
+  },
+  {
     "id": "78643b3d351b2b2e5bb3736748a7caf9",
     "titulo": "2.Caminhão brasileiro tem mais poder computacional que o módulo da Nasa que foi à Lua",
     "link": "https://www.estadao.com.br/jornal-do-carro/caminhao-brasileiro-tem-mais-poder-computacional-que-o-modulo-da-nasa-que-foi-a-lua/",

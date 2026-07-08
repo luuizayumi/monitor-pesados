@@ -1,5 +1,41 @@
 [
   {
+    "id": "f6b9cf806cf3a97dab27d6b8ffc69660",
+    "titulo": "Foton registra crescimento global e dispara 165% em emplacamentos no mercado brasileiro",
+    "link": "https://frotanews.com.br/ultimas-noticias-foton/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-08T15:42:10.371481"
+  },
+  {
+    "id": "e5784c19aad1e8e6d0fb1894a099d520",
+    "titulo": "3.R$ 11 mil por uma troca de pneus? Centro automotivo é condenado por cobrança indevida em manutenção",
+    "link": "https://www.estadao.com.br/jornal-do-carro/r-11-mil-por-uma-troca-de-pneus-centro-automotivo-e-condenado-por-cobranca-indevida-em-manutencao/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T15:42:11.674988"
+  },
+  {
+    "id": "b454481ac21bd982ee328ea669075f21",
+    "titulo": "Magneti Marelli amplia portfólio de mangueiras para veículos pesados",
+    "link": "https://www.balcaoautomotivo.com/2026/07/08/magneti-marelli-amplia-portfolio-de-mangueiras-para-veiculos-pesados/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-08T15:42:16.072715"
+  },
+  {
     "id": "87d2c6be33a3acf0c3fa9734fd45b4b2",
     "titulo": "Fim da linha! Nissan Sentra deixa de ser vendido no Brasil",
     "link": "https://automotivebusiness.com.br/mercado/fim-linha-nissan-sentra-deixa-ser-vendido-brasil",

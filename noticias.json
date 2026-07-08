@@ -1,5 +1,42 @@
 [
   {
+    "id": "5aba72faed1ed74947221711ce7bad89",
+    "titulo": "Maioria dos eletrificados vendidos no Brasil ainda é importada",
+    "link": "https://www.autodata.com.br/noticias/2026/07/08/maioria-dos-eletrificados-vendidos-no-brasil-ainda-e-importada/108135/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T21:09:55.557957"
+  },
+  {
+    "id": "bdbf38b8f9fed4da138a20d8d64da993",
+    "titulo": "Omoda Jaecoo tem venda recorde e sobe no ranking do Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/07/08/omoda-jaecoo-tem-venda-recorde-e-sobe-no-ranking-do-brasil/108163/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T21:09:55.557973"
+  },
+  {
+    "id": "e907a48cbf7bb0f6d5eebab50f8b6b62",
+    "titulo": "Brasil deve superar 3 milhões de veículos vendidos pela primeira vez desde 2014 - Diário da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejFscy1fUnB0enluSlVzNUFMbHRJdmlDUkx2Nk0tcnNkMHB0ME9fcm1Yc0hHUWhaU0J5UTRKdFBpc3o5TUlHYlptWlpRbHJTcElteUUyWm0yVFVsazQ4cFk3YVN0QV9QX0pCMDN5TUNpbXRiRVRWZWptc1k5LU90R0NPOFNHRlJncmVsQm5DUm1UVHJvbFQxTE1Qc3FZUGVqZy02c3h0cHJIWnk5MnVzaQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T19:51:00+00:00"
+  },
+  {
     "id": "bf863009de705eca64f40d4de5abd837",
     "titulo": "Vendas de veículos importados crescem mais do que de nacionais",
     "link": "https://www.autodata.com.br/noticias/2026/07/07/vendas-de-veiculos-importados-crescem-mais-do-que-de-nacionais/108035/",

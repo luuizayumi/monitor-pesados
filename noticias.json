@@ -1,5 +1,42 @@
 [
   {
+    "id": "d64dd10ab2a6bf6b55772e38f3398284",
+    "titulo": "J. Mendes conclui testes com caminhão elétrico Sany e atinge economia de 84% no consumo energético",
+    "link": "https://frotanews.com.br/caminhao-eletrico-da-sany-j-mendes-economia/",
+    "fonte": "Frota News",
+    "montadora": "Sany",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-09T19:08:29.556934"
+  },
+  {
+    "id": "be7a897fb7c9345f6035aae19f84d870",
+    "titulo": "Conheça os caminhões mais vendidos do Brasil no primeiro semestre de 2026 - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1FMQjFibENoRDY3d3lKWUpQSDlqMlVDZ1lQczBBT0J1cmkyM1pKem94QXA5R1VZbkx1UDYtTFZfalNxX2FZSk5fM2VyckVIR0oxbG81bndsS25OekluaExIM3VSQ1h1ZlJZQXYwY3o3QnlISmlnM3E0NWw5cWdyWXVoT1BwcENqNmpEWEc5clhUYkh0OGFIS2ZkYzBwTy1na29BWHkwYm9DOFZUeFpLZnhxMA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-06T15:15:40+00:00"
+  },
+  {
+    "id": "a35f4008c1db7f2d36a90bec4a33a7c3",
+    "titulo": "Anfavea projeta vendas acima de 3 milhões, maior volume em 12 anos - SINCOPEÇAS",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZE81NmdEVTN0TVlzV1NkTDIwNWtzV2Q3emdVbnFTN0hpYzBRZ3MtVDNfbTgzQmt3bWVTMmd5SWZrTlFCMkdDaWFoS3dLM2pYSWN4ZUFlLU5fRXdOSXNUU2lDNnRvajFJQmFGeldLazAyU1RuNHpWeGY2T3IyeVNHcXp1YWpFS3FydnZrRjVEZ2V1azlESkVFOWhjYTYxQndjczhDZ1lRTXkxekJCZ2RiTVZ1TQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T21:45:03+00:00"
+  },
+  {
     "id": "061b6e76afedc2e3351f8e0f33115fb9",
     "titulo": "J&#038;T Express acelera expansão no Brasil e fecha megaparceria com a CATL para eletrificar frota",
     "link": "https://frotanews.com.br/jt-express-caminhoes-eletricos-catl/",

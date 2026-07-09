@@ -1,5 +1,70 @@
 [
   {
+    "id": "a73ea82b59230f8cd99f841b1e0112c6",
+    "titulo": "3.Fiat Fastback MHEV é vendido com desconto de quase R$ 40 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/fiat-fastback-mhev-e-vendido-a-preco-de-volkswagen-tera-e-chevrolet-sonic/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-09T00:13:02.528214"
+  },
+  {
+    "id": "8a571260af31302aaca709d36acf4b15",
+    "titulo": "Anfavea melhora previsões e estima vendas de veículos acima de 3 milhões este ano - Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVmVlQ3JYZFRfSlBTcDNhOEU3QllaRUpLdlV2N21fSVl1MEQyMlg5MkdvWUh4R1VoSDlaMHIySWlQbkhKdWdwMlhZeUFibGdkOHBnV3lVY1N5TXV5c29melRxT0paYVBndWJGM2M1a3c2T1QzUy1ONFFzVnNzeWsyR2MtdUdETmlmT0ExYUs0ek5LMHpKOHNqSkFUX2NZMkpPUEUxeW0tNjFHN3RNTmlpMld2Z3FwbjRMLVcyUFFKd2RGVFA5R1dUSU1mYmdJbmx2UE5TYmwtTkNpbHJSUEV6cWlLRDhhWElXcmdGR1lB0gHzAUFVX3lxTFB2Mkw1YXN2Ulh4R2FqUm0zX0d6UjlhbFBwelhaWUdsbksxQWVEeEJua3RrMVp5NkFlOGVtbkFpSXFuYnpDTGZjUnd1VEhtbEFNdU5sVlhiTFlsMzR0aWNQVEVnWDFpTEdQeVFEWHc1OUZEaEQ0RWZQc3Q3ZENlMWtMZnlIRFZhbGpiVUF5T1NlXzUtVmFjZ0FxclhjalJ5dGZ6cHg4OGd6cDgxVm5lc1I3T1JXYmx3aC1MR1JaUS1RLTdMLW92YkhWY2Z3R0NJUy1uZlJVdjdxV3g1bkIxblI2NmRlY2htZEp5TUUyaVJKNXc4bw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T15:53:31+00:00"
+  },
+  {
+    "id": "146cf8ac0df0562f00ef20a1174e9fff",
+    "titulo": "Venda de veículos neste ano deve alcançar o maior patamar desde 2014, prevê Anfavea - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOczVRa2lxOXJvbGs1OXZFekJBbGlJRXU4b25CQ0JOYXFCMGJrQXpSQ0NULWVHS2pMMmIwSEdsMGg3YVhDRjNGaTdiVE9qTURNU3BiTmdGejNYSWhhQUdwbmpmaUExclF0LWNSdTFmSU4zdWkwaC1ZM1NxY3pGcGhZYmVqb2RBWFA1Z1c3ZmdVR3I5V1Y5RkVNMEhmZDRodjJmMjB2dHhhMjBHdjFfSkRzVmlyVVdBTzZfLTR0Ykl5bUFtQzlZRXNiZ1VaZWstWllrMTVCQ2VYUdIB5gFBVV95cUxPVnJBQ0JDSVZYZGlCckUtT01RTVFXY2I3N0R3dEVUZXd6NTRUY0ZVN3RPNFRWaUtjODN0SW9PcHBzR1NuMUM3U0oyeEtpbEhCakI2STFWRFhRbTdJcjF3TUJRNlNsdzU0VVU2VC1vdEdqNjJTekc0cFd2aHJBYmhCSkN1Q3ZfLU1YZmNKTlNQZjdzUDJyc2FrQjZNckx4MGJOOC1hQUZ0cDk0R1pxdUtudUFfRG5IX1NoSjhsR1BUMVlvZFJ2NmlaX2tUZi1COTBkTFZabDhZU0NxZFh5WTI1TEwtWDEyQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T15:49:58+00:00"
+  },
+  {
+    "id": "74b6ad6d6c046e8363f2af3c70d7800f",
+    "titulo": "Mercedes-Benz celebra 70 anos mostrando como o ônibus faz parte da história de milhões de brasileiros - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0lMTXY2aHBJc3JyNnotZ2xvQTZDaDY5Z3FRaU5wTEZVdjVYNnlsRmZjR0MwYmh6VjlXNDZCS0lNU0prWFNDSGVPc2RBVTRHZ2s1ZXJxSlJGMUFoSXdSWjlNMGpLLXc0bXlGb1pWeXRLQXo2OVhnV0ktSXFxd0tUT1B0RmRRaUthTzk5ZXBtMUdReDN3RUVMcWRWbGk0MmtKb1VDc2V4RlTSAa4BQVVfeXFMT3BhaDhoQm9hU25ZVXBPa29FeFVnb04tQVBGMVlWSGV6dW9mdjVJVU0wX3BXZUVwMEJYaHo3REoyc2NYczJ4dmlsVXhRTUV5WDhvWU9DWmtaNXhuYkRvZ1VrZTBVLW4zTklXRGFiU1JBUTBpejU0RURyRjNoRXRwQVJBVHdicmNnb1ZlekFaU1pUdFpiQ2tjbGV3R0ZXc3NEN3EzSnFVY243S0ZldHln?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T17:30:00+00:00"
+  },
+  {
+    "id": "ea328db32d0daeae41ac80473ef514c3",
+    "titulo": "BYD amplia produção de ônibus elétricos no Brasil após bater recorde de vendas - Business Moment",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVJLS081b0tpdjlTaExLQkhHMkx0dEg0TE1FTjc5S19SaUU4SVJVemZBYWg0ekYzcm4zMjFSZTIzYTJ6bUZhOXE4QzhNVmpiZXNyQmRMbG5hSVplbTQwRHdZTkw4RE90Tkl5a1E3N2xrUDQwM1ZkNTQ1MGY3dTNVc9IBiAFBVV95cUxOZGdxYVl4b25IUDhQcHZGQk0ySTRpeGh1TjdDLWRaZFNFR2Z4bTFMQXJiX1QxSE5PdW5tZVowbFdkNWlsZ21YS0tGVTlVWURCYU8wejhTUEdsbE9pUUZFSDJRVkR3R2F3Y1VaV1JUbk5oYjZ4UnZPVmVJTmh5VEdtODVhbkl1VldD?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-08T12:39:00+00:00"
+  },
+  {
     "id": "b0c2ae80662b9718ae0a3a237a98ee0e",
     "titulo": "5.Caminhão brasileiro tem mais poder computacional que o módulo da Nasa que foi à Lua",
     "link": "https://www.estadao.com.br/jornal-do-carro/caminhao-brasileiro-tem-mais-poder-computacional-que-o-modulo-da-nasa-que-foi-a-lua/",

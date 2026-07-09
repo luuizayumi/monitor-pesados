@@ -1,5 +1,44 @@
 [
   {
+    "id": "061b6e76afedc2e3351f8e0f33115fb9",
+    "titulo": "J&#038;T Express acelera expansão no Brasil e fecha megaparceria com a CATL para eletrificar frota",
+    "link": "https://frotanews.com.br/jt-express-caminhoes-eletricos-catl/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-09T17:01:39.778546"
+  },
+  {
+    "id": "ea1f0846e7691f9020fb5da19799ba13",
+    "titulo": "China não encontrou caminhão elétrico adequado para mineração, encomendou um do zero, lançou veículo de 140 toneladas com bateria de 770 kWh trocável em 4 minutos e já opera 290 unidades na maior mina de zinco de Xinjiang - CPG Click Petróleo e Gás",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaHhKc041TmRvcmFCTkRxb1ZydlNZRk02dGtwQUtEeEVsWTgyMzZ2d1B1Ymd5WjhKSmg5d1BkWm5MT2FzSGk4d3hmRWE0WFVLOFRGVVNzYWRIc2pTU1R4dkkyR09Bb0VKeVBtVFFUTjZQdnpGcVVFRWJocTVNRXF4aTBnTW5JWDRJT2hvYVNQX05EZDR0TmNWbUQyQUV0QmRKNGdHUUt0bjY1bHJUblFfOVVyOUppTFJVMFVTX1RzTEk0bXJkTW5XOEFqMDhULVkwU2hCc1ROOTlpcndvY2hEODFpQzFxX0g0dFVZLTljYjFCZ0FoQzlhZWNsNXhEVTVuWlV5dG51OVBUazB3UWFoMk0zM3E2UUVhQUc5eTBiOXNvUkQtakNrcWk0YVJCUkpCNDNWb3NXcC1vWmZKRWlpOWlFdlNZcW8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-06-24T07:00:00+00:00"
+  },
+  {
+    "id": "51389b654310e66e13fb2f6950500b71",
+    "titulo": "Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especial - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFMzbERSeUJvWUlIb0Y2d1dWSGUyVWtCSmFSUDVtcm9MREJrb04wQnJGNEF5alQ2dFEwdndnVXdNOHB4UTV1S3VzQV9wMncwRUtOZVJVNzBMbFhkeUotOS1VS2EzczJLalI1ZFFpYmYyVDIzdktyVEdYOWVLYTc5aHIzMzdFMUN6RFBTUTZqR0Y4WXA5Nm8tTjdDVDExSnVBazg0em9rMXZFVWVDWUdCSGQ3OG1vcGdHZVY1MDZvU2wyZ9IBxwFBVV95cUxOYzlCMV9ZLWtpQ1VqakZTbThMWGpLN0hZYzlzbnl3bXNndFhBYmZvQ2dkdXdJTXduVDY1QmZ3V1VTMWg2Umg1Z1M0ZVVvWmZLSUFQbFRHMEdydnItN1dWNEtwRVJHSENxcVhnbUtTdnZONktBZVAySWdaNUlaTU1wREFzbFZxMURZaWxkeWw4Z0FaaC00eDlvaHlJcEtMbTl0YUlZcjNaOWtidlZlZWJZSTRhOHpjRUlZMUFVZDA4QXNXYlBhM29n?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T15:00:00+00:00"
+  },
+  {
     "id": "2e7681fea9131cc01aa46c1064f6b0c8",
     "titulo": "Suspensão a ar: as vantagens para contratos de frete e como deve ser feita a manutenção do sistema",
     "link": "https://frotanews.com.br/manutencao-do-sistema-de-suspensao-a-ar/",

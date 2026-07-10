@@ -1,5 +1,58 @@
 [
   {
+    "id": "22429988b3f6b5e0569df37e911700f7",
+    "titulo": "4.Mercedes-Benz CLE, novo esportivo da marca, tem versões cupê e conversível",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-benz-cle-novo-esportivo-da-marca-tem-versoes-cupe-e-conversivel/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-10T13:28:12.110885"
+  },
+  {
+    "id": "c137e3d20ff3cbf9436bcb897f539504",
+    "titulo": "Fenabrave: venda de veículos novos crescem 16,01% no primeiro semestre - Folha Vitória",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTNCb0lzeEFZb3dCSnJFNzNra0g1MUp3Ym0zaFdZcTNfUkp2T2VMQWJ5aFRWZDJuVG5IQkpyVmQ2Y2doMmdaTVU4VGwxbWlVYmx2WEF4SXdNZ29sWkxsVHVmc2plNTdzN2ZGNlF5bXJrMGlrNld0amI2N18tb3hTWF9KZ0pVM3kzd3dHcEVWd2xLcDlBQUJicXpBMjF5LUxCaklENUVBckJ6dG5xNFE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T17:30:47+00:00"
+  },
+  {
+    "id": "23d637f07240971b51341143d8b080f5",
+    "titulo": "O que ninguém previa: venda de veículos dispara em 2026 e Brasil deve bater marca histórica - AutoPapo",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXpEM1lDclNvcldEaktTY1I5aTBjOTN2NkJQemctTHF3VXpJU0FjMnBFaVpOU0hkSzE2bUdjX1VGSkZRZWdpY3h6dWtDb0FqRHBhZnVVaXE5dDR6OExGbHBNZkNHb1JGVVg5dmJhWm10cEZRSlkxajRUdVp0cEhEYm8tRi1vWnZuaUlMdTlDUzN5THdoY0RsRUJpRmQxcmZIMVltdlNzZkh5aUg0cHlmN0dlNEhVeVJ4OUNXc05R?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T18:00:00+00:00"
+  },
+  {
+    "id": "c0236b1670239292b0b96c2b32f950d4",
+    "titulo": "BYD envia 22 ônibus elétricos para cidade com 190 mil brasileiros e aposta em transporte limpo - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHphaGhBZ1QyXzRQVjN5LVVESGpjRVNnOE9TQVdvTTJpUzJMRVdxZm5KODdCRkszWHBiV1ktaDVZckRnUjh3V0NQeXhONTg4emM2TkxIOWJEWUxaQ2U0YWh0RmYtaEE0eGdiUnh5MGQxbjM1ckFRTlRuNk9JdDNDVllmd0oxSTBIWDFfWA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-06T13:43:45+00:00"
+  },
+  {
     "id": "b21fb540214bdd4fce4bd70d9f856938",
     "titulo": "Onde os rivais não alcançam: Volkswagen Caminhões mantém liderança com médios, semipesados e exportações",
     "link": "https://frotanews.com.br/volkswagen-caminhoes-mantem-lideranca-mercado/",

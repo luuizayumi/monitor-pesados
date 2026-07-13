@@ -1,5 +1,104 @@
 [
   {
+    "id": "f61d2d0dfb27dcbe2f997be0c85d53fe",
+    "titulo": "Mercedes-Benz vende 114 caminhões para atacadista de alimentos",
+    "link": "https://automotivebusiness.com.br/mercado/mercedes-benz-vende-114-caminhoes-para-atacadista-de-alimentos",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-13T18:16:42.384075"
+  },
+  {
+    "id": "74fbb9ae0e9aa115eb994d4afb38bdec",
+    "titulo": "fordFord Mustang Dark Horse com câmbio manual surge em Interlagos",
+    "link": "https://automotivebusiness.com.br/noticias/ford-mustang-dark-horse-cambio-manual-interlagos",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-13T18:16:42.384104"
+  },
+  {
+    "id": "146536ce265beb2a0f2fc7a26bda65d0",
+    "titulo": "caminhãoMercedes-Benz vende 114 caminhões para atacadista de alimentos13/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-vende-114-caminhoes-para-atacadista-de-alimentos",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-13T18:16:42.384119"
+  },
+  {
+    "id": "79bf79eb5adcdbe1b279561713f14b2c",
+    "titulo": "caminhãoMercedes-Benz vende 114 caminhões para atacadista de alimentos13 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-vende-114-caminhoes-para-atacadista-de-alimentos",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-13T18:16:42.384123"
+  },
+  {
+    "id": "f16e292c8bd7f1afd8c552c3255830c2",
+    "titulo": "opiniãoTransporte e gestão de frotas: as tendências globais que merecem nossa atenção nos próximos anospor Roberto Leoncini",
+    "link": "https://automotivebusiness.com.br/opiniao/transporte-e-gestao-de-frotas-as-tendencias-globais-que-merecem-nossa-atencao-nos-proximos-anos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-13T18:16:42.384130"
+  },
+  {
+    "id": "540a8a10e402c73459f6688de5467ac1",
+    "titulo": "AftermarketPirelli lança um novo ecossistema voltado à segurança dos motoristas em uma plataforma digital B2BO Pirelli Conecta une distribuidores e pontos de venda para ampliar o acesso a soluções integrada...",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/pirelli-lanca-um-novo-ecossistema-voltado-a-seguranca-dos-motoristas-em-uma-plataforma-digital-b2b",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-13T18:16:42.384138"
+  },
+  {
+    "id": "7bafbd29a0cecea573fa7c68b13768d1",
+    "titulo": "Conteúdo de marcaPirelli P Zero Trofeo RS é eleito pneu mais rápido do mundo para uso em pistaTestes destacaram comportamento seguro e performance acima da média O Pirelli P Zero Trofeo RS fo...",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/pirelli-p-zero-trofeo-rs-pneu-mais-rapido-mundo-para-uso-pista",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-13T18:16:42.384143"
+  },
+  {
+    "id": "fe33cd892c3bf51f5d5e91107dd5a8f5",
+    "titulo": "Conteúdo de marcaDAF quer expandir atuação no BrasilCom foco em expansão industrial, fortalecimento do pós-venda e ampliação da presença nos segmento...",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/daf-quer-expandir-atuacao-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-13T18:16:42.384147"
+  },
+  {
     "id": "742804736e60d2d19b4925c7e4a62d4a",
     "titulo": "Venda de veículos zero-quilômetro no RS tem melhor desempenho desde 2019 - Rádio Fandango",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS01WbDNyMGhLbFNScUwxc21NVDF2VEVja3cyMTF0MlRPOEVqSGJyaDNTZjV0ZHlRdmw5UF9qdlI4bF9CbDVBQ0xYTmppSWdBWUNqNjV5Q3lHUV82cUswT0xpblhhY1QyVTZuWTh0T295Z2dQWWZJR1M1ZWp2Z0V1WDdmelhOTTA1N0hiVVNtby1NTWd5N25IWEF0bGktZWdnUV95WUxTUkxCMG1LOGZEUW9zR2Fzb05S?oc=5",

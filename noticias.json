@@ -1,5 +1,66 @@
 [
   {
+    "id": "80a8ca16e76a1353ebe407492ec626bb",
+    "titulo": "Mercedes-Benz Sprinter elétrica ganha versão para passageiros",
+    "link": "https://automotivebusiness.com.br/lancamentos/mercedes-benz-sprinter-eletrica-ganha-versao-para-passageiros",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-14T20:38:33.301639"
+  },
+  {
+    "id": "d09036f6ebc18f1773788421ad23cce5",
+    "titulo": "Mercedes-BenzMercedes-Benz Sprinter elétrica ganha versão para passageiros14/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-sprinter-eletrica-ganha-versao-para-passageiros",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-14T20:38:33.301663"
+  },
+  {
+    "id": "90f3b49035b671cafe6e2b8637ac67e2",
+    "titulo": "Mercedes-BenzMercedes-Benz Sprinter elétrica ganha versão para passageiros14 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-sprinter-eletrica-ganha-versao-para-passageiros",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-14T20:38:33.301672"
+  },
+  {
+    "id": "6d37c716530fba64e4a35f9fd2a9e63b",
+    "titulo": "Voge aposta no pós-venda para sustentar estratégia premium no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/07/14/voge-aposta-no-pos-venda-para-sustentar-estrategia-premium-no-brasil/129561/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-14T20:38:36.348578"
+  },
+  {
+    "id": "b447bcbf35d631d0e15c0d4786ca7826",
+    "titulo": "3.Motorhome com preço de R$ 8 mi é mansão sobre rodas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-com-preco-de-r-8-mi-e-mansao-sobre-rodas/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-14T20:38:39.621919"
+  },
+  {
     "id": "933f1ea99c97ff48d48a7abe94c41d92",
     "titulo": "Ônibus elétricos têm crescimento de 92,5% no 1º semestre de 2026 comparado a 2025",
     "link": "https://abve.org.br/onibus-eletricos-tem-crescimento-de-925-no-1o-semestre-de-2026-comparado-a-2025/",

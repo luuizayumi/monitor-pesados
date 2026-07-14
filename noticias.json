@@ -1,5 +1,17 @@
 [
   {
+    "id": "7123a2ef3740ac41023f5907975e0c54",
+    "titulo": "4.Chevrolet Equinox EV deixa de ser vendido no Brasil; retorno é incerto",
+    "link": "https://www.estadao.com.br/jornal-do-carro/chevrolet-equinox-ev-deixa-de-ser-vendido-no-brasil-retorno-e-incerto/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-14T16:17:41.152152"
+  },
+  {
     "id": "91a6f50d4c9f179127d2799c78a5a5f3",
     "titulo": "Mercedes-BenzMercedes-Benz vende 114 caminhões para atacadista de alimentos13 jul 2026",
     "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-vende-114-caminhoes-para-atacadista-de-alimentos",

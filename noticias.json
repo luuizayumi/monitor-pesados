@@ -1,5 +1,29 @@
 [
   {
+    "id": "8877168215730523d31fee14049ff8d7",
+    "titulo": "Mercedes-Benz amplia linha elétrica da Sprinter no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/07/14/mercedes-benz-amplia-linha-eletrica-da-sprinter-no-brasil/129596/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-14T21:59:48.158361"
+  },
+  {
+    "id": "80ab45140d5f09edb20406074e5b51ff",
+    "titulo": "Brasil pode ultrapassar a marca de 3 milhões de veículos vendidos em 2026 - pontoeconomicojornal.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ21EV3ZTMVhlVEhQbXRFSmNFRXNJdUZhX2YwT3VOU19TcTY4a3lBWGpsaVA5dUxUVVBJTXg5SXludDdDb09qeEJYTk1nMUZUenBDRWgwak1zRVp4aVBfdTZGd21DM09QMUY1MHVQakNZRWtvOGd0Y0NhS1V4MXVMa2wtV1hQbUxNc3VGLTFTOHlmc2g1LUxYUlBYMHY2YlpkX3hwTEEtNTgxYU1FOHhHU3JNbi1QM1RtQ0FKQnAyQkk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T14:18:15+00:00"
+  },
+  {
     "id": "80a8ca16e76a1353ebe407492ec626bb",
     "titulo": "Mercedes-Benz Sprinter elétrica ganha versão para passageiros",
     "link": "https://automotivebusiness.com.br/lancamentos/mercedes-benz-sprinter-eletrica-ganha-versao-para-passageiros",

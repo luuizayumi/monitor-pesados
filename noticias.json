@@ -1,5 +1,66 @@
 [
   {
+    "id": "933f1ea99c97ff48d48a7abe94c41d92",
+    "titulo": "Ônibus elétricos têm crescimento de 92,5% no 1º semestre de 2026 comparado a 2025",
+    "link": "https://abve.org.br/onibus-eletricos-tem-crescimento-de-925-no-1o-semestre-de-2026-comparado-a-2025/",
+    "fonte": "ABVE",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-14T19:23:00.902976"
+  },
+  {
+    "id": "78c6973784d794fcac923cba992c91d4",
+    "titulo": "Palmeiras recebe frota da patrocinadora Leapmotor",
+    "link": "https://www.autodata.com.br/mobility/2026/07/14/palmeiras-recebe-frota-da-patrocinadora-leapmotor/129535/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-14T19:23:04.999319"
+  },
+  {
+    "id": "1780bc98b90437032033d6346fd41955",
+    "titulo": "Vendas de veículos no Brasil devem superar 3 milhões em 2026 - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXM3SGo1NWRhNUpuOHdSbVhXU2V4QkpzblNtNHFsODdsbE01SWw1S2llR2twYXpCNkIyOW01NjRkNkJYZlA4NGNGTFpLMUc0dTBIODdVa3lKcTQ0aV9vdDRNRDdWRDFaVTJOS0oyWFF1M0R1bjAxYURiLVVKLXJEMjMxVGFzdDRFb0tPMnBkQ2RaS3ZwaXhFa1MwekhEUXVa?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T15:20:17+00:00"
+  },
+  {
+    "id": "e9b6c4f891244354d52232fbbf01a361",
+    "titulo": "Anfavea eleva projeção para 2026 e Brasil pode voltar a superar 3 milhões de veículos vendidos após 12 anos - Guru dos Carros",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWhsVVd3Q3FwZURsVTJ3SXV6TnRxVUowSURfbThEXy1hdHlvaTMwNzRMUWJyLUNGRlBMR0Fjdkhqc1otZnZhYWZJcGgyakRKZXBycGFGV3RYQjFka3Vqck1LSUlYanhid2FLbVc4NTJ2YzRhRkxNV1R1UHZpLURiUmVTWnFRUUJYbTVoTlBfX29lLS1MMThWSnd2bzR5ek13SmNQc0F0d0NFdnltN09Wb1dTWXJZa294NFdWejFKbjRnT0dXNG5RNTNyV2FPSmN0N00zMm5vUi1HWDlXeWkzak9n?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T18:05:56+00:00"
+  },
+  {
+    "id": "cd5cf3285c87f374adedaf96fdcc63c0",
+    "titulo": "Vendas de veículos elétricos crescem 137% em Minas Gerais no primeiro semestre - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ja3RCUTlRRHhObnpUN25DZVd2b25NTk5yOVpqV2lhdnB6Wm9sYXBycEFya1k2YklDc3N0OEVrTVBGQXRWYlVpMGsya3ZiS2pLRHRIcXFBZkdWOVBHQ0tYd0oxWGxmNjI2QlRCOWtheDctNll3LUM0WXF3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-06T14:28:00+00:00"
+  },
+  {
     "id": "687793b0437127702977d943d01dac1d",
     "titulo": "Anfavea revê para cima estimativa de vendas de veículos em 2026 - O TEMPO",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTJZV3NEOFk2UXB2aVJMZjB4SmJlSm1UZXlDZk5KVUFhVFJTMjg5bk5DNkF5SFpmX1VrZnJDcmVNN09vRklsNUFZcHhwaVA5cEhsYk1rNjBpckN2UmFaWXlPUF9jRG10RXNBNTFwaWw5MF9vRXc5Vkh1NzhDU0dVZ09FYlo3ZjE2Z3ZmQllnM2RrbDRiNEY0d0FiN1FTMWNTTnZac2ItaTVmQmtz0gGyAUFVX3lxTFAxV0pGa3RXdlVlSXNWaUIzWHUwcmhUMS1RbjFYeThiV25RYkc5LTVFTXY1WkV6alFrY1ItTXRzYkRqRkJmUHFpNjBQa3huLTY3c3hEcDY4bEhCRVhXQkJhYWphbF9YNnZ6bUtJZlZoaEtmTHF3LTgtRjVnc3pPbThEUjIzZ29mMG90OHBocVRvSjdhNkU0WDZZSzhFZy1LczNNc1pJQU9idUNoNVc0X1paR2c?oc=5",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "2b0ce67908ace982f2068385165bafdb",
+    "titulo": "4.Volvo domina vendas de caminhões pesados, mas mercado cai 13,6% no ano",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-domina-vendas-de-caminhoes-pesados-mas-mercado-cai-136-no-ano/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-14T04:05:15.642332"
+  },
+  {
+    "id": "166b1ac5f437ddd56b31ef5281e19050",
+    "titulo": "Top 10 carros mais vendidos no Brasil em julho – primeiro decêndio - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXZxdW9sOWFpMVlBR0RqaHQ3NHJoYVQ1S01ERVd2RjZCQjlRVnBaUXNocVVVUE1la1lHaFlVZE00bVBJT2hocVJLbGdyVi0tUlZURXdMQmZ5Ykp4WmJpaUlvd1JDWmhaeHRKZ21raWpsZ1NER0VhMEM4ak10TUVncQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-12T16:18:00+00:00"
+  },
+  {
     "id": "3540aef2ec89b96e80c623794db095ac",
     "titulo": "Mercado aquecido impulsiona expansão da produção de motos em Manaus",
     "link": "https://automotivebusiness.com.br/industria/mercado-aquecido-impulsiona-expansao-da-producao-de-motos-em-manaus",

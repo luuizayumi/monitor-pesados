@@ -1,5 +1,30 @@
 [
   {
+    "id": "85e08ac6dfc48291636da85ca225690d",
+    "titulo": "3.Após esgotar quase todo o estoque, Farizon prepara novo caminhão elétrico para o Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/apos-esgotar-quase-todo-o-estoque-farizon-prepara-novo-caminhao-eletrico-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-15T19:14:57.334781"
+  },
+  {
+    "id": "7570c24a8dabdede98208a1c40a4feda",
+    "titulo": "Brasil avança na eletrificação de ônibus urbanos",
+    "link": "https://www.balcaoautomotivo.com/2026/07/15/brasil-avanca-na-eletrificacao-de-onibus-urbanos/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-15T19:15:02.305915"
+  },
+  {
     "id": "ca94a0ee2b23c4f28ef4da4f80e03c22",
     "titulo": "Lei Ferrari, Reforma Tributária e vendas diretas",
     "link": "https://automotivebusiness.com.br/legislacao/lei-ferrari-reforma-tributaria-e-vendas-diretas",

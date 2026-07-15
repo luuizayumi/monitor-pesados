@@ -1,5 +1,56 @@
 [
   {
+    "id": "c7c46b8d55802d5ea561737b945f8fc9",
+    "titulo": "DAF manterá foco na cabine atual e priorizará expansão dos vocacionais na Fenatran",
+    "link": "https://www.autodata.com.br/mobility/2026/07/15/daf-mantera-foco-na-cabine-atual-e-priorizara-expansao-dos-vocacionais-na-fenatran/107993/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-15T14:52:56.617832"
+  },
+  {
+    "id": "0fea9334d29354917089f4a43a163cd5",
+    "titulo": "4.Donos do Volvo EX30 reclamam da demora para fazer recall da bateria",
+    "link": "https://www.estadao.com.br/jornal-do-carro/donos-do-volvo-ex30-reclamam-da-demora-para-fazer-recall-da-bateria/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-15T14:52:59.539611"
+  },
+  {
+    "id": "6e76756a7451c6ee1bc473dab55db0d6",
+    "titulo": "Nakata lança itens de suspensão e direção para Hyundai, Kia Motors, Volvo e DAF",
+    "link": "https://www.balcaoautomotivo.com/2026/07/15/nakata-lanca-novos-itens-de-suspensao-e-direcao-para-hyundai-kia-motors-volvo-e-daf/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-15T14:53:04.452497"
+  },
+  {
+    "id": "bea96933677373d86c5e024a6242c8a7",
+    "titulo": "Volvo amplia portfólio de ônibus urbanos, elétricos e rodoviários na Lat.Bus 2026",
+    "link": "https://www.balcaoautomotivo.com/2026/07/15/volvo-amplia-portfolio-de-onibus-urbanos-eletricos-e-rodoviarios-na-lat-bus-2026/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-15T14:53:04.452511"
+  },
+  {
     "id": "03c414e29cf4117558e666ac78dd0aa8",
     "titulo": "Weichai apresenta motor a hidrogênio com 90% dos componentes do propulsor do JAC Q7 vendido no Brasil",
     "link": "https://frotanews.com.br/motor-a-hidrogenio-weichai-jac-q7/",

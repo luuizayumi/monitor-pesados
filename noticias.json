@@ -1,5 +1,30 @@
 [
   {
+    "id": "5e1249770334c73e48c023ee904a2f49",
+    "titulo": "Entenda a nova mudança da ANP que simplifica regras para uso voluntário de biodiesel em frotas",
+    "link": "https://frotanews.com.br/anp-simplifica-uso-voluntario-de-biodiesel/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-15T16:24:25.750617"
+  },
+  {
+    "id": "3a31d1c9ed7da253564086f971589783",
+    "titulo": "2.Donos do Volvo EX30 reclamam da demora para fazer recall da bateria",
+    "link": "https://www.estadao.com.br/jornal-do-carro/donos-do-volvo-ex30-reclamam-da-demora-para-fazer-recall-da-bateria/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-15T16:24:27.369568"
+  },
+  {
     "id": "c7c46b8d55802d5ea561737b945f8fc9",
     "titulo": "DAF manterá foco na cabine atual e priorizará expansão dos vocacionais na Fenatran",
     "link": "https://www.autodata.com.br/mobility/2026/07/15/daf-mantera-foco-na-cabine-atual-e-priorizara-expansao-dos-vocacionais-na-fenatran/107993/",

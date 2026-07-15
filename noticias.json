@@ -1,5 +1,83 @@
 [
   {
+    "id": "ca94a0ee2b23c4f28ef4da4f80e03c22",
+    "titulo": "Lei Ferrari, Reforma Tributária e vendas diretas",
+    "link": "https://automotivebusiness.com.br/legislacao/lei-ferrari-reforma-tributaria-e-vendas-diretas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-15T17:47:54.847828"
+  },
+  {
+    "id": "0c8dac424c607070b2327b5b1ddfebe0",
+    "titulo": "Lei Ferrari, Reforma Tributária e vendas diretas",
+    "link": "https://automotivebusiness.com.br/opiniao/lei-ferrari-reforma-tributaria-e-vendas-diretas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-15T17:47:54.847845"
+  },
+  {
+    "id": "a0ac480e26158d5f288791872293859b",
+    "titulo": "lei ferrariLei Ferrari, Reforma Tributária e vendas diretas15/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/lei-ferrari-reforma-tributaria-e-vendas-diretas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-15T17:47:54.847851"
+  },
+  {
+    "id": "7f2312b6b59528f3c8a4615db1832611",
+    "titulo": "lei ferrariLei Ferrari, Reforma Tributária e vendas diretas15 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/lei-ferrari-reforma-tributaria-e-vendas-diretas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-15T17:47:54.847858"
+  },
+  {
+    "id": "c9ba9bf1b1d4a5ef78feae71e8ed17e6",
+    "titulo": "opiniãoLei Ferrari, Reforma Tributária e vendas diretaspor Fernando Zilveti",
+    "link": "https://automotivebusiness.com.br/opiniao/lei-ferrari-reforma-tributaria-e-vendas-diretas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-15T17:47:54.847866"
+  },
+  {
+    "id": "ad26c1819a9866816917a7c5fbcffdd6",
+    "titulo": "4.Após esgotar quase todo o estoque, Farizon prepara novo caminhão elétrico para o Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/apos-esgotar-quase-todo-o-estoque-farizon-prepara-novo-caminhao-eletrico-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-15T17:48:00.539894"
+  },
+  {
     "id": "5e1249770334c73e48c023ee904a2f49",
     "titulo": "Entenda a nova mudança da ANP que simplifica regras para uso voluntário de biodiesel em frotas",
     "link": "https://frotanews.com.br/anp-simplifica-uso-voluntario-de-biodiesel/",

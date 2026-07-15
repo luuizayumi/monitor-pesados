@@ -1,5 +1,30 @@
 [
   {
+    "id": "68f132cd2437c813e90eb36679c9e6f3",
+    "titulo": "Venda de veículos cresce 5,5% no primeiro semestre no Chile",
+    "link": "https://www.autodata.com.br/noticias/2026/07/15/venda-de-veiculos-cresce-55-no-primeiro-semestre-no-chile/129735/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-15T22:03:39.094412"
+  },
+  {
+    "id": "f2d314a381f8fca200d729c15939aff0",
+    "titulo": "3.Donos do Volvo EX30 reclamam da demora para fazer recall da bateria",
+    "link": "https://www.estadao.com.br/jornal-do-carro/donos-do-volvo-ex30-reclamam-da-demora-para-fazer-recall-da-bateria/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-15T22:03:42.346000"
+  },
+  {
     "id": "85e08ac6dfc48291636da85ca225690d",
     "titulo": "3.Após esgotar quase todo o estoque, Farizon prepara novo caminhão elétrico para o Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/apos-esgotar-quase-todo-o-estoque-farizon-prepara-novo-caminhao-eletrico-para-o-brasil/",

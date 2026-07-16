@@ -1,5 +1,29 @@
 [
   {
+    "id": "c70a2fd5e144772dff58795b9b9d79f6",
+    "titulo": "manufaturaBYD testará pintura e estamparia na fábrica de Camaçari em agosto",
+    "link": "https://automotivebusiness.com.br/noticias/byd-testara-pintura-e-estamparia-na-fabrica-de-camacari-em-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-16T15:42:33.061012"
+  },
+  {
+    "id": "2999e231ebf516406204ce5d8c9d5282",
+    "titulo": "3.Como o câmbio automatizado poupa motoristas de caminhão de 4 mil movimentos repetitivos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/como-o-cambio-automatizado-poupa-motoristas-de-caminhao-de-4-mil-movimentos-repetitivos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-16T15:42:39.102481"
+  },
+  {
     "id": "97069c5e07396b0b010df301ac70a06d",
     "titulo": "Fabricantes de máquinas JCB e Volvo CE se associam à Anfavea",
     "link": "https://automotivebusiness.com.br/montadoras/jcb-volvoce-se-associam-a-anfavea",

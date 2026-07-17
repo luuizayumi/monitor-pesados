@@ -1,5 +1,17 @@
 [
   {
+    "id": "b2056e33ed26aa532551f182217b0bb4",
+    "titulo": "4.Testamos o Volkswagen e-Delivery, primeiro caminhão elétrico feito no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/testamos-o-volkswagen-e-delivery-primeiro-caminhao-eletrico-feito-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-17T18:34:23.602560"
+  },
+  {
     "id": "fa2b446463d9fd2312451126520a16f7",
     "titulo": "Expansão do biometano depende de infraestrutura, incentivos e renovação da frota",
     "link": "https://www.autodata.com.br/mobility/2026/07/17/expansao-do-biometano-depende-de-infraestrutura-incentivos-e-renovacao-da-frota/129885/",

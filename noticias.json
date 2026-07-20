@@ -1,5 +1,30 @@
 [
   {
+    "id": "f10a82fba9f53b1874f2a6716c84e30b",
+    "titulo": "2.Mercedes-AMG G 63 impressiona, mas será que justifica o preço de R$ 2 milhões?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-amg-g-63-impressiona-mas-sera-que-justifica-o-preco-de-r-2-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-20T22:01:43.387660"
+  },
+  {
+    "id": "5e51f85e8ae5fa36cd8b5abc4cfdd08f",
+    "titulo": "Vendas de veículos sobem 28% no melhor junho em 13 anos, afirma Fenabrave - Jornal de Brasília",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjYxNFpURkRNNHBHWGhBU2FCVzFrMHB0RDVKbXdzYng5M21VcExYaURNWHBjclN1V1dRLUJaQnkxZnctQ2pNLUEtMjExMFMxYWJ5Zlk5ZXFCNlR1N3FwclJaN01kelNmWHVfR0dEajBDVGFaS3RsUmEwaEJfUzV4SFUtckFsMEhTbTdzMzBoRnlDUTlqUEZmNHB5V1lTOUtwQkE1THNXZmt1STkycGlPY084Y3o1MmNYQTNKWXRhZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T15:23:14+00:00"
+  },
+  {
     "id": "c0948cdaae2bb34e0cb4b9ac47412ba6",
     "titulo": "Burgman volta a ser vendida no Brasil sob a marca Haojue",
     "link": "https://automotivebusiness.com.br/lancamentos/burgman-volta-brasil-sob-a-marca-haojue",

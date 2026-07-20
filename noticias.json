@@ -1,5 +1,43 @@
 [
   {
+    "id": "ff7c0756db15e54129d40b27490a197a",
+    "titulo": "vendasFiat repete fórmula do Uno com a chegada do Argo X20/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/fiat-repete-formula-do-uno-com-a-chegada-do-argo-x",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-20T23:31:05.358830"
+  },
+  {
+    "id": "cbc37d531052296df32c0a11d138a97f",
+    "titulo": "vendasFiat repete fórmula do Uno com a chegada do Argo X20 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/fiat-repete-formula-do-uno-com-a-chegada-do-argo-x",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-20T23:31:05.358850"
+  },
+  {
+    "id": "c458e0ca029df4f90517bd46c4da8cbd",
+    "titulo": "3.Mercedes-AMG G 63 impressiona, mas será que justifica o preço de R$ 2 milhões?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-amg-g-63-impressiona-mas-sera-que-justifica-o-preco-de-r-2-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-20T23:31:11.805714"
+  },
+  {
     "id": "f10a82fba9f53b1874f2a6716c84e30b",
     "titulo": "2.Mercedes-AMG G 63 impressiona, mas será que justifica o preço de R$ 2 milhões?",
     "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-amg-g-63-impressiona-mas-sera-que-justifica-o-preco-de-r-2-milhoes/",

@@ -1,5 +1,56 @@
 [
   {
+    "id": "0b9eb3725cfcf57aa472fad7e790dc30",
+    "titulo": "manufaturaInativa, fábrica da Caoa Chery em Jacareí pode ser desapropriada",
+    "link": "https://automotivebusiness.com.br/noticias/inativa-fabrica-da-caoa-chery-em-jacarei-pode-ser-desapropriada",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-21T20:00:17.326432"
+  },
+  {
+    "id": "a342f5b38e09db72acae4053da9f60f3",
+    "titulo": "São Paulo amplia frota de caminhões a gás para coleta de lixo e se aproxima de 250 unidades em operação",
+    "link": "https://frotanews.com.br/caminhao-biometano-coleta-de-lixo/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-21T20:00:23.688661"
+  },
+  {
+    "id": "93320df363f1a55f60a3efc4562cefcd",
+    "titulo": "5.Allison leva ônibus escolar Volare com câmbio automático à Latbus",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/allison-leva-onibus-escolar-volare-com-cambio-automatico-a-latbus/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-21T20:00:25.291480"
+  },
+  {
+    "id": "f3c4d85604f5eb161c166e7d57891ce4",
+    "titulo": "Arrow PAX: empresa de ex-executivos da Marcopolo inicia vendas de um micro-ônibus elétrico para até 20 passageiros e mira transporte urbano, corporativo e fretamento - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSVJUNzFROThNdktoRjBvZzJNV2lLcjdvNVgxcGlyWWVsMXBPNldCT0xkMk5MeDVFaUN2ZWtiY3BkdlhVbF9TUnk2V0ZDZXlKR0p6SVk0SXlpS3M0ZFFoZWMyRHhUV2xYczcwdmJlejRzT19nTk9OOVRJWDdDSDl3M2kxRjkxdGpNWk9NMnBRQ0hmalB5WWs4TTc2RlJXd3VTTmRZT1hDNVliNU9aakp1RVpJTVg5U20yeVl2QW55akZMRklSNXcwMkgwd01ZdVRpS2Yta2JwTC13aFN3dUpuSl9YU0g5ZTdFNU1uUEF5LUItLVJsTzc4QkpHNzI0LTluanN6dUU3Vy1BTWU0SWVic012OVZ0Q09lcXUxX3RfLUE4QVdqbFZhb2VRTWpJeVJhN1JV0gG4AkFVX3lxTFBoTW1UTE41TW1HcmlSM3JYX2NIRTVyTkdDODN0eFNtTVJ1YWxLTnhIc2xmN0hvVHp3RlVraUE1RHE0X1pwNV94alpxMmpKTTNHc0dnM2JUY2Mta1dFN29GYWdZbF91YVZZTDlOTXhQSVlvV1pUSnViSEJTUF9kWmhodGM0SXhUeEdXTGI4ZTlSNVNURnFUT0FUNzBGNW1qZ3duRmpnckdIUk1fbzVmV3FUcDRndnhjenVEeEd5Uy1INlZJbHRFcWxPOXp4YmxnVjBjaWhRY1VPNXVfdXE3Z09fX2paLU9KSElDZThoSmhnWUkxSE5xdE92cUZ1WmExdUtQWjdOdmpqaEd0NEM3allZZzkwOEhFd2RqaUdPYlpBZi1rYk9Sem56Y3IybHFvTF9zd1g1a29RTA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-16T22:49:08+00:00"
+  },
+  {
     "id": "f7222b8b69ed3b25c5c3e4f86269e5ae",
     "titulo": "STJ reconhece possibilidade de aposentadoria por penosidade para caminhoneirosTese fixada pelo tribunal reconhece que motoristas de caminhão são expostos a agentes nocivos à saúde e abre precedente para aposentadoria especial",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/stj-reconhece-possibilidade-de-aposentadoria-por-penosidade-para-caminhoneiros/",

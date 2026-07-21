@@ -1,5 +1,66 @@
 [
   {
+    "id": "1ac11c7727a42ad8947b6692357d6d73",
+    "titulo": "Competitividade é fator fundamental para o Brasil manter protagonismo na Stellantis",
+    "link": "https://www.autodata.com.br/noticias/2026/07/21/competitividade-e-fator-fundamental-para-o-brasil-manter-protagonismo-na-stellantis/130213/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-21T21:39:51.931497"
+  },
+  {
+    "id": "2b9d390f7f71b16af8733825ae0fc666",
+    "titulo": "Gestão em Segurança no Transporte: Fabet São Paulo encerra 12ª edição com 8 cases dos formandos",
+    "link": "https://frotanews.com.br/fabet-seguranca-no-transporte-de-cargas/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-21T21:39:53.583948"
+  },
+  {
+    "id": "a3e35acb3a7cb286734b2c4c4078e9cd",
+    "titulo": "3.XF105 510 mostra porque é o DAF mais vendido do Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/xf105-510-e-o-preferido-da-daf/",
+    "fonte": "Estradão",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-21T21:39:54.980214"
+  },
+  {
+    "id": "4134f7cb26e4249145ebf08995c7b0d7",
+    "titulo": "Brasil pode voltar a vender mais de 3 milhões de veículos em 2026 após 12 anos, diz Anfavea - G1",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNME9nbm5aNUF1WkFINGkzRHNTOGY2WjZ2WVF1VnM4TFV0dmZCWC1OYWh0a3ZrMkN6dHV3ZW9WVDJsbl9qWFA5Y0ViUlNjaHBycXRkbHVONzhISHRqTV9CWU1fdjFQdm1VVVVPX296Z0tMRTNkcjB3NEpabTN1M1NTQWpEN05SM3VoYmFta2psTmFlOEhQN3pTeVhwTkJBc3p4Tl95Y1F6TXpQNWstWGNucURYS1pZNkpiZWlDb1VwNkdpcjd5eXVRc0FB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T07:00:00+00:00"
+  },
+  {
+    "id": "ffd78392a92db180d26424ce3587dc26",
+    "titulo": "Vendas de veículos no país devem crescer 11,7% e superar marca histórica em 2026, projeta Anfavea | Economia | O Liberal - O Liberal",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGdLZVBScHVhVElsRGFYS0hkeTN5WjZyMUlyMVdsU0lmNng4NnZKd3ZGcS1iaXphRVc4Y2lxNklHU2dQSUtEeTB5MExaWmtrdm50dEtlWnlkcEllTzM4Y1I4TFhPa2VhUi1DX2xHQ2VWMXh0ZDE3MHNBekJoSVNLUUtaaW01VzFVcEItZGdEODdzM2FDZTg4SFFrS3ZDVmZpbXRJcjM2YTJNTzdUOUtrUWhta3ZmZDNmZzVpM1FiTmlla19KdkJUcUx5VdIB0AFBVV95cUxON3RuRllFMVd1b2x0MTd3S1pDWnpfNGlxRWtWVmk4S0wwUW9pNjQ1ejVBV0NhZjFqcjdXNGloYU5vb0FDdVQ3N281MDcwSWdQWUt6aU5tS3J1ZlN3T0RISUh6amNhdFV5YjctZVlOd0hBSGhxNTNuLXdlVVRNWHU2MkFBMC1hX3Jaa1YxQ3k1SEQzSUFlZ091SnVZS2JvNTkweEJxaHowQnAtaUNRQktxLWdRZWQxSURlcFR4bHlZQ3BwLTV4SzE5UmxlS1FJSVdf?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T21:43:42+00:00"
+  },
+  {
     "id": "0b9eb3725cfcf57aa472fad7e790dc30",
     "titulo": "manufaturaInativa, fábrica da Caoa Chery em Jacareí pode ser desapropriada",
     "link": "https://automotivebusiness.com.br/noticias/inativa-fabrica-da-caoa-chery-em-jacarei-pode-ser-desapropriada",

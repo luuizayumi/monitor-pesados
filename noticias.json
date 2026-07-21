@@ -1,5 +1,68 @@
 [
   {
+    "id": "a074c1f736764da8fe23d3f870dd3c16",
+    "titulo": "Marcopolo na Austrália: Como a dona da Volgren assumiu a liderança dos ônibus elétricos na Oceania",
+    "link": "https://frotanews.com.br/onibus-marcopolo-volgren-eletricos-australia/",
+    "fonte": "Frota News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-21T02:51:45.805674"
+  },
+  {
+    "id": "bb693449156e9f55975ee73ba5eafdc0",
+    "titulo": "Venda de veículos cresce 5,5% no primeiro semestre no Chile - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTTBldFJXQkpQRVFiVzdDTlNtendUeThpN0NXQVF5bGZEQm9xZXFNeEppcU13MmpJTEhEMC1ZWUl0Y0ZsbXczSnVxZUliX3RLRnRDdy1uSEpoeWg1OV8xd25xVGxnZ0t5Q0lnbldKUmNRR1hqVDU5MXViejVFOWhoaTBDQ0V1U1RyRmkwYzRuRjZMVy1kN0FBdjc0Ry1yclZ1YktCX1UwVU9qYUZSVmdmc3FQSQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-15T21:38:00+00:00"
+  },
+  {
+    "id": "623bb91d5826914621c269ca8be16be3",
+    "titulo": "VW Caminhões e Ônibus estreia no biometano com 56 Constellation vendidos para a Loga - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVi03RmJ6THNtQ0hMQlU3UmhpVkVpLWJfa3BBNDNoYzNseVEwRGtoZGQwWVRKTTM0N2pibUJBbEdFSUwwQzlpWURxU2YteGx2bDBiOG5fTmM5ZXFsR0Z5MVNwcUhBNVhyNWR6SzhzSVZJMEE3VmZBUlNCY25WYm1lN2padVlTYXg3V0hMcWVINjM3T213eGRrWG5yNkV5TzIwLUx5c2xQZTJmYnRueE9PNDdHemRFNVotV0Q4SG1nc201bzF0Q0R4VVlxRHdxV2VzcTZUcmxkTQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-20T18:14:00+00:00"
+  },
+  {
+    "id": "b82fc8439d60c8b7ee7a2dc0ce7fec41",
+    "titulo": "Confira os 50 carros mais vendidos em junho de 2026 - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXE1UGlhVXhvcUkycTIzekZGd254cGJ5em53a01YRV9pWnQ0V1BGWVZJeVBKNWtQTFhWS2tZWHpvNlpfcEFCeVF2RGRWUE5OXy1qek81eVduNE9IaU1RTXlZMnVYLWZ1MnRTano1dnUzM2VodkVWOFNhZ3RlZXVNbVU1NHl2bXpUYjVJMUp6d3pjZlR1cWNKTndBSmpINDVPQkF3SkpuVDFDZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T07:00:00+00:00"
+  },
+  {
+    "id": "940a6ec7a557fd297b44ba727cab54b7",
+    "titulo": "Catar pode barrar plano da Volkswagen de fabricar caminhões militares - Quatro Rodas",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWm95RmRZU2hpT05WdElVdFNPclRTc1pQZFVMenh1eE1NTjNtMlljUFlJWHhOa2pHN0FMeHFMZ3FmU256RFVTWHl2YlhWdmNQU2tDVlhZbFRrNW92b3lBOVZ0dk8yTGNXd0ZUM3Z2MXBTRkNKSWVmUzhkMXlCTTFnVzBDWkVPdW9pcWNSYTM4aWlJSktGeXNYQXZkbW80LW13SXJ6TjVvSUxMdmIxalNnNlBB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-20T11:25:00+00:00"
+  },
+  {
     "id": "ff7c0756db15e54129d40b27490a197a",
     "titulo": "vendasFiat repete fórmula do Uno com a chegada do Argo X20/07/2026",
     "link": "https://automotivebusiness.com.br/noticias/fiat-repete-formula-do-uno-com-a-chegada-do-argo-x",

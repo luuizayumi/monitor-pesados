@@ -1,5 +1,91 @@
 [
   {
+    "id": "0f8fd24433c6d9eea64e7ff4197ebfa1",
+    "titulo": "Marcopolo vende 61 ônibus para operadora Tursan",
+    "link": "https://automotivebusiness.com.br/negocios/marcopolo-vende-61-onibus-para-operadora-tursan",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-22T15:19:50.158834"
+  },
+  {
+    "id": "1f94e3b4f009669bec8504720747d4ea",
+    "titulo": "vendasMarcopolo vende 61 ônibus para operadora Tursan22/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-61-onibus-para-operadora-tursan",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-22T15:19:50.158862"
+  },
+  {
+    "id": "ca4ca46d4c6a1b65cce968279b56d596",
+    "titulo": "vendasMarcopolo vende 61 ônibus para operadora Tursan22 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-61-onibus-para-operadora-tursan",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-22T15:19:50.158867"
+  },
+  {
+    "id": "0bb25f8070c1c4fd3755a504598d0505",
+    "titulo": "Concreteira Geomix recebe primeiros Volvo VMX Max 360 cv betoneira com retarder do Brasil",
+    "link": "https://frotanews.com.br/frota-construcao-mineracao-volvo-vmx/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-22T15:19:57.657191"
+  },
+  {
+    "id": "759a83cc93ed8cdc997a613e11fb58a4",
+    "titulo": "Foton registra avanço de 138% no Brasil no 1º semestre de 2026",
+    "link": "https://www.balcaoautomotivo.com/2026/07/22/foton-registra-avanco-de-138-no-brasil-no-1o-semestre-de-2026/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-22T15:20:04.641105"
+  },
+  {
+    "id": "a8367d01a7a2c494f67aad2e62be3f76",
+    "titulo": "VW Caminhões e Ônibus estreia no biometano com 56 Constellation vendidos para a Loga - Jornal do Brás",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUk5NzdZMUlxSThrbjl1a3NRVGFlWmI5RXJmLTdZWU1yTDN5b3Q3cXExRWhUQndsY2hzTXRvNWtYVHFhem9HZzQ1eEFnNC1nQzVvWVVyS2ZrUkdWRXdZU19kY1QyOVBvMHYwQjQ1M1ZYeVN1OWpETkkzM2RvcHNRdDFpV3hjTWNYbF9idk9Ba3AtOV9oS18zQXNkZ1V3UkM1dFBkQktRUXJQRGFTcHotTlRpNTMtMGMxdW5xUGVSMy10WGx0bGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-21T17:08:08+00:00"
+  },
+  {
+    "id": "e163e3b1de7ea59e750e7b08b8364f61",
+    "titulo": "Primeira venda de caminhões a biometano da VWCO soma 56 unidades - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVZzZ1B5SUJDT3UyeWY5X3VnclNfekZTT2FiRlNqRHQyZFFrbVY2MGdoSnpDWDdMdl9yb1lXWkxOY0tiQ3hxZE9MRmRDTV9mdkc2UTE5Z2otWDNVLXVpb0RCUkpLdWJwYkc2OUNVeC03RWhQcEV4MDM5OGlld2ZDdzFhMU53RDZKc3RwRUJYeC1NN1otUkt5b1cxb3l6Wmw2SDYtaTdUUnYwR0pZcXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-21T18:04:46+00:00"
+  },
+  {
     "id": "95c4623045b6ae1ddea7b41984579c9f",
     "titulo": "Da caixa mecânica ao cérebro do caminhão: a revolução das transmissões ZF.",
     "link": "https://www.autodata.com.br/mobility/2026/07/22/da-caixa-mecanica-ao-cerebro-do-caminhao-a-revolucao-das-transmissoes-zf/129760/",

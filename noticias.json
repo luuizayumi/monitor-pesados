@@ -1,5 +1,56 @@
 [
   {
+    "id": "029681f923372bf8846220edb39364c4",
+    "titulo": "2.Watts prepara moto elétrica feita em Manaus com desempenho de 125 cc",
+    "link": "https://www.estadao.com.br/jornal-do-carro/watts-prepara-moto-eletrica-feita-em-manaus-com-desempenho-de-125-cc/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-22T00:01:09.062714"
+  },
+  {
+    "id": "b6fcae4076bf245abcbd1969a7b46dd9",
+    "titulo": "China tem alta de 78% na venda de caminhões elétricos no 1º semestre e acelera transição energética no transporte de cargas - Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGotTGZXUXBUaENYRUNWaTBmV3B5X3QzaEtTTExHaGlvLXFsd282WTJPd3VJa3BiSFhYRnhwN292TU83WjA0bW1UNTcydDljbTMtbXBFUmNNR2NQcVVyYm1wZGlUbE5XSE9TTzdjSTFfbWNVQkpQNWd2aXBxZ0NzV0ZOTV93M2JXaU9Yd1ozZ3Noelh0NUZoYU5wcjliUWNWRm1TTFo3dlVoTjVkal9TdXlLX2hab1R2MzlpeEt0R05MMHFRQWI2aGdKbVVZRkRpeVV1NEVId2FVaktibngyak5xUEVfZHBlem00?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-21T15:02:00+00:00"
+  },
+  {
+    "id": "af1baf0f006a7c26eb1507c41cd60b1a",
+    "titulo": "Agência de Comunicação - VWCO realiza primeira venda de caminhões a biometano com 56 unidades - Estadão Blue Studio",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkNYVkRPNk9ldFZKYWUzZDd3bS1iUld2YkgtLWh6cVBIMXNsQkpHLWtXQU5NVVdXOVd4NmlaRXh5TnFxN1Nvc2pIZFo4UUt1YnVLWmZOdkVKQWgtWWtKQm1xQWc0WkdHWDd1Qm1iXy15TUp0SVprMGg0cmhMUUhuUVFvM1YwcE1mMUlUOWdrVXI1VG1sR1hYQ2E1NFNBZEd6a2ltdUtaZ2VGYjYwRGhwM0lRN2tpMTYyM05nZjB0aXNNUnRYRTJDUDNFZ0JmZ2JFaTlF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-21T21:17:14+00:00"
+  },
+  {
+    "id": "9c4c178d1018192fd742b3011ec888d9",
+    "titulo": "VWCO realiza primeira venda de caminhões a biometano com 56 unidades - Frota&amp;Cia",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRN202MnNUUW55cldEalg5X3g0SktNNlgwZXBlOXFac0I3b0U5MC1hYUFpUzdzbE92NzRfNFZOUU9ZVzhkamNlWnVacksya3dPTEViRmdfZ3AxSGt4d05UOFZER3Fodw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-21T15:23:00+00:00"
+  },
+  {
     "id": "703fc71b9edc1d70bee37a8cb77dbc5f",
     "titulo": "Grupo Emtel investe R$ 280 milhões e amplia frota para locação com mais 550 veículos",
     "link": "https://frotanews.com.br/grupo-emtel/",

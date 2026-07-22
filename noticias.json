@@ -1,5 +1,43 @@
 [
   {
+    "id": "19df10f1e582370d806621917c0041e8",
+    "titulo": "Geotab lança GO Focus Plus e usa IA para prevenir acidentes em frotas",
+    "link": "https://frotanews.com.br/gofocus-plus-geotab-ia-seguranca-frotas/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-22T18:10:12.167269"
+  },
+  {
+    "id": "679d2b72b8505d7d514a98b9fed67b92",
+    "titulo": "Tursan reforça operações no RJ com 61 novos ônibus Marcopolo e Águia Branca amplia frota histórica em celebração aos 80 anos",
+    "link": "https://frotanews.com.br/onibus-marcopolo-tursan/",
+    "fonte": "Frota News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-22T18:10:12.167305"
+  },
+  {
+    "id": "4b5fabfe4912b4f665a8cf80f0b48675",
+    "titulo": "2.Fenauto prevê mais de 440 mil caminhões usados vendidos no Brasil em 2025",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/fenauto-preve-mais-de-440-mil-caminhoes-usados-vendidos-no-brasil-em-2025/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-22T18:10:13.894832"
+  },
+  {
     "id": "733d3208a3a5864281c0484156799065",
     "titulo": "O que o Alcolock da Volvo não conseguiu nos anos 2000, a Aumovio promete entregar agora",
     "link": "https://frotanews.com.br/sopro-ao-toque-tecnologia-aumovio-medicao-alcool/",

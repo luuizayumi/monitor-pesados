@@ -1,5 +1,30 @@
 [
   {
+    "id": "9d97c0e6e847d4daac2dd3b1b56b4ae5",
+    "titulo": "PACCAR Financial financia 54% dos caminhões DAF e atinge R$ 8 bilhões em carteira",
+    "link": "https://frotanews.com.br/ultimas-noticias-paccar-financial/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-23T20:14:49.275624"
+  },
+  {
+    "id": "3b63094d6eb589f77d7488ea71814d71",
+    "titulo": "Julho Premiado Carboni oferece miniaturas colecionáveis em campanhas especiais de pós-venda IVECO e Goodyear - Rádio Tropical FM 99.1",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQczhrZGNUN2RpLTRHa3BBejF2S094VV9KUnFndVlMcVQ3cF9JbG1DMk8wQmZZR0J0UjU3U2xsREdCNlpvbEpZZ1l2ZzJLNXhFa1U2dnhWcXZrVXNBU3l0N19KZE9lallDcTVnTzhWUVNLS1dWNXhjSjZIY05Fblg3WWtSVEY5TG5ydzJ4aTR3NFRrNEtSaERZZjhzWG1pWWJKRXB0Wm0yMF9lVlJaUDZNUUJET184VGp2SEUtZ0pQM3BIVkFqRlozMmtDODRQSU9DZTROVVhEcGF0WThi?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-16T20:34:00+00:00"
+  },
+  {
     "id": "ed4b833577a4a5f5ed96f2e9746df288",
     "titulo": "GWM projeta R$ 20 milhões em vendas de caminhões a hidrogênio até o fim de 2026",
     "link": "https://automotivebusiness.com.br/montadoras/gwm-projeta-r-20-milhoes-em-vendas-de-caminhoes-a-hidrogenio-ate-o-fim-de-2026",

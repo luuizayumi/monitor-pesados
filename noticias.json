@@ -1,5 +1,139 @@
 [
   {
+    "id": "10a2ecbe359636393656d6d310a279c8",
+    "titulo": "3.Van Mercedes-Benz Sprinter ganha versão motorhome de R$ 1,1 milhão",
+    "link": "https://www.estadao.com.br/jornal-do-carro/van-mercedes-benz-sprinter-ganha-versao-motorhome-de-r-11-milhao/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-24T00:06:17.933109"
+  },
+  {
+    "id": "fbc6a4bad9d12d56e7ca1510ad00a3b6",
+    "titulo": "GWM projeta expansão em vendas de caminhões a hidrogênio no Brasil - Sincopeças-SP",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3NHOEo1S0pRNHBTVHhYeG5wY3MtVlk5al9XaGJxWWlXU2gxZl9pZzJ6ci1oTE5LY0dQSXc5c05ZcTMyZ21zZnNjbk9QU2Rhd3FLQW5pdjBsV2FPcUg5bzdGQ21HNFJUREpKT3hTcFp1aEdhRS1PWE9RYjZfUXBLc2ZlT1RSMWV2RG1tQm5VXzl1YjJNSEJfc19ZM1NGalU4R1FTVzl0eTh2aFM1YTlNX2VQbnM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T19:42:01+00:00"
+  },
+  {
+    "id": "1ff1d33a763070312ab8bef88d8eb606",
+    "titulo": "GWM projeta R$ 20 milhões em vendas de caminhões a hidrogênio no Brasil em 2026 - Gazeta de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHdMZTF1VGZ6RjlaNGhyWlNPdmVYVk9lampZMnpOZmRYTzQzdjQyQXdBeURtM1dLaE91M1d0eEpzLXF2MW0xMEFXWlVzdjAyenY1YlRTZ0ZNdjNoQWpJOXpGMHpwUTVSTXZFelMwaXlIcmZOSlBrcDdkXzBtVmFkSFRpSURpaE4weG9Yc1B3TnVNV2hjVEp5TDBVNzR5Zzc2bVdCTUhfT25NeVNZZkpIQzh0SnlDOVhY?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T19:59:55+00:00"
+  },
+  {
+    "id": "b8953191bf8fd36e0f024225cd136c6a",
+    "titulo": "GWM projeta R$ 20 milhões em vendas de caminhões a hidrogênio até o fim de 2026 - Automotive Business",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0twaEM2MjZ0dkZiTVA4VHpYSzNpN09zU1RKZ2Itc0w1TWpuS3ZURkJiaEFqUWt3bDVBRVRfUFFCbkhwR0VvdzAyUkhNTzR3a19EQ1ZEMmMwcUdNV3NLRE1MNVJSeU5WYmo1SVJkN0xTd2FoSk9vMUc2ZUk0bDlFN1ZUckJrYmhhWjRiV0haX1c4bUY3blE1bjBIQmczWFRTRkdOWC1hSW1rYWl6ckljQ2w0anRTOWRNSmZoN3hWMUdKeTA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T17:59:43+00:00"
+  },
+  {
+    "id": "f9263499283ffa3e3885d05914dd62dd",
+    "titulo": "Compra de caminhões por locadoras deve cair para 8 mil unidades em 2026 - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZmp1R2MydUJ3dlVPd0xxUWlqcjZvejZFOUVMMjBnSExUOW8tRFZGaTZ4eGZndmdieWU1aEktMFpSYWlPc2tEbXVHZEN5MmhTQmJQeEVVNmdFRk11NEM4dEdTOE5SYlVjSlAtV1ZvMlFRbTFOWk9weDhrRHk4ZUMyaDJXWTA4WDUwd3Mxem5QVUZIRXVySzFPaEtPaThyMFpwU0ZjSWtsbGNUNTAwel95amMzTG9qb2szT1lMWA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T17:22:35+00:00"
+  },
+  {
+    "id": "e6ba859c592f4d4b08d1fc7dba23ca83",
+    "titulo": "Yamalog reporta 30% menos custos de recarga com caminhão elétrico na última milha - Tecnologística",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLUVKQlQybHZRTmZmdVd4YzFVaThSdkk5alhoZjFKLVJ1TFpsUmplanRrank4N0htRlAxZHpsVGozdHc0V1RjNXY5NjJDM0xrbHZKLUlmTlAzMHpoUzQxX2t5N0lxX01LRkVSMjBBN1RUaEpJT3gyVDNZNlVacHZGTkxQNFJCYklrdDY0TGx1RDZyWEhETWV6SlJ3dFRVV0JubjRTdTdlNHAxcjlicjdkYmxlbWpoRGlCMmpjT09XSmU1NGJkbmZxNFZncFVkeS1rR3IzdzFyQ01PZnlHY3ZSYQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-23T14:03:41+00:00"
+  },
+  {
+    "id": "e29063b84e6176f5d95f10a396e84c43",
+    "titulo": "GWM projeta faturar R$ 20 milhões com caminhões a hidrogênio em 2026 - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDZ3RlBmaTJvRnVOTF9XRXplaGxFcGFnOVVWbXVGNFc0Y3N2NUhiN2JhbUUzMl9Oa0VRYmpSY2ZQUGc0dldLdXRHZnZXYmt4S0NXYmxRRVNPMFlQNFNDYnpwbnZSaXBId183ZEgxLUFxdXZKTjRkaFNSWk0wUHdSSHc0U3QtTlR3aFhST2dEbnNHTUJjUEZrOTJfenRZQllPT20wU1ZxMTBNZ3RxdDdvd1lhWUJ3d1pSWVJLNFNabG4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T19:12:00+00:00"
+  },
+  {
+    "id": "14ea471ea11fbcca688b36c4e7b288e3",
+    "titulo": "Eletra lidera mercado brasileiro de ônibus elétricos no primeiro semestre de 2026 com 38% dos emplacamentos - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWW5BUVRsUk5YaTN3ajZrNlR5eTgtbkxtMEtYTlExbGgxTVpvZlVld2RLSlRncGE1WE9oejNhS1hDeWYzZXNQRTlBbGZuNkFORlZtZ01Ja0dSMDFJZ1o3QW1pNXNsaTdNLVI5OTZkZ1pQQ2Y2YUZ1VFhVM08tMmEwS2N2TkRhMlhtYUh0WkZkQVc3TDlSM0ExQjVKSmpSOVhUeUVzbUNSWm1Vb3pWc3ZtOHZneXhLYi1RS09PUU9TNEZ6RWRBdGxJYnZUQWpmcXAzZi02N01UTU80dw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Eletra",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-14T07:00:00+00:00"
+  },
+  {
+    "id": "d56f3cc7df2dc6216b8f88afd7b030d6",
+    "titulo": "VWCO realiza venda de caminhão a biometano no Brasil - Revista O Mecânico",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDVxdm10c3BOelZveVpOVTg2dFA2UG1UeTdxb1Qwal9INTBaWnVoZ3JRdFFQa2E2R2FUNlNPalJ0ZU1yYS15Rzlic1pFRjRJUmdaQ3ZPa0dGdklmMFRkVnFjX0FHUXZzQjZKZGFXaTBneWNHZ3Zzb1JlZ2ZndEdiTUFyeGs?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T12:28:34+00:00"
+  },
+  {
+    "id": "0d2ea029c2c308d98540a10e44b70a0c",
+    "titulo": "Paccar Financial passa a responder por mais da metade das vendas da DAF no Brasil - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnZkNF9FdzlUaWZRRkNTNzJRMmVNMXBFejRyczdkeVBCU0M0cE45WThVX0R5XzJrR2xyaUs5cXFxemxuc1YwVHJKT1l2RVZxSTkzaWZHVm1Fc2U0U2pfcUU0cmszQll0QllMRkpfR3dtSW50UlctVEQ0Uzl2SmpNNEhDNDBpX0VXUEJKQjZsT0twVVZ1SmhoOVVGUVpEUUFDcGRNN3dIZTNuanlfUF9UTHlsWlZ1M19QYXY3cTUxTzJtSk5o?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T17:54:32+00:00"
+  },
+  {
+    "id": "3d8cc9682f18937d2d651cddd4a77653",
+    "titulo": "GWM projeta R$ 20 milhões em vendas de caminhões a hidrogênio no Brasil em 2026 - Diário da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1RDaU5fMHpzMDBoWXBwN3J5NmlUckw5NF8xVDFtZ1F6UmZGZWJRUmdtWGc1UktDUjk5UmlnNXc3M2RlX2NhQzhVSlVZX0czaEdRNk5KOXE3ZU9qbkxjcVhYZW5LbTBrYVAyMFp5MDE5djVJWXdwTWptUWRKT2ZwRW04T1UtQ0hOT2VsQVVDQWlTSURpM2M4Q1JXNVZhZ2pRQnB6NWlBUmpSWFl2dEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T16:41:00+00:00"
+  },
+  {
     "id": "8b3bf292b7f4e495b7f9a222d82238cc",
     "titulo": "Cortes do Villela: GWM Brasil realiza teste pioneiro de caminhão a hidrogênio verde na Bahia",
     "link": "https://frotanews.com.br/cortes-do-villela/",

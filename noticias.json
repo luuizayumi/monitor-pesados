@@ -1,5 +1,30 @@
 [
   {
+    "id": "dd8d5dbf2383858ad724b35818ac0a7f",
+    "titulo": "Lançamento mundial: Iveco Strator 2.0, o lendário bicudo está de volta sobre a plataforma do S-Way",
+    "link": "https://frotanews.com.br/lancamento-caminhao-iveco-strator/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-25T19:10:05.601913"
+  },
+  {
+    "id": "e0618094a04d9aca9d9f64df534c3f26",
+    "titulo": "Anvisa mudou os rótulos dos alimentos vendidos nos supermercados - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRC1xeEUtbDZEN1RWeUhQNU0wZktKeDU0clVWbnhiNDEybE85NXo5WDRWTlJSdmVKMUxHOS1Ea3JLYlgtUTJTMUVqOU9QMWVYM0hxWVF6MVdBUkpwYW5DcWdzdENJc1NGbjdqZEdYZTNZclFCeHhXRktYeVJyeElzak9Oa1JtOVRTSEpUdHpCZTgwb1JaMnd0LTRaU2xGTlRVeC1j?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T09:14:00+00:00"
+  },
+  {
     "id": "3ef3da9f225f147d5625f9f85f6c6d6c",
     "titulo": "Mais de 1 milhão de elétricos foram vendidos na Europa no 1º semestre - CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0dWUDctNVFDMnFyQWhGek1uTDFhaW9lWk84RWFjeEtMNzFlUDlnZm5HaXluRmJOOVRzblNKVE40c3lERkQ5a0pTR2hLMy1FMUhnREpGSlpTVXlWbTJBWnZZMWR2V2V4WkU0NkxrQ0dzbDFFbG1pQlJ6TVd3S3FfcDRIeTNwV0pyUHpBdjNWV2dJUTNrX2RLX3hiYU4yOGpYS3djVHNKTQ?oc=5",

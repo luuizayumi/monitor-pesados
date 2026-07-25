@@ -1,5 +1,29 @@
 [
   {
+    "id": "386d1905317f06c882a6a58880d2b280",
+    "titulo": "Move Brasil 2: Scania Banco chega a R$ 2 bi para PJ, mas sobra de crédito para autônomos expõe gargalos do setor",
+    "link": "https://frotanews.com.br/move-brasil-2-esgota-recursos-julho-scania-banco/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-25T22:29:35.699121"
+  },
+  {
+    "id": "aecdead663ea9ab1378e3a53ac814c06",
+    "titulo": "Marca de 300 mil veículos vendidos reforça avanço da BYD no Brasil - Conexão Tocantins",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGxleTBHSnlVR0RTZmpTYUZOWXBORHpwWHVJbVhKVl9LN2FiX29IVHNlV3AxTEFkTjIwTVNBUXd1OVVXd1oxczgyS2NXdE51MlRZbkY0Tm82UUtlMnVtRDNnTzVsbmoxcnZLaTNNbHhkUjhnUVpFQWNiVENWaVFaNWJOZFZWOHd1NDFPMHJlUXZ5UlZ2X2V3b2NRam1XZHBSbEhOXw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-06-26T07:00:00+00:00"
+  },
+  {
     "id": "dd8d5dbf2383858ad724b35818ac0a7f",
     "titulo": "Lançamento mundial: Iveco Strator 2.0, o lendário bicudo está de volta sobre a plataforma do S-Way",
     "link": "https://frotanews.com.br/lancamento-caminhao-iveco-strator/",

@@ -1,5 +1,66 @@
 [
   {
+    "id": "5b2e9f3abf3db78f9357351e2942fad1",
+    "titulo": "Do resgate da Volvo Cars à recente parceria com a Ford: como a Geely virou potência automotiva mundial",
+    "link": "https://frotanews.com.br/industria-automotiva-geely/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T21:40:00.979845"
+  },
+  {
+    "id": "947cad934d87ce2f3b6ea26fb48c8b21",
+    "titulo": "Cocal avança na transição energética com mais de 170 veículos a biometano e testa caminhão JAC no transporte de cana",
+    "link": "https://frotanews.com.br/mwm-realiza-a-troca-de-motores-a-diesel-por-biometano-para-a-cocal/",
+    "fonte": "Frota News",
+    "montadora": "JAC",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T21:40:00.979860"
+  },
+  {
+    "id": "cd3529ed58f00b99117e39982bc99d0a",
+    "titulo": "Óleo lubrificante usado exige manejo técnico rigoroso e reforça alerta sobre riscos ambientais",
+    "link": "https://frotanews.com.br/noticias-lubrificantes-2026/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T21:40:00.979864"
+  },
+  {
+    "id": "8029857bb9b1da3fa94ed2f263682b8a",
+    "titulo": "4.Yamaha XMax 300 ganha novas cores e mantém pacote tecnológico; scooter custa R$ 38.690",
+    "link": "https://www.estadao.com.br/jornal-do-carro/yamaha-xmax-300-ganha-novas-cores-e-mantem-pacote-tecnologico-scooter-custa-r-38690/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T21:40:02.513867"
+  },
+  {
+    "id": "a732012dcfe6d5ae1d4a66c5748189d8",
+    "titulo": "Banco da Scania financiou mais de 2 mil caminhões pelo Move Brasil - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGNoZmkzUDJrUEZpSmk4RkhUQTJxQW5LUFJ4eHl1aXZkc2NKZFh3X0YzUHR5Y0NjcHJmdjhkVThjUDF4aUlyNmNQR3Bvck80V0JmbGhfT2hMNjQ4cXpzY0R3MTRuNzZEV01XYTZJSGliekl6dFdvRkZRUUI1dWg5ZTdjNWwtel8zYl9FZkc1aWx0X0NpdDR2WHFxVVRaSVcyekdCU2o4VE1IUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-24T12:52:20+00:00"
+  },
+  {
     "id": "54e52e74d504b69494c9d37c38fead00",
     "titulo": "Volks e Mercedes apostam no futebol feminino como ferramenta de impacto social",
     "link": "https://automotivebusiness.com.br/diversidade/volks-e-mercedes-apostam-no-futebol-feminino-como-ferramenta-de-impacto-social",

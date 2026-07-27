@@ -1,5 +1,79 @@
 [
   {
+    "id": "c9907dc48ca4bfd7c96b7c26957d4416",
+    "titulo": "Volks e Mercedes apostam no futebol feminino como ferramenta de impacto social",
+    "link": "https://automotivebusiness.com.br/esg/volks-e-mercedes-apostam-no-futebol-feminino-como-ferramenta-de-impacto-social",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T23:04:24.366364"
+  },
+  {
+    "id": "c60ac84830c294cde183ede6307f83ad",
+    "titulo": "ESGVolks e Mercedes apostam no futebol feminino como ferramenta de impacto social27/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volks-e-mercedes-apostam-no-futebol-feminino-como-ferramenta-de-impacto-social",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T23:04:24.366384"
+  },
+  {
+    "id": "e531dc458aeffac0b348b75c6af0a6f9",
+    "titulo": "ESGVolks e Mercedes apostam no futebol feminino como ferramenta de impacto so...27 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volks-e-mercedes-apostam-no-futebol-feminino-como-ferramenta-de-impacto-social",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T23:04:24.366392"
+  },
+  {
+    "id": "17c160767f36dd0e3b953d25fc4c5e45",
+    "titulo": "Com aumento na demanda, Volkswagen negocia novo acordo coletivo com hora extra",
+    "link": "https://www.autodata.com.br/noticias/2026/07/27/com-aumento-na-demanda-volkswagen-negocia-novo-acordo-coletivo-com-hora-extra/130710/",
+    "fonte": "AutoData",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T23:04:29.331221"
+  },
+  {
+    "id": "feffaa643c3b0ace9565a0dffcea1b1c",
+    "titulo": "Marcopolo reorganiza pós-venda e cria a marca Marco Parts",
+    "link": "https://www.autodata.com.br/noticias/2026/07/27/marcopolo-reorganiza-pos-venda-e-cria-a-marca-marco-parts/130677/",
+    "fonte": "AutoData",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-27T23:04:29.331255"
+  },
+  {
+    "id": "2f6112290d350e7d8afe0d497c1e5c07",
+    "titulo": "2.Yamaha XMax 300 ganha novas cores e mantém pacote tecnológico; scooter custa R$ 38.690",
+    "link": "https://www.estadao.com.br/jornal-do-carro/yamaha-xmax-300-ganha-novas-cores-e-mantem-pacote-tecnologico-scooter-custa-r-38690/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T23:05:12.387556"
+  },
+  {
     "id": "5b2e9f3abf3db78f9357351e2942fad1",
     "titulo": "Do resgate da Volvo Cars à recente parceria com a Ford: como a Geely virou potência automotiva mundial",
     "link": "https://frotanews.com.br/industria-automotiva-geely/",

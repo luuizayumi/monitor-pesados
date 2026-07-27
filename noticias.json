@@ -1,5 +1,128 @@
 [
   {
+    "id": "54e52e74d504b69494c9d37c38fead00",
+    "titulo": "Volks e Mercedes apostam no futebol feminino como ferramenta de impacto social",
+    "link": "https://automotivebusiness.com.br/diversidade/volks-e-mercedes-apostam-no-futebol-feminino-como-ferramenta-de-impacto-social",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T20:24:03.761406"
+  },
+  {
+    "id": "4638b37bd3e1e9a415da05131e2332f2",
+    "titulo": "Dia do Motociclista: frota brasileira chega perto de 40 milhões",
+    "link": "https://automotivebusiness.com.br/mobilidade/dia-do-motociclista-frota-brasileira-chega-perto-de-40-milhoes",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-27T20:24:03.761422"
+  },
+  {
+    "id": "19ac25ab7ff360ef2ffdac0236dd9b6d",
+    "titulo": "Marcopolo vende 36 ônibus rodoviários para operador de MG",
+    "link": "https://automotivebusiness.com.br/negocios/marcopolo-vende-36-onibus-rodoviarios-para-operador-de-mg",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T20:24:03.761426"
+  },
+  {
+    "id": "9e66b9db8bb3288ef83a2883aba5e6fa",
+    "titulo": "diversidadeVolks e Mercedes apostam no futebol feminino como ferramenta de impacto social27/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volks-e-mercedes-apostam-no-futebol-feminino-como-ferramenta-de-impacto-social",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T20:24:03.761432"
+  },
+  {
+    "id": "67e85274eadd4aa3dd45fbce6dc8e3d1",
+    "titulo": "mobilidadeDia do Motociclista: frota brasileira chega perto de 40 milhões27/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/dia-do-motociclista-frota-brasileira-chega-perto-de-40-milhoes",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-27T20:24:03.761441"
+  },
+  {
+    "id": "3a730d92f2a506c51be9831a90245c80",
+    "titulo": "marcopoloMarcopolo vende 36 ônibus rodoviários para operador de MG27/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-36-onibus-rodoviarios-para-operador-de-mg",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T20:24:03.761444"
+  },
+  {
+    "id": "d97d4134ffc65d26c24ffb0c37f8dde4",
+    "titulo": "diversidadeVolks e Mercedes apostam no futebol feminino como ferramenta de impacto so...27 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volks-e-mercedes-apostam-no-futebol-feminino-como-ferramenta-de-impacto-social",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T20:24:03.761447"
+  },
+  {
+    "id": "7da3d9fc3d074070fde3fe9137ffaa72",
+    "titulo": "mobilidadeDia do Motociclista: frota brasileira chega perto de 40 milhões27 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/dia-do-motociclista-frota-brasileira-chega-perto-de-40-milhoes",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-27T20:24:03.761450"
+  },
+  {
+    "id": "f35f1e325296b9df0e9b964347531e11",
+    "titulo": "marcopoloMarcopolo vende 36 ônibus rodoviários para operador de MG27 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-36-onibus-rodoviarios-para-operador-de-mg",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-27T20:24:03.761452"
+  },
+  {
+    "id": "77cd0b82793000494543ad21f794c10c",
+    "titulo": "Frota de motocicletas cresce 47% em dez anos e chega a 38,4 milhões no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/07/27/frota-de-motocicletas-cresce-47-em-dez-anos-e-chega-a-384-milhoes-no-brasil/130688/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-27T20:24:08.945174"
+  },
+  {
     "id": "37725a46fed581a9a4a6ea806db0abe2",
     "titulo": "Curso Presencial Gestão Estratégica de Frotas da Fabet chega à 10ª edição e estão com inscrições abertas",
     "link": "https://frotanews.com.br/gestao-estrategica-de-frotas-fabet-curso-presencial-2026/",

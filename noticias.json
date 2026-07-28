@@ -1,5 +1,92 @@
 [
   {
+    "id": "c0fd7acfb11e7b93b4f41eb3669552ad",
+    "titulo": "Royal Enfield: motos têm novo plano de revisões e manutenção fica até 34% mais barata.",
+    "link": "https://www.autodata.com.br/mobility/2026/07/28/royal-enfield-motos-tem-novo-plano-de-revisoes-e-manutencao-fica-ate-34-mais-barata/130697/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-28T14:59:44.842920"
+  },
+  {
+    "id": "c0bfc065bba1f879cad41b244bd31ab6",
+    "titulo": "Venda financiada de veículos é a maior para o primeiro semestre desde 2008",
+    "link": "https://www.autodata.com.br/noticias/2026/07/27/venda-financiada-de-veiculos-e-a-maior-para-o-primeiro-semestre-desde-2008/130712/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T14:59:44.842944"
+  },
+  {
+    "id": "dc1b3786653fa2ece72a43aa8807f3d8",
+    "titulo": "Koube amplia soluções químicas para proteger motores a diesel e reduzir custos de manutenção",
+    "link": "https://frotanews.com.br/motores-a-diesel-koube-solucoes-manutencao/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-28T14:59:47.419779"
+  },
+  {
+    "id": "fbed43bab473f4012385d73f1943ada0",
+    "titulo": "Paraty Mobilidade, SC Minas e JC Fretamentos renovam suas frotas com Marcopolo e Volare",
+    "link": "https://frotanews.com.br/marcopolo-2026/",
+    "fonte": "Frota News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-28T14:59:47.419789"
+  },
+  {
+    "id": "31f711c5d282f993e8f589efd3d7c260",
+    "titulo": "5.Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T14:59:49.130143"
+  },
+  {
+    "id": "f255046135d05b2fd45b0a7dc602b591",
+    "titulo": "Carros mais vendidos no Brasil em julho: mudanças no ranking (dia 25) - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnZqMnlNcmtjSGZELVczUlY1OFEtOTN2YUs4V1NNZEpodlBiSDRFN09zZUhoX0hUZVpKUjZqRTFKY2JfazljQ2VNd282S0lFOVNBeGJBdEhsSk1ZbEd2WTBXUmRCVlpmTnlBYjhHVml5VVFqUGczbkFVbFlhdzZ6N3duQlI2TGtDamx6dGVmZGM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-25T10:46:00+00:00"
+  },
+  {
+    "id": "9152b3a012901d44878de0542b740afb",
+    "titulo": "Venda de veículos novos cresce 16% no 1º semestre de 2026 - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmhVcG9KOFNBSDhPT2NTSHYzajVRclZEbXh5ekNmQlh0U2dmcmdHZy1XUW5wOGpfRS1FWER3ZU9qQzZ2ZTlzX0tmbHZmZVNGdFp6cDg4TExtckFJZURHS1NMcmprVGJKVlAtSTR6WjlJdTI1WmMzalQ2N252UFJFZkZ2SDhhZnI0WUgyelgxNzFMWDdPZW12cEgxNGVaZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T07:00:00+00:00"
+  },
+  {
     "id": "5b4c6d0a154d48bb17a64b79ef76f876",
     "titulo": "Daimler 1909: o caminhão que antecedeu a chegada da Mercedes-Benz no Brasil.",
     "link": "https://www.autodata.com.br/mobility/2026/07/28/daimler-1909-o-caminhao-que-antecedeu-a-chegada-da-mercedes-benz-no-brasil/130644/",

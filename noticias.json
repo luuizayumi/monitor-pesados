@@ -1,5 +1,29 @@
 [
   {
+    "id": "a44a3dc7325a348fa34e1dc15a7a5a7c",
+    "titulo": "Balanço 2026: Mercedes-Benz Vans sustenta rentabilidade, crescimento de 39% em elétricos e força da Sprinter",
+    "link": "https://frotanews.com.br/mercado-mercedes-benz-vans/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-28T16:46:49.567479"
+  },
+  {
+    "id": "55a138e6453bc0c09028e1d9ea79fdfe",
+    "titulo": "Em decisão inédita, STF libera operação da Buser no ParanáSupremo decidiu pela revogação da proibição da plataforma de fretamento de ônibus por aplicativos. Medida ainda será alvo de análise",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/em-decisao-inedita-stf-libera-operacao-da-buser-no-parana/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-28T16:46:51.389761"
+  },
+  {
     "id": "c0fd7acfb11e7b93b4f41eb3669552ad",
     "titulo": "Royal Enfield: motos têm novo plano de revisões e manutenção fica até 34% mais barata.",
     "link": "https://www.autodata.com.br/mobility/2026/07/28/royal-enfield-motos-tem-novo-plano-de-revisoes-e-manutencao-fica-ate-34-mais-barata/130697/",

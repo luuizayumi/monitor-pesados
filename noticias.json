@@ -1,5 +1,68 @@
 [
   {
+    "id": "fad3e239e55c5e2def0303bd66c79e25",
+    "titulo": "vendasVolume de veículos financiados cresce 11% no primeiro semestre28/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volume-de-veiculos-financiados-cresce-11-no-primeiro-semestre",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T21:39:22.171413"
+  },
+  {
+    "id": "9761f48c0dd79fb10de78a80bb9bac6f",
+    "titulo": "vendasVolume de veículos financiados cresce 11% no primeiro semestre28 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volume-de-veiculos-financiados-cresce-11-no-primeiro-semestre",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T21:39:22.171422"
+  },
+  {
+    "id": "6c378ad7396b3cbaf635ed1dae206ea4",
+    "titulo": "Indústria de veículos comerciais cobra renovação de frota e juros menores",
+    "link": "https://www.autodata.com.br/noticias/2026/07/28/industria-de-veiculos-comerciais-cobra-renovacao-de-frota-e-juros-menores/130787/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-28T21:39:26.741673"
+  },
+  {
+    "id": "2619a287ddf3bdc702d245ad4e6d8c37",
+    "titulo": "Ativa Logística investe mais de R$40 milhões para ampliar frota com DAF e Iveco",
+    "link": "https://frotanews.com.br/mercado-distribuidoras-farmaceuticas-ativa/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T21:39:28.298381"
+  },
+  {
+    "id": "b5304e82b870f8cf9c7e080dedb09bc6",
+    "titulo": "3.Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T21:39:30.652027"
+  },
+  {
     "id": "a36c9aa4bb44702aa3aba86fb0f482b8",
     "titulo": "Carretas hexatrem da Suzano avançam para testes em vias públicas no MS e consolidam liderança da Volvo em composições ultrapesadas",
     "link": "https://frotanews.com.br/hexatrens-volvo-fmx-6x6-para-250-toneladas-hexatrem-logistica-florestal-da-suzano/",

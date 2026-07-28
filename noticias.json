@@ -1,5 +1,30 @@
 [
   {
+    "id": "5b4c6d0a154d48bb17a64b79ef76f876",
+    "titulo": "Daimler 1909: o caminhão que antecedeu a chegada da Mercedes-Benz no Brasil.",
+    "link": "https://www.autodata.com.br/mobility/2026/07/28/daimler-1909-o-caminhao-que-antecedeu-a-chegada-da-mercedes-benz-no-brasil/130644/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-28T12:21:53.632562"
+  },
+  {
+    "id": "1aa82fc7f3803b1fc965425c5fc7cdd0",
+    "titulo": "Emplacamentos no Pará: segmento de motos lidera mercado com venda de 72 mil unidades | Economia | O Liberal - O Liberal",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUDA4bHVPekIyNjJhX2poMERWSFV1aDZmVXZUVm1CUWJQaWc5WWNNUVM5MTM4REtEVDJuZDRVQ0U0LXhyQ0hWVTRUV3h3MXJFRWNfWGE1ZkFqS09ZQ0R5andJQ2NFdllCNU1wRjdETUJMTTdDSkZxYl9QeUZjblh0Q2FBZWthQ0VaQ3RLWVpSaEFBdHlqeXBGeHFKSE1KdUpFVXNrOXN0R0UyUms4b3ZaZXpkZ3czTGlxTHd0azBqUUg5Q0R3V1A1UVpB0gHKAUFVX3lxTE1QMDhsdU96QjI2MmFfamgwRFZIVXVoNmZVdlRWbUJRYlBpZzlZY01RUzkxMzhES0RUMm5kNFVDRTQteHJDSFZVNFRXeHcxckVFY19YYTVmQWpLT1lDRHlqd0lDY0V2WUI1TXBGN0RNQkxNN0NKRnFiX1B5RmNuWHRDYUFla2FDRVpDdEtZWlJoQUF0eWp5cEZ4cUpITUp1SkVVc2s5c3RHRTJSazhvdlplemRndzNMaXFMd3RrMGpRSDlDRHdXUDVRWkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T00:39:40+00:00"
+  },
+  {
     "id": "cb3cc8c98665226cb92c3db5c9a40015",
     "titulo": "2.Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
     "link": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/",

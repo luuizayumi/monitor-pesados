@@ -1,5 +1,30 @@
 [
   {
+    "id": "a700b781965e150612fbdac14feb9d06",
+    "titulo": "2.Ônibus chega ao destino após 55 anos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/onibus-chega-ao-destino-apos-55-anos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-28T07:15:17.780608"
+  },
+  {
+    "id": "99c13e35e73541971e172c13ba0cc3b4",
+    "titulo": "Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especial - terra.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQl83QzVmZU5UdW5maFh2bDhkTHlhdGp4QTZnQm05QkduMWRLX21ybzhZa3gyVExuZ0VoaW1vajlzMndpNTIxQjFtODBxQjJKSVcwS3ZLRGVZY3RuQ00tcXpuZ3VVMXRCN3VjeXFrenF6QmV5VVBNX3JyUEtaSTdEUEw0aGs4aGlabk1OWTJUd3RUdnBuX0lTb1J2OHNuYnlSaEJsVEdXdG9pc05oVU5hTW5fQnlndGxpUk5jR00xTVZNLTlfQUdYS0x3MnR6VF8yU0tWTGhSQVdiMlEzNUp4UV84bGU5R1ZVNi1CY2doQkQ0Wjg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-04T07:00:00+00:00"
+  },
+  {
     "id": "7278e1e438ea8eaf876f736df605bed8",
     "titulo": "3.Burgman 125 volta ao Brasil após 11 anos mantendo DNA urbano e preço competitivo",
     "link": "https://www.estadao.com.br/jornal-do-carro/burgman-125-volta-ao-brasil-apos-11-anos-mantendo-dna-urbano-e-preco-competitivo/",

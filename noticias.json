@@ -1,5 +1,66 @@
 [
   {
+    "id": "4b6ebbc1492a57aeaac514145a883cf9",
+    "titulo": "Royal Enfield atualiza Meteor, lança série da Classic 650 e tem novo plano de manutenção",
+    "link": "https://automotivebusiness.com.br/duas-rodas/royal-enfield-atualiza-meteor-lanca-serie-da-classic-650-e-tem-novo-plano-de-manutencao",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-29T16:23:01.387830"
+  },
+  {
+    "id": "d390db37de56167e8e6acd63acc53a39",
+    "titulo": "motocicletasRoyal Enfield atualiza Meteor, lança série da Classic 650 e tem novo plano de manutenção29/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/royal-enfield-atualiza-meteor-lanca-serie-da-classic-650-e-tem-novo-plano-de-manutencao",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-29T16:23:01.387847"
+  },
+  {
+    "id": "e4903668db41fabfbc151e3792db00b3",
+    "titulo": "Abraciclo mantém projeção produzir 2 milhões de motos, apesar dos desafios",
+    "link": "https://www.autodata.com.br/noticias/2026/07/29/abraciclo-mantem-projecao-produzir-2-milhoes-de-motos-apesar-dos-desafios/130879/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-29T16:23:05.618394"
+  },
+  {
+    "id": "fd327b19e95400a0b20200054af1605a",
+    "titulo": "China tem alta de 78% na venda de caminhões elétricos no 1º semestre e acelera transição energética no transporte de cargas - brasildefato.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGotTGZXUXBUaENYRUNWaTBmV3B5X3QzaEtTTExHaGlvLXFsd282WTJPd3VJa3BiSFhYRnhwN292TU83WjA0bW1UNTcydDljbTMtbXBFUmNNR2NQcVVyYm1wZGlUbE5XSE9TTzdjSTFfbWNVQkpQNWd2aXBxZ0NzV0ZOTV93M2JXaU9Yd1ozZ3Noelh0NUZoYU5wcjliUWNWRm1TTFo3dlVoTjVkal9TdXlLX2hab1R2MzlpeEt0R05MMHFRQWI2aGdKbVVZRkRpeVV1NEVId2FVaktibngyak5xUEVfZHBlem00?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-21T15:02:00+00:00"
+  },
+  {
+    "id": "7d0b32bd69ec463bd6467fd15f0b1e68",
+    "titulo": "Vendas de veículos no Brasil devem superar 3 milhões em 2026 - mecanicaonline.com.br",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXM3SGo1NWRhNUpuOHdSbVhXU2V4QkpzblNtNHFsODdsbE01SWw1S2llR2twYXpCNkIyOW01NjRkNkJYZlA4NGNGTFpLMUc0dTBIODdVa3lKcTQ0aV9vdDRNRDdWRDFaVTJOS0oyWFF1M0R1bjAxYURiLVVKLXJEMjMxVGFzdDRFb0tPMnBkQ2RaS3ZwaXhFa1MwekhEUXVa?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T15:20:17+00:00"
+  },
+  {
     "id": "ff99683da7775127dea2c50b71daaa30",
     "titulo": "Digitalização reduz erros e acelera notificação de infrações, explica fundador da Frota 162",
     "link": "https://frotanews.com.br/notificacao-digital-infracoes-frotas/",

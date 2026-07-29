@@ -1,5 +1,69 @@
 [
   {
+    "id": "20ca61441f9cfeb3d236fa3d88c2ea50",
+    "titulo": "Abraciclo mantém projeção de produzir 2 milhões de motos, apesar dos desafios",
+    "link": "https://www.autodata.com.br/noticias/2026/07/29/abraciclo-mantem-projecao-produzir-2-milhoes-de-motos-apesar-dos-desafios/130879/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-29T19:19:46.557035"
+  },
+  {
+    "id": "3333950ca3ca85f0fa08c1f2830c2662",
+    "titulo": "GWM projeta R$ 20 milhões em vendas de caminhões a hidrogênio no Brasil em 2026 - gazetasp.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHdMZTF1VGZ6RjlaNGhyWlNPdmVYVk9lampZMnpOZmRYTzQzdjQyQXdBeURtM1dLaE91M1d0eEpzLXF2MW0xMEFXWlVzdjAyenY1YlRTZ0ZNdjNoQWpJOXpGMHpwUTVSTXZFelMwaXlIcmZOSlBrcDdkXzBtVmFkSFRpSURpaE4weG9Yc1B3TnVNV2hjVEp5TDBVNzR5Zzc2bVdCTUhfT25NeVNZZkpIQzh0SnlDOVhY?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T19:59:55+00:00"
+  },
+  {
+    "id": "394c04d830204348a9bea17b730d9a68",
+    "titulo": "Arrow PAX: empresa de ex-executivos da Marcopolo inicia vendas de um micro-ônibus elétrico para até 20 passageiros e mira transporte urbano, corporativo e fretamento - diariodotransporte.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSVJUNzFROThNdktoRjBvZzJNV2lLcjdvNVgxcGlyWWVsMXBPNldCT0xkMk5MeDVFaUN2ZWtiY3BkdlhVbF9TUnk2V0ZDZXlKR0p6SVk0SXlpS3M0ZFFoZWMyRHhUV2xYczcwdmJlejRzT19nTk9OOVRJWDdDSDl3M2kxRjkxdGpNWk9NMnBRQ0hmalB5WWs4TTc2RlJXd3VTTmRZT1hDNVliNU9aakp1RVpJTVg5U20yeVl2QW55akZMRklSNXcwMkgwd01ZdVRpS2Yta2JwTC13aFN3dUpuSl9YU0g5ZTdFNU1uUEF5LUItLVJsTzc4QkpHNzI0LTluanN6dUU3Vy1BTWU0SWVic012OVZ0Q09lcXUxX3RfLUE4QVdqbFZhb2VRTWpJeVJhN1JV0gG4AkFVX3lxTFBoTW1UTE41TW1HcmlSM3JYX2NIRTVyTkdDODN0eFNtTVJ1YWxLTnhIc2xmN0hvVHp3RlVraUE1RHE0X1pwNV94alpxMmpKTTNHc0dnM2JUY2Mta1dFN29GYWdZbF91YVZZTDlOTXhQSVlvV1pUSnViSEJTUF9kWmhodGM0SXhUeEdXTGI4ZTlSNVNURnFUT0FUNzBGNW1qZ3duRmpnckdIUk1fbzVmV3FUcDRndnhjenVEeEd5Uy1INlZJbHRFcWxPOXp4YmxnVjBjaWhRY1VPNXVfdXE3Z09fX2paLU9KSElDZThoSmhnWUkxSE5xdE92cUZ1WmExdUtQWjdOdmpqaEd0NEM3allZZzkwOEhFd2RqaUdPYlpBZi1rYk9Sem56Y3IybHFvTF9zd1g1a29RTA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-16T07:00:00+00:00"
+  },
+  {
+    "id": "bf71ff91143cae818854a9f1ac557e82",
+    "titulo": "Emplacamentos de ônibus têm queda de 8% no semestre; Em elétricos, Mercedes-Benz passa BYD e Eletra mantém liderança; Dinheiro do Move 2 acabou para empresas - diariodotransporte.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYkw3TDd0aldxUUZzbHB5Q0pkX2VOWVR5cEYzVV83Mi1LZ2lFZzZPZHQtUlk1Q2dwNTlxUDhTNmVCQmF6MGJ1UUhJMVVhRWQ3SWI4d1dqbF9FY3A2Tm14LWF4Z0luU3N6bXRsQ2Z1dUFTcnVIdkUtb3BiNmlIUV9QSUdzVEFGS3JlRUZVamNHNDk0ZHVVX0JidWxMNUdkNUttdjQybGRfNE0yaDJoaXdwR2haU2s0eXBNeXFYWTZ5d2V1S0pOcFFCbHhxTGJDRTNmUmxyVFRIYUdHV0FERVhQQmpXOHJoTEExaF9tY1lLUWRnWTlnaWVpWVoyd1NnRU5lQjFlUnQ2MFVTeXN4OW41bkRJN0w5UTBYeEl2MUlfRG9RV3hwYVHSAasCQVVfeXFMTmpHVVpCLUdpSFJ3OVNtVktEcWRjaXRKalFkSGVKN1pKQXMyYXhMaThiYUltSkNuVHo5aGZEY0hPV3ZVbENuei14Z1d2SGVJOWFEb3dxWXUwU29NZndvMDdsT3VrdG9wWjVDX3QtRmZfODZMVVIyU2djUW8yekZYcWo5VmR3NHh6VlFvUkxtWXZVN1JBNDZ5YVhYYjNpUnBUY0hQSGxIemJrNElNczFfU2E0ZFc1enVnNGFxeEFsQ1dGaHFfbmFjZVdzc193d0JGTURyc1V4NnMyR2pVMGtNcFhGTC1ESnExeDcxTk4zWTR0YVVkakpPbTUydU04eEdXUHE4VDY5TjIxQ1BKTmFuQ0E1X09YWEV1M2Q5SlphX1FuSEVQMGtwTEVVQ00?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-02T07:00:00+00:00"
+  },
+  {
+    "id": "6381c66e0a29365debf7b48fb46b57af",
+    "titulo": "Ônibus elétricos têm alta de 92,5% no primeiro semestre de 2026 e Eletra mantém a liderança com o dobro do segundo colocado, diz ABVE - diariodotransporte.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRTBQNlJtMGFTcTRzYnVtSDBlZTVDWGtlaEhobWRiNDRCbnlsOWVDc3R2eFI3Vm50Uk5GVmkyc2dGSjgzbGdIQjJWUExRT2NGTHpoOFZNNWJhcy0tUE1PMnYwcnZrX1kxYjRURlh1VGRVWm1zanBoUzRnSkptRFRrSlJVUWJFWUp1VDVRT29nREttS0E4Y2wtNUJQV3RtUUhXWlo2S1dYd2FDNFI2R3JIT18zaDNCTkNieW1ueDNBQVVQRDdCTjRwdW1iNTNXN1NnT1RDTmxPZ213ay1SamRmRm9aM1RnajZSa0FFNTZ0MklQc19YZ2h5VEZzbUdlMFVIQk9OZGJ6NNIBjAJBVV95cUxONllSeS1RNUtfZXBzVnJOVTUycEdtTWdzckxJLXM5V2xTWHJNVDZ5NFdHMzlsUW1La1JxZUJya2VFQ2FLMFVsWWVmMU1zaEdHTE5kVTVONlVnMXJmR3Blb1o3cXFuWjFnVGtFSlVjT0FyejRmY1N2YU41WExkOVpKM25sdEhNb0hQeFB4RmhwOHpadENySzg3VjM2NlpBMUg4N1dBNnZGYzY5cWw3c2VvaTBNTzlaWEZRTHQydTVwRzRFc3FVLXVFQTZjVUc0ODR0Yk94UmMybnl3RnlnUkNJbjhnQTNPZkZLUWhCOVlCcEhiVEUxUTlDdy1DVmR1ejh6RnhEaUU4TmJ6LV9l?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-07-14T07:00:00+00:00"
+  },
+  {
     "id": "697e4a180da0aaf98978847c918edf86",
     "titulo": "O que ninguém previa: venda de veículos dispara em 2026 e Brasil deve bater marca histórica - autopapo.com.br",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXpEM1lDclNvcldEaktTY1I5aTBjOTN2NkJQemctTHF3VXpJU0FjMnBFaVpOU0hkSzE2bUdjX1VGSkZRZWdpY3h6dWtDb0FqRHBhZnVVaXE5dDR6OExGbHBNZkNHb1JGVVg5dmJhWm10cEZRSlkxajRUdVp0cEhEYm8tRi1vWnZuaUlMdTlDUzN5THdoY0RsRUJpRmQxcmZIMVltdlNzZkh5aUg0cHlmN0dlNEhVeVJ4OUNXc05R?oc=5",

@@ -1,5 +1,53 @@
 [
   {
+    "id": "ff99683da7775127dea2c50b71daaa30",
+    "titulo": "Digitalização reduz erros e acelera notificação de infrações, explica fundador da Frota 162",
+    "link": "https://frotanews.com.br/notificacao-digital-infracoes-frotas/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-29T14:54:30.401719"
+  },
+  {
+    "id": "ec2d128875240d563218900e7cd0d91e",
+    "titulo": "Renovação de frotas: Move Brasil 2 atinge 95% do limite orçamentário",
+    "link": "https://frotanews.com.br/move-brasil/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-29T14:54:30.401734"
+  },
+  {
+    "id": "7cc8811bec35a601ab61a37a5ad147e5",
+    "titulo": "MTE-THOMSON tem lançamentos para veículos leves e pesados em julho",
+    "link": "https://www.balcaoautomotivo.com/2026/07/29/mte-thomson-tem-lancamentos-para-veiculos-leves-e-pesados-em-julho/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-29T14:54:36.975552"
+  },
+  {
+    "id": "58c53621d5d3b966493a34fa8269b462",
+    "titulo": "Com 1,42 milhão de unidades, venda de veículos cresce 18,47% no semestre ante 2025, mostra Fenabrave - valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSnVKUHE4UnEzWjNGSWxrb3lfaS1iV3RWY3dPdDltUjRvR2JFTExoSlkweVdkVVhpcFJvUzlxVnNJeE1OSGlfVENNVnk5ZFhGdXBNZE4zSUJUa1l2QmVWLVpWYlY1N0pneE5rMHV5VU5Ncjc3SjVDLUpodllTX0hXSElDODM5MmZmVkU1d2s0VFBRM3pxOU1UTXBTUzI3T2tlTnBkZk1PaUtXY25JSFY5NWF1Tkw0akpVRlhlZmM4cmtJNXd3SE14enkxN21NSS1mZnZrSFRLemZlZVFKRG5scXhEcE8zMTJWeWd1Q2NoMHdoQdIBgAJBVV95cUxOX2lEdVJ1dlNwQklfZ3NSQi1wRGE0Y2JKZkZsYVhvWnYxbHJLWk9uRUs1YWR5WXo3dDBuMjdjZUFrU1U1b2x2LWRsb1lZLWZRVlVmODAwS2RZNVNlamJuZWlLT3d1Qk9GOEFyZ3p4UWZHMDNiWEYwTzExSFlIakNEcEljV2F6dGd0VkdtbDFuLVVEanRiZHNfMExmMXZSWGdjOXBzQmtfVDZBT3NLUEhQN2s2Nnp0Vk93czZjbEYxSXo0VERZZnNka1B3Q1VTZFFVRS1VSDM5Z1NuQ3BGNHBqdE9haDU5MTFUMmhUZlJMQzhpQkVlYjdFS3VzZ09zekVx?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T07:00:00+00:00"
+  },
+  {
     "id": "6209e6d87160d1846a236dd84d4fd294",
     "titulo": "Volkswagen domina o pódio, BYD coloca 3 no Top 10; veja os 100 carros mais vendidos até 24 de julho - Mundo do Automóvel para PCD",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFNmUFlHTHRuaE9PWGRXa201MVUySzMyVmNrWFFxaFF4dUQyYy1ZNWpyekZpVlZ4TUxZNzByVnFUei1DQ3d4SktESEtwQXNBOHVON2tEc2VpT1JWX1pvTXpQeWNBQTUxakhEakNkazAzNTN3Qjk4MWk0ZTZfMnh3QzFZSTYyUnVRS2FKOVNuU2czLU5pdzVzUkRqcTh6TVJpckhmQ01iZkthZXJwc1JoWjJQbWRVbE81RVBUTENkMUtoNk9GTDdfdFRoRzBiTmJ1SkJR0gHYAUFVX3lxTE9RNWNDYWpaWUNzQ0EwMGtDTjlDOWVWQWJpYVMzMXdQM19uS2w3S1V5S2dOUmp1c05jbDJ1akpyMnZadnV1ZWc2RDZYRmc5TDUtaTVQM09aOXNRbkw1QThQZEdpc0l0YjRGa2pwZFY2MkFvWHFkcjZnSDJzcUtLNFNMUmFhbl8yUzUwdFJPY3FHcVlVMUU5R2ViSDNMSDRTODMxTk9pLUFJUEluRWxuaGlnblBXbWt0NWFJYnVHbWhKcEo0cGFIN2VRQWp2MGhRaFB4bnlmSF9SOQ?oc=5",

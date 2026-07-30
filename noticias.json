@@ -1,5 +1,81 @@
 [
   {
+    "id": "3fe7afa65fa4526c82e5324dbbe90e6e",
+    "titulo": "Com novo motor, Scania quer devolver ao Brasil o posto de maior mercado de ônibus",
+    "link": "https://automotivebusiness.com.br/montadoras/com-novo-motor-scania-quer-devolver-ao-brasil-o-posto-de-maior-mercado-de-onibus",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T18:56:01.147390"
+  },
+  {
+    "id": "37cc8cca20ec1a851d15d6b33f8325ee",
+    "titulo": "MercadoCom novo motor, Scania quer devolver ao Brasil o posto de maior mercado de ônibus",
+    "link": "https://automotivebusiness.com.br/noticias/com-novo-motor-scania-quer-devolver-ao-brasil-o-posto-de-maior-mercado-de-onibus",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T18:56:01.147416"
+  },
+  {
+    "id": "cf9d9cfbd920df0a26d3fcdeb1804e84",
+    "titulo": "Marcopolo aplica tecido feito com PET reciclado nas poltronas de ônibus",
+    "link": "https://www.autodata.com.br/noticias/2026/07/30/marcopolo-aplica-tecido-feito-com-pet-reciclado-nas-poltronas-de-onibus/131145/",
+    "fonte": "AutoData",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T18:56:05.713137"
+  },
+  {
+    "id": "698bba572d569271f1a423c3440b33a7",
+    "titulo": "GWM projeta R$ 20 milhões em vendas de caminhões a hidrogênio no Brasil em 2026 - tecnologistica.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPekpndHdMdWM0LVhjRjRTaFpDemtaSnEyY1BfM0ZXUWZTeGRUTmxoS2RBNnk5Sm9EWVZ3NHlpTWZIQzNqRVY5cEpIT3F3aHdVX0x2bFZLNllPWVVBRDRtV2Q0ZHJzaHZ1VDd3WC0zdEQzeW9JQkc2YnNBSEFUY293NDRCTnRLdnRQR1E2WWJxV0RIenFRS0d0U2VQTURjRTlkNkZFUUoycF9TV0xYQ3pNUzNyZ2FuSkFVdWZDT0JZeG13OUVLUUY1X2UybHcxSFpOREpFMDVKcWVPbi1KcG0yVjY2Vm4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-24T08:01:59+00:00"
+  },
+  {
+    "id": "c4b3a3240878926124606544a74e582d",
+    "titulo": "JAC Caminhões inicia distribuição dos primeiros modelos no Brasil e prepara início das vendas - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVlZGLVhrYWxITmZPLVh5cllpNi1RT1hyMmZOZTJNY2NWSklUeVNzUUtVczRScVgxb1hMQkRmakRJOUtmelBLVkt4U1VxdHNfRjZpYWZFTnBBeVREZkl1RndVUUVTTURzYzc0N2F3QVVKRThaRVdYVzM4M2MxLXo1aUN6QVl2M3g3UnFLR3VxcFZsWGxxdGhYX2lDbVJ0WUlnQTdsTzViNEJQay1yT3ZtSHZPRjVOdFl2cmVJY2tLMFRYbldTMkNSZ211UDA0TU42RUl3aEtNMkFneEFYWDlLbms4dkt4RVhD0gHuAUFVX3lxTE9wMmhyOVl6UnpBakpzb2w1bnhGemxzRy0yWkdhWlVCZVpid1NhVEdvMGg5d05CQ1pBNFZjUldEY1BEY2dhR0JKbEJ5UEZpc2doQ3F5RzlSUWp2TXhKSkRxYTZjQ0VWZE5VSjd1R1ZwVk9FZG9FRkFTblJQdUpqcV84d1Q3TEh0cFlpRU1yOUppVG5zQ1F4VHdFbVVjRnhPQlRqU3ZFYnV1YnotX2FJR1NRbEM3OVk4V0JLNEl5Z1JwM1dmOWQxaFR2S0RrWlBmWjJoN3RvcGlpeERPeWZqY2RSam5MWGRWZGsweHA5d1E?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-29T15:24:34+00:00"
+  },
+  {
+    "id": "8d6ed0a6f201f8a7b272c44063ca9ca3",
+    "titulo": "Yamalog reporta 30% menos custos de recarga com caminhão elétrico na última milha - tecnologistica.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLUVKQlQybHZRTmZmdVd4YzFVaThSdkk5alhoZjFKLVJ1TFpsUmplanRrank4N0htRlAxZHpsVGozdHc0V1RjNXY5NjJDM0xrbHZKLUlmTlAzMHpoUzQxX2t5N0lxX01LRkVSMjBBN1RUaEpJT3gyVDNZNlVacHZGTkxQNFJCYklrdDY0TGx1RDZyWEhETWV6SlJ3dFRVV0JubjRTdTdlNHAxcjlicjdkYmxlbWpoRGlCMmpjT09XSmU1NGJkbmZxNFZncFVkeS1rR3IzdzFyQ01PZnlHY3ZSYQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-23T14:03:41+00:00"
+  },
+  {
     "id": "c334a8c079accb438d87c5822547d8a2",
     "titulo": "Ônibus da Marcopolo utiliza tecido produzido com garrafas recicladas",
     "link": "https://automotivebusiness.com.br/esg/onibus-da-marcopolo-utiliza-tecido-produzido-com-garrafas-recicladas",

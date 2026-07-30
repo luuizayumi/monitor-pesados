@@ -1,5 +1,66 @@
 [
   {
+    "id": "c334a8c079accb438d87c5822547d8a2",
+    "titulo": "Ônibus da Marcopolo utiliza tecido produzido com garrafas recicladas",
+    "link": "https://automotivebusiness.com.br/esg/onibus-da-marcopolo-utiliza-tecido-produzido-com-garrafas-recicladas",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T17:01:06.834322"
+  },
+  {
+    "id": "7b8538f09ad5b06620bbd37b4015807f",
+    "titulo": "ESGÔnibus da Marcopolo utiliza tecido produzido com garrafas recicladas30/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/onibus-da-marcopolo-utiliza-tecido-produzido-com-garrafas-recicladas",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T17:01:06.834350"
+  },
+  {
+    "id": "04c9871e6430c3b2768f8e6219aef07e",
+    "titulo": "ESGÔnibus da Marcopolo utiliza tecido produzido com garrafas recicladas30 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/onibus-da-marcopolo-utiliza-tecido-produzido-com-garrafas-recicladas",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T17:01:06.834354"
+  },
+  {
+    "id": "2983f21b14d005bc6ef93b9069d39b75",
+    "titulo": "GWM projeta R$ 20 milhões em vendas de caminhões a hidrogênio no Brasil em 2026 - Motor Mais",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0NMR0huUU45WWZWalZfU0lySUxvZ1daekhya0VDRTZIeVBsaU5la0Nja09Uem04N0ZDVkVtajBmcHVwTGZocmRQTlNsamJUMkJYY281cFFaZXd6WTRJVjFLdmxnM1FkdFg0M3RyZ1kyZHgtbFg2UG1HR0o5d01JMHFNTnpqd0RCSXAxdGVWcDV3OWNrMGt0RGFfeVB1eHZ6azlj?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T15:52:54+00:00"
+  },
+  {
+    "id": "13729b8f1adda1ea125c9daeacdaf261",
+    "titulo": "JAC Caminhões inicia distribuição dos primeiros modelos no Brasil e prepara início das vendas - autossegredos.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVlZGLVhrYWxITmZPLVh5cllpNi1RT1hyMmZOZTJNY2NWSklUeVNzUUtVczRScVgxb1hMQkRmakRJOUtmelBLVkt4U1VxdHNfRjZpYWZFTnBBeVREZkl1RndVUUVTTURzYzc0N2F3QVVKRThaRVdYVzM4M2MxLXo1aUN6QVl2M3g3UnFLR3VxcFZsWGxxdGhYX2lDbVJ0WUlnQTdsTzViNEJQay1yT3ZtSHZPRjVOdFl2cmVJY2tLMFRYbldTMkNSZ211UDA0TU42RUl3aEtNMkFneEFYWDlLbms4dkt4RVhD0gHuAUFVX3lxTE9wMmhyOVl6UnpBakpzb2w1bnhGemxzRy0yWkdhWlVCZVpid1NhVEdvMGg5d05CQ1pBNFZjUldEY1BEY2dhR0JKbEJ5UEZpc2doQ3F5RzlSUWp2TXhKSkRxYTZjQ0VWZE5VSjd1R1ZwVk9FZG9FRkFTblJQdUpqcV84d1Q3TEh0cFlpRU1yOUppVG5zQ1F4VHdFbVVjRnhPQlRqU3ZFYnV1YnotX2FJR1NRbEM3OVk4V0JLNEl5Z1JwM1dmOWQxaFR2S0RrWlBmWjJoN3RvcGlpeERPeWZqY2RSam5MWGRWZGsweHA5d1E?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-29T15:24:34+00:00"
+  },
+  {
     "id": "6a7fbf28a0dfaa97dc39c1949a3d5642",
     "titulo": "VW Caminhões e Ônibus acredita em estabilidade no mercado de caminhões",
     "link": "https://www.autodata.com.br/noticias/2026/07/30/vw-caminhoes-e-onibus-acredita-em-estabilidade-no-mercado-de-caminhoes-em-2026/131132/",

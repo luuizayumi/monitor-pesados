@@ -1,5 +1,66 @@
 [
   {
+    "id": "99052eaa83955c51b647e721627e96cc",
+    "titulo": "5.Yamaha XMax 300 ganha novas cores e mantém pacote tecnológico; scooter custa R$ 38.690",
+    "link": "https://www.estadao.com.br/jornal-do-carro/yamaha-xmax-300-ganha-novas-cores-e-mantem-pacote-tecnologico-scooter-custa-r-38690/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T10:40:00.538710"
+  },
+  {
+    "id": "830f7bba9d5a6b7f226e06221c1968a5",
+    "titulo": "Emplacamentos no Pará: segmento de motos lidera mercado com venda de 72 mil unidades | Economia | O Liberal - oliberal.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzZab0tUTUF1bHlNRTJrUEJvejd1ZEVOcE1nZTBSWTFjeXRMUEpCUTY3bEhVbElsQ3ZHakhYRGZhLWo3d3VmcVdLclU3YTlYaFpHaHFsa3kzODZMU0lZT0dRUEZzUW14Ri03RzFJblAyRzVKY1ZEeHNlaDZhYS1JS0drLWIwSTBZQVE0Z3RjRDBlODI4eHZOSGtmR2VIall0NzNiREhITUdWR2FtRDI2TXBMZUtxREVwRHdQclZoVGpnWlQy0gHKAUFVX3lxTE1QMDhsdU96QjI2MmFfamgwRFZIVXVoNmZVdlRWbUJRYlBpZzlZY01RUzkxMzhES0RUMm5kNFVDRTQteHJDSFZVNFRXeHcxckVFY19YYTVmQWpLT1lDRHlqd0lDY0V2WUI1TXBGN0RNQkxNN0NKRnFiX1B5RmNuWHRDYUFla2FDRVpDdEtZWlJoQUF0eWp5cEZ4cUpITUp1SkVVc2s5c3RHRTJSazhvdlplemRndzNMaXFMd3RrMGpRSDlDRHdXUDVRWkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T00:24:57+00:00"
+  },
+  {
+    "id": "3330a8f82a1ad06bcf9679fef3bc2791",
+    "titulo": "100 carros mais vendidos no Brasil em junho - webmotors.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSVNpUlVqVUVVMlhZNFYtNlhCaWdvdjlIQlRreHdQVHZQR2w1VUtqSTVBTnYxNWI5MG9aRG1sTGQwai1fck9fSWVZcEtYQjV5VEZWRk15Y19wOUVOZ1h3Skx4YlBvbktVS1VVUjloR3EzSjB6eG9SM256RHFOOVByWk4xWC1lZ9IBiwFBVV95cUxPN1pnaFFUUVJTMldMdnY1ejRiU1dQR2E1VHlSZXN5b2l1UVZlRHZSNXNfdm9rZnltUWdMY05VbVhsanE3N1dnWlJpQThqTzVzV1BJdGtLanVzYXhUaWY1UkNJZ2FnUkwtRWJ4ODNQWmM5SU01eDJTQ0NuRE9tS2FwZHhaYjZETG1VLWxj?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-03T07:00:00+00:00"
+  },
+  {
+    "id": "bbf31e9abfd5230217c353d9f455160f",
+    "titulo": "50 carros mais vendidos em junho de 2026: T-Cross supera Polo e BYD Dolphin Mini é oitavo colocado - motorshow.com.br",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JbEpTZ2xzaEpQSDBpQndmTUs2VGdnZ1ZMYjlWZjEyei1XaDFYaHhzVzVKc2Q5dGxmX05HOVkza0hpaHFfS0pZaGZjNENwWkVaLWM3VkpGZXB6b25OR0JHV0g4bVdsV29aMjVkNjJleGtpNmdid01j?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-12T07:00:00+00:00"
+  },
+  {
+    "id": "e6278d1f70e072fb5e1fa9a77b9045ef",
+    "titulo": "Anfavea melhora previsões e estima vendas de veículos acima de 3 milhões, no melhor resultado desde 2014 - motorshow.com.br",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XVDY0bW1raDlUWnlYZml0TlV0YTF4cWJaT3NfWlBsRl9pNEZkUy1DcXZVMFFSWFFCYmZvMlZZN25YZGgtbmlDYnJOUG00cGctZ3ljNFUyV2FIWG5MbjRqOVhpOWlWSno4bTFseXB6cWhZZFdTM1ZJMA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T17:18:06+00:00"
+  },
+  {
     "id": "9cc48fc9efb986f2118e7c1f88f48ddd",
     "titulo": "JAC inicia vendas de caminhões no Brasil com quatro modelos a diesel - Automotive Business",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVloZDBCYlhfeGRKaUhUbGc5eUl5bTJiV2o0dDg5bHh1S1dZemQ3M24wN2lBRG5abVc5UXBYQzljVmNkdTFwRXJ6Y3VROEhUYy1vYWJLTUh3bnpIeFpkVnJ2dzF5VkxQcTBhd3dhZjByano0QjJQbUhSajN0dlJLX2tXanA1ekZ3bmtaZzlvdVRxNTAxQnlXY2h2THBQekE1QXMxSTFhbzZ6UGxBTm5LSTU3NWMwdw?oc=5",

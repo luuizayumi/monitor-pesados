@@ -1,5 +1,43 @@
 [
   {
+    "id": "1420cd12838b7c5cbe8b16cfb47f7e8e",
+    "titulo": "4.Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-30T23:10:01.538538"
+  },
+  {
+    "id": "d5c1b61fd21f1e43f705779c7faf31ff",
+    "titulo": "Eaton confirma participação na Autop 2026 e reforça proximidade com o mercado nordestino - Sincopeças-SP",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS2ZXREZBd1k0R3dTb1h5bE01Q0JNbnRlUVhDVk5JNHJ2MlIxcGszWGFfTVhKODBPd24tYXNuekx6MEI5NW5tWVlsS0wydjNNQmp6aVBpNzd4dTltTHlUeHBEcXNaZlp6SXJCdktpUVUwc2huUWR5T0lDclBranBKQ09BQndQSWR5UGtqYThhcmNsdDBjYVcteWRGcU9GWjFlRk5JeTF6enM2WkN2cEdkUWlQRDlFM0tCOHdyaVNlenpWMzlleHNTc0NpRWZmdWFWbHc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-29T19:27:11+00:00"
+  },
+  {
+    "id": "86b8c02c63e13b6035d6ee6ff5b33904",
+    "titulo": "Carros mais vendidos no Brasil em julho: um novo líder — dia 22 - car.blog.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUIzenM5aHZRbGZiUW5icHVLOURxc2VZMGtlZ2Z0bC1mSVNZVU0wMFA0U2lTWjlDR3hiWXZvUHdHaXlNWUhOYjdKdTBMSFpOOHc1ajFZU1V2ZU9wbVdzNFpfZVlRNnNKNTJfNkxDVHpQczRDSmdpT2E3ZklhNEhXRw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-22T07:00:00+00:00"
+  },
+  {
     "id": "a2b3e3ca67b93655a95e8e9f50810a44",
     "titulo": "Venda de pneus nacionais encolhe 7% no primeiro semestre",
     "link": "https://www.autodata.com.br/noticias/2026/07/30/venda-de-pneus-nacionais-encolhe-7-no-primeiro-semestre/131303/",

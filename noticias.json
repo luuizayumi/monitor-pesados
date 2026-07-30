@@ -1,5 +1,79 @@
 [
   {
+    "id": "bd1b9efece4cf884a80725d0e93e2083",
+    "titulo": "Novo Mercedes-Benz GLA estreia só com versões elétricas",
+    "link": "https://automotivebusiness.com.br/lancamentos/novo-mercedes-benz-gla-estreia-so-com-versoes-eletricas",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T12:45:34.920949"
+  },
+  {
+    "id": "e2175c395ecdf596d954d9ac5ebda80c",
+    "titulo": "Scooter Burgman 125 retorna ao mercado após 11 anos",
+    "link": "https://www.autodata.com.br/mobility/2026/07/30/scooter-burgman-125-retorna-ao-mercado-apos-11-anos/130798/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T12:45:38.948923"
+  },
+  {
+    "id": "15777b7f97eda346bd7fc317012541ad",
+    "titulo": "Linha de ônibus Scania Super ganha novo motor de 11 litros",
+    "link": "https://www.autodata.com.br/mobility/2026/07/30/linha-de-onibus-scania-super-ganha-novo-motor-de-11-litros/131084/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-30T12:45:38.948936"
+  },
+  {
+    "id": "5e4935a55aed04cdc066769c19db40e6",
+    "titulo": "GWM projeta vendas de caminhões a hidrogênio no Brasil - omecanico.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaFpFVUp4UUlsTkdHV3MxZFgySkhBU2JhSmdxbVdPaXd0Q2tpaWlPS3pJQ2staG9pa1EzOVpIckNxVHVsTm9zTVhobGpYOTQ1UHV4aUx5UGRJTGVBOFdPOUpfTm9xSm5DV3RhLXdhbE5aRnlDWUQ4WURLZ1piY0piZDdMVjk1Z28?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-24T11:10:42+00:00"
+  },
+  {
+    "id": "eb9118da4e8057a77010de69835c6267",
+    "titulo": "Fenabrave eleva a 8,6% previsão de alta na venda de veículos em 2026 - ibandce.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHlSYjNiaC1GR0VISGoxb1ZQS2NDeE8zTGptemJyeEM0RW1vTlRzd19RdEVuY2FNSjMwQ2xHQjBobzJQUVNoSTNSZWg2YjNxbV9xQXExX2FZYkpIYWc4TkF2NE4tVlRFTkxNQkoxZk55UU9keUMtX2tCMWo4Qm80bTREbjVpWDJSSlROeDV2VmFZQVZf?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T22:19:20+00:00"
+  },
+  {
+    "id": "695128ca71f25fd685ce5c9949d6fddc",
+    "titulo": "VWCO realiza venda de caminhão a biometano no Brasil - omecanico.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDVxdm10c3BOelZveVpOVTg2dFA2UG1UeTdxb1Qwal9INTBaWnVoZ3JRdFFQa2E2R2FUNlNPalJ0ZU1yYS15Rzlic1pFRjRJUmdaQ3ZPa0dGdklmMFRkVnFjX0FHUXZzQjZKZGFXaTBneWNHZ3Zzb1JlZ2ZndEdiTUFyeGs?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-23T12:28:34+00:00"
+  },
+  {
     "id": "99052eaa83955c51b647e721627e96cc",
     "titulo": "5.Yamaha XMax 300 ganha novas cores e mantém pacote tecnológico; scooter custa R$ 38.690",
     "link": "https://www.estadao.com.br/jornal-do-carro/yamaha-xmax-300-ganha-novas-cores-e-mantem-pacote-tecnologico-scooter-custa-r-38690/",

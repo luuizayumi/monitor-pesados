@@ -1,5 +1,57 @@
 [
   {
+    "id": "5d9712e5fcca92b2d1bbb371a5310f07",
+    "titulo": "Scania antecipa estreia da linha Super para ônibus na Lat.Bus 2026 e modelo a gás padrão SPTrans",
+    "link": "https://frotanews.com.br/onibus-lancamento-scania-super/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-31T15:37:37.982030"
+  },
+  {
+    "id": "3608e84802cb1f5800b56ec1920ea722",
+    "titulo": "4.Ferrari Luce bate meta anual de vendas em apenas dois meses, apesar do visual controverso",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ferrari-luce-bate-meta-anual-de-vendas-em-apenas-dois-meses-apesar-do-visual-controverso/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T15:37:39.478297"
+  },
+  {
+    "id": "0d775da3ae215c78d900bdd4b0f49637",
+    "titulo": "VW Caminhões e Ônibus estreia no biometano com 56 Constellation vendidos para a Loga - jornaldobras.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUk5NzdZMUlxSThrbjl1a3NRVGFlWmI5RXJmLTdZWU1yTDN5b3Q3cXExRWhUQndsY2hzTXRvNWtYVHFhem9HZzQ1eEFnNC1nQzVvWVVyS2ZrUkdWRXdZU19kY1QyOVBvMHYwQjQ1M1ZYeVN1OWpETkkzM2RvcHNRdDFpV3hjTWNYbF9idk9Ba3AtOV9oS18zQXNkZ1V3UkM1dFBkQktRUXJQRGFTcHotTlRpNTMtMGMxdW5xUGVSMy10WGx0bGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-21T17:08:08+00:00"
+  },
+  {
+    "id": "511187c89499262cbde02fa940359aaa",
+    "titulo": "Prefeitura de SP libera mais R$ 22,9 milhões para ônibus elétricos - Canal VE",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zdVlwQnZmZndILTN0MDZIV01iT1lxNGwzMVhDb0hMVi1yWFV5SEQ2WDI3NDYwZ0xBeFM3VW9SVDVNRi1Ua0pKaWZVS1A3aWI2QVRRbmJ2end6cng3N2U5dGo5TGRKZEFkWklHd2wwSlMtYWNG?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-30T13:23:24+00:00"
+  },
+  {
     "id": "d5c6c85484cf46722e4d8cc4396b74fd",
     "titulo": "Yamaha recebe R$ 15 milhões da Finep para digitalizar linhas de produção em Manaus",
     "link": "https://www.autodata.com.br/noticias/2026/07/31/yamaha-recebe-r-15-milhoes-da-finep-para-digitalizar-linhas-de-producao-em-manaus/131289/",

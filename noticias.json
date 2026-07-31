@@ -1,5 +1,54 @@
 [
   {
+    "id": "6b34a663206cc7a8833062f5e4eff166",
+    "titulo": "vendasProdução global de veículos da Nissan caiu 7% no semestre31/07/2026",
+    "link": "https://automotivebusiness.com.br/noticias/nissan-tem-queda-producao-global-veiculos-primeiro-semestre-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T17:40:51.176470"
+  },
+  {
+    "id": "903f31ef85781500772d3e415168a4c5",
+    "titulo": "vendasProdução global de veículos da Nissan caiu 7% no semestre31 jul 2026",
+    "link": "https://automotivebusiness.com.br/noticias/nissan-tem-queda-producao-global-veiculos-primeiro-semestre-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T17:40:51.176484"
+  },
+  {
+    "id": "6bbc848dd47ef3516f0c0113a5fd8f38",
+    "titulo": "Aegea aprova emissão de até R$ 2,1 bi em ações; Itaúsa (ITSA4) prevê ampliar participação - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORWVVOVh6MG9qMXlhdlFpNmV6eVVGVDB5V21LaWszZE9XZm9lLUo2OE5RU0xhMTB1U1J0Wm9MQlliZXNodnlpb2NxWHQwSzZobG5reUN3QkVNVEpOc0tqRnk3TFA4OUdPcFB5Tnk2OVNPWHdXelJzT0p0QkgwcHFkTU9WOEhmd3ZndFhBc2tpSHFhMG5fVDNLaURaZ01LZEtoQlNqeF9SSHowM1RpeEhUUEUxdmhWVkhqR19wdFc5ZHEwU0RqWDdyWVdhWDlmdGR0WWFyejQ1VEJ6VFZLVXRUUW52SGtvZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-29T14:36:04+00:00"
+  },
+  {
+    "id": "25e3f16a5de7d7208ed2a408af42a5f8",
+    "titulo": "Julho Premiado Carboni oferece miniaturas colecionáveis em campanhas especiais de pós-venda IVECO e Goodyear - ederluiz.com.vc",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEJXa1hqeWVBemJlbFNUeWhNa3M4UE9YaVJrc0FheUNrc3hIY1loVmtCalJOMUhsaXZJRmhzc2ZXX2xUSkd1a1ZPS3Nobko5YjUxRy1Sd05aQnZ2SEdTa2tGZ3h1bHBaQkU3Y1I3ejZZUVRnbUptc3NOZzF4UlV6RURtSGx2Q1h2aklsNE91cVBTZWFULWRSbTI2Z0QyOFNMTEUzWk1mb2dPS1VRb29oaldQUGc0emhIN3dKaDAzQmZyWGlwZWQ0RW50MEZBTnJkU0dEaDFPdjnSAd4BQVVfeXFMT2pIa3hSSXpyM2tNUUE4RU4zVndoZ2Z0NWlnUU5Sb1E5NTg1MTkyZUdkMHI5OTNLc21UUlRsaUFIbjZBVURqZjFXWnNQNkxreklsYm1YS1JGZzRNSFRMRDYzUGxhTmJiS0tCNUpleXZPaDExa00tXzVzZlZFV3Z0dk0xNFlhRENrRkVKQmhPS0p3SzQ1U1lBNDlTZnlzM3lERGZoQXVoemtqTUJBU3ZNdUNyV1VhdElNakRISU1pZXNoRGp6RnRRTjZkVmtJS1Job3JOa0JEc2RicWRZQnFR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-16T07:00:00+00:00"
+  },
+  {
     "id": "5d9712e5fcca92b2d1bbb371a5310f07",
     "titulo": "Scania antecipa estreia da linha Super para ônibus na Lat.Bus 2026 e modelo a gás padrão SPTrans",
     "link": "https://frotanews.com.br/onibus-lancamento-scania-super/",

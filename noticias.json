@@ -1,5 +1,43 @@
 [
   {
+    "id": "d5c6c85484cf46722e4d8cc4396b74fd",
+    "titulo": "Yamaha recebe R$ 15 milhões da Finep para digitalizar linhas de produção em Manaus",
+    "link": "https://www.autodata.com.br/noticias/2026/07/31/yamaha-recebe-r-15-milhoes-da-finep-para-digitalizar-linhas-de-producao-em-manaus/131289/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T13:15:01.557175"
+  },
+  {
+    "id": "2e77c0621a2f4b34615067b3cbc40f98",
+    "titulo": "5.Ferrari Luce bate meta anual de vendas em apenas dois meses, apesar do visual controverso",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ferrari-luce-bate-meta-anual-de-vendas-em-apenas-dois-meses-apesar-do-visual-controverso/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T13:15:04.658677"
+  },
+  {
+    "id": "c1e7276cd2af0c954f87b70f7aafd599",
+    "titulo": "Vendas de veículos novos crescem 16% no primeiro semestre de 2026, aponta Fenabrave - dgrj.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazR1Y0J6czczM0t1QWRoV2JVNzU2ZnV2aWdiOG1iOWtoVVRRaFBRdGhFZWlEOGRwWmxKMUhocEpMZlR2MW9hZll5WnVQWHRMRWZPSzFvQ3BZVEwwWllMWTh4YUllaVF5WGNPM3pFY0JQSEtSSzJieFpGSjB0Mk5sNloweHU1cUNYazF6Skkxck9xaFBNd1UydHZ6Y2QwZnR0NUk5RlliUEhVN3hxMEVz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-02T17:27:53+00:00"
+  },
+  {
     "id": "0c92438e02b4d0494952e7029510a8e7",
     "titulo": "Cortes do Villela #345 | Motiva contrata Tiago Nori para comandar o avanço digital e acelerar a adoção de tecnologias 5.0",
     "link": "https://frotanews.com.br/cortes-do-villela/",

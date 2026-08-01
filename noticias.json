@@ -1,5 +1,69 @@
 [
   {
+    "id": "f3434dbce47e0a00a91b92c981ae3da5",
+    "titulo": "Hot Wheels Monster Trucks Live 2027: São Paulo recebe nova turnê; veja datas e quando começam as vendas - saopauloparacriancas.com.br",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04R0c4MGlDT2M3amQzZkVYdDJBVWMzR2RPaE1SVFNmLUdVdkxHVURxQmNRZHllRElQMzFLaTNCM1BmaTZ5OGlFa1hIQ3BodlVZZEluMlJpYXM2RUpHMVpvWHZvYmplRHBOYVVQLThjVmxvY29uM3ItWG85V0ZQdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-24T02:13:12+00:00"
+  },
+  {
+    "id": "763042418201d018095207184125a165",
+    "titulo": "Carros mais vendidos no Brasil em julho — dia 30 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFpiYkNmc2pxOC1XeVUzcUtpV0dIUzNFWWMyaDVTaFhGbzR0QkEwcF9mRjVMSnc2VmVYamNDSE9oMml4MkdmUXB2Z0dMNnhYem9lWEtPUUxFR1BaZ3BVeng2MWJZNVA1cDFDVXFCZjJORWhwUUdoMUV6aXpsZHpFLQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-30T10:12:00+00:00"
+  },
+  {
+    "id": "96ed13476879bd6d4c3622839b06157c",
+    "titulo": "Scania investe R$ 120 milhões em nova plataforma de chassis de ônibus - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2VNdWtuUnRXa3Z0UjJSR0c1SDRIcVYzbVdHQV9RLTNhMk9HcWlEUlRlZHMxZVNSWklyWUtFdGZVZDZVbnBIS1VtWDhRSllLaHZDYU9RU0NCdGNmSjZEUWNhNS1fYTI0SlAwQjNiWk1ELUloeUxfaVVkVklzSEUtazBhaWVHNHB0c19OVkdwWDBlQ3NNY1NIVHFZeS1yX0cwZ2J2NnZvQ2NnRVA0dVFiMWdyR2haSWJGZmlTOXRtaGJ1UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-29T20:06:00+00:00"
+  },
+  {
+    "id": "2d0d36bc5711dcd876dceae1c0b07b1a",
+    "titulo": "PACCAR Financial impulsiona vendas de caminhões DAF no Brasil - caminhoes-e-carretas.com",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1UxcURNZ2ZJTHRlYVFmNHpVYi1oYUVIZFY0Y3JFRUFyci1fU2w5c0JwT2JzN3hqUFlDREJNWFpGajhhTVEydERXdl9OaENKRVV2MXMwd1NraEFhbVlrbXI1d2VXcE1rRTRZN1NVTWkycHZJZ3JHZ0Y4aHhWRjhTa1lvN0RpR28?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-29T08:35:00+00:00"
+  },
+  {
+    "id": "5e283a1c259bd08b3d605f2c4eb6f915",
+    "titulo": "Conceito sob medida impulsiona vendas de caminhões e ônibus Volkswagen - caminhoes-e-carretas.com",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qbldEa2s0YmpDWVpUZi1KYVBSMUhiQmRZelUyVGU4RlU3S3FXS2RtM0FJNWtNbUV2WXo3VXV5N0VlMDRudFRYdDJRS2w2SVVrM3R5S0FVSmhmVmNpbFhNTGx1eV95aFpIUnYycGhGNW96NWM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-27T14:28:00+00:00"
+  },
+  {
     "id": "c3832d2e2cb921217b148c7098bff377",
     "titulo": "Modelo elétrico é o terceiro carro mais vendido no RS em 2026; veja o ranking completo - gauchazh.clicrbs.com.br",
     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQczJKaXlxbVVKdTJJVXZYUHdwTHltaWZvT3lzazFuY2EzUUV1TmFVVV9JUzNhWEN6eHhTQ0VZYUtYSHNCakVsOENhRWU4TG5JMHl2MWl5dFV5ZWUxTldpS1Q1VmJfU2kycU5WaGZIeTNUMHgtSkRWOHZxdjVxUm94VTdRZ1FfXzVMQ2xuWjNReGhidXh1N3p3R3RFVGJiVkZPTEFGcWZ1WUl4a0FIOFk0MkF2bV9RRS1kdU1weDVwV2xzR0k4dy1qRVNjd0ZFU2tHTnowd3B2VTNjSTlaMEwtcHpZVHFJZHBtQWNwOWFQU3FiMUJHQmNtT3F4ZXNhS01QeU9V?oc=5",

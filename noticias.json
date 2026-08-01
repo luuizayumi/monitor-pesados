@@ -1,5 +1,57 @@
 [
   {
+    "id": "63d756708401b521786b274e4aa699d3",
+    "titulo": "GWM projeta R$ 20 milhões em caminhões e soluções a hidrogênio - iG Economia",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmI3WXpHZVByWjE2RVF3b0F0SjQ4TUU5VVFjdE84R1dEWm5DMW1hbHBQcklwVDgyMkZUdkFXcVE5bF92SVpIeDlCZ2lJOGwtY3EzZFFkOHJaNHF4SUp1c05hRy1od1dOd3g0a0QtM09CcUo1ZWdkdEpoWm9JQW9aTldDU1FybGFzV2tFVkUxaFJRY0c5R1EtNS01TGlVZkQ4YTBTLVpoeGY1V3hGVEZ4dno3Yjg1V3R0TnJrTUZ1T2dFRXRlU3R4VW530gHPAUFVX3lxTFAwaXh6QWpxV1lvTkdNZVdPT0VjNmFJOWU5cXhqTjVMWVlsaXR2US1DbWRGQlhodW9ZLTIyc3RkS2xRdzFqZkkyVTNfWnEtRUsyN3ZvWU9Md19jOGZZeXo0QXhWemhhb195eHJSV2h3U3l1b00wUFpPT1FSdGhneW96WGxBWnF3TTgwTU9YVlpESG50U0NieEdycFVMem91bHlZbDRZRXpBSE9rM2NmcHJJVWJnQnJFNHFJc3RvcGZ6V1dsMUxUM042T0Y5bVV1WQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T09:00:00+00:00"
+  },
+  {
+    "id": "034742302b7e53cea283a7e17a64d8ad",
+    "titulo": "Marcopolo cria programa de venda de ônibus à pronta entrega - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmdqVFJOUFJNYThtM0RQU0ZIV1dMOXNlTFRubzVTbHozMEF1blRUeDhpaHJ1SXpiY01UdmpnN3dfTUZmMXJPU0kwdklOaU1qaEVDblFFQXl4bHJYWF8wU2VUU3VxclpOdGJZdV90UGVKS1FNcFE0aXo5cmhxUy1qZnNTM3NjSnpGLTd5QXQxdUc1Z0pVbHRNMUFnWkdkTG5TYXUtNTJB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T12:46:16+00:00"
+  },
+  {
+    "id": "0578f4dcd3c5f18774bc4c622b1fc086",
+    "titulo": "Prefeitura de SP libera mais R$ 22,9 milhões para ônibus elétricos - canalve.com.br",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zdVlwQnZmZndILTN0MDZIV01iT1lxNGwzMVhDb0hMVi1yWFV5SEQ2WDI3NDYwZ0xBeFM3VW9SVDVNRi1Ua0pKaWZVS1A3aWI2QVRRbmJ2end6cng3N2U5dGo5TGRKZEFkWklHd2wwSlMtYWNG?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-30T13:23:24+00:00"
+  },
+  {
+    "id": "3ea45d9372b843b9088536d3e1dc4282",
+    "titulo": "Leonardo confirma negociações com Rheinmetall sobre venda da Iveco Defence - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3hBZDh6ZkkyM3BEdERHZVRnNzZGaHliczFlSDBHY2xDNFhMTmNDc3pBenR0TXlQU20xZndnSF91UU4zU2FzM1l3R1haeFpKQkxTRkpnS0QzWjhvRmFJazkxeEtrSndLZFhjYmd6QjNYSWl4ZTZJa2k2SDBJRmZUSTB2bWpWeFpGMmZBSTFDSENCeDRaQzF4UXVwTXhvckUtZ0Y0ck5tSVkwS08yOTV1TlJSWktlYmRWTi1IRkttQW9BczFJbWhsLVhrQUQwNHd3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T13:04:00+00:00"
+  },
+  {
     "id": "6b34a663206cc7a8833062f5e4eff166",
     "titulo": "vendasProdução global de veículos da Nissan caiu 7% no semestre31/07/2026",
     "link": "https://automotivebusiness.com.br/noticias/nissan-tem-queda-producao-global-veiculos-primeiro-semestre-2026",

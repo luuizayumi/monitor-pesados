@@ -1,5 +1,56 @@
 [
   {
+    "id": "151151f669d805d044951d5c207ce6ad",
+    "titulo": "Cortes do Villela #346 | CFO do Grupo Iveco deixa o cargo após transação com a Tata Motors",
+    "link": "https://frotanews.com.br/cortes-do-villela/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-01T14:27:51.720911"
+  },
+  {
+    "id": "6679fccf3cc3849fb994ae48bb68fa03",
+    "titulo": "JAC inicia vendas de caminhões no Brasil com quatro modelos a diesel - automotivebusiness.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVloZDBCYlhfeGRKaUhUbGc5eUl5bTJiV2o0dDg5bHh1S1dZemQ3M24wN2lBRG5abVc5UXBYQzljVmNkdTFwRXJ6Y3VROEhUYy1vYWJLTUh3bnpIeFpkVnJ2dzF5VkxQcTBhd3dhZjByano0QjJQbUhSajN0dlJLX2tXanA1ekZ3bmtaZzlvdVRxNTAxQnlXY2h2THBQekE1QXMxSTFhbzZ6UGxBTm5LSTU3NWMwdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-29T22:31:09+00:00"
+  },
+  {
+    "id": "6cb7f50c5b525bde080ef74a8b7b7e8a",
+    "titulo": "Com novo motor, Scania quer aumentar vendas de ônibus no Brasil - automotivebusiness.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnpFN0NhaHc2SEd6MWtEY1ZDLTU0NU1OcE5qMVRkOHJKVHpBX3FrMnhWNHR1UWlPeTE3QWNpT09xUU1Pc3RTTEl0ZHF2TjhROTZkMUhRNHh0WHZlSHBGWF83QVhOMVFaQXZKNjZwZUFFMmNzYlJmcjhaUGFGc04xaXRWMHFVVlJnT0JmSzU5Tk5YZG1BblgtMkdSTDNzSG1HVWZhS25QVUVmS2VwdVd6N0tjVEVVVWdrOHRzaVZubjB2WkpJWUE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-30T17:12:17+00:00"
+  },
+  {
+    "id": "d32e732e14a48335d6ec2fc17dcf7ad1",
+    "titulo": "Como o câmbio automatizado poupa motoristas de caminhão de 4 mil movimentos repetitivos - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcWxBRHh2aE5CbFhrYWhFSzczVzB4MFUwZ1RORnY4MkNIUktHbXRxbkVQLVhhU3dnUHo1UVB3eUxGajU2MlRvOVR5R2pqYnFJZDdkNHVDbVZoMjdiaW1wUzJkYWtmX2xSREhka19rc1FrS3Y1NUpLTGxrcG9JcWtFZ3JQdmhQc3FvUkR5bzZOLTl4Y3prVnd0bG1FeXkzRS1tejBORFpNRHowYlV3TEZaMDVpT25NbjRoYlpHOGZxT25DckVnMkt2WjUzONIB0AFBVV95cUxQMko1NncxQ00xZmxmeGxDLU5heXdjN08tcVlvNUJpOWlJNHdMTGpDSFh6V2hGT2lZSHNfdElrWUZ4RzdneW5Pd29OLU1iNVBmdUZhY0FVeF8wMUpCQ0s5VERfUzh2MU1kTFIydjRhczI0ZEtyN0JhTlY2eG82bm13ejRHMUZBeHd2TFdhQXF6aVdTb052YjkteDhGbThXckFLenB3aUZ6UXNCQVlGV0w4NXUwSnlVUThHbEVnMTg3RW5UVExXUkttZGduRlVKclBz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-16T07:00:00+00:00"
+  },
+  {
     "id": "f3434dbce47e0a00a91b92c981ae3da5",
     "titulo": "Hot Wheels Monster Trucks Live 2027: São Paulo recebe nova turnê; veja datas e quando começam as vendas - saopauloparacriancas.com.br",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04R0c4MGlDT2M3amQzZkVYdDJBVWMzR2RPaE1SVFNmLUdVdkxHVURxQmNRZHllRElQMzFLaTNCM1BmaTZ5OGlFa1hIQ3BodlVZZEluMlJpYXM2RUpHMVpvWHZvYmplRHBOYVVQLThjVmxvY29uM3ItWG85V0ZQdw?oc=5",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "6b95fde2860a3cb788decbaf165d1e6d",
+    "titulo": "4.Como funciona o VW Constellation 26.280, o caminhão ‘movido a lixo’ da Volkswagen",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-comeca-a-vender-caminhoes-movidos-a-lixo/",
+    "fonte": "Estradão",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-02T22:30:31.556418"
+  },
+  {
+    "id": "53d2d6961b94663b951058a150bbe75e",
+    "titulo": "Fenabrave: vendas de carros sobem 20,1% no 1º semestre de 2026; T-Cross surpreende e ameaça líder Strada - gazetasp.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDh4ZFBlTWpybkdKVFc2ZTExclZvWmY1S0VGZ1dJd3Q2cHZGNnBiVFJ0cmlxV1Q3UDJEWU51T3hhakd1SFRqZFVYbU10OTJDWlIzVktCZ3lhbzdONUhDamtQQ1RaQUJXV0NTakxEMVJkY2pILW9sXzhzZ2xWZy1FZHEyYi1oaUVTWjhmV2Zn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-11T07:00:00+00:00"
+  },
+  {
     "id": "693d7ff1ced235c7262330b4cd2cd998",
     "titulo": "Carros mais vendidos no Brasil em julho — dia 30 - car.blog.br",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFpiYkNmc2pxOC1XeVUzcUtpV0dIUzNFWWMyaDVTaFhGbzR0QkEwcF9mRjVMSnc2VmVYamNDSE9oMml4MkdmUXB2Z0dMNnhYem9lWEtPUUxFR1BaZ3BVeng2MWJZNVA1cDFDVXFCZjJORWhwUUdoMUV6aXpsZHpFLQ?oc=5",

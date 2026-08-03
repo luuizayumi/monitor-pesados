@@ -1,5 +1,42 @@
 [
   {
+    "id": "c3cf64baf2b73380edc83656c776cf1a",
+    "titulo": "1.Iveco revelará seis novidades na Busworld 2025; veja quais",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/iveco-revelara-seis-novidades-na-busworld-2025-veja-quais/",
+    "fonte": "Estradão",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-03T06:44:47.971183"
+  },
+  {
+    "id": "8075ef3dfd7bba56ea7e5493081d3f03",
+    "titulo": "Vendas de motos vão crescer 10% em 2026, com mercado rumo ao recorde - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjFWelhHUTR1YVhnMjkzenVIZmpTSlh0YW9tbkFscEFWUWU0dHdtSFRWTW92bzBaZU5kb1ZRQm9uZ3N5bE1YbmgzX2Exbm1ZVjF4djV3RjNIWTk1bi0tYXhOUnBTNzNrZlFVOThVa003Zk1qZmd2MzV2T25QdGJhTFpFN0NaUExyTk5LeXhOaV9Qczl0dDJ5Qzk1RjdoV2J2bHNvNUhGZ0ZyazR3bDFj0gG0AUFVX3lxTE5yR0N6WDd1TU9udlEtUkptWWQtSW12OGFEUEZSVEtYLV92Q2piTmJ3eEE2YW5zRndGZldYb2RxczRUclFLYWxkb3hHeFdvN2hSOUptcmZxc1VsZmFuNEU4NlBveWZ3X0NrUGNvYUdGVjRieXU3Qm9UWm5wOVBoSFBCbkN0S2k3RzNTLUlvZUEyQjB1aUdRT2ptVnl6dTFEX2N3TzlYNzV0Q21qbzJxVHk3WUlKZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-05T07:00:00+00:00"
+  },
+  {
+    "id": "dd20fa4b3c23b72f92287e444b1cd561",
+    "titulo": "Por que as vendas de carros elétricos crescem no Brasil e caem no mundo? - autoesporte.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRjNBMnN0VVhFbjZXRjFaQjRaZ2tnd1IyYVpQWUx5Y1MtWFVWckJoeTBNNS1TSmQwcG5VY3QxQ0ZxZTkwTWlFUmR5cmltQ0VudUlRZjRENmNfUWpPd3RJZzFTWklMVndIUk5KUHJGbENadk94Qy1tV3lCejZ2UU83Q3JiUTczS0dwYTBfTWZ1NGd2TFpCWkZMcXE0SWJFa0dxSDhtd2EycDdvYUhQemJkTVdyVHFCb1hCaTQyVkU4Y3dLM2x4d2ZldTJUQ1ZUVXJGZ2RTRnVZY1NhdW9ZWlFMakdR0gHwAUFVX3lxTE16cTBnWnoxLUpmMkE1UXlQUVp3dkZJV2dtMnBfZnRvQnMxeXdnTkE2UVZOWG9aZnN3ZUx0Y0NxeDl2elNDbkhhVHJYZzQwdncwUS01eURfaFBjZ1dEeUxFNlNLTEtRMU11cXVZTE44ZXhhTHkyeHpIMGlYc3ZLamlXZjc0RlFrcHdsV3N4V0V4U3pxd1hlQXJPSE1qclhOVDdvaGF1ZnRubnhCQkM1OVNIMkh6VUVzNlJuLUJuN0lqdVJQTDVfOFBmTVVJd0RlbnJFR3lJM1phSXFjamd5bFF3bjVodXRxQmZ4c3pmaDdwQw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-02T10:00:31+00:00"
+  },
+  {
     "id": "2c368f8456b3c91f219cacc84105e1c1",
     "titulo": "Vendas de motos vão crescer 10% em 2026, com mercado rumo ao recorde - Estadão",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjFWelhHUTR1YVhnMjkzenVIZmpTSlh0YW9tbkFscEFWUWU0dHdtSFRWTW92bzBaZU5kb1ZRQm9uZ3N5bE1YbmgzX2Exbm1ZVjF4djV3RjNIWTk1bi0tYXhOUnBTNzNrZlFVOThVa003Zk1qZmd2MzV2T25QdGJhTFpFN0NaUExyTk5LeXhOaV9Qczl0dDJ5Qzk1RjdoV2J2bHNvNUhGZ0ZyazR3bDFj0gG0AUFVX3lxTE5yR0N6WDd1TU9udlEtUkptWWQtSW12OGFEUEZSVEtYLV92Q2piTmJ3eEE2YW5zRndGZldYb2RxczRUclFLYWxkb3hHeFdvN2hSOUptcmZxc1VsZmFuNEU4NlBveWZ3X0NrUGNvYUdGVjRieXU3Qm9UWm5wOVBoSFBCbkN0S2k3RzNTLUlvZUEyQjB1aUdRT2ptVnl6dTFEX2N3TzlYNzV0Q21qbzJxVHk3WUlKZw?oc=5",

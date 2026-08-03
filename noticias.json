@@ -1,5 +1,43 @@
 [
   {
+    "id": "9acf75d6e7a34b968b46444e7fdd5cad",
+    "titulo": "Vendas de veículos leves crescem 15% em junho com avanço dos chineses",
+    "link": "https://www.autodata.com.br/noticias/2026/08/03/vendas-de-veiculos-leves-crescem-15-em-junho-com-avanco-dos-chineses/131598/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T20:12:21.073957"
+  },
+  {
+    "id": "bba80227ef0b323720f44552b906fb8d",
+    "titulo": "Lexus inicia pré-venda do novo ES híbrido por R$ 400 mil",
+    "link": "https://www.autodata.com.br/noticias/2026/08/03/lexus-inicia-pre-venda-do-novo-es-hibrido-por-r-400-mil/131566/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T20:12:21.073971"
+  },
+  {
+    "id": "87554f7f90ca4d895c41ea861c0c1630",
+    "titulo": "4.Mercedes-Benz lança planos de manutenção para ônibus",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-lanca-planos-de-manutencao-para-onibus/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-03T20:12:24.486636"
+  },
+  {
     "id": "02c1192a3eaf7e6df02eac48c3f84c27",
     "titulo": "Mercedes-Benz faz da revisão de caminhões oportunidade para cuidar do motorista",
     "link": "https://www.autodata.com.br/mobility/2026/08/03/mercedes-benz-faz-da-revisao-de-caminhoes-oportunidade-para-cuidar-do-motorista/131487/",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "02c1192a3eaf7e6df02eac48c3f84c27",
+    "titulo": "Mercedes-Benz faz da revisão de caminhões oportunidade para cuidar do motorista",
+    "link": "https://www.autodata.com.br/mobility/2026/08/03/mercedes-benz-faz-da-revisao-de-caminhoes-oportunidade-para-cuidar-do-motorista/131487/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T18:18:46.141166"
+  },
+  {
+    "id": "581740594a55c27c1396868c4fd47595",
+    "titulo": "Volvo inaugura concessionária em Água Clara, no Mato Grosso do Sul",
+    "link": "https://frotanews.com.br/ultimas-noticias-volvo-caminhoes/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-03T18:18:47.881701"
+  },
+  {
     "id": "3c9ca385b31703b820773440d2e674bd",
     "titulo": "Mercedes-Benz entrega 26 ônibus superarticulados para Curitiba",
     "link": "https://www.autodata.com.br/noticias/2026/08/03/mercedes-benz-entrega-26-onibus-superarticulados-para-curitiba/131516/",

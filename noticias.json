@@ -1,5 +1,117 @@
 [
   {
+    "id": "3c9ca385b31703b820773440d2e674bd",
+    "titulo": "Mercedes-Benz entrega 26 ônibus superarticulados para Curitiba",
+    "link": "https://www.autodata.com.br/noticias/2026/08/03/mercedes-benz-entrega-26-onibus-superarticulados-para-curitiba/131516/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-03T16:27:38.465259"
+  },
+  {
+    "id": "66b870699074ed5022e78134e75956c3",
+    "titulo": "Cortes do Villela #348 | Balanço de Julho: Os temas e notícias que dominaram a audiência no Frota News",
+    "link": "https://frotanews.com.br/cortes-do-villela/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-03T16:27:42.342982"
+  },
+  {
+    "id": "48359bcb57924b3d4deeb536677e8e4b",
+    "titulo": "Ranking 2026 das redes de concessionárias: Mercedes-Benz lidera; DAF avança no País",
+    "link": "https://frotanews.com.br/redes-de-concessionarias-de-veiculos/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T16:27:42.342995"
+  },
+  {
+    "id": "2713fb08ec47e5ec99f505ec0b22dfea",
+    "titulo": "Conheça os caminhões mais vendidos do Brasil no primeiro semestre de 2026 - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1FMQjFibENoRDY3d3lKWUpQSDlqMlVDZ1lQczBBT0J1cmkyM1pKem94QXA5R1VZbkx1UDYtTFZfalNxX2FZSk5fM2VyckVIR0oxbG81bndsS25OekluaExIM3VSQ1h1ZlJZQXYwY3o3QnlISmlnM3E0NWw5cWdyWXVoT1BwcENqNmpEWEc5clhUYkh0OGFIS2ZkYzBwTy1na29BWHkwYm9DOFZUeFpLZnhxMA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-06T07:00:00+00:00"
+  },
+  {
+    "id": "e8324ed71c6b96f285dc6b4220b40e3b",
+    "titulo": "Emplacamentos no Pará: motos lideram mercado com venda de 72 mil unidades | Economia | O Liberal - O Liberal",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzZab0tUTUF1bHlNRTJrUEJvejd1ZEVOcE1nZTBSWTFjeXRMUEpCUTY3bEhVbElsQ3ZHakhYRGZhLWo3d3VmcVdLclU3YTlYaFpHaHFsa3kzODZMU0lZT0dRUEZzUW14Ri03RzFJblAyRzVKY1ZEeHNlaDZhYS1JS0drLWIwSTBZQVE0Z3RjRDBlODI4eHZOSGtmR2VIall0NzNiREhITUdWR2FtRDI2TXBMZUtxREVwRHdQclZoVGpnWlQy0gHKAUFVX3lxTE1QMDhsdU96QjI2MmFfamgwRFZIVXVoNmZVdlRWbUJRYlBpZzlZY01RUzkxMzhES0RUMm5kNFVDRTQteHJDSFZVNFRXeHcxckVFY19YYTVmQWpLT1lDRHlqd0lDY0V2WUI1TXBGN0RNQkxNN0NKRnFiX1B5RmNuWHRDYUFla2FDRVpDdEtZWlJoQUF0eWp5cEZ4cUpITUp1SkVVc2s5c3RHRTJSazhvdlplemRndzNMaXFMd3RrMGpRSDlDRHdXUDVRWkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T00:24:57+00:00"
+  },
+  {
+    "id": "db6eee26e0333e4437e572a759aa516f",
+    "titulo": "Marcopolo cria programa de venda de ônibus à pronta entrega - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamVuZ0dmQXlnTmVvdWNlVzY1NldaZVd5M090SzhWbVlQRW5mXzc0ZEN0dVJvckxvbGU1X0k3RndQdHZDbDE4Sk12bVZBdjFXWFdtTDJxWmtXQVBiSnRUZ21JRllaRk1CNEVHQjlSaWM2d1J0YjNtd1ZXV1YzSXdodGQ3Q1UySkNHRV9UeExUV3ZYTW1FaFlteWNJSzRHSkl3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T12:35:38+00:00"
+  },
+  {
+    "id": "d70b7187f52d2be88b4e13354992c547",
+    "titulo": "Os carros mais vendidos por venda direta em junho de 2026 - mundodoautomovelparapcd.com.br",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWU12VW5UZlhncFpjRURwczZlMm85RTVSUmp5c25fblRqdTNuZ2hPZ3NSbWV2d3gyYXJLdWFVRmJuYmtNb3dwN3ZKY1g5dDEzNlVkQ3J0NV90ejBYc2hDaE9vMzZVNzZrRTFMT3JUNzkxdGQ5UEV6dWlIRGh2bmtPaV85S00xZjJMWERrOVRCb3pDM3VGQThyMTBNdjZ1Z9IBowFBVV95cUxPZENwN2FKNElqaXh4Q0I5TFdQUWs0RV8tWXZsZDZ1NFlick9LekRaLWNPWXZ2Y2NYWE8wekpJRnF5NlBmOV9pZXMxNmVtYWZ5eGYzUzlIT2d5Zkl5OS1RSXc1TVVURlB6NWJVWl9vWDZ4ZzQ1NVpsVnUxNkQ4SXpibmx4dU8zYjVhc052amNlNHhMUFloWmdMZjdpamRfQzNTQ3JB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-05T07:00:00+00:00"
+  },
+  {
+    "id": "acb80ef4d7912337576c76d146f35855",
+    "titulo": "Elétrico mais barato do Brasil tem vendas suspensas e expõe os desafios da eletrificação - mecanicaonline.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjZ6MUlzMGdkNUpQUFpYRXhzbXItZDhxTFFLbmVBM3VjVFVaVEpfM21UOWkzYVdpVVNrdEZoYTdjMUNMekU1V3pxSU1zQVZQZElEVG5xOTA1UkpaaE5NYU5qX0xPbVA4LVhJQ0tWeW5fbUlWYnRxUDRxejl1enNEUTM3amhWT2hzWDJyckNwaDFUQy1ldWxwVFQ3NnVua2F0TW1KeGNaOFRzTFhqdldDcWdmTXpQU1FTcXRiM2ZyNkJ6YmJ4bmc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-04T12:41:26+00:00"
+  },
+  {
+    "id": "7b850fffb9f0e787e9cbd0c0dff3a6cb",
+    "titulo": "BYD King para PCD fica até R$ 37 mil mais barato em julho de 2026 - mundodoautomovelparapcd.com.br",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NYmNBdHFubk1LcEZjYW50Qi1hemdJb2J2YU5UMl95ZVljT05VT1lZUlVWbF83SEtRX05KdDNSUWhlWm4wRlJlR01TYVdnSmFoQ3FHX0N5VXFHbFFhMjk1Wjk3R1pUVmtBS2x5bzVCZlNJbWdBWkVnaHhIc0lSZkXSAYQBQVVfeXFMTlNiY1dLTG5MZGY5ZnRQbUdib2FiSWNLOUZFNXI0bExuMkx5WlZLUVZGOEFGbzBSYnhDSDVYTm9VMXp6RGNPRGwyWjBYR2FlRzF1ZkF0ak45ZkFCWTF4c1ZoOC1hU1RTaXljd19SQ3VtVWoxSXNOb0tMVlc3TFk0eHI2LVRu?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-28T12:00:00+00:00"
+  },
+  {
     "id": "c679561e6d54d7646c702972a8f73d40",
     "titulo": "Venda de carros novos cresce mais de 25% no primeiro semestre do ano em Caxias do Sul - gauchazh.clicrbs.com.br",
     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTzNxc3J5bVVFX1NCcnNLWVNEbWxjcFNLQW9kNG9CNm1RR2xMWlBIemtuVk1meUthODBfWERpalo1UEk1UjIzc3I5LW1VX19NX3RlS3FpdFVsa3FYVTJxRFYwY1h4eEJNUHExdF9ncUhXd3piVWViQWVibXVsWHFGaEEwLVpRQWJGUy14YWRxNzVFaG5TQm5aU0tZMVBqSy10QkdzWUFhdTBjZ25Bb0xfYllnM3dEdHJpTkFrc1hjSmkwLU5Ya3pMcTRvMTBKaHN3N0pnZkJkM0pQbE5oWGMyUTZmbEZSRG5zT1NoZE9pVG5uTWlLWUhjaEtxMWxVUVh5M3duckRvUndvY2ZRTUE?oc=5",

@@ -1,5 +1,79 @@
 [
   {
+    "id": "5ec5208751f1cf1ea4fd2cafe89f65d3",
+    "titulo": "BYD Dolphin GS assume liderança de vendas de montadora chinesa, que tem recorde histórico de emplacamentos - Estradas",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVW4yRnZ6WU93OUhlN3NJNGVadzluMmZCOTlUZU9rVms5YklkUHNjN2ZaT2hGdmRobFMxNWx6cF9YNTZQZWpyVUFMLUN6YUJmUWxiNXZ1TTlmYnNsR1hlcWtRVTJkMTZIUllpZU5GZVg1UGJNSHkwMXBPU1pSY09DRDhEMmV1a1pCdnl4Rzg1ZFpCbG1jX1pOZ1VPdkV1ejV1dWwxbXFvMjdaSXBkYzBuWDI1cnAxU0R3MV80emRZUHIwR3hoZ3JXbDR3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T14:09:15+00:00"
+  },
+  {
+    "id": "ebc64fffcbe54d3c1a4b3d42ecbacece",
+    "titulo": "Venda de veículos elétricos no Brasil triplica no 1º semestre - Instituto Humanitas Unisinos - IHU",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmJBZTV1RWQwYmI0NjFkNUdtOWFwYWR1Nk91Z0NfdUVpYUNZaDV4UnJRbTB4QjQwSkFCT3pyUVYtSk4zcDMtSUpDUDR6Tk50Y1EtcGxqUWxWYm5JclBNcGhycEVWLXlQeXoxSlpRdURlSmY1SWs0Uzk4SXU5bTN6VWdXTjZGc2NBOGhoN3g5M2x5dTdGQmFWVTl0UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-07T07:00:00+00:00"
+  },
+  {
+    "id": "b845675d89354dfa3a4ca34cb768dd7e",
+    "titulo": "Os carros mais vendidos em julho de 2026: Geely EX2 surpreende e entra no top 10 geral - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDIzT2x6SUQzbkstQ2lyYnRzNlZELW9lZWhOT0hyOG9FUkU5ZFJ0cnF1NTRWM3dqSFdSMG9BNjFZTWpKdGc2aVhtbHRCSURlTmRjRzNFSTRLd2ZsdUQza3ZzTzBIclJua1NLamJrYlVTLTdhSlJ1M29GM0NpeWpVMEJIUWJ0Y2PSAYwBQVVfeXFMTXEtcDlObE9lZWtiSVo0aHhPUWRLZ0dUSEItSTg2VlpyMjc1ZEdyaEJwcWpKZzBoSC14VHJwOVJsU1FRUnZOX1VjeEptVHNGdG9yaFdyTC04WXNJLXM2TWR1VFZIdTNzclNITHM4UXdKRTNCSkd5QmdTQlpEcEg1VzZDdk9zdUNCYmEweVU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T14:11:00+00:00"
+  },
+  {
+    "id": "0ef7a2a5637a046145a8fc0a2f680bca",
+    "titulo": "Mercedes-Benz faz da revisão de caminhões oportunidade para cuidar do motorista - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1o1Nmh0S01lX0E1MW9GMXFwUTZpWFc2ejdWUFlvcFpVQm5pZGRfQ2VQMDNYVjE5Zk9DNi0xWlJUOXRmQU5Dc2JOWUMyODlzRXJkMngtbU85RExFMG9pWVItQWJ1TjFQSUk1ZmFsbjkxcDBoQXhXM2JwaThobkZ4aE5mZ042NExmbjBvZkV2TkNYUjB3MXltekp1TEJCTWZUSlBnTmJzUHV6Q1hXQW1sYV9kZkJXV0lCUDVtMVIxMUE4ZWtKMnpKS2IyRFljQmJx?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T16:31:00+00:00"
+  },
+  {
+    "id": "c7bee9329bfdcbd23a59a586bb1347cc",
+    "titulo": "Ativa Logística investe mais de R$ 40 milhões na ampliação e modernização da frota - Tecnologística",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOakJTTGxSZWdIOWNjdlZWd1ZRUzFSX1prVDFGaWItQTBIUi1JMGNfS1hxaHhTSnJtQ0h5NkEtdHlzaXJtekJxalBFVnF4OUlDOUpaVnV2LXlTUzdFSHo4NlBPekZ6ZHdqSmVvOG1HNHhLTWx5T2JURldjSFRBRHpPY0RzdWFjNl9wSUFTSTRkalZzVjUtZnhkRmhOTEhXclMxSU9RTTFrOUxlNWszbXowUS1vSXplTFByZXItaUwydDNKTWUzMS1UaVhVcGwxXzRGZlYxMjRZQ0dqVVNyUXAtU2RRLUFPODVR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T14:16:20+00:00"
+  },
+  {
+    "id": "338f189f3d1e1aed8bc72afbb62444c8",
+    "titulo": "Volvo FH 540 lidera os pesados há cinco anos e segue na frente em 2026 - Brasil do Trecho",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVgxTHh3V2lkNFpTXzNsRFQ4RXNIamQ5N2l1RmdFN3pUQzdKSUxXTGJNbkxhWDNNWnFZVm5zckR3cWlPMFlCajRmRDV0bWNRWmp3ZkptYVloSHVqQXIxOV8tWjBwZDlKcFl3dUphT0FiVjJIRl85a21yN08xUWM1NURjaVR0RkNqQnc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-03T12:53:41+00:00"
+  },
+  {
     "id": "bbe9ccd0c548dec6d99626c6260ce960",
     "titulo": "Pesados: BNDES aprova R$ 20 bilhões em crédito para renovação de frota",
     "link": "https://automotivebusiness.com.br/negocios/bndes-aprova-20-bilhoes-credito-renovar-frota-de-caminhoes-e-onibus",

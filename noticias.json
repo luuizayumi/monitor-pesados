@@ -1,5 +1,30 @@
 [
   {
+    "id": "cd859bd8718b603db720f512aa218af2",
+    "titulo": "5.Autopeças no e-commerce: Shopee avança na digitalização da manutenção automotiva com grandes marcas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/autopecas-no-e-commerce-shopee-avanca-na-digitalizacao-da-manutencao-automotiva-com-grandes-marcas/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-04T22:15:33.348394"
+  },
+  {
+    "id": "7e385bbd8c207be1c5d3b91342ccd6b2",
+    "titulo": "Leonardo confirma negociações com Rheinmetall sobre venda da Iveco Defence - br.investing.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3hBZDh6ZkkyM3BEdERHZVRnNzZGaHliczFlSDBHY2xDNFhMTmNDc3pBenR0TXlQU20xZndnSF91UU4zU2FzM1l3R1haeFpKQkxTRkpnS0QzWjhvRmFJazkxeEtrSndLZFhjYmd6QjNYSWl4ZTZJa2k2SDBJRmZUSTB2bWpWeFpGMmZBSTFDSENCeDRaQzF4UXVwTXhvckUtZ0Y0ck5tSVkwS08yOTV1TlJSWktlYmRWTi1IRkttQW9BczFJbWhsLVhrQUQwNHd3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-31T13:04:00+00:00"
+  },
+  {
     "id": "36cd4c5137b24c160e0673cd6518bc7a",
     "titulo": "vendasAbeifa: emplacamentos de importados cresceram 90% até julho04/08/2026",
     "link": "https://automotivebusiness.com.br/noticias/abeifa-emplacamentos-de-importados-cresceram-90-ate-julho",

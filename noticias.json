@@ -1,5 +1,91 @@
 [
   {
+    "id": "25849d4ebc4fc56323ccf00bd49f1962",
+    "titulo": "manufaturaÀ AB, CEO da Dongfeng explica por que faz sentido parceria com Stellantis e Nissan",
+    "link": "https://automotivebusiness.com.br/noticias/a-ab-ceo-da-dongfeng-explica-por-que-faz-sentido-parceria-com-stellantis-e-nissan",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-04T19:08:00.954652"
+  },
+  {
+    "id": "42b60713aa23ad5bcfd73962340ca95f",
+    "titulo": "vendasPesados: BNDES aprova R$ 20 bilhões em crédito para renovação de frota03/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/bndes-aprova-20-bilhoes-credito-renovar-frota-de-caminhoes-e-onibus",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T19:08:00.954672"
+  },
+  {
+    "id": "b84193d7deb39e85d08f263a47417332",
+    "titulo": "vendasPesados: BNDES aprova R$ 20 bilhões em crédito para renovação de frota03 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/bndes-aprova-20-bilhoes-credito-renovar-frota-de-caminhoes-e-onibus",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T19:08:00.954676"
+  },
+  {
+    "id": "c775e8dbe2349148c1bf2e35dd6f7135",
+    "titulo": "3.“Chegou a hora dos caminhões” diz diretor da BYD, que vai apostar no mercado de pesados no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/chegou-a-hora-dos-caminhoes-diz-diretor-da-byd-que-vai-apostar-no-mercado-de-pesados-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-04T19:08:07.876897"
+  },
+  {
+    "id": "ee40db996a4c1f19ed87da255693398b",
+    "titulo": "Mercado em julho: Geely entra no top 10, chinesas batem recorde e vendas diretas despencam - Motor Show",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85WXR6a3E0aXdaNm9KOThnRW4zV2l1anRUeG1yZHIxSzVEQ29sMzQzZVJYVDlDSXVRc1NCUWxFUHBVMUtxVFRSSVVyRnVacUE1Z0dUQk9QeDFPVTcxQlRwYmYtbURyNms?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T14:35:47+00:00"
+  },
+  {
+    "id": "34a14810be9a5046a3343cb5c31e4796",
+    "titulo": "Sankhya anuncia Danilo Miranda como Vice-Presidente das BUs de Gestão Empresarial e Vendas - tiinside.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGlneWdIbjh1SnFELXJnVFZsalh2SVNTU2NqR1QwRE5TeEpzN2VDNzRsNlpzRTdtODlHQjNsTTRCRG1ncjIzTUxINkpuVVdpS3NUT3dGNUM4OE90SzQ2UG5zcGJBVGdRSnR4WnRUMWFEbzBwcFBHQkFhaG5Sd3ZPV2RqTUlFdG04U0RpMmNSbW5Jbk5fVjJVTThHTGhDcElyOUpCcnd5Xzg4TXk3RzY1LVRLenplT09yb2ZIODFueDc5NTR5?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-06T07:00:00+00:00"
+  },
+  {
+    "id": "ae4004ce278004428de930d340bf00f8",
+    "titulo": "JAC prepara lançamentos de caminhões leves e van elétrica com foco no last mile brasileiro - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhZUkJNVEJHTmh4NHJBS1JTUE93SGM2eUhtSEpVNUYyQnJzbjFDVGRYY1dzaE5KS1RIYk5ORThtRmczLThOQUsyQXUxYWFiN09oSS1scE9waXlGMENQUDA2b0ljTkxTOF9iOUdHMGI1WUZMX1lheV91al9MRUg5NnBJYkFIX0pSWWZPVnVKTm10Sm1GMFhXbWVzWHhwLTQ0anJF?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T18:48:47+00:00"
+  },
+  {
     "id": "bd665aaa9190b4e9031abca428bae1e6",
     "titulo": "Cortes do Villela #349 | Mercedes-Benz Superarticulado O 500 MDA em Curitiba! Bairrismo superado?",
     "link": "https://frotanews.com.br/cortes-do-villela/",

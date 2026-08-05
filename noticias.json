@@ -1,5 +1,55 @@
 [
   {
+    "id": "1f56eafa2da64b1b397716e136f3740a",
+    "titulo": "1.Nova geração do Jeep Compass manterá plataforma, mas pode receber motorização da Leapmotor",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nova-geracao-do-jeep-compass-mantera-plataforma-mas-pode-receber-motorizacao-da-leapmotor/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T13:11:41.387164"
+  },
+  {
+    "id": "e1708ffb0b8fd8e3ff4a465d0c927591",
+    "titulo": "Stellantis lidera mercado na América do Sul no primeiro semestre de 2026 - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2d2SmxTM0E0djNxR3JzY2lRd0g1Vk0zN0xranlhNzV1TzVDZUNkWTRMLTVDcHQzZzNpSTZCb1hsT29wNmlIdEFXbklnY2dwcWhCTEZkMEUtaEV0RG5BN3pDanpqSWZBY29tZ2VxaWwzaEZUNVNhSFdiU1JSNkFJNHVfSW4tdGE1UXZRa3NZUHp0aldXWXRiWnh4RWl6cnpQZ1BqTzd2czbSAa4BQVVfeXFMTjhvWkZhdUlCSlU0a2ROR0F1OGFJQ1RZT2RYdTVBMGRKTWxqclZxeWN3SVQycFROeEV2ZlE3ekpqS1J5SHRuV1paaFRpSzlmVlhoejVzWGxES1h4NTREODJnVnRaU3hCYnBreHY5MnBRWV9ya0U1VGFpQVVvaVA4cW9DX1JydmdDXzBlVUJzakE3M193RnN6MVIxbG16MnBQeWJMTTBTZzlRNGJkVjl3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-07-10T07:00:00+00:00"
+  },
+  {
+    "id": "941d7be03461d978343c34ab005f6c9f",
+    "titulo": "Ativa Logística investe mais de R$ 40 milhões na ampliação e modernização da frota - tecnologistica.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOakJTTGxSZWdIOWNjdlZWd1ZRUzFSX1prVDFGaWItQTBIUi1JMGNfS1hxaHhTSnJtQ0h5NkEtdHlzaXJtekJxalBFVnF4OUlDOUpaVnV2LXlTUzdFSHo4NlBPekZ6ZHdqSmVvOG1HNHhLTWx5T2JURldjSFRBRHpPY0RzdWFjNl9wSUFTSTRkalZzVjUtZnhkRmhOTEhXclMxSU9RTTFrOUxlNWszbXowUS1vSXplTFByZXItaUwydDNKTWUzMS1UaVhVcGwxXzRGZlYxMjRZQ0dqVVNyUXAtU2RRLUFPODVR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T14:16:20+00:00"
+  },
+  {
+    "id": "a1c0eddd5baf8e8d49b01440e88bf205",
+    "titulo": "Hot Wheels Monster Trucks confirma Goiânia na turnê 2027; veja como garantir acesso à pré-venda - Mais Goiás",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmo5cmtWM1N0NUdrMTdSeEZlRjMwakYzbDIwYmNTUXVjWWxKMlJQOEFOU3ktemJGTHh3NXd2T2psRGRETEk3QWp6clJTai10WHJvekpLUlk4OXVHOElqV1o3dkNYbHVNOTBaWWplWVZpbFFma09NOXU5TFpxaUlBVmdkMlhjcTFWRDhJaEhxX0dzWXgyMWRpRFZ6eHdjMmlQYTVYa0JaN3FTM0NQbm81SWs5NkhWOHBPX19SS2FXUjVJa3FTbDJidkcwLTkydjNUQ09NVjhRVXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T12:03:37+00:00"
+  },
+  {
     "id": "5a9e835e5933a4b76f216b10f26593b8",
     "titulo": "Análise de Mercado &#8211; O raio-X dos 45 caminhões mais vendidos até julho de 2026",
     "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",

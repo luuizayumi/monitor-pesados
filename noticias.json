@@ -1,5 +1,30 @@
 [
   {
+    "id": "5a9e835e5933a4b76f216b10f26593b8",
+    "titulo": "Análise de Mercado &#8211; O raio-X dos 45 caminhões mais vendidos até julho de 2026",
+    "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T11:22:29.882434"
+  },
+  {
+    "id": "38b10231214fe23b3d6a49f871c61b41",
+    "titulo": "Confianza Transportes amplia frota escolar em Macaé com 40 novos micro-ônibus Volare",
+    "link": "https://frotanews.com.br/marcopolo-volare-2026/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T11:22:29.882448"
+  },
+  {
     "id": "4e0f6f7dfe2752d68ef5658f2bbe7e8e",
     "titulo": "1.Novo GT 63S E Performance é o Mercedes-AMG mais rápido da história",
     "link": "https://www.estadao.com.br/jornal-do-carro/novo-gt-63s-e-performance-e-o-mercedes-amg-mais-rapido-da-historia/",

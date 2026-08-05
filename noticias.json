@@ -1,5 +1,152 @@
 [
   {
+    "id": "0337d18aa46d541dcd2c5040a6297658",
+    "titulo": "Mercado de caminhões 2026: 410 unidades separam Mercedes-Benz e VW de um empate",
+    "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T17:40:45.331492"
+  },
+  {
+    "id": "d00b636b5e7fbfd00e6671ce7442fed0",
+    "titulo": "“Chegou a hora dos caminhões” diz diretor da BYD, que vai apostar no mercado de pesados no BrasilFabricante vai participar da Fenatran, maior feira de caminhões da América Latina, e já planeja concessionária para veículos comerciais em São Paulo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/chegou-a-hora-dos-caminhoes-diz-diretor-da-byd-que-vai-apostar-no-mercado-de-pesados-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T17:40:47.131385"
+  },
+  {
+    "id": "2ed1be70bc56e785d1612df663cc772e",
+    "titulo": "Como funciona o VW Constellation 26.280, o caminhão ‘movido a lixo’ da Volkswagen",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-comeca-a-vender-caminhoes-movidos-a-lixo/",
+    "fonte": "Estradão",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T17:40:47.131401"
+  },
+  {
+    "id": "99202c1a9565c055e3b83ee5cf185414",
+    "titulo": "2.Nova geração do Jeep Compass manterá plataforma, mas pode receber motorização da Leapmotor",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nova-geracao-do-jeep-compass-mantera-plataforma-mas-pode-receber-motorizacao-da-leapmotor/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T17:40:47.131404"
+  },
+  {
+    "id": "b01c3518530190634d1170e519259ba9",
+    "titulo": "Venda de caminhões cresce 18,89% em julho, mas ainda acumula queda no ano - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmE2T3VRM29PWnFIUEptX05zYU1ER0s2ZGx5YUFRNkFDb010czB0UjZxMTBpU0ZVZVY1NmtaUFdZXzZhZVFOZEJMT1ozSVU3akZxMzljWTNYLVpOcnJ2UkRCZDBoUE9BUDJsM1NxT1VrbkFJeUIxbkdIWmE3LWhJUGstU3BjbWhrZG5WSHJ1SGhPSk1QbF90MVF3SU40UC0zbTFTVTMwS2Z6WnVSSVBldE9fV213UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T18:20:39+00:00"
+  },
+  {
+    "id": "78f8ea5f6f3cf0969ef06926e0f5d7ec",
+    "titulo": "Venda de veículos surpreende em março e dispara para quase 270 mil unidades - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFgxNlhJU2xGaXpMREJlR2I2WTVDT19iS1JIRWV2WE9UbEhxVnBFZEM2NTE4SnUwdEV4V2lmeFg5aW80U3VUNjMyMEd0OWE3Sk1TUXkwMVJDMlFmeXZyQnF5cXdKLWs3SzFyYjgzWkRUQkdsdzdjQllxTzdrUTRFZmNnS01wbkVYcTFqc0wwbHBYTGFkUElGSkVudS03ai1tUkhRdGNPZ1RIOXI2Rjd4MmJmX0xjNmlGcjRMQ1liUE1GeFA0eGZn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T12:33:47+00:00"
+  },
+  {
+    "id": "8b380b34edbd6333aa35f25545a49381",
+    "titulo": "VW Delivery 11.180 mantém o posto de caminhão mais vendido de 2026; veja o ranking - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1otSC00NExFUWRaWHlYbllublZxajdTbEc3bl9jLXJPdHBoVEQ5TjNYQkN3ZjNSc3JxQlFJenByanJVTERXenVEenI5RGFTZVdJeVhkMzZLcEdhanNuZTFncmY0cTFkOVh0S2ZYdy1wRXhyRnBZb01fUXJURVVqWGlNWjNaTXFLaFRtMVBRWkF4UFZKTVdBVF9RRVRjTlN1TzVwWWRPUXhJeVc1NFgtb3hYelVIWENpQXctRjJIZEtrX09P?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T19:20:24+00:00"
+  },
+  {
+    "id": "ceaab004b1ffacd234b03358e715a6d4",
+    "titulo": "Anfavea prevê mercado de 106,7 mil caminhões em 2026 e perda de 18 mil unidades em dois anos - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMlctNGZLTmhHX3gyU2NfQzJKNjN4STg5d1FYVDJrNl9ma1M4angwLWhHSWk1elRqR0w2NXJ6NW5HZ2FIT3lDcEhVMkktY2NLWkFVNjI4YVpmLS1qbU9kSU9UWVhOYVo2cE1SZkdVOG05UmhXRHJzRUU5YXBBUWpWOGlYWUpsT2JqOFQ5TXZSeHNZVzdudHJ2a1NJLXZycDNnUkx6OUhqWndoYjNoSllyT1N5SWsyQ2FlY25mQTBPb2lZYnpYMllFYmhLS196Vk5F?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-07T07:00:00+00:00"
+  },
+  {
+    "id": "4f8428cad5ad181ca03f01e0ea7c4ce5",
+    "titulo": "Fenabrave: vendas de veículos sobem 15% em julho ante mesmo mês de 2025 - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzYyd1I4Mkl4YmRXMU9FV0dlenN3QVgtVVc1cjlxMUhqUEFZdHJEeHdFUm9iOXRFa2twTEdtcVUzS2tqaGtkUmFmMDZqTVYxaUcySFN4alNaZ0oxRU1XeWI1VGJqeEJoQVhVVUtwWWtfZWY4Nm54amp0QV95ZlZva1NtWWNieFhUeF96V3Q2cUF3anExZlR6SWdUdnFmTXgtTGRPNXY5YkpTZURlNUhOaWUzVVZucUVhdHI5TmRZQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T21:29:29+00:00"
+  },
+  {
+    "id": "45d6dcf8827e0705e6acec35c13c572b",
+    "titulo": "JAC prepara lançamentos de caminhões leves e van elétrica com foco no last mile brasileiro - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhZUkJNVEJHTmh4NHJBS1JTUE93SGM2eUhtSEpVNUYyQnJzbjFDVGRYY1dzaE5KS1RIYk5ORThtRmczLThOQUsyQXUxYWFiN09oSS1scE9waXlGMENQUDA2b0ljTkxTOF9iOUdHMGI1WUZMX1lheV91al9MRUg5NnBJYkFIX0pSWWZPVnVKTm10Sm1GMFhXbWVzWHhwLTQ0anJF?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T18:48:47+00:00"
+  },
+  {
+    "id": "590d0a17b67f745cb7b005ecba056203",
+    "titulo": "Venda de veículos elétricos no Brasil triplica no 1º semestre - ihu.unisinos.br",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmJBZTV1RWQwYmI0NjFkNUdtOWFwYWR1Nk91Z0NfdUVpYUNZaDV4UnJRbTB4QjQwSkFCT3pyUVYtSk4zcDMtSUpDUDR6Tk50Y1EtcGxqUWxWYm5JclBNcGhycEVWLXlQeXoxSlpRdURlSmY1SWs0Uzk4SXU5bTN6VWdXTjZGc2NBOGhoN3g5M2x5dTdGQmFWVTl0UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-07T07:00:00+00:00"
+  },
+  {
+    "id": "a51e1e723048d2066b0805053a32236f",
+    "titulo": "Hot Wheels Monster Trucks confirma Goiânia na turnê 2027; veja como garantir acesso à pré-venda - maisgoias.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmo5cmtWM1N0NUdrMTdSeEZlRjMwakYzbDIwYmNTUXVjWWxKMlJQOEFOU3ktemJGTHh3NXd2T2psRGRETEk3QWp6clJTai10WHJvekpLUlk4OXVHOElqV1o3dkNYbHVNOTBaWWplWVZpbFFma09NOXU5TFpxaUlBVmdkMlhjcTFWRDhJaEhxX0dzWXgyMWRpRFZ6eHdjMmlQYTVYa0JaN3FTM0NQbm81SWs5NkhWOHBPX19SS2FXUjVJa3FTbDJidkcwLTkydjNUQ09NVjhRVXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T12:03:37+00:00"
+  },
+  {
     "id": "35c81e5e9df590a8d77f1f2eb252e8ed",
     "titulo": "Venda das associadas à Abeifa fecha julho com alta de 9,1%",
     "link": "https://www.balcaoautomotivo.com/2026/08/05/venda-das-associadas-a-abeifa-fecha-julho-com-alta-de-91/",

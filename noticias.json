@@ -1,5 +1,29 @@
 [
   {
+    "id": "381a2bc34a1fe13e21fabd5ff47e30a9",
+    "titulo": "Venda de implementos reage em julho mas no ano ainda tem queda de 5%",
+    "link": "https://www.autodata.com.br/noticias/2026/08/05/venda-de-implementos-reage-em-julho-mas-no-ano-ainda-tem-queda-de-5/131868/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T19:37:56.003077"
+  },
+  {
+    "id": "0740c84d3b4999a3d55b7ff981f9bfd4",
+    "titulo": "Mortes invisíveis: falhas em para-choques traseiros de caminhões expõem grave risco global e desafiam frota brasileira",
+    "link": "https://frotanews.com.br/para-choque-traseiro-caminhao-risco-colisao/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T19:37:57.460076"
+  },
+  {
     "id": "0337d18aa46d541dcd2c5040a6297658",
     "titulo": "Mercado de caminhões 2026: 410 unidades separam Mercedes-Benz e VW de um empate",
     "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",

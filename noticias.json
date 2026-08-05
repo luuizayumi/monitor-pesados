@@ -1,5 +1,41 @@
 [
   {
+    "id": "49140f376fb64ee1b8ddefe0506c94d9",
+    "titulo": "Aimoga inicia operação no Brasil com robô humanoide e cão robótico",
+    "link": "https://www.autodata.com.br/noticias/2026/08/05/aimoga-inicia-operacao-no-brasil-com-robo-humanoide-e-cao-robotico/131905/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T22:34:48.089326"
+  },
+  {
+    "id": "d5b709b67c9d439bc7a1f924e57af3e5",
+    "titulo": "3.Nova geração do Jeep Compass manterá plataforma, mas pode receber motorização da Leapmotor",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nova-geracao-do-jeep-compass-mantera-plataforma-mas-pode-receber-motorizacao-da-leapmotor/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T22:34:53.481357"
+  },
+  {
+    "id": "d076873ea763840043918dad9e4de9f1",
+    "titulo": "Carros mais vendidos: Strada lidera, Tera passa de 10 mil unidades e Geely EX2 entra no top 10 - motorshow.com.br",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YQ0JrblEwUVJVczJVcDJXeVV3ZGxUSGFodDA1YTdKUk5VYXJ6bGo2R1h6TllGcV9TUkVYdUtycWwzVzdSUGgwWlhJODFqVDI3U3hIazhyQV9zdmJzWC15NVlsV2NHb0NlRi00?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T15:00:27+00:00"
+  },
+  {
     "id": "284ececaa1704f357d11fb4df23fa701",
     "titulo": "4.Nova geração do Jeep Compass manterá plataforma, mas pode receber motorização da Leapmotor",
     "link": "https://www.estadao.com.br/jornal-do-carro/nova-geracao-do-jeep-compass-mantera-plataforma-mas-pode-receber-motorizacao-da-leapmotor/",

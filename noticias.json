@@ -1,5 +1,29 @@
 [
   {
+    "id": "284ececaa1704f357d11fb4df23fa701",
+    "titulo": "4.Nova geração do Jeep Compass manterá plataforma, mas pode receber motorização da Leapmotor",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nova-geracao-do-jeep-compass-mantera-plataforma-mas-pode-receber-motorizacao-da-leapmotor/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-05T21:13:20.242179"
+  },
+  {
+    "id": "632985fcef29b7580f1c69cf817c4a0d",
+    "titulo": "Venda de veículos salta 15% em julho, diz Fenabrave - Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRE56RjVMODYwSWlfWjhRblpteVVYaUlHMUY5dWJiMWl3amRROWJkY1lxb3I5Y0o2MUhOakw3R2VLWS1EU1FJYzJyWDlfQktLQndGRG9IcWlJQXNNQ0o0azM1OFE1TmRjUjNjTjBnR2ZBOWh2QUU3TTI1RXJrN3luRHl4OXo1TVF2X1dJZU5B?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T23:00:00+00:00"
+  },
+  {
     "id": "381a2bc34a1fe13e21fabd5ff47e30a9",
     "titulo": "Venda de implementos reage em julho mas no ano ainda tem queda de 5%",
     "link": "https://www.autodata.com.br/noticias/2026/08/05/venda-de-implementos-reage-em-julho-mas-no-ano-ainda-tem-queda-de-5/131868/",

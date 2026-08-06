@@ -1,5 +1,65 @@
 [
   {
+    "id": "ad6a0d3b28a941a9f06feb8b8ed682bf",
+    "titulo": "Dafra SYM ADXTG 300: avaliamos a nova scooter aventureira que aposta no custo-benefício.",
+    "link": "https://www.autodata.com.br/mobility/2026/08/06/dafra-sym-adxtg-300-avaliamos-a-nova-scooter-aventureira-que-aposta-no-custo-beneficio/131938/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-06T14:53:46.068914"
+  },
+  {
+    "id": "4fd0df807d27658bb88305e4b566874f",
+    "titulo": "5.O caminhão que nunca te atropela: veja tecnologias que vão inibir acidentes com veículos pesados",
+    "link": "https://www.estadao.com.br/jornal-do-carro/o-caminhao-que-nunca-te-atropela-veja-tecnologias-que-vao-inibir-acidentes-com-veiculos-pesados/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-06T14:53:51.689099"
+  },
+  {
+    "id": "2cfbfa55b6025637102380c6651fe0d0",
+    "titulo": "Carros mais vendidos: Strada lidera, Tera passa de 10 mil unidades e Geely EX2 entra no top 10 - Motor Show",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YQ0JrblEwUVJVczJVcDJXeVV3ZGxUSGFodDA1YTdKUk5VYXJ6bGo2R1h6TllGcV9TUkVYdUtycWwzVzdSUGgwWlhJODFqVDI3U3hIazhyQV9zdmJzWC15NVlsV2NHb0NlRi00?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T15:00:27+00:00"
+  },
+  {
+    "id": "b0e7895d6069f62151dbd8c3ee8e1265",
+    "titulo": "Sergipe acompanha alta nas vendas de veículos; Brasil tem 3º melhor julho - Só Sergipe",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFEyam52dGE4LVJaanpsLU9BWHg4dUpieVZIUUxLT2twS0RKeHRoa2tRbGljY0FrOGZxaDRsUHRrc00xTHJIcTlmaVFJNjZpRF9qdkFYNDNqc0RLX3VZMjVCV0Zibk54RFJvT2lkenBMZzBJYUczN0FoQmRldFB1WkhJSjByNnNVWTJ2aTg2bnhwbWpwTGw3b0M1RkpVLWdudEo3UFplOHNqQdIBqgFBVV95cUxOcFEyam52dGE4LVJaanpsLU9BWHg4dUpieVZIUUxLT2twS0RKeHRoa2tRbGljY0FrOGZxaDRsUHRrc00xTHJIcTlmaVFJNjZpRF9qdkFYNDNqc0RLX3VZMjVCV0Zibk54RFJvT2lkenBMZzBJYUczN0FoQmRldFB1WkhJSjByNnNVWTJ2aTg2bnhwbWpwTGw3b0M1RkpVLWdudEo3UFplOHNqQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T21:31:06+00:00"
+  },
+  {
+    "id": "c5f19e627a2d620f7db3f2522b99e2b6",
+    "titulo": "Com Move Brasil, vendas de caminhões zero km crescem mais de 18% em julho - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHoxdnkyME8za2NTTi1JQnZRSzlIY1FCNi1VSEZqVlJRNGlXek9rb290a1lhUE9HNjNENkl1ME5OZU5neTE2cHBxOTh4VFRVQzNaWU9ZOWJGVmlsVlB3OFl6VHlkaFgxZHljVjRMSlRON1JxMWtCb3VvM2tOYlBSNU1LSQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-30T17:34:00+00:00"
+  },
+  {
     "id": "488165cc9f1e0a01fb6601aea6599b95",
     "titulo": "Brasil lidera mercado de data centers, mas pressão no sistema elétrico ameaça expansão; veja o Radar Energia XP | Agosto - XP Investimentos",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPV0Q3WjR6Szh0OG9STzhVckZTUGFadVNVQzBtYkE3d1JVM2VDRlJpclZqc3NBMnZkX01BZS14ZGg1cm5YOXpVSTVQTFdMREhOUGFfaDV1bVV3Tk5pYlUzR2YwNUhGYnZFbGd3eUtHdFp1blZ1UXFUWjdJbDN2NFNjZFAyYWUxSXhQX1pNMGJOb1lUeGRZQlZMbHVIMWJuWUtxaENIME9KS2lSN1RlVzBNQlBBY29qUEdrSXdmemlpOEFjbl9pMlVQRE5vOWdsbjJrMFFvLWVYeDNnZzlHUmgyRGpVU29lSldmVEZuSFQ1LWpmcHdzZmc?oc=5",

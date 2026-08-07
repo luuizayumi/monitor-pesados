@@ -1,5 +1,66 @@
 [
   {
+    "id": "22df188c2c59159fedba73e1947efddb",
+    "titulo": "8 caminhões por dia: o avanço da Foton no mercado de caminhões em 2026",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/8-caminhoes-por-dia-o-avanco-da-foton-no-mercado-de-caminhoes-em-2026/",
+    "fonte": "Estradão",
+    "montadora": "Foton",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T21:11:31.983940"
+  },
+  {
+    "id": "aac4bd6c120823d4aaeb24e46f2b8181",
+    "titulo": "“Chegou a hora dos caminhões” diz diretor da BYD, que vai apostar no mercado de pesados no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/chegou-a-hora-dos-caminhoes-diz-diretor-da-byd-que-vai-apostar-no-mercado-de-pesados-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T21:11:31.983956"
+  },
+  {
+    "id": "edd49ad3bd0a19039734f8408ad3a6b4",
+    "titulo": "Caminhões usados crescem 4% de janeiro a julho; veja os mais vendidos - transportemundial.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYW5tSGoyQjMzTzQzUzN2S0RfRlI2UU1SMVVCUDFLVGdzQ3F1Y0lwRHlJVnJkZHRZWktFLVg2TU9PeWhoMTRVa0pQUWM2eEpEeHFoS1R5eEpvT1UtbGZEMEl2MkNvS1kySDRQZnpybEhfRzljTHBUSE1oVE4wMDB2YTRHX1E1LU9palY2c1RsVm0xY0ZHZ2hmLUpJdTluTjhQUkxj?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T13:36:45+00:00"
+  },
+  {
+    "id": "7195da7a0b67521385e25a3075116a46",
+    "titulo": "Venda de caminhões usados cresce 9,7% em julho; confira os modelos mais procurados - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHZmUmt6NzVpdDBPbHlfQTM5d25TRVExLWl6RjlJbzNpZlFPcUhnSmZXeUp6WUlBR3p5VTFOY1dqOUNFTzkyX0tMckhlbElsS3ZwQ3gyQ0dmVFdnWXE1TGIxYV9RZm1pWHU5RTRLUzczSUEzTjdGenE1Z2hSZWxReTY1V0JSVC1LajRHU01sRzVfOFNMQnpBSG42aklxTjM3aDVoZnRQZHJKY0FCNlRKcW1TRWFYQm1HeDl5SVV3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T16:42:45+00:00"
+  },
+  {
+    "id": "087cacac85bfdbd6233668732a9c36f0",
+    "titulo": "Venda de veículos pode ter melhor ano desde 2014 - valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0dsWFE1dmkta0kzeXAzYUtoRlNvVUxyQWVJZnd5TGZLdktDblRMa1AtRnRYa1FuQUdaU2FzbG4wbmctc2ctSDlSZkRqaDBCcDduTllZenluUXpNczUzTHhrVVd4SlFhOHprNmpZakVMeTlCNnZqZjByZk15ZEpQbzNaV195N3hNZFJEVm1WbG1mcFE1NWtpX1V4V3FxTWdhRTVfUWNjeDBQQdIBuAFBVV95cUxORk9zZXFUUElPanJYWFAzUk9lY1BZbFdnakZySmdqUmNqZEgyQXdHSkZEWWN4bGhERVI4RWdJUW5BRVJfUFFVX3prYnlWeGJJOFd2Y3VEdFdTcW1NXzFzeDJPcWotSFlHUm93ZnZFOElpTmlSUFRxWmxWSXBGYlotdUlfZUNWckNHUGNVTm9GQjVxckRaQWd3ZzVJTFJGU1VBQ0xjcjV0UjB2XzN4WTR5MnhXYS1veFpK?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-08T07:00:00+00:00"
+  },
+  {
     "id": "1527f4844de163b36a74fb089b348ecc",
     "titulo": "Produção e vendas de veículos no Brasil recuam em abril ante março - cnnbrasil.com.br",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGdyTUk5SlhHZ2t4N0ZsMWRZMnp6NG8wWEFGSGtIaVZndGM4Wm1aRzhlTzBkV0lPNnkxZExobTA2RVBWQi1rWHQwbm82QjUzZXRJVUh2TEl3dzF1WEFiY0UybjNmSThEN2FZSWVBdkN3QWxmRE5DRGJOVmpHd3J2YVc5T3plU2w1STFsdWo5ZTdIN05Qa0dfeG5XYzVJUlJEWS01eEpqZHVjT1VBQmdmQWEyTGhRWHZCTFNR?oc=5",

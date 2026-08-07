@@ -1,5 +1,42 @@
 [
   {
+    "id": "f175e96f7d53f300bd61bcb5cfea3575",
+    "titulo": "Produção de chassis ônibus recua 8% em julho e acumula queda de 3% no ano",
+    "link": "https://www.autodata.com.br/noticias/2026/08/07/producao-de-chassis-onibus-recua-8-em-julho-e-acumula-queda-de-3-no-ano/132160/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T18:12:21.450046"
+  },
+  {
+    "id": "64d1117a7911a3ec4b08d349d9704e3e",
+    "titulo": "Foton lança linha 2027 do Aumark S 715 e S 916 com opção automatizada",
+    "link": "https://frotanews.com.br/ram-dakota-testes/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T18:12:22.937905"
+  },
+  {
+    "id": "f8021600adee27ceb59025c535d449fb",
+    "titulo": "5.Mercedes-Benz começa a divulgar novo Classe A nas redes sociais",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-benz-comeca-a-divulgar-novo-classe-a-nas-redes-sociais/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T18:12:24.686689"
+  },
+  {
     "id": "3dffe4db34eecba34bb742e521715c90",
     "titulo": "Importados superam Fiat e lideram vendas de veículos no Brasil",
     "link": "https://www.autodata.com.br/noticias/2026/08/07/importados-superam-fiat-e-lideram-vendas-de-veiculos-no-brasil/132146/",

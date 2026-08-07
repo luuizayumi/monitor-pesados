@@ -1,5 +1,29 @@
 [
   {
+    "id": "56a22cd14e6890d369eb7e671bd5c4b7",
+    "titulo": "5.MAN apresenta seu primeiro caminhão com sistema autônomo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/man-apresenta-seu-primeiro-caminhao-com-sistema-autonomo/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T23:06:47.783937"
+  },
+  {
+    "id": "7aebf44274e89d553768b4f739fa8651",
+    "titulo": "Os carros mais vendidos na modalidade de vendas diretas em julho de 2026 - mundodoautomovelparapcd.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHhIX2lyLUFYV3ZyZERaanFLNHQ2anI1eXdpWklxcXgxZTFUdEpNOTRrb0FyVmF6dTNoRkJ5enVYZ0Z3N1YwSl9MZHZlR0RwM2pqdWE5WXpYZEJJVDBpeGNoX2V3c0FEemxsYmVhQXE3aHBlc29lcEdZdF9ROG5IQjViRHU5bWJZb0Q0UzFqSmVEbWNUaEEtUy1IYlNXdDjSAZ8BQVVfeXFMUHB4SF9pci1BWFd2cmREWmpxSzR0NmpyNXl3aVpJcXF4MWUxVHRKTTk0a29BclZhenUzaEZCeXp1WGdGdzdWMEpfTGR2ZUdEcDNqanVhOVl6WGRCSVQwaXhjaF9ld3NBRHpsbGJlYUFxN2hwZXNvZXBHWXRfUThuSEI1YkR1OW1iWW9ENFMxakplRG1jVGhBLVMtSGJTV3Q4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T13:09:00+00:00"
+  },
+  {
     "id": "2baca17cd946140edc9b3561d9ce332b",
     "titulo": "Produção de veículos cresce até julho apesar do pesados",
     "link": "https://automotivebusiness.com.br/balanco/producao-de-veiculos-cresce-ate-julho-apesar-do-pesados",

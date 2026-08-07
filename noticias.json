@@ -1,5 +1,29 @@
 [
   {
+    "id": "aef9c955be2ad0a4bf0787a3849d19f9",
+    "titulo": "4.Volvo FH faz 30 anos e soma 1,4 milhão de vendas no mundo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-fh-faz-30-anos-e-soma-14-milhao-de-vendas-no-mundo/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T19:30:13.975496"
+  },
+  {
+    "id": "082a4ebaaaa3c0584bd06942b613b6ce",
+    "titulo": "Quais cidades têm a maior guarda civil? Veja ranking - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDBsaGhveVBobnQ3a082N1FKYzNDNS01S1JmQkF0eDN6MlY4dUdoUUtWQkpYdEljOFhibGVVWE01RE1OM3B5RHhJTWhGb1FWU2Y3cFFDU0pmRGM1emdaejQwMzE5RHJfa2VqMG5FaXhpOFJmNkFBNW13RU80bFZCNERwYXAtVENSWkZSQ1ZERl9fR1BzNVo4eUdB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T09:00:55+00:00"
+  },
+  {
     "id": "f175e96f7d53f300bd61bcb5cfea3575",
     "titulo": "Produção de chassis ônibus recua 8% em julho e acumula queda de 3% no ano",
     "link": "https://www.autodata.com.br/noticias/2026/08/07/producao-de-chassis-onibus-recua-8-em-julho-e-acumula-queda-de-3-no-ano/132160/",

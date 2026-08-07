@@ -1,5 +1,29 @@
 [
   {
+    "id": "6664960c6222bef3437e9b5364b21a5e",
+    "titulo": "Produção de veículos cresce até julho apesar dos pesados",
+    "link": "https://automotivebusiness.com.br/balanco/producao-de-veiculos-cresce-ate-julho-apesar-do-pesados",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T23:59:26.256320"
+  },
+  {
+    "id": "a6720c40d3fd04a27e0cc7fd27a96616",
+    "titulo": "BalançoProdução de veículos cresce até julho apesar dos pesados",
+    "link": "https://automotivebusiness.com.br/noticias/producao-de-veiculos-cresce-ate-julho-apesar-do-pesados",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T23:59:26.256332"
+  },
+  {
     "id": "56a22cd14e6890d369eb7e671bd5c4b7",
     "titulo": "5.MAN apresenta seu primeiro caminhão com sistema autônomo",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/man-apresenta-seu-primeiro-caminhao-com-sistema-autonomo/",

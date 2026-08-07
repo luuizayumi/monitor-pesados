@@ -1,5 +1,187 @@
 [
   {
+    "id": "bc6701a748cad63c514e517fceeb18f9",
+    "titulo": "manufaturaProdução de veículos na Argentina tem queda de 18% até julho06/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/producao-de-veiculos-na-argentina-tem-queda-de-18-ate-julho",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T00:25:00.951302"
+  },
+  {
+    "id": "312b63a1e9a4395d5601dde2c98c9c0f",
+    "titulo": "manufaturaProdução de veículos na Argentina tem queda de 18% até julho06 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/producao-de-veiculos-na-argentina-tem-queda-de-18-ate-julho",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T00:25:00.951317"
+  },
+  {
+    "id": "4f2bb5a5ecae0e948e0a7eaad6472bae",
+    "titulo": "BYD lidera emplacamentos de ônibus elétricos no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/08/06/byd-lidera-emplacamentos-de-onibus-eletricos-no-brasil/132031/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-07T00:25:03.391031"
+  },
+  {
+    "id": "4b0326fadeee5238fbb0ac5c071a2c31",
+    "titulo": "Fábrica no Brasil é mandatória para planos da Chery International",
+    "link": "https://www.autodata.com.br/noticias/2026/08/06/fabrica-no-brasil-e-mandatoria-para-planos-da-chery/132021/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T00:25:03.391046"
+  },
+  {
+    "id": "64bc536797afbb56fe05224363b6474e",
+    "titulo": "Setor de ônibus vive um paradoxo, segundo a Marcopolo: precisa renovar mas não tem crédito",
+    "link": "https://www.autodata.com.br/mobility/2026/08/06/setor-de-onibus-vive-um-paradoxo-segundo-a-marcopolo-precisa-renovar-mas-nao-tem-credito/132074/",
+    "fonte": "AutoData",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T00:25:03.391051"
+  },
+  {
+    "id": "3d2823362c2ffc232630a6fbe140af3b",
+    "titulo": "Foton apresenta linha 2027 de caminhões Aumark S715 e S916",
+    "link": "https://www.autodata.com.br/noticias/2026/08/06/foton-apresenta-linha-2027-de-caminhoes-aumark-s715-e-s916/132112/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T00:25:03.391054"
+  },
+  {
+    "id": "1cc486420aa2e3926dadabb903639385",
+    "titulo": "5.Novo BMW M2 ganha 20 cv e manutenção grátis por três anos; veja o preço",
+    "link": "https://www.estadao.com.br/jornal-do-carro/novo-bmw-m2-ganha-20-cv-e-manutencao-gratis-por-tres-anos-veja-o-precoo/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T00:25:46.086095"
+  },
+  {
+    "id": "3ffe0ad3818df9df6a18d34e7b313128",
+    "titulo": "Foton avança no Brasil com média de 8 caminhões vendidos por dia - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOWR1enI1bGJaQm5CUkU4bFdvWTBZWVI0ckN4VGFJNW9TOF9hUF8tcThuTVA3R2JMOXhDTDVWclQ5d0lvSGwwc3BjdTVBVDJ5cEdfNnhVUG43bksxcXB3NS1acWxaMl9uZmVXR0lNQWUyeXRURWJac2NwR2tjcnpsbFBIaWRnMnZjaE5NNmxKMTVzNXRuVzdUOXhMY3V4c0JhQ29UNXFlakF0UF9ScGtZUXAxMlpWd0Zydzg4MDhSYmc3Wm5nUUtDc3Fn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T13:22:17+00:00"
+  },
+  {
+    "id": "4e4c41edca4729b72c063a047f73e367",
+    "titulo": "Venda de caminhões usados cresce 9,7% em julho; confira os modelos mais procurados - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHZmUmt6NzVpdDBPbHlfQTM5d25TRVExLWl6RjlJbzNpZlFPcUhnSmZXeUp6WUlBR3p5VTFOY1dqOUNFTzkyX0tMckhlbElsS3ZwQ3gyQ0dmVFdnWXE1TGIxYV9RZm1pWHU5RTRLUzczSUEzTjdGenE1Z2hSZWxReTY1V0JSVC1LajRHU01sRzVfOFNMQnpBSG42aklxTjM3aDVoZnRQZHJKY0FCNlRKcW1TRWFYQm1HeDl5SVV3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T16:42:45+00:00"
+  },
+  {
+    "id": "ddd64067010aa63ad3b0d57a6d018207",
+    "titulo": "Conheça os caminhões mais vendidos de Julho de 2026 - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0JIbUJwMDNfalNXQ01pTG1VQklkR3VZRVdIY1JUYWlWSnNSaDdGQ2puRko0Mll6bVpPTWgyOHNDUU1qNVNZNW5EdjJCUEl2VXRSZGlVYWJOY2VpWGRMMk5jR3c3bGdQX2I2cEo0VlBaSDBkRnNJRWVKbk01QzdfeE9kdWJqaWt0QTNJYWJKVE1vZGJIU3RBWHpkOA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T15:30:42+00:00"
+  },
+  {
+    "id": "05804fd8c11dba63e1c235d6e81c087e",
+    "titulo": "Notícia Venda de veículos salta 15% em julho ante mesmo mês de 2025, diz Fenabrave - kinvo.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3NhN1ZMd3l4RmVzTzJYWlAySHZ0ZHNhblZGeWdKSFMwdGdfVGhNclV0RjVQT1VXUU95UlI1OFhVMVJreUd3eWRzVTZlN0VvYkxHdmtYTXprNHY5MXdwVHVwa3ZBX2NGM0ZVQUpwV0RVMVF3eWIwbEQxd2tQQkRjUWNJMVhWQzMxdzRRTm9nUnh1aldfQTdyWWhNRVRhQjlVaUZJ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T07:08:00+00:00"
+  },
+  {
+    "id": "2e71ccd8053e807bd15a685e73b0cc31",
+    "titulo": "Minas Gerais registra aumento de 32% nos emplacamentos de veículos de janeiro a julho de 2026 - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnU3dmJRWENBM0ttY0lOUC05Q1hyUnpXRFByTVpmVndFN0NaR1NjZTVNZms4cGZWLTB3UFVZVE9PNGtaWUpyZllWbm95eVU3MDRzeVhBUzA5cmNqZ2FmamwwWXRPalpBUW9DSmROOUs5VXA2cHJobVlpbjFHYmUtWA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-06T08:01:00+00:00"
+  },
+  {
+    "id": "5296e8114e86c5f68b99f465bfec3597",
+    "titulo": "BYD domina o varejo no 1º semestre de 2026; veja os mais vendidos - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTm1wWEF1TkYwMlVONTVWTm1xVnM5OHJMbGNsdnFTX3Jwb2h0WkdjbDlacTBZQmgyZE9rYjlBYl9EZU5mYllOZGdieVZZY01adWhoWnVyZWpWSU0yVVdqZ2lNQnF0VEUxQWEtSjM5dWRjbmZCNkpPTHMtUTgzZGFUOUdJV29hNnppbHUxaEFUeVNMVjlpRFRyV9IBngFBVV95cUxOMjhqS0NkN1pWQjJSWHhlLTRpdVNIeUxXR0pXN21uY2pLQ29aQm5mOXRXSENTdF84Q2JvOHBmSy1ZUUNMTjJwX2VwTjZZR2N0aUJYeEQ2UVpxb2lKX1lKSlAtY3dTbVBYV0V5WjJ3YUswSERhbUluRlprWk1GYnJSalVGMHFtVDVlYkFLbzdHTkpxM196UnN1VERseVJHUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-20T07:00:00+00:00"
+  },
+  {
+    "id": "055667846da3b024fc29007b37455edc",
+    "titulo": "BYD lidera emplacamentos de ônibus elétricos no Brasil - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2lPemVWd19mVFhtTlVqSUNfdUlRSG5VM1lRRWtVYjhHdGp4Z0NjZVVmVGx1dUZtajVIVVYyZ3k1c0laNTIxM3ZxcUo1Yzd0OXl1QWpjVFV1bzQxZ243UDdoVndwLXZkMGhzY3hMdWp6cnpVSXpkd0V0SkdUY0Y4SXJaMUYxUUxaVTJjNzNLTkFPZWdPYVRyZVlCc1dmRUVYek5wVHhCc3JiVG1YYW1R?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-06T19:36:00+00:00"
+  },
+  {
+    "id": "a23b7f7bf32d532a41d1412dabc11b1e",
+    "titulo": "Conheça os caminhões mais vendidos de Julho de 2026 - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnNNVjZqMG1fbXMxSjFnRWc2Yk52eE5RRkxEeE1XbHlyektETjlUbEppYllKOGVnY0dPUzFpTWpHYk53T1oxbnpNY2ZseklXSTk0Ujl4ZERPRGR3TEtqNnA5TTU5NzBQbTI3aWZkR0lJVHBNSkhxeTFhaHpPQ2FZa2l6NjF6RnF1R0JwQ2NoWGJsZlhZblE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T15:05:01+00:00"
+  },
+  {
     "id": "ad6a0d3b28a941a9f06feb8b8ed682bf",
     "titulo": "Dafra SYM ADXTG 300: avaliamos a nova scooter aventureira que aposta no custo-benefício.",
     "link": "https://www.autodata.com.br/mobility/2026/08/06/dafra-sym-adxtg-300-avaliamos-a-nova-scooter-aventureira-que-aposta-no-custo-beneficio/131938/",

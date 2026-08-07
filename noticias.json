@@ -1,5 +1,54 @@
 [
   {
+    "id": "2baca17cd946140edc9b3561d9ce332b",
+    "titulo": "Produção de veículos cresce até julho apesar do pesados",
+    "link": "https://automotivebusiness.com.br/balanco/producao-de-veiculos-cresce-ate-julho-apesar-do-pesados",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T22:06:34.254761"
+  },
+  {
+    "id": "06daf041a21a75cc313c04f5ac3ba404",
+    "titulo": "BalançoProdução de veículos cresce até julho apesar do pesados",
+    "link": "https://automotivebusiness.com.br/noticias/producao-de-veiculos-cresce-ate-julho-apesar-do-pesados",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T22:06:34.254776"
+  },
+  {
+    "id": "5cf01d6901df0c49babc02cb858af689",
+    "titulo": "5.Ford GT40 vencedor de LeMans vai a leilão",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ford-gt40-vencedor-de-lemans-vai-leilao/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T22:06:41.315116"
+  },
+  {
+    "id": "3b4cc76e3a597a85fe9ca899c2514f48",
+    "titulo": "VWCO emplaca primeira venda de um lote de caminhões a biometano - autoindustria.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFl0eWJmNWdwaUZDUTAwYmtTNnZhNG9XRE8wY2p0cElmcDI1OFhrNVBabXJpQy1vc2h3SllZRS1SYUtUVWtxZzl4bHQ4cHhwMEQ5Q2Q4WFUxY2JEZXdXRENFYWlJNUdDdm1HT3htdHd4a2F1VEJrM3NJMlVzb2M4UG1mYnN4dmdqRlh5Rml2MkJOWDZDU3lqMGE1SEdlbi1EOVVreEw1eTF6dENn0gGyAUFVX3lxTE5INVh3aTl4U1g4N3o4bzAxYzJsRUFSWE5RSEp1VFJJWGpsRzQ2TlpuRUlUSzV0M2NUTDZFeHhnYjYxWkRUdGJhZVpPa1l0RzVWaE1rcmJRU2FKaWF2SFROUHNqTnR6NUNVdGdKdWY2Nlh6VGJLMGw1clhocl8xTHhuSS1TMUEwMm1felBhd0J6MzlpNU8yUEh3eVVQMm1LOElxOC14MHpvSkVFQ3VNRG5uMmc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-22T13:30:00+00:00"
+  },
+  {
     "id": "22df188c2c59159fedba73e1947efddb",
     "titulo": "8 caminhões por dia: o avanço da Foton no mercado de caminhões em 2026",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/8-caminhoes-por-dia-o-avanco-da-foton-no-mercado-de-caminhoes-em-2026/",

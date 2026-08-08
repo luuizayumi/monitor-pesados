@@ -1,5 +1,189 @@
 [
   {
+    "id": "a3cbe5af9aee723af09799abc21221b4",
+    "titulo": "5.Scania 2025 é flagrado em testes e vem ao Brasil na Fenatran",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-2025-e-flagrado-em-testes-e-vem-ao-brasil-na-fenatran/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-08T02:10:24.546105"
+  },
+  {
+    "id": "885ecd02353662ab96f775a18f467e58",
+    "titulo": "Mercado de caminhões reage com alta de 20% nas vendas; veja os motivos - Vrum",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjlZc3NuTXJaQmZhM1VDWlhzM2c3bHpsLWhkUlhKTUJZNEJQcnpDaWY3RkJ4YmhVYVk3V2pUZi13bWxVb1pFelYtSWQtNy1iOHd1V0JSekdlTUJTa0p0RmhKbzE2OGw3bGg0Y1Znc3VHM3Jtc3h5c3lLRVZ5Z3ozdmU3WkdFdC1IU3d2OUY5b211dFdQYkFjeTNzRTRNbm1nMVBGcW1MbjdMX1JpU29UOUVXOFQ2VUpveGZjMXJR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T22:00:00+00:00"
+  },
+  {
+    "id": "fb7accce30bcd6b829a3a84021ca4c82",
+    "titulo": "Veja o ranking dos caminhões mais vendidos no Brasil - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajVLb1JRRmlPSEdmYmJNTHItVEc4NzRVZlcyRWYwTGk0SmVMZ3hPcUVLWjlQWXVUVlVvbGhUeG1qcVg1NTBuOWtSZFJqN0VzMHVzb2pQSkpOZUlOcjdkVWFvTXB3VnVDOVgtdHlaS21zczFwWFdRWmI0YjVRUjUtUnZfZ3NXWHhZUmUxbzR4MVBiQjNEblYxUFQxQXdGeUFlSXoxWkh5aw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T17:44:41+00:00"
+  },
+  {
+    "id": "cbbe19a16037aa4578a52fa4b2c97128",
+    "titulo": "Com até 10 mil caminhões do Move Brasil, mercado reage, mas segue travado - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEtYdnNqeV9mUzFCclR0VzBwQ1RHam9pVzRTdlpCNHdOV2hGUER2WGIydldxa3NGbU9YX3prUWJ1dDNZS2UwSWlWb3NfOGhtRUdXYlpnYnlYaGdsZUd6ZFZESFpwWUxORkxuYzYzMFYwYnF4WFpOaVVPeXZheGt5ckJxeExRYUo1UDFYRzlpeFFxV3RTaHVSUWpFXzNzR1NtR29fMzdoelQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T12:24:05+00:00"
+  },
+  {
+    "id": "2477244af8e84d55a0caa0084cd3dd8c",
+    "titulo": "Volvo Car Brasil reforça sua posição no segmento premium com 18,9% de participação de mercado - Motor Mais",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0pKZ2prM1BlNTU0TldUdFY3aFp0SjlNWmFvSU1fZUhDMXpITjl3aFIydEptaEpaUHA1RWo5VHJadTZXMGdDNjV0YUF0Z3hycFFYeF9OSzluZGFNTkcyemJISVd5b3djZm1GQWotY3p1MTYxVmJlOVlVbk16VkN2OUttUl9BbGpGRXVaR1JzaGlGY3J0bXRQOXdpQzlIbjZLdkR2a0xkNklXZUU5dWtjVzZQdmI?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-07T19:44:40+00:00"
+  },
+  {
+    "id": "458929391fd7a6d52970bfd1bfe58543",
+    "titulo": "Vendas e produção de caminhões apresentaram alta em julho - Automotive Business",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZCM2lRVzBORTNkY0J2c2dxZHp4TGlvRXhxMjJnbFg1Rm8yNnlORG43QkVzTVlrNm96VnRIVVNHNkZhVklBdElKeUNaNURJdVByYmVSSG9qT25KM3JxX0VSNFFNaHQ4ck1IMFBEVG5WVzBGU3ZzaFV2dVY0X0c0MFlqMl9uOFY3cWlWS0pxRnViM1NOUEtYNmI4ckY3dTktMk5JMkhwWC1TTGljZlpPQmZn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T19:22:04+00:00"
+  },
+  {
+    "id": "bed17e01480c64675f347694684f30b1",
+    "titulo": "Venda de veículos cresce 15% em julho, mas exportações recuam 18%, aponta Anfavea - oglobo.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYWNPM0xUcldaNG81dHZkaFVWcGRKVFcxSjdwVVE1RUhKMFNydnltSE5ZRTdjODd0a1VRSkxleVFBQnhiQl9IV1RWRjZsazlVYjhqX0FTVHhJZFAtc1dfazBrNnlOM1V5ak1tNzhWWEtwYUItX1RCMHNaWWF1T1pWM1o0MmVlbGl1dlNpN3FPU0ZNQlNreElnam1vYVIwbzNlaDVJcmRzU0hwNm5UOXJ3TjFKcXlTcW5TNExFbENZdDZDa2FFYjAzYm5NRzQtNWVnLUdiazRQeTJuc2lCOHVyMWhQbjNOaU5GNFl4N3ZXbmFpYWdOLUc2YlJaQjhxTlnSAf8BQVVfeXFMTWFjTzNMVHJXWjRvNXR2ZGhVVnBkSlRXMUo3cFVRNUVISjBTcnZ5bUhOWUU3Yzg3dGtVUUpMZXlRQUJ4YkJfSFdUVkY2bGs5VWI4al9BU1R4SWRQLXNXX2swazZ5TjNVeWpNbTc4VlhLcGFCLV9UQjBzWllhdU9aVjNaNDJlZWxpdXZTaTdxT1NGTUJTa3hJZ2ptb2FSMG8zZWg1SXJkc1NIcDZuVDlyd04xSnF5U3FuUzRMRWxDWXQ2Q2thRWIwM2JuTUc0LTVlZy1HYms0UHkybnNpQjh1cjFoUG4zTmlORjRZeDd2V25haWFnTi1HNmJSWkI4cU5Z?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T19:19:35+00:00"
+  },
+  {
+    "id": "bb688211ffae1cde61f93cd8383c5b35",
+    "titulo": "Produção de veículos tem melhor julho em 7 anos, diz Anfavea; vendas são as maiores em 12 anos - Folha PE",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNejFLYUppUzVLS1l4SG9md3JRWVFnY0YwQ0tKSTZPc1pzSVl5NFQ5a3M1SUFuMklkMXUxZUpBS3UxMDZqaWxyemltRnljR25LMUoyTTN1ZHZLMEpIbmZKeDJtVnBLbUZoVGxSd2ZmdmlpMWtXZGFnbEg2Y0pMR1Rpa0RuTi0tQ1NKbmo3bnpULUFuMWFzMnh2MXk4ZGFtb1U5REhBSWZZWEJhWVpyM0ZtUEhRY9IBswFBVV95cUxNejFLYUppUzVLS1l4SG9md3JRWVFnY0YwQ0tKSTZPc1pzSVl5NFQ5a3M1SUFuMklkMXUxZUpBS3UxMDZqaWxyemltRnljR25LMUoyTTN1ZHZLMEpIbmZKeDJtVnBLbUZoVGxSd2ZmdmlpMWtXZGFnbEg2Y0pMR1Rpa0RuTi0tQ1NKbmo3bnpULUFuMWFzMnh2MXk4ZGFtb1U5REhBSWZZWEJhWVpyM0ZtUEhRYw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T15:32:00+00:00"
+  },
+  {
+    "id": "6c5e4db07767dd2414d3c8cfbf75cedf",
+    "titulo": "Venda de veículos salta 15% em julho ante mesmo mês de 2025, diz Fenabrave - diariodocomercio.com.br",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01U19yVjV3X0xtRWRrcXJYMVMzbE4wVFpETTNaZEpjd3RaTXdFc2d4RjdmbGJfS3UwakczVFVPZ2VJaFZrckZUY0ZBOE1FRVczUFNzVGExT1lmX1AxVGN2Zzh2X3NuZ0toQnp0dkUyUGJiOVBHcTBGazZkYkM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T20:32:00+00:00"
+  },
+  {
+    "id": "1fcd564c16f0d610279822d78b4b1764",
+    "titulo": "Vendas de automóveis crescem 25,7% no Ceará em julho, aponta Fenabrave - Focus Poder",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEkyUFY5NWd2dG5pcUdkZTNZU3E2c2dxUi1JeHBtVVRoVjBZX0J6M1JZX3dWdmtSSjlIeEFNcjdsMVQyTG44WkN5Qk1vdFJkZlNYaUZlcEJwa2l4d0gxVGF1bXRsSGp0a09TUmVLWHY4N2U5Tl94UXN1SkZVNEh4eUVTOHpfLVpOQlhudXMtZWhLSlVQQ3Y5ZG9B?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T12:49:59+00:00"
+  },
+  {
+    "id": "ac849758ccc9cc334fc4c70a564d820a",
+    "titulo": "Quase 25% dos carros vendidos no país são eletrificados - SBT News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3ZDUzdhakR5VlF1NEZldktQbm9hQzFwV1RWWm56NzU1TnQ5aWdVTWZYQWsyYzZ0aVBaeFBDZmtzcE9UYUlvdUZSYUhmUTZieTZIM3g5TW9sdVozZHJKVzZMeU9yc0FHT0Rra2JWalpQeThyS0Z5MDJPM196UUx1eVBTcEFCZ1FtYUUza2VFNXhWa3JRMG13V3ZGeU5XREU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T20:13:31+00:00"
+  },
+  {
+    "id": "17d90a17c74b180e5452487c5abcdb4e",
+    "titulo": "BYD lidera ônibus elétricos e dispara no mercado nacional - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX1l5ZEFJWU85NVNSTXl0YzV1U0JlN1dyWVBXUG8wbXJPZmkySExpZnZ1dVlRb3QzaV9TUi1lNVR6TEdyQ3ZMLUU2eVl6QTdEVnM5Y01TZS12RDVCSWpnTVp4M2pjQjdqMEpmZDhoQkFvMzBFM0ZLUmVqMnp2LVlNMDY2NktEVGN6TWhmd09MR2w3QzhYdFFEVzBvQTA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-07T13:46:58+00:00"
+  },
+  {
+    "id": "b405ac418b12d9890e989769b71d87fb",
+    "titulo": "Mercado de veículos em Santa Catarina acelera em julho e supera 21 mil emplacamentos - Blog do Prisco",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmRVelJmTEI0REtRbU5XVmxWeTVGWXFrdnJVTi1MZUdFUjR0Ym9hVU1ad05yaWs4aHJGaEt5a0l6RzY3ckRNZ1FCbGdEb2J5XzBHenlSZ1NmUDhMR2UwdU5UblFvb20tOEJRTHV3ajgzVmtUMXZZbmFESW9XOFJuX0lYcUlsclJ3bnJJYUlNUnowVkY4SDBWWUR2cmZQZ2Vlem1CVkV2Z0FxRzRIbnZpX2p6REk3Qk9Z0gG-AUFVX3lxTE0ydFZuVFc5VWt6TkF6MG53dXVuQ0NoMjBJSFM0eVBSdzhUeFYzbE00TWcwRWFlQ3QtOGpfU3RfNzJWdEplcXlIaFgxeUM4MjN1Sl9QM0FfQ3BCcGpac3dmNElraVp6VTQtSnRSLVZSV0M3N1Z0eUcyVHBxZGdLWUdtTkVIQ0IzajhlQTBEQ1VUejhLZ01YVU85RDZoYTNHTTlnOEFhS0pKMGxsRFVLWlVhZThvY2Z5dlVXZGI0RGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T10:00:08+00:00"
+  },
+  {
+    "id": "227527e1a351c8f22a62d122cbebc986",
+    "titulo": "Scania apresenta ônibus K 280 gMillennium a gás e biometano para testes em São Paulo - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUERTdzJEOVRqelAzNEp5ZXFKNktGUXBMMEdyb3FQYW44OTZ4VHFsYUZpNHdmZm5vU1ptc1RYZkVOb0tWRXNUMDdETWRCVHFOMVR4Y3M3NVNyTVc3ZHY2RGZ4RXJNdHVGSTcwUVNNRmFYNWc2Tm1ZdjVxNGpGRC1ZemVRX2pOSTBNS09ock55eS1ncEk4MTZEcExzVXB5bDVmaVI4T0hkNy1IRVhJWDJEUDB2OU14UdIBuwFBVV95cUxQLVdCR1A4Mi16VVFCb2I0RkUtV0Y4Tzh0YjlVWHhmeHRSbk95ZDYybFNxQjVud1lWcEpORS11LWM5eGl3TTNSYjhQXzlhX0ZXQUNEZE1aTHNrTTgxV3B5eEN3bkJsS2Q3SWxpTFNNNnhJVngzcXFwbkJlU195T25MZ19KMnVDWFNDVmlPWWhUVnBQSVAwNW9KMnFfUmg4dE4zY21ILWtzY013bkM4cFZTeDd1OXlqcU9qbDNn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T14:30:00+00:00"
+  },
+  {
+    "id": "c000e1622d9d6bd29d2fd4d029f4a29b",
+    "titulo": "BYD faz Move Day com carro elétrico a partir de R$ 109 mil para motoristas - Vrum",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNVVGUWd0dFhKSlVhckpwSXdrRmlxOWJKTWNGNS1xMW5WR3hVZHdlR2lrWFA1M2xpZk1PRno3OW5qYzR6WkhhaWlyOHlUN0JpUEZ2OW9pVGFpTG5Na2VyT2F6cWpKZk5YOTNhQ0JrYjY5SW8zTENvLW0taWNIaVItbWhTZ3VRLVhmMWhwY0hHTWpCMW8zeFBuRjZIWC1teFVWWDctYzhlVld6aTROQ3JhZEp6Z0F6Ql92MExVdHFJZVNwQm9nMEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-07T12:31:00+00:00"
+  },
+  {
     "id": "6664960c6222bef3437e9b5364b21a5e",
     "titulo": "Produção de veículos cresce até julho apesar dos pesados",
     "link": "https://automotivebusiness.com.br/balanco/producao-de-veiculos-cresce-ate-julho-apesar-do-pesados",

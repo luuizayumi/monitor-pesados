@@ -1,5 +1,18 @@
 [
   {
+    "id": "28a6ffddaa9722c95512d01f3183a302",
+    "titulo": "4.Novo Mercedes-Benz Classe C está nas lojas e preço parte de R$ 350 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/novo-mercedes-benz-classe-c-esta-nas-lojas-e-preco-parte-de-r-350-mil/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-08T18:41:08.758303"
+  },
+  {
     "id": "5ac9630443427aad8d9ae7ccd420081b",
     "titulo": "3.Diferenças da Mercedes AMG, Audi RS e BMW M",
     "link": "https://www.estadao.com.br/jornal-do-carro/diferencas-mercedes-amg-audi-rs-bmw-m/",

@@ -1,5 +1,53 @@
 [
   {
+    "id": "8e56a6e2241d7902e7e5afec8ff08482",
+    "titulo": "4.Ram 1500 Big Horn chega mais ‘pelada’, mas mantém dinâmica das versões mais caras",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ram-1500-big-horn-chega-mais-pelada-mas-mantem-dinamica-das-versoes-mais-caras/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-10T21:42:50.276411"
+  },
+  {
+    "id": "e1ec3ae3848471a0eed8f8785f15a131",
+    "titulo": "Venda de veículos cresce 17,9% no ano, mas exportações recuam 20,8% - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOFY5MmhsNFNJMW8wRUVENzh3TEViR1Y2YVlYd2xnRnN4SXdkREE2RkM0bEJMSDhTXzM5aVV1ZmxHdkF4NUNaMVdVWXYyNDZiTmlpODFHMVhZZkpGaEV1bjd2N0ZTRncwY0Z3azlpVm5sbUpMUHV4Qm9IVXRpQjNDSEI4M01ucWpSYWRBenFlX1JhSzhDN2xITjN0MFQ4UmR2S1o1VVBfZTNNOUR1S3hobFpyeWtGMWhsQmdLTVdoR01XSDY4b2Z3NWdTV3lXZVRlRjFaVjVaZ1hydjUwNHZXcW5XNHdVOEhENUg4cFFSMjTSAf8BQVVfeXFMTWFjTzNMVHJXWjRvNXR2ZGhVVnBkSlRXMUo3cFVRNUVISjBTcnZ5bUhOWUU3Yzg3dGtVUUpMZXlRQUJ4YkJfSFdUVkY2bGs5VWI4al9BU1R4SWRQLXNXX2swazZ5TjNVeWpNbTc4VlhLcGFCLV9UQjBzWllhdU9aVjNaNDJlZWxpdXZTaTdxT1NGTUJTa3hJZ2ptb2FSMG8zZWg1SXJkc1NIcDZuVDlyd04xSnF5U3FuUzRMRWxDWXQ2Q2thRWIwM2JuTUc0LTVlZy1HYms0UHkybnNpQjh1cjFoUG4zTmlORjRZeDd2V25haWFnTi1HNmJSWkI4cU5Z?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T19:19:35+00:00"
+  },
+  {
+    "id": "254041aaf86a84d6ceac356f0156f6ab",
+    "titulo": "Anfavea: Brasil tem produção e vendas de automóveis recorde no mês de julho; eletrificados saltam de 11% para 23% de participação - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlhaejhCcVRDZFNzaVg2Q3FCcXlyTTNGWGZFOTV1U1FqazlDbjVrVk9HT1Jwa29IYkowS3c4NmFNam5ncVNabmcxWnl1allMaW1lcVpKaWZnTU1XVU1VSG55dHhBVUlxVlR6LXZzRG1ZMG8wTmtIOFRISmtEUEUzcjhXZ2tDOGNoc2s1V09LOXV2Z2JkWEo1eTFDMHk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T17:30:00+00:00"
+  },
+  {
+    "id": "e484d3c3693f56e64bae187a5ce46700",
+    "titulo": "Anfavea registra melhor julho em 7 anos em vendas de veículos - n3news.com.br",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OUjV5NDdXYVI0Y3ZUN2ZBaF9QTzJZdW12QkRaRHpSaE80Vzl6S0RSTnNiZ1NzN2I0SG9YMmZqMHBYQmJ1bGdSZWdWRlZnb0IzN1pqVUw4WWFyVnNZWHo2eGtkSl9qOGxrejh0VENQNkp5Nk50Mzc5UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T15:13:00+00:00"
+  },
+  {
     "id": "095ca2c88fd22dd800dff14190404942",
     "titulo": "BYD lança chassi de ônibus elétrico de piso alto com bateria Blade",
     "link": "https://www.autodata.com.br/noticias/2026/08/10/byd-lanca-chassi-de-onibus-eletrico-de-piso-alto-com-bateria-blade/132276/",

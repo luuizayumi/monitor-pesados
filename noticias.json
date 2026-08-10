@@ -1,5 +1,54 @@
 [
   {
+    "id": "326069d8234f7e991b63825c42383038",
+    "titulo": "Com nova plataforma de ônibus Scania projeta crescer ao menos 10%",
+    "link": "https://www.autodata.com.br/noticias/2026/08/10/com-nova-plataforma-de-onibus-scania-projeta-crescer-ao-menos-10/132239/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-10T18:24:08.387226"
+  },
+  {
+    "id": "e69fd65ee3923d089027f36a75f2645d",
+    "titulo": "Minas Gerais registra aumento de 32% nos emplacamentos de veículos de janeiro a julho de 2026 - diariodocomercio.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnU3dmJRWENBM0ttY0lOUC05Q1hyUnpXRFByTVpmVndFN0NaR1NjZTVNZms4cGZWLTB3UFVZVE9PNGtaWUpyZllWbm95eVU3MDRzeVhBUzA5cmNqZ2FmamwwWXRPalpBUW9DSmROOUs5VXA2cHJobVlpbjFHYmUtWA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-06T08:01:00+00:00"
+  },
+  {
+    "id": "a117a79f36c1eb250ef4db261f709786",
+    "titulo": "BNDES libera R$ 102 milhões para renovar ônibus no Grande Recife - brasil247.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGVRZ1dMX0lycjd5VlRNb2h1Ri05dWFoVUZlWXZLRW9XeHBlMlg2Mnp3RVFwaDFGQWR6S243WkdpU0lYYW5OTy1Mc1k5anlmc21uMW1vd003a1hDTkxoVEdpR1hBcVJNdk10UzFwN0JhVjNUSG81SVFYRDA5MG9ibkV0R05TWkt4TVh3WWVHTlZpSFZrMk5CZXRCbVJSaDZz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T19:48:00+00:00"
+  },
+  {
+    "id": "8a5a65ec2ff41f7aec4a75d05bae38c5",
+    "titulo": "Anvisa proíbe azeite de oliva extra virgem vendido no Brasil - diariodocomercio.com.br",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NRHpVbzdVWnhyM0U5VkhVZldRZ21Jc1huZUZYaHhHZXhxOEV3akpYNVdzUTdTQ05kcXFyNFE2ZFBVb24tQ1h2VnN5MTduSGlTQWpTNlh5eDR0bzl3aF80eTh6MEhPYXRIUV9GNEhpMmoxZy0tbHIw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-22T07:00:00+00:00"
+  },
+  {
     "id": "403de7d72f61ef15e32631fba06b95e4",
     "titulo": "Vidroforte desenvolve módulo integrado de janelas para ônibus",
     "link": "https://www.autodata.com.br/noticias/2026/08/10/vidroforte-desenvolve-modulo-integrado-de-janelas-para-onibus/132218/",

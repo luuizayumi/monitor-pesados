@@ -1,5 +1,29 @@
 [
   {
+    "id": "f982411cb79c3de8849854910e5de364",
+    "titulo": "2.Toyota GR Yaris já tem mais de 70 unidades vendidas na pré-venda no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/toyota-gr-yaris-ja-tem-mais-de-70-unidades-vendidas-na-pre-venda-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T09:00:28.272037"
+  },
+  {
+    "id": "6bb1003b61a93ee78edbdd0421563186",
+    "titulo": "5.Caminhões pesados transportam milhares de toneladas sem a ajuda de motoristas nos EUA",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-pesados-transportam-milhares-de-toneladas-sem-a-ajuda-de-motoristas-nos-eua/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T09:00:28.272050"
+  },
+  {
     "id": "59995a08bf789bc358fb5c0b7f926b46",
     "titulo": "2.Caminhões pesados transportam milhares de toneladas sem a ajuda de motoristas nos EUA",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-pesados-transportam-milhares-de-toneladas-sem-a-ajuda-de-motoristas-nos-eua/",

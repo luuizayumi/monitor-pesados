@@ -1,5 +1,41 @@
 [
   {
+    "id": "8c5dd88bf3993cfcd67ebf0fc8cf0a9e",
+    "titulo": "SAIC supera BYD e lidera vendas globais de veículos até julho",
+    "link": "https://automotivebusiness.com.br/balanco/saic-supera-byd-lidera-vendas-entre-montadoras-chinesas-janeiro-julho-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T17:28:19.193731"
+  },
+  {
+    "id": "61bb0bdea6640564006fd74e895a34f3",
+    "titulo": "MercadoSAIC supera BYD e lidera vendas globais de veículos até julho11/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/saic-supera-byd-lidera-vendas-entre-montadoras-chinesas-janeiro-julho-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T17:28:19.193755"
+  },
+  {
+    "id": "47247ad80127358325d0dd03a50b8826",
+    "titulo": "MercadoSAIC supera BYD e lidera vendas globais de veículos até julho11 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/saic-supera-byd-lidera-vendas-entre-montadoras-chinesas-janeiro-julho-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T17:28:19.193759"
+  },
+  {
     "id": "887b44a7bf7237459cb2ba3be95cac2d",
     "titulo": "Maior feira de ônibus do Brasil, Lat.Bus acontece em São Paulo; acompanhe",
     "link": "https://automotivebusiness.com.br/montadoras/maior-feira-de-onibus-do-brasil-lat-bus-acontece-em-sao-paulo-acompanhe",

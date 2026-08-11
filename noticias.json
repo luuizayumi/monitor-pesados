@@ -1,5 +1,41 @@
 [
   {
+    "id": "5ae44b54a9c812e9ae7c8ddfa4ad6847",
+    "titulo": "1.Caminhões pesados transportam milhares de toneladas sem a ajuda de motoristas nos EUA",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-pesados-transportam-milhares-de-toneladas-sem-a-ajuda-de-motoristas-nos-eua/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T21:50:51.722288"
+  },
+  {
+    "id": "53dbc6fdad6b028cea73050f3719fa4b",
+    "titulo": "2.Quem é a fabricante brasileira de ônibus elétricos que desbanca as gigantes chinesas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quem-e-a-fabricante-brasileira-de-onibus-eletricos-que-desbanca-as-gigantes-chinesas/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-11T21:50:51.722301"
+  },
+  {
+    "id": "5fe040a19e95128f63c3071c3926ba61",
+    "titulo": "5.Com a chegada do diesel B15, caminhões mais antigos precisam de manutenção reforçada",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/com-a-chegada-do-diesel-b15-caminhoes-mais-antigos-precisam-de-manutencao-reforcada/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-11T21:50:51.722304"
+  },
+  {
     "id": "7b6e3aa4864586455e6954407c516271",
     "titulo": "Mercedes-Benz lança o eCity, ônibus de entrada para cidades menores",
     "link": "https://www.autodata.com.br/noticias/2026/08/11/mercedes-benz-lanca-o-ecity-onibus-de-entrada-para-cidades-menores/132344/",

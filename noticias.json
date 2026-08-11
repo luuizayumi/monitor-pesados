@@ -1,5 +1,53 @@
 [
   {
+    "id": "0aa1f423b05975288453be49012f3ccc",
+    "titulo": "4.Caminhões pesados transportam milhares de toneladas sem a ajuda de motoristas nos EUA",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-pesados-transportam-milhares-de-toneladas-sem-a-ajuda-de-motoristas-nos-eua/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T22:44:48.471372"
+  },
+  {
+    "id": "c014e0bae4d45ff23e060b46426c2d08",
+    "titulo": "Volvo faz venda de 31 caminhões movidos a biodiesel puro no Paraná - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRmIwSTRfS0xUUTcxcHphYXNrcFFXd2dJWHhCbExmeGs1bWx5eVkwWE1MRml1NU1xeW1hYXF2VFNGSVJSS25OVDJIUTFKZVhxQVM5clpFWlR2d0lzOTFLWU9HeFFLSGtESml6R0VVU1NvZWc2ZFUxQ3kwWlRiZ1JYU3pGYnlVX3NBX2J3NnpoSV9QMV9qNVQ0R091bjA5dzNPSUctcXNfR1c5aFBUTm8tNGwtaDk4dkF1Ujh3UVFMU1HSAcABQVVfeXFMTUZiMEk0X0tMVFE3MXB6YWFza3BRV3dnSVh4QmxMZnhrNW1seXlZMFhNTEZpdTVNcXltYWFxdlRTRklSUktuTlQySFExSmVYcUFTOXJaRVpUdndJczkxS1lPR3hRS0hrREppekdFVVNTb2VnNmRVMUN5MFpUYmdSWFN6RmJ5VV9zQV9idzZ6aElfUDFfajVUNEdPdW4wOXczT0lHLXFzX0dXOWhQVE5vLTRsLWg5OHZBdVI4d1FRTFNR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-09T17:00:00+00:00"
+  },
+  {
+    "id": "8cb04d719396902a49cf51b763649ff3",
+    "titulo": "Vendas de automóveis crescem 25,7% no Ceará em julho, aponta Fenabrave - sobralemrevista.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZk5tUENSbjBQZmY0dlZETWtSdVA2WEQwOXc4NFNSdVVtR1BCU2s2UXk0eVhobnZCOWFCcURCQXlRdUliMi1TR0I5ZmhQT3FUWDJjek9sbG5TLUFJdjRCM3ZNOTV0OFZ3bXlIbEpTYldxSDhPWEJfR3VZVUt5MUFMUFlvUWdDZzdwQXJlNWItNk9mU2pvcGpFWXg0TmtuU2w0RDFUbWtfbEpHTE9xWTh3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-10T20:34:40+00:00"
+  },
+  {
+    "id": "4ac8450e0f68be793f0fc60f827cf32a",
+    "titulo": "Como o câmbio automatizado poupa motoristas de 4 mil movimentos repetitivos - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVR6NWw2SmRDaTVTT1pRZmdZVXFoaE5xS2F5TzAyVGpyTGRFSEpuMWtsM0taMFppWFN1cm45c3o3Tlp4cEVoamtvWjVHWVhVMVlLSF9zX1FoeGxmcHgtYVpQWWNNM29RX3lIOGl2Y2tKRDBtU2czTWllc1dEU1JXTWJyRHNZdU1lVFdOX3JwaWZSYjU5T3loX2VDTWJ4TlJ5YVVZTjZxdlo1RnJhOTIxMmdZemk3S0VvZWd6UG5TZmJBRjAxYW9KaVcwZGNlZWY5ajZZWkFB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-07-16T11:59:11+00:00"
+  },
+  {
     "id": "5ae44b54a9c812e9ae7c8ddfa4ad6847",
     "titulo": "1.Caminhões pesados transportam milhares de toneladas sem a ajuda de motoristas nos EUA",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-pesados-transportam-milhares-de-toneladas-sem-a-ajuda-de-motoristas-nos-eua/",

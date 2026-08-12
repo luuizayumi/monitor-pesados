@@ -1,5 +1,42 @@
 [
   {
+    "id": "dbb0db5820a515b998d85342eee110a2",
+    "titulo": "3.Volvo faz venda de 31 caminhões movidos a biodiesel puro no Paraná",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-faz-venda-de-31-caminhoes-movidos-a-biodiesel-puro-no-parana/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-12T13:14:13.273535"
+  },
+  {
+    "id": "e43ced6f999f0f65df470976376d0b9e",
+    "titulo": "5.Quem é a fabricante brasileira de ônibus elétricos que desbanca as gigantes chinesas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quem-e-a-fabricante-brasileira-de-onibus-eletricos-que-desbanca-as-gigantes-chinesas/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-12T13:14:13.273552"
+  },
+  {
+    "id": "c703a9a0ae775ec6dadce474e50c2aba",
+    "titulo": "Vendas de elétricos mais que triplicam em um ano e superam carros a diesel - Autoesporte",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWklBN2Mwc1NpUlF3S09Na2FBYjdVMWpuMEVxWFNFLU55VjlaU1BmbUhSTF9FdUhiNUNVSkstbUZDVW9DZDZYaVhUV3AtQ3ROWDZaRy1nZFB3UFdmaDVsNUhjUXNESExER1Vndm84U3o5LWVuc056Q0xFZnBuY2JpRTgtdUJwS0dCMTR0a0JSSW92RGFaZk96R0h5YUFsRE9WYURYMVFFbmE3NnhncWVRTG84MFVRVVVNZTZoMHY3LUtUTU5odnVncmkwVG5aTGxzZXlybEQzVFprdkHSAeoBQVVfeXFMTzJsY0NrRmhCYkRpTllXV2N5aEJUR3ZXZWl6cVp3UG9abXB0RHpScV9ENTBDSjNMMUJLaXlWTWtybDFVV1lySzJNUk0yQUxzcHpfWHJ3WXptZFZ3SmZRLVVmU3ZsUU5yaEI4dVQxbVVhZ2t3QXNWNV9oeEFvdTlXZzFlQjkwbmxnMXBFdklMc0E4YkE1TW5YVlRhTlRZaGlWQnJxRUVGRmpNaWx3YzFfby1QdkxKNUxoOWNFR3pjU1QzVUw2VWlIWUxNWkxtVVdUSkU3cWZNN21qdHBzOHFQOE51OGFUTWY3V0dB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-10T16:00:46+00:00"
+  },
+  {
     "id": "4d9e24b9759c2e23edd4bc2c072c83c4",
     "titulo": "2.Sedã elétrico com 700 km de autonomia: Volvo ES90 chega ‘nas próximas semanas’",
     "link": "https://www.estadao.com.br/jornal-do-carro/seda-eletrico-com-700-km-de-autonomia-volvo-es90-chega-nas-proximas-semanas/",

@@ -1,5 +1,42 @@
 [
   {
+    "id": "2c0e3e931792ebb39af0f3b95b549b97",
+    "titulo": "Mercedes-Benz reduz custo do ônibus em até 20% para enfrentar retração nos rodoviários",
+    "link": "https://www.autodata.com.br/mobility/2026/08/12/mercedes-benz-reduz-custo-do-onibus-em-ate-20-para-enfrentar-retracao-nos-rodoviarios/132400/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-12T19:39:01.680177"
+  },
+  {
+    "id": "83fb178814cc932217dd0333934cf2e0",
+    "titulo": "eCity: Mercedes-Benz aposta em menor preço para ampliar adesão ao elétrico em cidades fora dos grandes centros",
+    "link": "https://frotanews.com.br/mercedes-benz-ecity/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-12T19:39:03.243786"
+  },
+  {
+    "id": "a11a58d19f2c10900342af5265b1ecbf",
+    "titulo": "Mais de 79 mil veículos são emplacados no Maranhão nos sete primeiros meses de 2026, segundo dados da Fenabrave - mahoje.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmtaTVlJSjdXZGxxamI1Rng3MndYU0o1T1dnVU9Fd2pjX0JnOGF6R0FnOWxPZ3paRUdPcTNYZGJNWUh3S3JTRU1zdHJJOFR6WGg5UTFZNkd0a2RlWnA5QlV5UlNJNlhXQWFELTZCZHhHNFd0QmhfenlxWDAwWjNHaE96VjFHS3F2d1JaeUJVSjBXTVZQemZXbHhmY1pCTlM3c0lUYXhyNFRrUHdrZ1lvNUdFSlRHYm5ydFIwZWZLSG00dw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-10T20:48:32+00:00"
+  },
+  {
     "id": "be47f48a0f981fbc7547dfa48b6fd5c0",
     "titulo": "4.Quem é a fabricante brasileira de ônibus elétricos que desbanca as gigantes chinesas",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quem-e-a-fabricante-brasileira-de-onibus-eletricos-que-desbanca-as-gigantes-chinesas/",

@@ -1,5 +1,57 @@
 [
   {
+    "id": "b8d86699e3682869c7ca9d1efb7846b1",
+    "titulo": "5.Sedã elétrico com 700 km de autonomia: Volvo ES90 chega ‘nas próximas semanas’",
+    "link": "https://www.estadao.com.br/jornal-do-carro/seda-eletrico-com-700-km-de-autonomia-volvo-es90-chega-nas-proximas-semanas/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-12T10:34:52.485216"
+  },
+  {
+    "id": "bd45065edb62231f89c69465e76a2079",
+    "titulo": "Mercedes-Benz celebra 70 anos no Brasil na LatBus 2026 com lançamento do chassi elétrico “eCity” e marco de 800 mil ônibus produzidos - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNT2M3Z3ZoUURTMHhhY3hmb2RrSDVZanhQVXExTVJ5MHduN0FyNFFpQmtoZHRLMEhWbUt0bG9OSGJfTURIVmdaakc5TlV5Uy1BTjhWaFk4WlpUZ2ZGSHROeGR6TWZSaHEyYUtfSDBGS09MaXRYVkFMdVBLSG9LWmVyczZnMVZ3M0FnSXExSUNHYlFYQWtOMFhmVVhwcWx4djVNaDJ1Q3k1RTFERF81NTRLWURjbVNLSXlialQ3a3RQOUFEWWtPbEswQVE3WUtudGRjRjQ3Y3R0d1kyX2lTcVh3eGMxWmVlZmhjU1RPUEJza053OHFiWFAwRDRJdGJyUEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-12T03:30:00+00:00"
+  },
+  {
+    "id": "4901c2fba3ca86f44af32d9ad42f65d7",
+    "titulo": "BYD e Geely lideram vendas em 8 estados e no DF em julho - motor1.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ZTJDR2tnOTRYa3FyblpTcm5ab2FSNEp4UHpDYy1sNDJJYTM3OVpIU2VfemFtaHZMamppNFhCZjhOLThCTHBRMnFsQVBlbFIzWllsYkJGdkVCdGVMWVViMGR0WV9ITjh1UmZ0bFA1aU03OXotSTJoUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-09T14:01:00+00:00"
+  },
+  {
+    "id": "e268e8fcd642b7b4d3ae89e7680b9f42",
+    "titulo": "Elétricos tomam 65% das vendas de carros na China - SpaceMoney",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5WDFpa1lSdlZfMElvdEtCSlJZdkhSUVJCZlJ2VXlvZTNueUx0T2pfUl9yLUwyYUNLRllRMHJMZ0FpUGs0UXF2NnM5dzMwMEc2eHNQNHhZa1lESmhlZGljdUlxNW1EVjU0VUVwdjN0djJCYmJMWVV5Y2dTdlk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-12T02:02:26+00:00"
+  },
+  {
     "id": "a877c977de2104324bec07738108e046",
     "titulo": "1.Volvo e Scania no topo: veja os caminhões mais vendidos em 2021",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-e-scania-no-topo-veja-os-caminhoes-mais-vendidos-em-2021/",

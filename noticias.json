@@ -1,5 +1,31 @@
 [
   {
+    "id": "82d55588161e335d930d9a1b75ae6311",
+    "titulo": "Dafra anuncia parceria com a chinesa Benda no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/08/13/dafra-anuncia-parceria-com-a-chinesa-benda-no-brasil/132531/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-13T11:49:15.839350"
+  },
+  {
+    "id": "626abaed06c5fbc45bbb086b36c8fc37",
+    "titulo": "4.Volkswagen Caminhões e Ônibus lança dois novos elétricos e fala em concorrência desleal com chineses",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-caminhoes-e-onibus-lanca-dois-novos-eletricos-e-fala-em-concorrencia-desleal-com-chineses/",
+    "fonte": "Estradão",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-13T11:49:18.615225"
+  },
+  {
     "id": "d75557e11d353c1df224026a65f62030",
     "titulo": "3.Sedã elétrico com 700 km de autonomia: Volvo ES90 chega ‘nas próximas semanas’",
     "link": "https://www.estadao.com.br/jornal-do-carro/seda-eletrico-com-700-km-de-autonomia-volvo-es90-chega-nas-proximas-semanas/",

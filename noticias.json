@@ -1,5 +1,44 @@
 [
   {
+    "id": "8291de416c0e0cd1eefedb3e7f03e7b9",
+    "titulo": "Volkswagen Caminhões e Ônibus busca fornecedores na China e não descarta entrar no segmento de vans",
+    "link": "https://www.autodata.com.br/mobility/2026/08/13/volkswagen-caminhoes-e-onibus-busca-fornecedores-na-china-e-nao-descarta-entrar-no-segmento-de-vans/132407/",
+    "fonte": "AutoData",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-13T17:06:29.560501"
+  },
+  {
+    "id": "5fe0c262a943bea477edcb856f1d4055",
+    "titulo": "5.Volkswagen Caminhões e Ônibus lança dois novos elétricos e fala em concorrência desleal com chineses",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-caminhoes-e-onibus-lanca-dois-novos-eletricos-e-fala-em-concorrencia-desleal-com-chineses/",
+    "fonte": "Estradão",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-13T17:07:12.439446"
+  },
+  {
+    "id": "adc9e60ae69a4f29a71ccd0bfaa686fc",
+    "titulo": "Carro elétrico de R$ 69.990 tem vendas suspensas antes das entregas; entenda o que aconteceu - Terra",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMHJUbzNxWWJUdmRBUTZscUwybnBhamxGRFB3dzN5NHZwMm9YVG5BLWx1OXBzakJpUmZhMGJKXzBlWF9GYXQ3NWJMWlRScHhwSUd2Wk5kbkNuNTJWOWd2dVNpbC1ZZ2FfVkNKWExGanprZkhTeU5MYV9HWW5WdGZ0a1hxTVVBVXJmSFZFcGxqcXFCOTdGQnAwTnpxSThjWkMtcEVFX0lpUkZGVTl1dmRaRUI5dzVzcHhoMmI2ZHJUbE55ckk1ZUI1YUpRT2d6cFBOSGs4ODZsWTRObE1KVzNhTGR6N1VIVXJOREJkaWl3cTZwVnVFVHFjcUVyd2NEa3ZT?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-07-23T07:00:00+00:00"
+  },
+  {
     "id": "4564bc984f37ca8b95334c104aab7651",
     "titulo": "Ford Transit City estreia por R$ 212 mil e chega ao Brasil em 2026 - insideevs.uol.com.br",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTlmVTc3YkxyU3hvRFBIdUNXREJvTGdPN1B1UU9Ec0JuLUdIdzhPMU83b09sLXYyUnBZTzJjTkEzQ2toN0xfTzhDeURQLVdhVHJPR1pJY1BHYXJld3huQ1VJbFlNWDRob3I0WThYcFQxRDFnVjlmcW9qR0pPQm95Q05ZSQ?oc=5",

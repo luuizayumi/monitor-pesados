@@ -1,5 +1,57 @@
 [
   {
+    "id": "7fb2037e76d51ee15a752a95bc3f7b32",
+    "titulo": "Foton do Brasil acelera expansão e projeta alcançar até 5 mil emplacamentos no ano",
+    "link": "https://frotanews.com.br/entrevista-mauricio-santana-foton-brasil/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-13T13:16:03.227760"
+  },
+  {
+    "id": "1249e4044d5128c9e947da593b057871",
+    "titulo": "2.Volkswagen Caminhões e Ônibus lança dois novos elétricos e fala em concorrência desleal com chineses",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-caminhoes-e-onibus-lanca-dois-novos-eletricos-e-fala-em-concorrencia-desleal-com-chineses/",
+    "fonte": "Estradão",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-13T13:16:05.038743"
+  },
+  {
+    "id": "e493e91b77d80cd54c9dc1feac67bd59",
+    "titulo": "4.Royal Enfield lança três motos no Brasil: Guerrilla Apex, Himalayan Mana Black e Goan Classic 350",
+    "link": "https://www.estadao.com.br/jornal-do-carro/royal-enfield-lanca-tres-motos-no-brasil-guerrilla-apex-himalayan-mana-black-e-goan-classic-350/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-13T13:16:05.038754"
+  },
+  {
+    "id": "21e58409eb39439835e1df5bf6a39052",
+    "titulo": "Ford Transit City estreia por R$ 212 mil e chega ao Brasil em 2026 - InsideEVs Brasil",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTlmVTc3YkxyU3hvRFBIdUNXREJvTGdPN1B1UU9Ec0JuLUdIdzhPMU83b09sLXYyUnBZTzJjTkEzQ2toN0xfTzhDeURQLVdhVHJPR1pJY1BHYXJld3huQ1VJbFlNWDRob3I0WThYcFQxRDFnVjlmcW9qR0pPQm95Q05ZSQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T12:30:00+00:00"
+  },
+  {
     "id": "82d55588161e335d930d9a1b75ae6311",
     "titulo": "Dafra anuncia parceria com a chinesa Benda no Brasil",
     "link": "https://www.autodata.com.br/mobility/2026/08/13/dafra-anuncia-parceria-com-a-chinesa-benda-no-brasil/132531/",

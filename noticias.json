@@ -1,5 +1,29 @@
 [
   {
+    "id": "24130069f8042c0c74e85cd37ed0c8bd",
+    "titulo": "VW Caminhões e Ônibus busca fornecedores na China e não descarta entrar no segmento de vans",
+    "link": "https://www.autodata.com.br/mobility/2026/08/13/volkswagen-caminhoes-e-onibus-busca-fornecedores-na-china-e-nao-descarta-entrar-no-segmento-de-vans/132407/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-13T18:27:38.942649"
+  },
+  {
+    "id": "815c47d9dadaffff37911a429c80f851",
+    "titulo": "3.Royal Enfield lança três motos no Brasil: Guerrilla Apex, Himalayan Mana Black e Goan Classic 350",
+    "link": "https://www.estadao.com.br/jornal-do-carro/royal-enfield-lanca-tres-motos-no-brasil-guerrilla-apex-himalayan-mana-black-e-goan-classic-350/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-13T18:27:43.894966"
+  },
+  {
     "id": "8291de416c0e0cd1eefedb3e7f03e7b9",
     "titulo": "Volkswagen Caminhões e Ônibus busca fornecedores na China e não descarta entrar no segmento de vans",
     "link": "https://www.autodata.com.br/mobility/2026/08/13/volkswagen-caminhoes-e-onibus-busca-fornecedores-na-china-e-nao-descarta-entrar-no-segmento-de-vans/132407/",

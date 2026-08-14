@@ -1,5 +1,30 @@
 [
   {
+    "id": "6c822a01db70a1d6af6525ca84128dfa",
+    "titulo": "Maior demanda por leves faz Iveco contratar 200 trabalhadores e abrir turno em Sete Lagoas",
+    "link": "https://www.autodata.com.br/noticias/2026/08/14/maior-demanda-por-leves-faz-iveco-contratar-200-trabalhadores-e-abrir-turno-em-sete-lagoas/132279/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-14T19:50:45.362449"
+  },
+  {
+    "id": "f768fec390e39f1d0cd72ef8ffbf5c1b",
+    "titulo": "Carros mais vendidos no Brasil em agosto: mudanças no ranking - dia 11 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQS1UWkplVDl5YUZEVElGZUZSeXZQUGFjZUI5cDhxQ080Q25lRlFvaHRrakRVWnd6UlRYRGVFNU96NE4xd0I0bzR3b2hHU2VrR21hRU9ZYUUtdWJacmd5Y21NeWlCdmIyTVBKVllEMWFUY0xsZkFsZnltejhpRVpodW9jazJ6aUFk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-11T11:44:00+00:00"
+  },
+  {
     "id": "395e48b61d444f42c3af3b5645d08bba",
     "titulo": "Mercado de ônibus pode fechar 2026 perto de 19 mil unidades, estima Mercedes-Benz",
     "link": "https://www.autodata.com.br/mobility/2026/08/14/mercado-de-onibus-pode-fechar-2026-perto-de-19-mil-unidades-estima-mercedes-benz/132557/",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "395e48b61d444f42c3af3b5645d08bba",
+    "titulo": "Mercado de ônibus pode fechar 2026 perto de 19 mil unidades, estima Mercedes-Benz",
+    "link": "https://www.autodata.com.br/mobility/2026/08/14/mercado-de-onibus-pode-fechar-2026-perto-de-19-mil-unidades-estima-mercedes-benz/132557/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-14T17:54:23.215277"
+  },
+  {
+    "id": "8abebe29b3fce5e551f676760306b6f0",
+    "titulo": "Mercedes-Benz corta bateria, simplifica arquitetura e reduz em 25% custo de ônibus elétrico",
+    "link": "https://www.autodata.com.br/mobility/2026/08/14/mercedes-benz-corta-bateria-simplifica-arquitetura-e-reduz-em-25-custo-de-onibus-eletrico/132550/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-14T17:54:23.215293"
+  },
+  {
     "id": "590a7906659cc62d1650fc96567f4fa1",
     "titulo": "Frotas Conectadas mostra tecnologia da informação no setor de transportes",
     "link": "https://www.balcaoautomotivo.com/2026/08/14/frotas-conectadas-mostra-tecnologia-da-informacao-no-setor-de-transportes/",

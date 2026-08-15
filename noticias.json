@@ -1,5 +1,29 @@
 [
   {
+    "id": "0d26af410c6abca1ac28a4e8fb24a6ba",
+    "titulo": "Cortes do Villela #353 | Daimler Truck: aposta no segundo semestre e o paradoxo do mercado de ônibus na América Latina",
+    "link": "https://frotanews.com.br/cortes-do-villela/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-15T23:21:55.284324"
+  },
+  {
+    "id": "412c0de48885d6207e0f4780fd93be89",
+    "titulo": "4.Renault vai expandir plataforma de dona da Volvo para outros lançamentos até 2030",
+    "link": "https://www.estadao.com.br/jornal-do-carro/renault-vai-expandir-plataforma-de-dona-da-volvo-para-outros-lancamentos-ate-2030/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-15T23:21:56.889850"
+  },
+  {
     "id": "db4de3782dad59911e8ae9aba10ab5a7",
     "titulo": "4.Teste: Mercedes-Benz Actros 2045 4x2 entrega a mais alta tecnologia do segmento",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/teste-mercedes-benz-actros-2045-4x2-entrega-a-mais-alta-tecnologia-do-segmento/",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "fbf7da4f557f823923cd76fd2f4958c1",
+    "titulo": "3.Nova Mercedes-Benz Sprinter tem inédita entrada pela porta dianteira",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-lanca-sprinter-inedita/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-15T23:46:29.515996"
+  },
+  {
+    "id": "6edb10df798c15d3aaab17e837f27b16",
+    "titulo": "Venda de veículos salta 15% em julho ante mesmo mês de 2025, diz Fenabrave - bol.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFMRWF1WXNWQ1F1UzdpUVpiTldrVk5ZUXk4Zy0yc1B3UzVtUEYxc251SUJ6UVNKc0ZlbThscVMtSWNDamd0bW1VSjAzS05zaldZS1lndlpMQUk3eEtudm5YTHo4RVpPSHZXSFI4eHpxZDk5Tm4yUEZEd1ZpQllSSnZ4aURXTHloaV80VjdYd01Ea0p5eEVzZURMSGJNc2Y0a004RDcwZXZtQzByV2t3SDZhWUtXQ1JHOUI0SzEtRWTSAcYBQVVfeXFMTXdnMDZxWENDR01HNWxDUVVXMUJKc3I4Y1Vzd0dzUUw0YlliUjNIWnpJU0pHODRpeTBSWkVOdEM0RmNIQlRFSzBqc3VJVkFCVng4N1BYTmdsTG85UHJIenUya1p5Uk54bFRocExCWFBzdTFHLVViTTV4RjZET2NwQW9JXzJCY3puQ0Ita21zMFR1c3ZsVzVpNXFQdkFBNnVyaW1IajRRR25INGh5LWtzVU5WajF6Q2Z6QW5qOHFoRElfNURWb3lB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T07:00:00+00:00"
+  },
+  {
     "id": "0d26af410c6abca1ac28a4e8fb24a6ba",
     "titulo": "Cortes do Villela #353 | Daimler Truck: aposta no segundo semestre e o paradoxo do mercado de ônibus na América Latina",
     "link": "https://frotanews.com.br/cortes-do-villela/",

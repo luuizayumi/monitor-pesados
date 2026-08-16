@@ -1,5 +1,17 @@
 [
   {
+    "id": "876f905dfce84b74b1ea4299ed20ae36",
+    "titulo": "4.Iveco eDaily começa a ser vendido no Brasil; veja o preço",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/iveco-edaily-comeca-a-ser-vendido-no-brasil-veja-o-preco/",
+    "fonte": "Estradão",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-16T18:31:55.810876"
+  },
+  {
     "id": "f8aae6cc1b5913637d099a14f01c67dd",
     "titulo": "5.Nova Mercedes-Benz Sprinter tem inédita entrada pela porta dianteira",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-lanca-sprinter-inedita/",

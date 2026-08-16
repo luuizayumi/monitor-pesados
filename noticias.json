@@ -1,5 +1,54 @@
 [
   {
+    "id": "7a65453dfb2ee2f806cfe2de45d8ca0d",
+    "titulo": "A disputa pela eletrificação: Mercedes-Benz lança o eCity em resposta ao e-Volksbus",
+    "link": "https://frotanews.com.br/mercedes-benz-ecity/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-16T01:25:23.651181"
+  },
+  {
+    "id": "3da6f166e302f3d0c8fed18cc96b3cba",
+    "titulo": "5.CFMoto Ibex 450: testamos a ‘BYD das motos’ que quer roubar vendas da Himalayan 450 e Honda NX500",
+    "link": "https://www.estadao.com.br/jornal-do-carro/cfmoto-ibex-450-testamos-a-moto-que-quer-roubar-vendas-da-royal-enfield-himalayan-450-e-honda-nx500/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-16T01:25:25.599111"
+  },
+  {
+    "id": "3fb5c0c1d074f5465ccee00918ab48e4",
+    "titulo": "DAF XF 530 segue entre os caminhões mais vendidos do Brasil - Revista Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlpac210WU0wZnlwSWtQZmxremRWaXJfYW1pcldtcndSa0hEaWJRRVBCUWdfYlpzN0g1NDRWeDhENThzb21QRlVFY0RBbGxUOWlFbzZ5SEN4XzNOYWF5MlppZkVnMWpvOXkyX0NiamFvYVZIZFFWTVA1RnZxRjZZMTdQczJOcTBJSk1NbnlkVUdXamoweWF1WW42c0c1b2c?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-15T13:25:00+00:00"
+  },
+  {
+    "id": "58ad4113f2cc14c6fe81bd0e83e27dba",
+    "titulo": "Mercedes-Benz chega a 800 mil ônibus produzidos no Brasil em 70 anos - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZi02N1V5ZUpJS0dReE5tTEg5T1AxV0xZaEZYd1BlaWgxUVRpYnhpSkVEX2M1Q2JFa0YyRklpSkJUSWdqdmFrdWJRakl5V2JlWFl4UW9KekN4Wi1heEpBQjdfTWUwTGJxVEN6clRTaHVoOF9JUjhFYVVBTkFwYWFXdldUWDBHeUJnSWJVU1JmcjNvaFlzZjJHdmFmYkE2ZHIxZHZXVkxNR0N2R2t0c0V4U2V2X0tQYkwxQjFWZnh30gHDAUFVX3lxTE5kX29tUFVKaWo0TDRkX1BPcWQySVlablZ2Z3lhRTAxWU92UW80VzRmYTdTalJtSnItUWsyVy14clRjRGRIendud3VDb09WUkJQMUoyR3NxU0R1V3V6MU5feGR4cUItTEZrRnJPRDBCZlY4VWFjLXV4a08tU1lpS0VYckJlcEt1SUtSVXpjTE1YbDdOZG9oLThxUlYtOFNkNHhSWktsWEFtelptcEpwdVpsWUJocnNsZlpwamlwem9EdWpUaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-15T18:34:00+00:00"
+  },
+  {
     "id": "fbf7da4f557f823923cd76fd2f4958c1",
     "titulo": "3.Nova Mercedes-Benz Sprinter tem inédita entrada pela porta dianteira",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-lanca-sprinter-inedita/",

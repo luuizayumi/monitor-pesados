@@ -1,5 +1,30 @@
 [
   {
+    "id": "446b62a2fe86c387c38f98c1ac81e06d",
+    "titulo": "2.Ford Mustang GT Performance chega ao Brasil com câmbio manual e edição limitada",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ford-mustang-gt-performance-chega-ao-brasil-com-cambio-manual-e-edicao-limitada/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-16T20:49:00.991293"
+  },
+  {
+    "id": "3d60577fcb48ef125491e4e8f29b128c",
+    "titulo": "4.Caminhão pesado Iveco S-Way estreia no Euro Truck Simulator 2",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhao-pesado-iveco-s-way-estreia-no-euro-truck-simulator-2/",
+    "fonte": "Estradão",
+    "montadora": "Iveco",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-16T20:49:00.991308"
+  },
+  {
     "id": "876f905dfce84b74b1ea4299ed20ae36",
     "titulo": "4.Iveco eDaily começa a ser vendido no Brasil; veja o preço",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/iveco-edaily-comeca-a-ser-vendido-no-brasil-veja-o-preco/",

@@ -1,5 +1,18 @@
 [
   {
+    "id": "71cb6f6652cc148d66028254210221c4",
+    "titulo": "Bancos de montadoras apostam em linhas perenes para ampliar vendas de ônibus",
+    "link": "https://www.autodata.com.br/noticias/2026/08/17/bancos-de-montadoras-apostam-em-linhas-perenes-para-ampliar-vendas-de-onibus/132767/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-17T20:29:06.420005"
+  },
+  {
     "id": "2a478b4fa2dccc4e4d68d87e66e20668",
     "titulo": "Como funciona o I-See, tecnologia da Volvo que lê a estrada antes do ônibus",
     "link": "https://www.autodata.com.br/mobility/2026/08/17/como-funciona-o-i-see-tecnologia-da-volvo-que-le-a-estrada-antes-do-onibus/132868/",

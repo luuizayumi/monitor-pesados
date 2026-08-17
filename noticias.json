@@ -1,5 +1,42 @@
 [
   {
+    "id": "b9b62adb7087a308d4dedfe86b4d51ce",
+    "titulo": "Save the manuals! Gordon Murray lança esportivo aspirado e nada de caixa automática",
+    "link": "https://automotivebusiness.com.br/lancamentos/save-manuals-gordon-murray-esportivo-aspirado",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-17T20:56:56.054315"
+  },
+  {
+    "id": "d50c98c72cd56959b5ee94255cd2a3ef",
+    "titulo": "JAC Caminhões inicia suas vendas no Brasil com o N 9170",
+    "link": "https://www.autodata.com.br/mobility/2026/08/17/jac-caminhoes-inicia-suas-vendas-no-brasil-com-o-n-9170/132966/",
+    "fonte": "AutoData",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-17T20:56:58.558597"
+  },
+  {
+    "id": "691bf3a805c64cc9b29de14a805ef743",
+    "titulo": "Scania, Mercedes-Benz e Volksbus destacam marcos históricos de produção durante a Lat.Bus 2026",
+    "link": "https://frotanews.com.br/industria-onibus/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-17T20:56:59.972205"
+  },
+  {
     "id": "71cb6f6652cc148d66028254210221c4",
     "titulo": "Bancos de montadoras apostam em linhas perenes para ampliar vendas de ônibus",
     "link": "https://www.autodata.com.br/noticias/2026/08/17/bancos-de-montadoras-apostam-em-linhas-perenes-para-ampliar-vendas-de-onibus/132767/",

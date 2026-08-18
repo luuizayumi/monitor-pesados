@@ -1,5 +1,41 @@
 [
   {
+    "id": "8c521f0ea2d62f36fdb5b6b8adfac6bf",
+    "titulo": "3.Quanto vale o Mercedes-Benz C280 Sport que Fiuk vendeu por R$ 51 mil no Pix?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/quanto-vale-o-mercedes-benz-c280-sport-que-fiuk-vendeu-por-r-51-mil-no-pix/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T17:28:57.731528"
+  },
+  {
+    "id": "2075bce4f8e7f8b9213d6ea752dd1183",
+    "titulo": "4.Mustang Eleanor do filme 60 segundos está à venda por R$ 2,6 milhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mustang-eleanor-do-filme-60-segundos-esta-venda-por-r-26-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T17:28:57.731544"
+  },
+  {
+    "id": "6ae6145798370eee9ed4c2b7a52fd55c",
+    "titulo": "Clube de Compras movimenta mais de R$ 565 milhões no primeiro semestre - fetrancesc.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVNBRWpDY29GZW44ZTdNbTh1MkRjbVdqTDlKWlh4UV9vbG13NHV5THFzNTd5akFEdUhUQ1JTQnpESzBsajdMcHJ0elM0UTNvWmV6Wkdqd2VDVjdQeElpeDRqMDdKZzQwT1F2MFpPNllvTnJ3U3B2OFpULVFSTU9aTWdYS2ZvcWY4N0xlbVNiR0s2Y1FNaTAxTjlNODFOdU12V09XZG9KUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-17T16:20:46+00:00"
+  },
+  {
     "id": "383be8ce606965fc0d8359deb5c9a1e0",
     "titulo": "Fórum ILOS 2026 começa amanhã em São Paulo com ampla agenda sobre logística",
     "link": "https://frotanews.com.br/forum-ilos-2026/",

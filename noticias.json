@@ -1,5 +1,30 @@
 [
   {
+    "id": "5f6ca177510f4a01d0af303d53af07ef",
+    "titulo": "4.Teste: novo Mercedes-Benz Actros 2653 é o caminhão tecnológico de mais de R$ 1 milhão",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/teste-novo-mercedes-benz-actros-2653-e-o-caminhao-tecnologico-de-mais-de-r-1-milhao/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T18:46:00.828936"
+  },
+  {
+    "id": "f27c8852a96315ab2d0a9d31c45cd233",
+    "titulo": "Fenabrave: vendas de veículos sobem 15% em julho ante mesmo mês de 2025 - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGhZUmZSVEduRmM2X21RNlpQRGdIT1M5YWF0c2VPaXVUSG1WejV3a1B2RHpVNkFQb1pmMVB1ZUJObF92d1djUFcxNl9Mcm5wNk5mbTJLLXJ4NzJpQmRHY1laN2J0QmNJdW5nMXhLNEhMZXhvbFlZRFBJVEdEQ0JHTURzZVBNSjFIMVBvT2k4eVV4NTZiQ3dxSkg4NlhCNTFBZHAtRmJkQWx0a3FwYU1kUUxCQ0tBTFB1WWk0NUZGS1YxaTlKMEY4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T07:00:00+00:00"
+  },
+  {
     "id": "8c521f0ea2d62f36fdb5b6b8adfac6bf",
     "titulo": "3.Quanto vale o Mercedes-Benz C280 Sport que Fiuk vendeu por R$ 51 mil no Pix?",
     "link": "https://www.estadao.com.br/jornal-do-carro/quanto-vale-o-mercedes-benz-c280-sport-que-fiuk-vendeu-por-r-51-mil-no-pix/",

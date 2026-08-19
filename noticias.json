@@ -1,5 +1,113 @@
 [
   {
+    "id": "ce7fef89897b105544d244b36db60771",
+    "titulo": "A despeito da cara controversa, Kia Tasman esconde um bom coração",
+    "link": "https://automotivebusiness.com.br/lancamentos/a-despeito-da-cara-controversa-kia-tasman-esconde-um-bom-coracao",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T19:27:02.004751"
+  },
+  {
+    "id": "cdd69a8533e4c3e8ca4794ed1ed46c67",
+    "titulo": "MXF produzirá motos em Manaus em 2027",
+    "link": "https://automotivebusiness.com.br/duas-rodas/mxf-produzira-motos-em-manaus-em-2027",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T19:27:02.004766"
+  },
+  {
+    "id": "dd831c244588086ec2b4adfa3f3880f3",
+    "titulo": "Primeiras impressõesA despeito da cara controversa, Kia Tasman esconde um bom coração19/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/a-despeito-da-cara-controversa-kia-tasman-esconde-um-bom-coracao",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T19:27:02.004776"
+  },
+  {
+    "id": "93c8cd2a659d95c91e513eb19e70be8e",
+    "titulo": "duas rodasMXF produzirá motos em Manaus em 202719/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mxf-produzira-motos-em-manaus-em-2027",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T19:27:02.004778"
+  },
+  {
+    "id": "4b2e7e8d748fc68f6e49601f175009c3",
+    "titulo": "Primeiras impressõesA despeito da cara controversa, Kia Tasman esconde um bom coração19 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/a-despeito-da-cara-controversa-kia-tasman-esconde-um-bom-coracao",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T19:27:02.004780"
+  },
+  {
+    "id": "e45a6dfa7f5843fd01aa364e7a98a72f",
+    "titulo": "duas rodasMXF produzirá motos em Manaus em 202719 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mxf-produzira-motos-em-manaus-em-2027",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T19:27:02.004782"
+  },
+  {
+    "id": "1e704b4cd265a42846aac9c9700f6b30",
+    "titulo": "2.Baic deve unir sua operação à da Foton no Brasil; marcas chinesas podem dividir concessionárias",
+    "link": "https://www.estadao.com.br/jornal-do-carro/baic-deve-unir-sua-operacao-a-da-foton-no-brasil-marcas-chinesas-podem-dividir-concessionarias/",
+    "fonte": "Estradão",
+    "montadora": "Foton",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T19:27:09.053566"
+  },
+  {
+    "id": "c21d650a3a8a9738807e500902d2a97f",
+    "titulo": "Os carros mais vendidos por estado no mês de julho; veja ranking - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnlkQ3JLQ3c1S1JfSElDV1BzSDYtNDlaejZ4b1Y3cGJ5VWljejQtSXVYVU52dlRMb1V0RU84ZGNZeUw3WEpKQmo4d2ZzQ0c0aHFoRmprZjVRWTFxQnAwXzhqUnJzTURjVlBXNl9pMTYxOEdRdGdqVGhSbkZ0di04Y3BnLThac2Q3MW1ESE5KM2laUHh6a3lGc01icFAxdkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T07:30:30+00:00"
+  },
+  {
+    "id": "3444ec4167a2fdcc6b47f966958f4e94",
+    "titulo": "Volksbus comemora 33 anos com 200 mil chassis produzidos | SEGS Portal Nacional de Seguros, Saúde, Info,... - SEGS Portal Nacional",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkJNNXpNT2wtR25pTkhJVDB2eWNIWEx6SWY0T21TbUNUaUVfd3lxaExDNmV4ZWMxd01sVEVEQ3dlazdRVXZYUk90d0cwYU04RW5yVnBESFRkZ3llYjhxWlBFY3JUSWlOS1pEbE1mbnlwXzdhRE51MmdKYkJvSFVUTWZrcDZMczRsMTVyWWh5U25fbDF3N1JFSkpPYWTSAaIBQVVfeXFMT2RCYVdNbC1pc0ptQVU2OGhyQXBNRFl2TnlpNTNUWWxialNNYkx3M3AxQjZMN3ZfREU0R0xXQWFuWHd3QmdmMFltSUF2dkpnVlJNVEt0RC1peTdiWk4xMGVYQ1l3bjJkMUo5U21YSm4tQUJPS21ydGkzcG1YTGZiT3FYWFlNUWFCZmQzbXB4WHdLYzBhNElLNVRRbmZUdzlaMUJB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T17:20:55+00:00"
+  },
+  {
     "id": "6b1a524567e90ee677ca7d042773f67e",
     "titulo": "Maxion e Novelis criam caixa de baterias de alumínio para veículos pesados elétricos",
     "link": "https://www.autodata.com.br/noticias/2026/08/19/maxion-e-novelis-criam-caixa-de-baterias-de-aluminio-para-veiculos-pesados-eletricos/133145/",

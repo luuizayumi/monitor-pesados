@@ -1,5 +1,29 @@
 [
   {
+    "id": "7eee48056cc0bd4da64578990eed4bca",
+    "titulo": "4.JAC Motors apresenta caminhão a diesel de 9 toneladas ao mercado brasileiro",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/jac-motors-apresenta-caminhao-a-diesel-de-9-toneladas-ao-mercado-brasileiro/",
+    "fonte": "Estradão",
+    "montadora": "JAC",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T08:39:32.733842"
+  },
+  {
+    "id": "adda8bf4ac576b153bc26e2b9a2d661b",
+    "titulo": "Os carros mais vendidos por estado no mês de julho; veja ranking - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnlkQ3JLQ3c1S1JfSElDV1BzSDYtNDlaejZ4b1Y3cGJ5VWljejQtSXVYVU52dlRMb1V0RU84ZGNZeUw3WEpKQmo4d2ZzQ0c0aHFoRmprZjVRWTFxQnAwXzhqUnJzTURjVlBXNl9pMTYxOEdRdGdqVGhSbkZ0di04Y3BnLThac2Q3MW1ESE5KM2laUHh6a3lGc01icFAxdkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T07:30:30+00:00"
+  },
+  {
     "id": "2888f067733ccac32d40dacdd2fb4c32",
     "titulo": "Híbridos mais vendidos: Jaecoo 7 supera BYD Song Plus entre PHEVs e Haval H6 retoma a liderança dos HEVs - Motor Show",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abWJsTG90WUF1elo1aHozeDRsWnBNS2lDbjlWaklDN2VFdndPMU04MC1YZXFqbEtjMmZYRktaY29VSFhLQ1Z4N3U4aF9ISUJJTURHT0lsQmVHdWdKTnY3VjRYVTUxamM?oc=5",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "33bd36a7e784be67ecc47bde08aa276b",
+    "titulo": "5.Frota elétrica do Mercado Livre chega a 1300 veículos no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/frota-eletrica-do-mercado-livre-chega-a-1300-veiculos-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T10:31:07.391924"
+  },
+  {
+    "id": "68e8dd8a6b04d5f6c4dfb81a52519b98",
+    "titulo": "Conheça os cinco caminhões mais potentes à venda no Brasil - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVJVaFdpREFGRS01MGpLUi1XQk1JblcxT0p1WDFTVUJXaVp5TjlHX3pJVUd3OUEyRDA0aHpkbnZYdVlyTmpJeDBGTlRHcmYwaFRSdkd0ai1HazNsNm9WME5Udy0zMFlPZzhrb2hrRk5OaUdXSnNRSWs5SkN2WXJoZlN3UFhfclJoSmJOOVY2eERWM2ZrZUs3UVliQkFTX2ZaalhMVTJ5RXZLSklVOXQ1M2d3Q2x6UdIBtgFBVV95cUxNUVJVaFdpREFGRS01MGpLUi1XQk1JblcxT0p1WDFTVUJXaVp5TjlHX3pJVUd3OUEyRDA0aHpkbnZYdVlyTmpJeDBGTlRHcmYwaFRSdkd0ai1HazNsNm9WME5Udy0zMFlPZzhrb2hrRk5OaUdXSnNRSWs5SkN2WXJoZlN3UFhfclJoSmJOOVY2eERWM2ZrZUs3UVliQkFTX2ZaalhMVTJ5RXZLSklVOXQ1M2d3Q2x6UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T10:00:00+00:00"
+  },
+  {
+    "id": "cf0cb5ea8336a99810a069272c135a8e",
+    "titulo": "Conheça os cinco caminhões mais potentes à venda no Brasil - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU01jb3hDMVN3QnUyYWIyVFdIRHp6bW81TGZreHpoVnNfMk9telN5QzlkRGp0RDEzRmpvOFd5bnNMak9oZ0xnN1o1bGU4UkxzVmxTLUliczgzMGtVakNrZC1SS3lnQ1hlNU8zWmJDYW84TXpCNG1vNjRXUHJISXNZX3haWmJfMllGaTJueDVNOWlFaHZGU3MwZmZ6MkdIUU1sT2pwV2k4cGtNYjBiUlR5T2VaMmdKWUpuUXg0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T10:05:08+00:00"
+  },
+  {
     "id": "10c605d692e2904be2c880e5f037ea70",
     "titulo": "5.Quanto vale o Mercedes-Benz C280 Sport que Fiuk vendeu por R$ 51 mil no Pix?",
     "link": "https://www.estadao.com.br/jornal-do-carro/quanto-vale-o-mercedes-benz-c280-sport-que-fiuk-vendeu-por-r-51-mil-no-pix/",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "d7244f0354886f103b39d7bfa5364c2c",
+    "titulo": "2.Motorhome de Gusttavo Lima em Barretos tem tamanho de apartamento de dois quartos; veja detalhes",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-de-gusttavo-lima-em-barretos-tem-tamanho-de-apartamento-de-dois-quartos-veja-detalhes/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T20:29:59.118296"
+  },
+  {
+    "id": "6dc26c62026bd6792f6005362d16c9bd",
+    "titulo": "3.Baic deve unir sua operação à da Foton no Brasil; marcas chinesas podem dividir concessionárias",
+    "link": "https://www.estadao.com.br/jornal-do-carro/baic-deve-unir-sua-operacao-a-da-foton-no-brasil-marcas-chinesas-podem-dividir-concessionarias/",
+    "fonte": "Estradão",
+    "montadora": "Foton",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T20:29:59.118311"
+  },
+  {
+    "id": "fe60e42c86b6cbf6c0409b594802892c",
+    "titulo": "Vendas de veículos deve crescer 8,6% em 2026, indica Fenabrave - correiobraziliense.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcnRzT0tYeDlmaVQ0dTdOSzc1Q3dmNW5hZzJVYm8xU1M3R1Z3SWNPcldkVVpYeW9ZRFJ0bFpraHRMTGY3YXJxdzdTR0NJNlhlSjJFWklTaFhxT3pMWU1xZ2ZoNWJvaDdrOHQ4T2dWXzRJYWEyUkNvdmlLdDM1TjN3R3ZMX1ZIQkxPekY1UXU4aWxhSEVRbVhKek56WHNCNFhXemtYVURtZV8tOG9FeFF2ZWxUTjIzTlN5dTZ6UGV4dldaczUtQ3fSAcsBQVVfeXFMTTNreVhDajhLazlISU1jYnlCdkdGel93alVmT2NjeTA0Y1lfZzd5SS05Ym5iX19KUm9VYnotUFNocVFRX1ZOSElmUnRVajVXLW9DQy1kVXk2S3RWR3k0NkpuRHJEbjViU1U4YXdwbElIYVVaNjJnVEtHOUl5RG9rcDJfU1N1Nm5HUW9TMUVRY1I5ZzNtQjRxMkZVVndGb3ZkbDZlUVptQlgtZGpraWVHR2VWcUp3VFNBLXdMTjh3cFNwTkZEc2RjN2lfckk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-19T03:57:00+00:00"
+  },
+  {
     "id": "0e2858ae80878d5e6742612ae4f84a16",
     "titulo": "Fabricantes de motocicletas aceleram investimentos e ampliam a produção em Manaus",
     "link": "https://www.autodata.com.br/noticias/2026/08/19/fabricantes-de-motocicletas-aceleram-investimentos-e-ampliam-a-producao-em-manaus/132673/",

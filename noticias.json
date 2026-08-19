@@ -1,5 +1,79 @@
 [
   {
+    "id": "bbfe0763ba42312faaa860fee12e4901",
+    "titulo": "Kia lança a Tasman ciente que o design está (bem) longe de agradar",
+    "link": "https://automotivebusiness.com.br/lancamentos/kia-lanca-a-tasman-ciente-que-o-design-bem-longe-de-agradar",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-19T01:21:21.215044"
+  },
+  {
+    "id": "63f23235a7a05894eed618e4527eeea8",
+    "titulo": "Conheça os cinco caminhões mais potentes à venda no Brasil - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVJVaFdpREFGRS01MGpLUi1XQk1JblcxT0p1WDFTVUJXaVp5TjlHX3pJVUd3OUEyRDA0aHpkbnZYdVlyTmpJeDBGTlRHcmYwaFRSdkd0ai1HazNsNm9WME5Udy0zMFlPZzhrb2hrRk5OaUdXSnNRSWs5SkN2WXJoZlN3UFhfclJoSmJOOVY2eERWM2ZrZUs3UVliQkFTX2ZaalhMVTJ5RXZLSklVOXQ1M2d3Q2x6UdIBtgFBVV95cUxNUVJVaFdpREFGRS01MGpLUi1XQk1JblcxT0p1WDFTVUJXaVp5TjlHX3pJVUd3OUEyRDA0aHpkbnZYdVlyTmpJeDBGTlRHcmYwaFRSdkd0ai1HazNsNm9WME5Udy0zMFlPZzhrb2hrRk5OaUdXSnNRSWs5SkN2WXJoZlN3UFhfclJoSmJOOVY2eERWM2ZrZUs3UVliQkFTX2ZaalhMVTJ5RXZLSklVOXQ1M2d3Q2x6UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T10:00:00+00:00"
+  },
+  {
+    "id": "3a5419a737db51fd655f3791b6c8dc25",
+    "titulo": "Conheça os cinco caminhões mais potentes à venda no Brasil - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVc5SFBBR1d6bks3UXNTZnNGQk9xaW1nc1dWUjJOY3FTOUQwTVRFWEkybTRaTU51TXhseHN3LUtBV0Q1WktWQ3Z4OVozUDZ5RnRKdjhHbzdrVG1qTTBiVUtrYXo2d0pNWDR4RjRzd1J3WWtxS3dKT051Q05fRkpzcGwtYkstUWRqQVppSDlxRUVXU25uaWo0aU5ISEx3QjV3LUE1c2ZxVFQwdk5nOEJYNGtVU1BLVnpHbENFUFNYREt0eTdwZUNOcWxDSUVDZVhMV0FFaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T10:11:00+00:00"
+  },
+  {
+    "id": "d6b8d68602598a6da7443ea7c4f35a0d",
+    "titulo": "Carro elétrico avança em Alagoas e estado lidera vendas do BYD Dolphin Mini - Todo Segundo",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFRNSnpRVDBOdS1ETXJIbUlmdGNOTHpjTUwySEtHeWhhOVR2UlNLSy0ta0pfSzVCT1Y1ZE9pcDBDWXRvWUdzUXBIeXZpWXZOREgwekhmTXhMaEQ3STJidHFWdTRfNXlkcUNmQ3JycjNDd3k3LUctcXc5Rng1ZnRtV3dkYXpEQUViUWk3bjA2Uk8tY3haTktlSzZTSC0xdXRzemxIV2E3YmdROTczZExCcHU4bUFpOVNXNURCVWdOYWNieC1Ea0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-18T19:55:00+00:00"
+  },
+  {
+    "id": "82e2a790a9d635b4ff1cf53ab7a37bdc",
+    "titulo": "Conheça os cinco caminhões mais potentes à venda no Brasil - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU01jb3hDMVN3QnUyYWIyVFdIRHp6bW81TGZreHpoVnNfMk9telN5QzlkRGp0RDEzRmpvOFd5bnNMak9oZ0xnN1o1bGU4UkxzVmxTLUliczgzMGtVakNrZC1SS3lnQ1hlNU8zWmJDYW84TXpCNG1vNjRXUHJISXNZX3haWmJfMllGaTJueDVNOWlFaHZGU3MwZmZ6MkdIUU1sT2pwV2k4cGtNYjBiUlR5T2VaMmdKWUpuUXg0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T10:05:08+00:00"
+  },
+  {
+    "id": "cb54afb0befd24a1e1192d1757b6e88e",
+    "titulo": "Volksbus comemora 33 anos com 200 mil chassis produzidos | SEGS Portal Nacional de Seguros, Saúde, Info,... - SEGS Portal Nacional",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEJhV01sLWlzSm1BVTY4aHJBcE1EWXZOeWk1M1RZbGJqU01iTHczcDFCNkw3dl9ERTRHTFdBYW5Yd3dCZ2YwWW1JQXZ2SmdWUk1US3RELWl5N2JaTjEwZVhDWXduMmQxSjlTbVhKbi1BQk9LbXJ0aTNwbVhMZmJPcVhYWU1RYUJmZDNtcHhYd0tjMGE0SUs1VFFuZlR3OVoxQkHSAaIBQVVfeXFMT2RCYVdNbC1pc0ptQVU2OGhyQXBNRFl2TnlpNTNUWWxialNNYkx3M3AxQjZMN3ZfREU0R0xXQWFuWHd3QmdmMFltSUF2dkpnVlJNVEt0RC1peTdiWk4xMGVYQ1l3bjJkMUo5U21YSm4tQUJPS21ydGkzcG1YTGZiT3FYWFlNUWFCZmQzbXB4WHdLYzBhNElLNVRRbmZUdzlaMUJB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T14:47:46+00:00"
+  },
+  {
     "id": "7e6ffe3536f99c165367da02e422faa2",
     "titulo": "manufaturaBAIC descarta CKD, escolhe parceiro e desenha fábrica no Brasil",
     "link": "https://automotivebusiness.com.br/noticias/baic-descarta-ckd-escolhe-parceiro-e-desenha-fabrica-no-brasil",

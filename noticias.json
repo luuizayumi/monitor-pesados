@@ -1,5 +1,30 @@
 [
   {
+    "id": "4c590e431ffe5e412c352e4e0b18d7ea",
+    "titulo": "1.Mercedes-Benz lança ônibus elétrico articulado no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-lanca-onibus-eletrico-articulado-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-20T04:38:41.095256"
+  },
+  {
+    "id": "0f6c1b72ecb52c882ce0e5ac2cc05d71",
+    "titulo": "4.Motorhome de Gusttavo Lima em Barretos tem tamanho de apartamento de dois quartos; veja detalhes",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-de-gusttavo-lima-em-barretos-tem-tamanho-de-apartamento-de-dois-quartos-veja-detalhes/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-20T04:38:41.095271"
+  },
+  {
     "id": "56b3c682ee2febd06029269008d5db0a",
     "titulo": "3.Motorhome de Gusttavo Lima em Barretos tem tamanho de apartamento de dois quartos; veja detalhes",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-de-gusttavo-lima-em-barretos-tem-tamanho-de-apartamento-de-dois-quartos-veja-detalhes/",

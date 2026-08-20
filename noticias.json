@@ -1,5 +1,17 @@
 [
   {
+    "id": "c9db9cc9a09bc24ce37f96e0a9f9a322",
+    "titulo": "Mercado de robôs automotivos cai 29% e ABB Robotics foca em reuso e pós-venda",
+    "link": "https://www.autodata.com.br/noticias/2026/08/20/mercado-de-robos-automotivos-cai-29-e-abb-robotics-foca-em-reuso-e-pos-venda/133272/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-20T20:30:32.890596"
+  },
+  {
     "id": "a92caa8332abe769ec8937572dc89612",
     "titulo": "Vendas de veículos crescem 12% na América Latina",
     "link": "https://www.autodata.com.br/noticias/2026/08/20/vendas-de-veiculos-crescem-12-na-america-latina/133273/",

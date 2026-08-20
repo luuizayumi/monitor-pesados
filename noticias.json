@@ -1,5 +1,42 @@
 [
   {
+    "id": "8aafb32e941b34fce5f1fab612786ee7",
+    "titulo": "Vendas de veículos crescem 12% na América Latina",
+    "link": "https://www.autodata.com.br/news/2026/08/20/vendas-de-veiculos-crescem-12-na-america-latina/133273/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-20T18:41:42.309424"
+  },
+  {
+    "id": "d5f5c53f405432bde5b4b8c161274d7f",
+    "titulo": "MXF investe mais de R$ 10 milhões para ter fábrica própria em Manaus",
+    "link": "https://www.autodata.com.br/noticias/2026/08/20/mxf-investe-mais-de-r-10-milhoes-para-ter-fabrica-propria-em-manaus/133250/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-20T18:41:42.309439"
+  },
+  {
+    "id": "d2a0ef5ea361c9ddbaad7ea7bcc5691c",
+    "titulo": "Vendas de veículos sobem 15% em julho, diz Fenabrave - Correio do Povo",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREFNelEwYldlTUROOTRwbzkzX05oWmZPczlKcklNaERpeVJEbXFQRmNuazZNQTJwYXpsb3dxRGFNVHljMEFySXc1M3NUSWVsQ2xaWDFiSlNfVWIxeFJHVmY3QmlfdXJ4aV8tcDRJVUF2aHNaRlVaam5XUjBrd0V5SE9jWk9XWG5FczVkMWZkd3RYOWhiaHJWSzNnaVlIMVprOHBjeXRIYkl5Y3djMHQ1dWo5YVROR0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T18:48:11+00:00"
+  },
+  {
     "id": "39752e2daf6eb1baa6be0bfdf23e09cf",
     "titulo": "Mercado automotivo chinês registra sete meses de queda nas vendas",
     "link": "https://www.autodata.com.br/noticias/2026/08/20/mercado-automotivo-chines-registra-sete-meses-de-queda-nas-vendas/133246/",

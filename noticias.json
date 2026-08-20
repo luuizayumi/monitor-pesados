@@ -1,5 +1,41 @@
 [
   {
+    "id": "a92caa8332abe769ec8937572dc89612",
+    "titulo": "Vendas de veículos crescem 12% na América Latina",
+    "link": "https://www.autodata.com.br/noticias/2026/08/20/vendas-de-veiculos-crescem-12-na-america-latina/133273/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-20T19:32:45.269374"
+  },
+  {
+    "id": "62971bb8d98bbaf6447bd4f5f98f9e81",
+    "titulo": "1.Kia Tasman mal chegou, mas já tem fãs, haters e apelido no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/kia-tasman-mal-chegou-mas-ja-tem-fas-haters-e-apelido-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-20T19:32:48.051757"
+  },
+  {
+    "id": "45057b3367bc7374c6e1830fa6eeb781",
+    "titulo": "4.GWM Wey 07 une luxo, 6 lugares e preço brigador contra Volvo XC60; veja o vídeo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gwm-wey-07-une-luxo-6-lugares-e-preco-brigador-contra-volvo-xc60/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-20T19:32:48.051772"
+  },
+  {
     "id": "8aafb32e941b34fce5f1fab612786ee7",
     "titulo": "Vendas de veículos crescem 12% na América Latina",
     "link": "https://www.autodata.com.br/news/2026/08/20/vendas-de-veiculos-crescem-12-na-america-latina/133273/",

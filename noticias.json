@@ -1,5 +1,53 @@
 [
   {
+    "id": "3b306c51898252a87ab5b5f77e47fefd",
+    "titulo": "Marcopolo vende mais de 300 ônibus na Lat.Bus 2026",
+    "link": "https://automotivebusiness.com.br/mercado/marcopolo-vende-mais-de-300-onibus-na-lat-bus-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-21T22:52:23.865712"
+  },
+  {
+    "id": "b0de93f27026e7e53043cc99282b4d95",
+    "titulo": "marcopoloMarcopolo vende mais de 300 ônibus na Lat.Bus 202621/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-mais-de-300-onibus-na-lat-bus-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-21T22:52:23.865729"
+  },
+  {
+    "id": "68f95d353eafadd81514a8ce5985fcba",
+    "titulo": "marcopoloMarcopolo vende mais de 300 ônibus na Lat.Bus 202621 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-mais-de-300-onibus-na-lat-bus-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-21T22:52:23.865733"
+  },
+  {
+    "id": "72e4e9582a9e5f547cdd5895376adef8",
+    "titulo": "5.Volvo FH 540 é o líder absoluto dos caminhões pesados; veja ranking",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-fh-540-e-o-lider-absoluto-dos-caminhoes-pesados-veja-ranking/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-21T22:52:31.592257"
+  },
+  {
     "id": "dd1fd6fac17ed1915c7d7db98c905f63",
     "titulo": "Scania investe R$ 78 milhões para ampliar centro logístico em Vinhedo (SP)",
     "link": "https://automotivebusiness.com.br/noticias/scania-investe-r-78-milhoes-para-ampliar-centro-logistico-em-vinhedo-sp",

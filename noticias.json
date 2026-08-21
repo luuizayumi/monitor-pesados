@@ -1,5 +1,29 @@
 [
   {
+    "id": "2589f38e7580edb5a436cb850b5eccc8",
+    "titulo": "VW lança a substituta da Saveiro | Ascensão de Baldy na BYD | Expansão da Ford Pro na gestão de frota",
+    "link": "https://frotanews.com.br/lancamento-vw-saveiro-tukan-byd-ford/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-21T20:52:37.977608"
+  },
+  {
+    "id": "46b1346688c65c3f2bd12708ba6984e1",
+    "titulo": "5.Teste: ônibus O 500 da Mercedes-Benz ganha motor mais forte para encarar as estradas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/teste-onibus-o-500-da-mercedes-benz/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-21T20:52:39.789860"
+  },
+  {
     "id": "a129394e05e5fd2ecf3e2f842a24d968",
     "titulo": "3.Tesla confirma o caminhão elétrico Semi para brigar com Mercedes-Benz, Scania e Volvo na Europa",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/tesla-confirma-o-caminhao-eletrico-semi-para-brigar-com-mercedes-benz-scania-e-volvo-na-europa/",

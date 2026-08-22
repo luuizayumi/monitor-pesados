@@ -1,5 +1,17 @@
 [
   {
+    "id": "e305f70a0abad388b627eabec431dfbe",
+    "titulo": "4.Toyota Bandeirante restaurado está à venda",
+    "link": "https://www.estadao.com.br/jornal-do-carro/toyota-bandeirante-restaurado-esta-a-venda/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-22T20:24:39.560083"
+  },
+  {
     "id": "0cf226f7ac1ff17ed0d20f474eb8de63",
     "titulo": "2.Tesla confirma o caminhão elétrico Semi para brigar com Mercedes-Benz, Scania e Volvo na Europa",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/tesla-confirma-o-caminhao-eletrico-semi-para-brigar-com-mercedes-benz-scania-e-volvo-na-europa/",

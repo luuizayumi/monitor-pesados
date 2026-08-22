@@ -1,5 +1,43 @@
 [
   {
+    "id": "0cf226f7ac1ff17ed0d20f474eb8de63",
+    "titulo": "2.Tesla confirma o caminhão elétrico Semi para brigar com Mercedes-Benz, Scania e Volvo na Europa",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/tesla-confirma-o-caminhao-eletrico-semi-para-brigar-com-mercedes-benz-scania-e-volvo-na-europa/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-22T17:48:24.692583"
+  },
+  {
+    "id": "927fc0031a478d4d82c27e4b307bb99f",
+    "titulo": "Produção de veículos tem melhor julho em sete anos, diz Anfavea; vendas são as maiores em 12 anos - Tribuna do Sertão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWVpyVUFGT0d1QVN6RGxkZUY1MGY0N2NlLXZYOF9JOTMxVndBTEFwdDMzb3NQQmh3VGtIUkwtODlyXy1aVi1ScXVpQmRmMkVSYUVqeWFsNWdnOGJ0aDZHLVJvUzBmTl91YjVfa0hSMm4wNVhYLWZEa1l5YWxnQ2RoelhITlh3U09uYVNUaTNuRmhvV3dZME1jQTdOTEtiLWwtSjdhLTFBVnNDVDJzeEtQcWZjZjNjQk8xNFlmRVVTMEk4Y1M5Rlk4ZDNsREtfQUtZOGpyLTE0c3Z4bFdEeldrV2tobEZmZWk1SGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T14:32:00+00:00"
+  },
+  {
+    "id": "efa2cba98e09311bb3cf87d19facd89c",
+    "titulo": "Venda de veículos salta 15% em julho ante mesmo mês de 2025, diz Fenabrave - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0tEaWQ3RHpfbk90blh6Qzk2bVBZaHNIbHF1aHNtM2IxUVkxVGdHSGlUbkozMzh4X09jX1JUcVczcTItVmdwUXB6bDZ0U2k2LXlfVzVWaUE4SzR3MWlDUzNTR3dQako0MHp3TnZsMmZZUDZLNEo3Y25NNk9aeVY4dmVMZkpPWnk2OXI1MDZic3dfV1F1Q2xCVEdDN3ZWRjFZQU51RDh1VXQxOG1kNzczcHpTZ2dYSlNyZGlURDlwTV94cmRuNFFUNENseVk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T07:00:00+00:00"
+  },
+  {
     "id": "17084762d57750b88f3563743486ad23",
     "titulo": "3.Mercedes GLA 250 tem novidades sutis em linha 2018",
     "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-gla-250-tem-novidades-sutis-em-linha-2018/",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "fe7c4c569b03faecb171ed7f0de18303",
+    "titulo": "1.Motorhome com preço de R$ 8 mi é mansão sobre rodas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-com-preco-de-r-8-mi-e-mansao-sobre-rodas/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-23T13:33:22.752268"
+  },
+  {
+    "id": "2b77c715162d4862ea038d208b0e492b",
+    "titulo": "Carros mais vendidos no Brasil em agosto: mudanças no ranking — dia 8 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZm5MZ0swYmhyRjdBUkRxZU1nQm5ESDc1Vjlwb29oa0dXT2J5T0pEV01ZQzM1R2dfSWV6RWRhdFJGWVcxUXhxOHFtWFk5dkpEVlJ5ams2SXU3cjVBRm9LRlNieXBlNl9lLS0tSFM1Q1pOTGpENlkycjdHaEhsY3lBYWM1b0UzTGM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-08T07:00:00+00:00"
+  },
+  {
     "id": "5b8ee23b5a172b6669be35a6aa153993",
     "titulo": "GWM inicia vendas de caminhão e já projeta faturar R$ 200 mi em 2027 - Frota&amp;Cia",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlJJRHl5N0JwVWtDSFIwc0dCbGVCZkNId3dSZnFubWJwM1lneWo0VEZXc08tdGlwYW1SY2liSkF0X2xsaEI4VjZpS3NOa0NRd19lbzJTdVM1Y0FuMU45X19nWldTOXZmRDBsY3QwbDBoZ1VsVEE2dkVjeER1QU5GckdiV2t2RmhyWjFYQjVSRVB5UmlkSmpn?oc=5",

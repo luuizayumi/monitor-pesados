@@ -1,5 +1,43 @@
 [
   {
+    "id": "15562c846ede340eb89e8608a920cf4f",
+    "titulo": "5.BYD lança no Brasil caminhão elétrico de 6,7 t por R$ 589 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/byd-lanca-no-brasil-caminhao-eletrico-de-67-t-por-r-589-mil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-23T02:47:58.666507"
+  },
+  {
+    "id": "2f810f065ff59114254d3acc13ac6d45",
+    "titulo": "De Porsche a frotas com 18 caminhões: veículos declarados de candidatos ao TSE ultrapassam R$ 20 milhões - Gazeta de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUd6OUpKLTY4ZjQxV2ljVGVWenJhSzQ5R050bmlPSTRmTlVNa092dFlvUHhKb0o3MTg0T2ZUUXVfVUE5UlFsZENXVDhmRmJhUEFNcXQ4UjdjRVNxdUFVVTJkTExqdUhxOW83dUV3RVluLUVYY1NiZzdWd3hTeXZzNzhSejdYN01wMlFBUldKdkgxdHNXc0ZMMHZlN25pdXR6VW5HV3BEeUxUekdCNk1aQ0NnVDdoZWQxV0JJbm9hc1pGb280LVZURXlmUkVkZ1VjWXg3aFlJQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-22T10:45:00+00:00"
+  },
+  {
+    "id": "9cc869cf4026d0b7c86af76f6bd96132",
+    "titulo": "Marcopolo encerra Lat.Bus 2026 com mais de 300 ônibus comercializados - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk02VlRQM0xNX1Vac1N6OEFiVmNWTzA0ZmZaNUxEbW1FNjg2RGpwU1d6cU1IaG4wZk1jSVJ5MVpTUWVxRDZBd3hVNkxLMi1YazVGVWRyMXJTVS1iWlFGZmlrZVlDaFZHdk9oam1qM1RFRmZYb2ZtV21oNXhBV1Bia0RWUVJkbEdrNFY3cU1raXk2RG5hVWxGbF96VXl6UUQtbThERHlCcXFUYy11RkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-21T14:07:38+00:00"
+  },
+  {
     "id": "a61183291107eb6ad6ffd2562695e926",
     "titulo": "4.Ônibus de três andares tem TV, frigobar e apenas assentos do tipo leito",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/onibus-de-tres-andares-tem-tv-frigobar-assentos-leito/",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "fc0b61906839f2856d28c8cecd2653e3",
+    "titulo": "2.Volvo XC90 tem nova geração confirmada para conviver com EX90; veja o que muda",
+    "link": "https://www.estadao.com.br/jornal-do-carro/volvo-xc90-tem-nova-geracao-confirmada-para-conviver-com-ex90-veja-o-que-muda/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-23T21:23:32.006891"
+  },
+  {
+    "id": "dfd5ffd69522ad946ea22c88740b47fc",
+    "titulo": "Marcopolo vende mais de 300 ônibus e gera 600 oportunidades comerciais na Lat.Bus 2026 - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUd2MHhvRzZGQ3A3Z1UxSk55OU5aWDl3MVlGUEVLMGJRZmJLRklKVEJ6ZjF2bTNNZnQxWElwU2NRdHlFWUZ6bkNEVWcwaTZSUE9GeDFZSjNWQjE1OHFIWnVCTVZDSXBlNzE5cThvdDlvcGVSUWNfVmx0cFp5Vzc5Znd3Nm40ZnVnNm1vTUI0UV9CWTlRUEVrRmJueDJtSy1EZG5JdGEwSjN3SkMtS280cHNhMDh5MUNJQWhiSnJCcw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-20T23:06:09+00:00"
+  },
+  {
     "id": "58e2203f05d309978c6816be1cd69a32",
     "titulo": "1.Conheça os cinco caminhões mais potentes à venda no Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/conheca-os-cinco-caminhoes-mais-potentes-a-venda-no-brasil/",

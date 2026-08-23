@@ -1,5 +1,17 @@
 [
   {
+    "id": "58e2203f05d309978c6816be1cd69a32",
+    "titulo": "1.Conheça os cinco caminhões mais potentes à venda no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/conheca-os-cinco-caminhoes-mais-potentes-a-venda-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-23T19:23:01.843454"
+  },
+  {
     "id": "2c407c51db67bed14eb91a87c3e2daa0",
     "titulo": "5.Manual x automático: 5 respostas para quem ainda sente insegurança ao volante",
     "link": "https://www.estadao.com.br/jornal-do-carro/manual-x-automatico-5-respostas-para-quem-ainda-sente-inseguranca-ao-volante/",

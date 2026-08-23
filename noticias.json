@@ -1,5 +1,17 @@
 [
   {
+    "id": "d83df639918046c4df015155fbd75601",
+    "titulo": "5.Conheça os cinco caminhões mais potentes à venda no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/conheca-os-cinco-caminhoes-mais-potentes-a-venda-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-23T04:39:15.910295"
+  },
+  {
     "id": "15562c846ede340eb89e8608a920cf4f",
     "titulo": "5.BYD lança no Brasil caminhão elétrico de 6,7 t por R$ 589 mil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/byd-lanca-no-brasil-caminhao-eletrico-de-67-t-por-r-589-mil/",

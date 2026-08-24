@@ -1,5 +1,30 @@
 [
   {
+    "id": "1055efc93ae3955e28e2e427a33199a7",
+    "titulo": "Mercedes-Benz nomeia Jaqueline Marzola para liderar pós-venda na região",
+    "link": "https://www.autodata.com.br/noticias/2026/08/24/mercedes-benz-nomeia-jaqueline-marzola-para-liderar-pos-venda-na-regiao/133530/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-24T18:42:20.158785"
+  },
+  {
+    "id": "ffc08686b9f658a809682eb13851a518",
+    "titulo": "Sindirepa-PR lança campanha para incentivar manutenção preventiva",
+    "link": "https://www.balcaoautomotivo.com/2026/08/24/sindirepa-pr-lanca-campanha-para-incentivar-manutencao-preventiva/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-24T18:42:29.730313"
+  },
+  {
     "id": "67e8bed2790715512e22e350668920be",
     "titulo": "Retrofit da GWM transforma caminhão a diesel em elétrico com célula a combustível",
     "link": "https://www.autodata.com.br/noticias/2026/08/24/retrofit-da-gwm-transforma-caminhao-a-diesel-em-eletrico-com-celula-a-combustivel/132878/",

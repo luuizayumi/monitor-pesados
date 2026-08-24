@@ -1,5 +1,42 @@
 [
   {
+    "id": "67e8bed2790715512e22e350668920be",
+    "titulo": "Retrofit da GWM transforma caminhão a diesel em elétrico com célula a combustível",
+    "link": "https://www.autodata.com.br/noticias/2026/08/24/retrofit-da-gwm-transforma-caminhao-a-diesel-em-eletrico-com-celula-a-combustivel/132878/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-24T17:32:20.695250"
+  },
+  {
+    "id": "28c8c152de7d22f0144446da4ba95dd7",
+    "titulo": "GWM aposta em múltiplas rotas para emplacar o hidrogênio no transporte pesado",
+    "link": "https://www.autodata.com.br/mobility/2026/08/24/gwm-aposta-em-multiplas-rotas-para-emplacar-o-hidrogenio-no-transporte-pesado/132875/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-24T17:32:20.695264"
+  },
+  {
+    "id": "c8ea8131596f4c2f0173bacb00b2b1cb",
+    "titulo": "Carros mais vendidos do Brasil: ranking diário de agosto - dia 19 - motorvicio.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY0sxc0NfeTNMYk05RzFESlk1aTYwN1Q0cXpxZWZHSzJnQjZWbUtQUHBzOVNfalgzUzUwcXpqQ1hseFFsNFFPR01MM1p0c3lFZXhJc19WQ2ctclBoS1NCVzNpVldzTjI5ckV1MVVaZ3Z3T3RFM3NfM3Bwb2NwR3RtXzhTU3M3QQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-19T14:39:00+00:00"
+  },
+  {
     "id": "f1dbe70907408758bba9ae7c7fa6dd8d",
     "titulo": "Volkswagen promove semana de diversidade com evento online",
     "link": "https://automotivebusiness.com.br/diversidade/volkswagen-promove-semana-de-diversidade-com-evento-online",

@@ -1,5 +1,54 @@
 [
   {
+    "id": "15602f7a321275e99ecea99a6a9060c7",
+    "titulo": "Empresas se unem para acelerar renovação de frota de motos",
+    "link": "https://automotivebusiness.com.br/mercado/empresas-se-unem-para-acelerar-renovacao-de-frota-de-motos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-24T23:24:15.344323"
+  },
+  {
+    "id": "370b524fff9ba8d451cd88a21240d21f",
+    "titulo": "vendasEmpresas se unem para acelerar renovação de frota de motos24/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/empresas-se-unem-para-acelerar-renovacao-de-frota-de-motos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-24T23:24:15.344345"
+  },
+  {
+    "id": "676d1db01688ecd76c3bbc35fdc92d3f",
+    "titulo": "vendasEmpresas se unem para acelerar renovação de frota de motos24 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/empresas-se-unem-para-acelerar-renovacao-de-frota-de-motos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-24T23:24:15.344354"
+  },
+  {
+    "id": "1543818539d49046d3ba43910f102e99",
+    "titulo": "Carros elétricos mais vendidos: veja o ranking de julho no Brasil - InsideEVs Brasil",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWNqWVZYaF9ZTmFOeEctcV9Gb1pEd2Y0Z0NCS3VTNVd1cC1iaThKRll0TDkxZ1Brdm15OG1YMFZ1OVdjenllbGxrRzBNWGlzOExrTExJYlZYNzFlSkhXaWRaalpOMWNtcklfWXlwX0JMSmJCa0lZOGZUTkRteC1sNENERjRPQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-04T07:00:00+00:00"
+  },
+  {
     "id": "9bc31fb0e1a9353388dcee392e97a70c",
     "titulo": "Venda financiada de veículos tem o melhor julho desde 2008",
     "link": "https://www.autodata.com.br/noticias/2026/08/24/venda-financiada-de-veiculos-tem-o-melhor-julho-desde-2008/133579/",

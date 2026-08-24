@@ -1,5 +1,18 @@
 [
   {
+    "id": "9bc31fb0e1a9353388dcee392e97a70c",
+    "titulo": "Venda financiada de veículos tem o melhor julho desde 2008",
+    "link": "https://www.autodata.com.br/noticias/2026/08/24/venda-financiada-de-veiculos-tem-o-melhor-julho-desde-2008/133579/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-24T20:32:16.770129"
+  },
+  {
     "id": "e077334d8d02f8cf4d5ca3948594f94d",
     "titulo": "Carros mais vendidos no Brasil em julho - dia 27 - CAR.BLOG.BR",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGxTSldSdFpZZTcwN2wxeGVuSVg4Yk5qRjNiUzZLWjdhVnFUUHNjUldfYi1Jd3RrZlZxeDJlUW1ZN01KQjlCei16LXJIdzlWRG0zbW5UampNUUhSbVhDOGstNlJNdTBMOVU0RG8xSFlzU3Nmd0xCVk5GOUtJcmxNSg?oc=5",

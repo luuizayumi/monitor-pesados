@@ -1,5 +1,30 @@
 [
   {
+    "id": "45724608148d275c8e4baa8da6d485bd",
+    "titulo": "3.VW Virtus bate recorde de vendas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/vw-virtus-bate-recorde-de-vendas/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T04:40:33.353804"
+  },
+  {
+    "id": "5d8b7e966f86ff9fd10e2e6eb3e6072a",
+    "titulo": "Mercado vende 504 mil veículos em julho e alcança segundo maior volume da história - garagem 360",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3hhNEdBTGtTQjJkcEo1SEprazVwSThaOFN1aWVHamFlejBzSi1yN3ZkTFJwTTR2MG1TTHRxb052MnpkNER4V1pCSkc1NnJzTVh6T2x3ZFpDbmU2eW1pVU5ER09wWmFFVWpvWXRfSDhrNHpCT1RBQnRxLU1SWVNmSF93QlZnWEo3dzI1R2xUVWkySFk0OHlQSXJUdmtOOW5IUnNLVmF6UFRHLUFROEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T07:00:00+00:00"
+  },
+  {
     "id": "ecd4c5578107fdd2002bc9f91660af14",
     "titulo": "4.DAF lança edição limitada XG+ e celebra liderança no Reino Unido",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/daf-lanca-edicao-limitada-xg-e-celebra-lideranca-no-reino-unido/",

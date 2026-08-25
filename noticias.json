@@ -1,5 +1,58 @@
 [
   {
+    "id": "d47d054b5f0544d75a510d9be1190256",
+    "titulo": "Chairman da VW elogia chineses e prega humildade para trabalhar com eles",
+    "link": "https://automotivebusiness.com.br/industria/chairman-vw-elogia-chineses-prega-humildade-para-trabalhar-com-eles",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T15:21:23.162806"
+  },
+  {
+    "id": "1fe3b406a238feb999af5d655054f98f",
+    "titulo": "alexander seitzChairman da VW elogia chineses e prega humildade para trabalhar com eles",
+    "link": "https://automotivebusiness.com.br/noticias/chairman-vw-elogia-chineses-prega-humildade-para-trabalhar-com-eles",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T15:21:23.162825"
+  },
+  {
+    "id": "6a52342c0209514f5cf10d7f3f5a24f9",
+    "titulo": "manufaturaMaior Nissan da América Latina tem um quê de Brasil; saiba mais24 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/maior-nissan-da-america-latina-tem-um-que-de-brasil-saiba-mais",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-25T15:21:23.162840"
+  },
+  {
+    "id": "b9220cb3c91731c4eccc65df68dd165d",
+    "titulo": "BYD lança carro elétrico menor que Dolphin Mini por R$ 69 mil no Japão - Só Notícia Boa",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1prVFJFT20xdTRjQjd0dUZDTmtxR0JTZ2tpdWdwNTJUeXAtb2NOYjAyaFQzLTJySnoxM0UxQVEtREFQeHB0UUk4NVk3VFZoVVVVV0x2NFZjT2pJT29hNzV4X3lIRjAzUTFhUlRrTkFhNmRXNTBjU3J6YUZ1ZTJDem1oTHo0VzFxeFVrbVR1UF9McjVaWjRnU2RZZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-13T07:00:00+00:00"
+  },
+  {
     "id": "ed47dd12af74f7d2dbeb5cbd9142f1fb",
     "titulo": "Reiter Log amplia frota sustentável com compra recorde de 220 caminhões a gás da Scania",
     "link": "https://frotanews.com.br/frota-sustentavel-reiter-log/",

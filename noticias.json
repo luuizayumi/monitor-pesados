@@ -1,5 +1,43 @@
 [
   {
+    "id": "ffce3eab184fd7cb0edfb03fe002c189",
+    "titulo": "BYD alcança marca de 1.000 chassis de ônibus elétricos produzidos no Brasil",
+    "link": "https://frotanews.com.br/noticias-byd/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-26T20:37:00.625148"
+  },
+  {
+    "id": "bf8f14f3e4a35fc2d84f62a45db61fd5",
+    "titulo": "Tesla confirma o caminhão elétrico Semi para brigar com Mercedes-Benz, Scania e Volvo na Europa",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/tesla-confirma-o-caminhao-eletrico-semi-para-brigar-com-mercedes-benz-scania-e-volvo-na-europa/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-26T20:37:02.168011"
+  },
+  {
+    "id": "ed1d26bf644d93a0d6661782ccd2ab50",
+    "titulo": "Indústria automotiva tem melhor julho em sete anos e vendas alcançam recorde para o mês em 12 anos - Diario de Pernambuco",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLTYxSFJ6SzVwYUlBSTNDd3pTamIyWVJVRFE4VFpLUjRvaV96NFAzV0dkVmNIX0w3Z0lGODZicmFWNkcxdDFmR3ptM0hDZmFWVEFSdjJ4dzRSUDluSDVmNUt1azgyMTZXbmtjU2Z0UF9JeDJHWW9QSVJWbENqR0ttbndlME1WVFdIcmpibXBWMkEteS1qbm4zUGZ2N2NKRVBnY0NzT0J4SktjTlkxMTcxcFZRZDlKSWVrYUhrZHl2TTZxdm0zaTMyRkhUaWdQSU9tbVR2UUh6WnlZSzhHWHN6aFpyQTk3c1NrczV0UG1yTHRoaklSVHZQNVEyeVQxUWVp?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T15:15:58+00:00"
+  },
+  {
     "id": "6498ab64673901d23e31795753201434",
     "titulo": "Os 10 híbridos plug-in mais vendidos no Brasil até o momento; veja lista - CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjY2WUxYa2NWbXROWjJCWXB2TkI1c1ZWeU8wdFVyUXZ6THQ2VkE3N0JybGFub2xZcDhYVzVCNy12bF80YUxRZ2tpRzV1bVJvdWF1emRnYXdqbnpKaEhVS1NURTN4SzdfNjVBanJjMkM5OENTYUdEbzIyYmg1MFlOQmdHODZDd3c3MTFUeXpGTjhVczlRQ29wTHlIQnR2R0UyYWhtUWdjT01LUQ?oc=5",

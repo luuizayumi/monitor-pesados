@@ -1,5 +1,42 @@
 [
   {
+    "id": "e1b5f226837d06d358bb5e4b5de1f796",
+    "titulo": "Caoa Chery lança novo Tiggo 7 e mantém custo benefício agressivo",
+    "link": "https://automotivebusiness.com.br/lancamentos/caoa-chery-lanca-novo-tiggo-7-e-mantem-custo-beneficio-agressivo",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-26T01:24:49.906461"
+  },
+  {
+    "id": "b43f9fef997bec476c15617e3f67288c",
+    "titulo": "Juros altos e menos compras governamentais freiam mercado de ônibus",
+    "link": "https://www.autodata.com.br/noticias/2026/08/25/juros-altos-e-menos-compras-governamentais-freiam-mercado-de-onibus/133803/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-26T01:24:52.370293"
+  },
+  {
+    "id": "57576ee23b061d9b5bff258160479451",
+    "titulo": "Nova família de micro-ônibus da Mascarello já tem vendas concretizadas para a Grande BH (MG), Santo André (SP) e Holambra (SP). Expectativa é de expansão - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUW1MUkZ1Q3R1WE80SzJUVE5JOVpVQlQ5NHRNb3YxOFpvTGtYbFlZSy1rZFliT3kzNGk1cDgxZ0MyYkVjSHdGQ3Fqd1lHWGd6Qm9fb0Y4eUM5dTEySDV0NUFQVHVaSDdOSnpEc3EtRU92SzVTVHNySTcxcVBrYUoxcUM1ZGllcjZhUV84aGpMckVWQm44WFZGaUswZU1hbGNjMVBkdDJWb1loXzVfT2NTLWp2ejE5QVcyU3R2NVV1SDBqRU5QUTB2U1p3MkpsV193S2FoYnFGbXFJb3llNm94X2R1VnVudlRzNGtrR2dnTERJNnZKNTE2QkFoT1d1Mk52a21KRGlfSHBNdmpzWk1tTlBGYmlsQjUwczdN0gGgAkFVX3lxTE5TTHVJZVJIQjZYMDBIZkk5YXZlTWRVRUZLRnVJVzNGNTZMczdCclAzQjRTZGxNdjBLWGlnZ3ZXeTNKRldJLVUxVVQzaF9RdXo2Zkw1TmlRb1BwUFFOaWlvQWx2RGxhUzFQbjE4aUxEQm1XQmhwZEpmLUJtYVR1YUZVX2JLa21OeVpUUk5pRFZQaTdnQ05yWGpCemRIZjdKS0hQaC1pckhjakNrTTdYSmk5b3JTeW9vNjd4VmcyZXYwRnEtUllib3ZTaXhOYlJpdUJGSVdlZk5ITTZOb2RSZjR1OWNKMm9Rb0xJMlVfdmV5cWZUUTRSSjhxRXg1a3hMcDc1N0RVNHlwYy1JYXBOX3ZRNHY4RW1oeDhTXzJNbE1kYQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T22:26:21+00:00"
+  },
+  {
     "id": "d978bd85d4b6b1c3d076fddb60607353",
     "titulo": "GWM realiza primeiro teste nas ruas com caminhão a hidrogênio",
     "link": "https://automotivebusiness.com.br/montadoras/gwm-realiza-primeiro-teste-nas-ruas-com-caminhao-a-hidrogenio",

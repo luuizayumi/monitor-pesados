@@ -1,5 +1,183 @@
 [
   {
+    "id": "1e1081db447aa6e8a3dbd2b11ae0cacf",
+    "titulo": "Ônibus elétricos: Senado aprova R$ 2,5 bilhões em financiamento para São Paulo",
+    "link": "https://automotivebusiness.com.br/mobilidade/onibus-eletricos-senado-aprova-r-256-bilhoes-em-financiamento-internacional-para-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T20:58:18.507824"
+  },
+  {
+    "id": "1aad9ba01801e896b00b283cc4d80e62",
+    "titulo": "BYD chega a mil chassis de ônibus elétricos fabricados em SP",
+    "link": "https://automotivebusiness.com.br/montadoras/byd-chega-a-1000-chassis-de-onibus-eletricos-fabricados-em-campinas-sp",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-27T20:58:18.507834"
+  },
+  {
+    "id": "1b0b7a0b647a3e1d1895399f6c050f09",
+    "titulo": "MercadoSeminovos e usados têm alta de 10,7% nas vendas em julho26/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/seminovos-e-usados-tem-alta-de-107-nas-vendas-em-julho",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T20:58:18.507838"
+  },
+  {
+    "id": "fe4c7e51a8f2ee3acea409c4afb26b56",
+    "titulo": "MercadoSeminovos e usados têm alta de 10,7% nas vendas em julho26 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/seminovos-e-usados-tem-alta-de-107-nas-vendas-em-julho",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T20:58:18.507841"
+  },
+  {
+    "id": "a1e1b47abc54024a48b70b67a5050098",
+    "titulo": "ônibus elétricosÔnibus elétricos: Senado aprova R$ 2,5 bilhões em financiamento para São P...26 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/onibus-eletricos-senado-aprova-r-256-bilhoes-em-financiamento-internacional-para-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T20:58:18.507844"
+  },
+  {
+    "id": "d2fb148e8043d5453dcfc467ca170100",
+    "titulo": "manufaturaBYD chega a mil chassis de ônibus elétricos fabricados em SP26 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/byd-chega-a-1000-chassis-de-onibus-eletricos-fabricados-em-campinas-sp",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-27T20:58:18.507852"
+  },
+  {
+    "id": "53f792d0c3d392ca02d7f8af57562198",
+    "titulo": "Volvo lança o sedã elétrico ES90 no Festival Interlagos",
+    "link": "https://www.autodata.com.br/noticias/2026/08/27/volvo-lanca-o-seda-eletrico-es90-no-festival-interlagos/134075/",
+    "fonte": "AutoData",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T20:58:21.080982"
+  },
+  {
+    "id": "90d0df8d8b728d0ccea35c0dd8c537b9",
+    "titulo": "Entrevista ABCR: Como o free flow, rede 4G e R$ 500 bilhões em rodovias vão mudar a gestão de frotas",
+    "link": "https://frotanews.com.br/entrevista-abcr/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-27T20:58:22.404670"
+  },
+  {
+    "id": "06e635a135a047d621264ef88fc7801f",
+    "titulo": "Foton completa 30 anos e reforça o Brasil como eixo de sua expansão global",
+    "link": "https://frotanews.com.br/noticias-foton/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-27T20:58:22.404680"
+  },
+  {
+    "id": "a32c7f294f09e6dc7c91223b90e446d6",
+    "titulo": "LOTS Group e SEST SENAT abrem nova turma de capacitação para mulheres motoristas de veículos pesados",
+    "link": "https://frotanews.com.br/noticias-lots/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-27T20:58:22.404683"
+  },
+  {
+    "id": "26daa1a53f240e56379a2c24f6c2f69d",
+    "titulo": "5.GWM Haval H9 estreia com preço brigador e promete dar trabalho a Commander e SW4",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gwm-haval-h9-estreia-com-preco-brigador-e-promete-dar-trabalho-a-commander-e-sw4-impressoes/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-27T20:58:23.837813"
+  },
+  {
+    "id": "0bbbf3c6f404e55ef4d5d6b8c25d4bee",
+    "titulo": "Ford anuncia lançamento da F-150 Raptor e do novo Mustang GT Performance",
+    "link": "https://www.balcaoautomotivo.com/2026/08/27/ford-anuncia-lancamento-da-f-150-raptor-e-do-novo-mustang-gt-performance/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-27T20:58:28.545537"
+  },
+  {
+    "id": "2befa2a1483c4745ba7319dd87ea3ce9",
+    "titulo": "BYD atinge 1.000 chassis produzidos para ônibus elétricos no Brasil",
+    "link": "https://www.balcaoautomotivo.com/2026/08/27/byd-atinge-1-000-chassis-produzidos-para-onibus-eletricos-no-brasil/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T20:58:28.545550"
+  },
+  {
+    "id": "fa58b3c1c92836d045118373a52ec701",
+    "titulo": "TikTok cria transportadora com capital de R$ 111 milhões - Automotive Business",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbi0tU1ZvaXNVOFBHRGptd2kzQXhjUWdVWkQxWG9qVWF6UDBIMmFEMFg0VUttbTRRY2l4T1RHbnpYcGlhZlhZQW5ocjBsemN6NXFKSGNyc0xYYXQxTVdRTUhlVzhxSjRWSlRIa3NaTHVhaVFyUnVEeTBvbnE2UkNxdm1yNk5BSDYwdjFZZFJKRVdSWkMtLVhVSzMwaDdNNGQ3UFdF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T05:02:17+00:00"
+  },
+  {
     "id": "8ee8d6388bcc8fc7bf98af1dae4bbcec",
     "titulo": "BYD bate recorde histórico de vendas em julho de 2026 no Brasil - Mecânica Online",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUZQc3NaWkNGT0NLSURpT2EyMzFKNkhIRDdtcXk1X3RFVlNyVXQxZDFYa280WW5aNUpMdnpraEcyZ0tEY1Vtd0JFU0VIU0JZLUhoU1oxUlZQOW1mX0Z0NUs5VVhycVlVaG5pTTdLSXhIYVBkNWlMWGp3SmpiZFhMSzQybTBBNzNkN1QzRktrbG1aRmo1eUs3ejJvVnlXOWI3SDQ5eA?oc=5",

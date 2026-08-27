@@ -1,5 +1,120 @@
 [
   {
+    "id": "803d5c10333317871619008e0692ec12",
+    "titulo": "Seminovos e usados têm alta de 10,7% nas vendas em julho",
+    "link": "https://automotivebusiness.com.br/balanco/seminovos-e-usados-tem-alta-de-107-nas-vendas-em-julho",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T00:31:52.893365"
+  },
+  {
+    "id": "f824091edd1d2737ddee4985a67f50f0",
+    "titulo": "Ônibus elétricos: Senado aprova R$ 2,56 bilhões em financiamento internacional para São Paulo",
+    "link": "https://automotivebusiness.com.br/mobilidade/onibus-eletricos-senado-aprova-r-256-bilhoes-em-financiamento-internacional-para-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T00:31:52.893381"
+  },
+  {
+    "id": "04de52ddc1229c1b9d1b62df82ee9549",
+    "titulo": "BYD chega a 1.000 chassis de ônibus elétricos fabricados em Campinas (SP)",
+    "link": "https://automotivebusiness.com.br/montadoras/byd-chega-a-1000-chassis-de-onibus-eletricos-fabricados-em-campinas-sp",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T00:31:52.893385"
+  },
+  {
+    "id": "86aff2e936dccc6c80947dcf0463c2d8",
+    "titulo": "vendasSeminovos e usados têm alta de 10,7% nas vendas em julho26/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/seminovos-e-usados-tem-alta-de-107-nas-vendas-em-julho",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T00:31:52.893400"
+  },
+  {
+    "id": "f7ecfebe15df18798149f440c0aec7d6",
+    "titulo": "ônibus elétricosÔnibus elétricos: Senado aprova R$ 2,56 bilhões em financiamento internacional para São Paulo26/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/onibus-eletricos-senado-aprova-r-256-bilhoes-em-financiamento-internacional-para-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T00:31:52.893404"
+  },
+  {
+    "id": "2e1c7a80b898a8ea0e2c48093b616c9c",
+    "titulo": "vendasSeminovos e usados têm alta de 10,7% nas vendas em julho26 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/seminovos-e-usados-tem-alta-de-107-nas-vendas-em-julho",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T00:31:52.893411"
+  },
+  {
+    "id": "477fa0aff412587d5c277ba048f4a8fa",
+    "titulo": "ônibus elétricosÔnibus elétricos: Senado aprova R$ 2,56 bilhões em financiamento internaci...26 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/onibus-eletricos-senado-aprova-r-256-bilhoes-em-financiamento-internacional-para-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T00:31:52.893414"
+  },
+  {
+    "id": "e17ec1718ae2ac7744bbdb97f601e053",
+    "titulo": "ônibus elétricosBYD chega a 1.000 chassis de ônibus elétricos fabricados em Campinas (SP)26 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/byd-chega-a-1000-chassis-de-onibus-eletricos-fabricados-em-campinas-sp",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-27T00:31:52.893417"
+  },
+  {
+    "id": "72cff852bcf5190b668abf8193780afc",
+    "titulo": "BYD chega a mil chassis de ônibus elétricos produzidos no Brasil - Canal VE",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEZqRF91VXcyWHhNZGFENmhvd2hocHBVMUxxemwtQ1I3eWNva2hVTWpfVmJqQld1d2ZWRXk3dzlSVEFZSi1Bei1JVjlMQU8tel9IYXFpRXZXVU1VYTIwUzB1c0QyZzdZQWg5a1gyb2w2alRYUnBkOHRHNU1yaEpUYzRkUThqdmM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-26T18:05:21+00:00"
+  },
+  {
     "id": "ffce3eab184fd7cb0edfb03fe002c189",
     "titulo": "BYD alcança marca de 1.000 chassis de ônibus elétricos produzidos no Brasil",
     "link": "https://frotanews.com.br/noticias-byd/",

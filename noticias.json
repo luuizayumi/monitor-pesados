@@ -1,5 +1,140 @@
 [
   {
+    "id": "a9cb640f3310c28161a3dcf4b8236c4b",
+    "titulo": "Scania vende 220 caminhões movidos a biometano e gás natural",
+    "link": "https://automotivebusiness.com.br/fornecedores/scania-vende-220-caminhoes-movidos-a-biometano-e-gas-natural",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T05:16:18.785834"
+  },
+  {
+    "id": "cfb2d802aa8a47cb3e7f76ebb7add5a5",
+    "titulo": "Correios leiloam 54 veículos para renovar frota em São Paulo",
+    "link": "https://automotivebusiness.com.br/negocios/correios-leiloam-54-veiculos-para-renovar-frota-em-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T05:16:18.785847"
+  },
+  {
+    "id": "1052c42b6cd983ebb7340878230f5c68",
+    "titulo": "Caminhões a biometanoScania vende 220 caminhões movidos a biometano e gás natural27/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-vende-220-caminhoes-movidos-a-biometano-e-gas-natural",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T05:16:18.785856"
+  },
+  {
+    "id": "d2a057bb516553e69205bd8e0db3ec7d",
+    "titulo": "leilão de veículosCorreios leiloam 54 veículos para renovar frota em São Paulo27/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/correios-leiloam-54-veiculos-para-renovar-frota-em-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T05:16:18.785863"
+  },
+  {
+    "id": "a5fbd0b68dd0c5de0f0e0b9cdf1c09c9",
+    "titulo": "Caminhões a biometanoScania vende 220 caminhões movidos a biometano e gás natural27 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-vende-220-caminhoes-movidos-a-biometano-e-gas-natural",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T05:16:18.785867"
+  },
+  {
+    "id": "697a09620ae90e1258489b933a9c7544",
+    "titulo": "leilão de veículosCorreios leiloam 54 veículos para renovar frota em São Paulo27 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/correios-leiloam-54-veiculos-para-renovar-frota-em-sao-paulo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T05:16:18.785870"
+  },
+  {
+    "id": "9798ae49f033203a39e255f6455843a4",
+    "titulo": "Volvo CE nomeia Luciano Rocha para liderar desenvolvimento da rede na América Latina",
+    "link": "https://www.autodata.com.br/noticias/2026/08/27/volvo-ce-nomeia-luciano-rocha-para-liderar-desenvolvimento-da-rede-na-america-latina/134083/",
+    "fonte": "AutoData",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T05:16:21.401639"
+  },
+  {
+    "id": "e06c79d136236d6262cf3e3648cdff13",
+    "titulo": "Vendas de implementos rodoviários devem cair até 10% em 2026 - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0Z3aHdab01GS3o3bXZCWWZ5MnptRGJGR3lVbnpFdkJjWmwzM2xFTEc5dThVOEYtSFN1LXNvXy0xN3ZRZ3I2S01ocDVjejVIcHZpbkgtNGxjUFFicHZvSjVjdXV2YTBKMkpqTm9kT05hVERJN1N4RzV3VWgzdFVXTnlQcHE4MWp4Um9kMkhuWkU5bnAxc1cxUVhIMVdDZkwyLTJjYzFOcGItbEd0MkxRbWpZTS1Vdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-26T01:16:00+00:00"
+  },
+  {
+    "id": "4f2a59ad91f06a4404ade3450e382662",
+    "titulo": "Entrevista: Walter Barbosa, vice-presidente de Vendas, Marketing e Peças &amp; Serviços Ônibus da Mercedes-Benz do Brasil - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcm5pTEZSM3RDeGRUaXFIMzd1alVrTkFFZFg2QnFPY1U0WG5JQS1QN1FFbkVUSkp0U2JRUkcxZ1NTWExXYTNLMWRta19QcnNwejNvZm9NLXI5Q3pIUFl3cnctV1Rpd3pGSXNOUTFSX0tYdGJ5MXlvNDJiVDlDQzBUWjNONTByV2pfSTJWS1d5RHlKOWo1RHpKY1RCVWwzRUZUbXNHRHBoN3hwTUpQU2dhbkwyU1RPOG5uX0Q5Y2hOT205S1VlNXJDazFOWVVRQ3ZzNWlOZGUzdXc5N0Vqc3pyQjZ3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T18:32:18+00:00"
+  },
+  {
+    "id": "c0e33f1318b625aa8082f513602739eb",
+    "titulo": "Scania entra na briga dos caminhões elétricos no Brasil e entrega 1ª unidade - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTJia2E1WUVtVE1wWldkZlFXSndVY0t3dXczZExUbk5XdTVpMnZTQ3JfMUNsRC13Tm1XU0ZyS05tdm9iQS1kSE0zUFhOSGk2cTFwVHEwSEg4LWJtSnpwVHhxRVpvUjQtYnZHUFEtNldZV1lQZmJ6amNWc3Rua1UzckFqSXl4dThycGdaeEh4WXNoU3RvOTlBZUJDaVRrRmZXZHo1bjJsZmx5b0VJOFREa09fNGxOcGtiOC1IRHlUcXdGVDlPM3lN0gHMAUFVX3lxTFBJR0E0eENQbzFkeDhzd1EyQmxYUTE2VmdlVklZRXVVYW55Q21CWlhUN2F5Skhia3RBZXVxVEVZaWtNb2NsQXJ4MmRnMlBhbThxZHZRTVVHeFFMMUVSaWhxbU9NRGkyRUR6LW4wMlJKQ3JuMFQ2ajJYQmpLQjlJZFNuUVloTm9iN043Z2pCcUxyWXhvd0EwLXJHYzlnT29sQWNsMFExUUFYMm1VQk9HcXJSNWtmUEQyLS1mX2pfYjJfM3hOTkFmSWl1bnZVNw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-27T11:12:00+00:00"
+  },
+  {
+    "id": "bc693c577d7308251f5f5c19754d5335",
+    "titulo": "Mercedes-Benz conquista título inédito no Prêmio Campeão de Revenda - Frota&amp;Cia",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelE1aWJPYjA4Rk9CZ2dHT2poaGVHX2RGMXJqLXJ2N0gxZlYzTWN3cmptZUxUemlkNDRrRlZMLW9WZHE5dDdnYnN2dTItQVZYNFBheC14MmFzR0pER0JJMFBTNHdKclF3ZmJSZ2JYX2ZCQ2d1NU9ueDRqMjdCVU02V2p1N1VpWkJ0U0I2YjY1dXFONHFZMVgw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T15:01:00+00:00"
+  },
+  {
     "id": "1e1081db447aa6e8a3dbd2b11ae0cacf",
     "titulo": "Ônibus elétricos: Senado aprova R$ 2,5 bilhões em financiamento para São Paulo",
     "link": "https://automotivebusiness.com.br/mobilidade/onibus-eletricos-senado-aprova-r-256-bilhoes-em-financiamento-internacional-para-sao-paulo",

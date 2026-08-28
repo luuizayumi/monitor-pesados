@@ -1,5 +1,53 @@
 [
   {
+    "id": "86f261dc420296de0175395698fbccf0",
+    "titulo": "DAF atende perdido de cliente e produz um XD Electric para ser exclusivo",
+    "link": "https://frotanews.com.br/noticias-daf/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T17:38:13.816047"
+  },
+  {
+    "id": "d8c961e7ec145f3d31738db038248a8b",
+    "titulo": "Irizar Brasil abre banco de talentos para profissionais com deficiência em Botucatu e São Manuel",
+    "link": "https://frotanews.com.br/noticias-irizar/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T17:38:13.816064"
+  },
+  {
+    "id": "de92ea1f4498899338c367be859a8934",
+    "titulo": "3.Honda ZR-V some das lojas, mas segue à venda sob demanda",
+    "link": "https://www.estadao.com.br/jornal-do-carro/honda-zr-v-some-das-lojas-mas-segue-a-venda-sob-demanda/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T17:38:15.283117"
+  },
+  {
+    "id": "49563e27b831d9264d36ccb6521e2b56",
+    "titulo": "Foton completa 30 anos com Brasil no centro de sua estratégia",
+    "link": "https://www.balcaoautomotivo.com/2026/08/28/foton-completa-30-anos-com-brasil-no-centro-de-sua-estrategia/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Foton",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T17:38:26.172032"
+  },
+  {
     "id": "a9cb640f3310c28161a3dcf4b8236c4b",
     "titulo": "Scania vende 220 caminhões movidos a biometano e gás natural",
     "link": "https://automotivebusiness.com.br/fornecedores/scania-vende-220-caminhoes-movidos-a-biometano-e-gas-natural",

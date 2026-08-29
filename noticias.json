@@ -1,5 +1,17 @@
 [
   {
+    "id": "c35be4598aff47c9d1781122f6eaf765",
+    "titulo": "5.Quais são cinco caminhões mais caros à venda no Brasil?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quais-sao-cinco-caminhoes-mais-caros-a-venda-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T08:44:25.118845"
+  },
+  {
     "id": "e5d393acf14ae89241fca41f8374f5d7",
     "titulo": "Volvo CE tem novo diretor de desenvolvimento da rede na América Latina",
     "link": "https://automotivebusiness.com.br/carreira/volvo-ce-tem-novo-diretor-de-desenvolvimento-da-rede-na-america-latina",

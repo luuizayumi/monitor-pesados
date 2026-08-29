@@ -1,5 +1,201 @@
 [
   {
+    "id": "e5d393acf14ae89241fca41f8374f5d7",
+    "titulo": "Volvo CE tem novo diretor de desenvolvimento da rede na América Latina",
+    "link": "https://automotivebusiness.com.br/carreira/volvo-ce-tem-novo-diretor-de-desenvolvimento-da-rede-na-america-latina",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T01:31:37.740187"
+  },
+  {
+    "id": "32446233557744cee6cb2c08e95b9bd3",
+    "titulo": "América LatinaVolvo CE tem novo diretor de desenvolvimento da rede na América Latina28/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-ce-tem-novo-diretor-de-desenvolvimento-da-rede-na-america-latina",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T01:31:37.740210"
+  },
+  {
+    "id": "e52402e0670db6f0db67a1cf079404f3",
+    "titulo": "vendasMove Brasil: aumenta prazo de financiamento para motoristas de aplicativo28/08/2026",
+    "link": "https://automotivebusiness.com.br/noticias/move-brasil-aumenta-prazo-de-financiamento-para-motoristas-de-aplicativo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T01:31:37.740214"
+  },
+  {
+    "id": "a775ecc6aa6e201fd65a2e138d2f8628",
+    "titulo": "América LatinaVolvo CE tem novo diretor de desenvolvimento da rede na América Latina28 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-ce-tem-novo-diretor-de-desenvolvimento-da-rede-na-america-latina",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T01:31:37.740217"
+  },
+  {
+    "id": "a0972aaef8da04340592fb92bc112975",
+    "titulo": "vendasMove Brasil: aumenta prazo de financiamento para motoristas de aplicativo28 ago 2026",
+    "link": "https://automotivebusiness.com.br/noticias/move-brasil-aumenta-prazo-de-financiamento-para-motoristas-de-aplicativo",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T01:31:37.740226"
+  },
+  {
+    "id": "8e028e5221b468a80ba17d8446c47439",
+    "titulo": "VW Caminhões e Ônibus lança campanha de olho na Fenatran",
+    "link": "https://www.autodata.com.br/noticias/2026/08/28/vw-caminhoes-e-onibus-lanca-campanha-de-olho-na-fenatran/134244/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T01:31:40.176081"
+  },
+  {
+    "id": "d87407fbb10cab19a22af2f594636877",
+    "titulo": "BYD celebra a produção de 1 mil chassis para ônibus elétricos em Campinas",
+    "link": "https://www.autodata.com.br/noticias/2026/08/28/byd-celebra-a-producao-de-1-mil-chassis-para-onibus-eletricos-em-campinas/134126/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-29T01:31:40.176095"
+  },
+  {
+    "id": "ac36396538bcd6b57d09ca43f944470a",
+    "titulo": "DAF atende pedido de cliente e produz um XD Electric para ser exclusivo",
+    "link": "https://frotanews.com.br/noticias-daf/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T01:31:43.994094"
+  },
+  {
+    "id": "d5f8014f719d1be6ee6258de6e7e0835",
+    "titulo": "Grupo Eldorado abre nova concessionária DAF em Santa Maria para expansão no RS",
+    "link": "https://frotanews.com.br/daf-apresenta-eldorado-caminhoes-como-representante-em-todo-o-rs/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T01:31:43.994113"
+  },
+  {
+    "id": "ef761ec6dd8c329ebf91b5e4169184c9",
+    "titulo": "4.Honda ZR-V some das lojas, mas segue à venda sob demanda",
+    "link": "https://www.estadao.com.br/jornal-do-carro/honda-zr-v-some-das-lojas-mas-segue-a-venda-sob-demanda/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T01:31:45.579398"
+  },
+  {
+    "id": "4a39a0cbde5997f6e47b508b4458831a",
+    "titulo": "Conheça os cinco caminhões mais caros à venda no Brasil - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUltWmloRHNiWEpGQ2thcmoyUkl1SkNSakFLMWZmZWFTUGN3MUNhZkEzTUo1RzhwUzVXSkVlSGNtWndrSHNyWFItRjdkeURjYTVueTA1bnBXME0ySjV2eHJkN2hHOEVpNnk5TC1nLUxrelM5YXcySm1HY1lPazgtLXM3MEpyUWU2ODRLSFlBSTU2enJLYnhYZ1hjeDlGNVptVjVjMkFNcjBoYUx4aTE3LURLdU5GQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T10:18:17+00:00"
+  },
+  {
+    "id": "10e06462e3b76f03a82356eb6f3b7e2f",
+    "titulo": "Quais são cinco caminhões mais caros à venda no Brasil? - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTlOQlQwMVV5RzVGcjdUZEZDaWRvM19ybEM2UGZFN0tMOEhWRGJrcjRQdUVnbWhnb0h5WXhfenYxenpTdklfejRKZ2RDSzFHaVlLWUUwZEZPeDJtN2R5NzRpM0Q0cm5adW5uRDh0SjBOUFp5elhRYzI0WkFlVzVCLWVqZkFZd1ZSaTdYWUEzdUM2SHBDekt2SUhmZ1Y5ZVl3LVVKWU4xeUZwV21pNmNRUtIBsAFBVV95cUxNUTlOQlQwMVV5RzVGcjdUZEZDaWRvM19ybEM2UGZFN0tMOEhWRGJrcjRQdUVnbWhnb0h5WXhfenYxenpTdklfejRKZ2RDSzFHaVlLWUUwZEZPeDJtN2R5NzRpM0Q0cm5adW5uRDh0SjBOUFp5elhRYzI0WkFlVzVCLWVqZkFZd1ZSaTdYWUEzdUM2SHBDekt2SUhmZ1Y5ZVl3LVVKWU4xeUZwV21pNmNRUg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T09:41:00+00:00"
+  },
+  {
+    "id": "45aabe18a1efad9e2bd9b04e5e739748",
+    "titulo": "Exportações de milho da Argentina disparam após safra recorde e forte alta dos preços internacionais - Portal DBO",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVpYbHlZQ1JpaUc3Y1BVUEhXcGt5cFpCOExtUEZreTgtWTBITWE4bDFlMmFpSkZ3YkZqUVgwOHdvRVRUS3kxOExHaERxOEJ3Z3pHTkZNenI2NF8tM19UcWZDMnFXYWZ4cWpxWGxlRV9KYXJocDAyamRxeG05WEZvZDNzdTRLazdIeTE0UDlzWWs2eF9HaDVQQWRuU2ktN0RvNHBqMjk2MXA2R09TYzZMNTBJZkdQRV8zWlk2VEJ3dkdOU2ot?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T14:19:15+00:00"
+  },
+  {
+    "id": "29457a5a429a0d99e97ae813e1c328e7",
+    "titulo": "Quais são cinco caminhões mais caros à venda no Brasil? - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0EzN1BJUV9BcnJXS2U0cVlQcFh4UFd4TFpYZkJyNGVPbFVOeUFNQm1XQlMtLVNHZ1AtQU9KV1VkMnlYMFFSWXAzX1dmbXZIR0I2RS1qUm1uTW5wLTJwMDJfQlJOamU2S0d3SXZDTDVKb3FXSlZTZmlwbl85SW0wZjc3Zi16ZndORXdCZ0dhVmdvVDJlMHlTdTJCcmFKcXF2cDZob182c2dmUW_SAbABQVVfeXFMTVE5TkJUMDFVeUc1RnI3VGRGQ2lkbzNfcmxDNlBmRTdLTDhIVkRia3I0UHVFZ21oZ29IeVl4X3p2MXp6U3ZJX3o0SmdkQ0sxR2lZS1lFMGRGT3gybTdkeTc0aTNENHJuWnVubkQ4dEowTlBaeXpYUWMyNFpBZVc1Qi1lamZBWXdWUmk3WFlBM3VDNkhwQ3pLdklIZmdWOWVZdy1VSllOMXlGcFdtaTZjUVI?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T09:41:00+00:00"
+  },
+  {
+    "id": "63b824bc6a8a70e0d597c203cbeebe43",
+    "titulo": "Quais são cinco caminhões mais caros à venda no Brasil? - Terra",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEdYa2hKTW1idE9fX0RzWVR4cVpCb0RhX2VjNXFiOXNEVFQxakp5NUNDQUlMN01xRDBtWjZTT08zWGNkQWtjQVB6VXNVcHRYRl82TWIzdVdZU1k0YVpMZ3lqUjNsWkhJdjA1dGExMEVtOTN2bW51Nk9HV1pyTFNKVnpfRlFray05VlJKSFZvTlBmUGQ2MlQycURtMmdXN1JjSE42T09sVURwWEVpd3NPenRvX2o5eG1ScWpYZXRESzNWSHRacFQybVBLd0w4OFk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T09:51:00+00:00"
+  },
+  {
+    "id": "7bb2f3272d39d564d9b2ee9ae3f0fc27",
+    "titulo": "Volvo VM e FM conquistam o Prêmio Campeão de Revenda 2026 - Frota&amp;Cia",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnp5c2xiSFh6ZkJzcWNEd1BtQkMtaVhSd1dOVGdyLU9MeW9aZURlN0Y0QzJKT3VsRkNGUVFTNVJjNlRtTHNqYVlZT0pIb2JwenFhRzdTQU9nS0xaTWpzQ0dEaG1GZm5zRW1HUHoxZU1YVHpFX0R2RFE0d2U5Z3dNQjVZZE9qVXlwbkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T16:27:00+00:00"
+  },
+  {
     "id": "86f261dc420296de0175395698fbccf0",
     "titulo": "DAF atende perdido de cliente e produz um XD Electric para ser exclusivo",
     "link": "https://frotanews.com.br/noticias-daf/",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "ec0fce4952341473dcf66c57a2162d20",
+    "titulo": "4.Festival Interlagos acaba amanhã; veja o que cada marca exibe no evento",
+    "link": "https://www.estadao.com.br/jornal-do-carro/festival-interlagos-acaba-amanha-veja-o-que-cada-marca-exibe-no-evento/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T17:47:37.688171"
+  },
+  {
+    "id": "fc7e976dfa4b76b5fd4b689b1bb82da2",
+    "titulo": "Os carros mais vendidos na modalidade de vendas diretas em julho de 2026 - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelZjQmdLdnF1bi0td0FYRURPOWdWT2tpQ0Ezd29ycU5sVUZPWGlsWWQ4U1ZmZDRwdjgzdGktcWExdF9icXh0ak51VWE0YVh2aXNvY3QySmtob2hzWHFsbWdEMmpTcEhyQXBCRXAtRE5IY2I4RzZ0Z2JMRk9PRGtoN0VPcnlJVGhfbVZvc216dlRpMjB6ajRRVlN30gGfAUFVX3lxTFBweEhfaXItQVhXdnJkRFpqcUs0dDZqcjV5d2laSXFxeDFlMVR0Sk05NGtvQXJWYXp1M2hGQnl6dVhnRnc3VjBKX0xkdmVHRHAzamp1YTlZelhkQklUMGl4Y2hfZXdzQUR6bGxiZWFBcTdocGVzb2VwR1l0X1E4bkhCNWJEdTltYllvRDRTMWpKZURtY1RoQS1TLUhiU1d0OA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-06T07:00:00+00:00"
+  },
+  {
     "id": "97dee55af460ffbd631b357540b3e0ae",
     "titulo": "Vasol V7: Com design de Scania, caminhões chineses ocupam vácuo de marcas europeias no leste europeu",
     "link": "https://frotanews.com.br/caminhao-vasol-v7-scania/",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "97dee55af460ffbd631b357540b3e0ae",
+    "titulo": "Vasol V7: Com design de Scania, caminhões chineses ocupam vácuo de marcas europeias no leste europeu",
+    "link": "https://frotanews.com.br/caminhao-vasol-v7-scania/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-29T14:13:24.493554"
+  },
+  {
+    "id": "8385db81b6516fa2dafdc4867d254b00",
+    "titulo": "Mercado de ônibus pode fechar 2026 perto de 19 mil unidades, estima Mercedes-Benz - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOGxsWlA1RGo4MllIVG5NTUo2VG5lWGhPOUt5SmoxdDJ0WHltMk5sZUdKOHpmS1JlTVZmVnZ1S2hBbjhGNENYSjlXdjE3aGg5MzBpRkV5X2dVXzVTMExkeVF2WGE0SnpKcDNfWjhsWVlxV1ZJa3oxSWt0WnhsRkhIYlpsc1BNQ3BFQUV1dHRiRUlvRFdrNFNuTGVQcXUwUUVqSUJFN3ZBUjlWRG9oUWN2bWFnbndwcFJhbm9GblJIUmw2eFpzOUZuNUt5MU8tLUNRY2c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-14T17:27:00+00:00"
+  },
+  {
     "id": "c35be4598aff47c9d1781122f6eaf765",
     "titulo": "5.Quais são cinco caminhões mais caros à venda no Brasil?",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quais-sao-cinco-caminhoes-mais-caros-a-venda-no-brasil/",

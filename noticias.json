@@ -1,5 +1,31 @@
 [
   {
+    "id": "5599c5d2e05f37ceb7dfaa0d8e525bfa",
+    "titulo": "3.Honda Prelude é previsível e civilizado para não ficar guardado à espera do fim de semana",
+    "link": "https://www.estadao.com.br/jornal-do-carro/honda-prelude-e-previsivel-e-civilizado-para-nao-ficar-guardado-a-espera-do-fim-de-semana/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-30T20:44:06.264755"
+  },
+  {
+    "id": "85763b02c20a51d19493c7550679bc4a",
+    "titulo": "VWCO marca 300 chassis elétricos comercializados e lança oficialmente os novos e-Volksbus 22H e 18H - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2VSanp4QmpNZUtrRGUzd0Y5QlJFVWhyaUF3eFJidlNtR2V2ekpoX2tEc0hYbTAyOUc0QTIyQktIb2k2OC1qaVpPS0gzMS1NN1RqWmJ6YkVfOUdWdDVXWHdvdmNqd2dhZTFYQU5YMDQ0UHgyR2l6ZF9BSHRQNmNkTExWN29GUW5BbkFOX3Y2RFRwNVBEUnRpTVlPNllkV1A1NW1DT1dJMGwxZXNtMDJfby00ZFQyS2EyUVZUYmI5cWRXN3NrNTZkc2xWLVhxVlFTYUMxUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-12T07:00:00+00:00"
+  },
+  {
     "id": "1a06433229d2d957b30bd1cf4b031787",
     "titulo": "4.Quais são cinco caminhões mais caros à venda no Brasil?",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quais-sao-cinco-caminhoes-mais-caros-a-venda-no-brasil/",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "2e4c4b9e4122ae049e00c80b7d708977",
+    "titulo": "2.Honda Prelude é previsível e civilizado para não ficar guardado à espera do fim de semana",
+    "link": "https://www.estadao.com.br/jornal-do-carro/honda-prelude-e-previsivel-e-civilizado-para-nao-ficar-guardado-a-espera-do-fim-de-semana/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-30T23:16:52.436403"
+  },
+  {
+    "id": "519c52792440792411720b9e8d3445d1",
+    "titulo": "3.Quais são cinco caminhões mais caros à venda no Brasil?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quais-sao-cinco-caminhoes-mais-caros-a-venda-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-30T23:16:52.436417"
+  },
+  {
     "id": "5599c5d2e05f37ceb7dfaa0d8e525bfa",
     "titulo": "3.Honda Prelude é previsível e civilizado para não ficar guardado à espera do fim de semana",
     "link": "https://www.estadao.com.br/jornal-do-carro/honda-prelude-e-previsivel-e-civilizado-para-nao-ficar-guardado-a-espera-do-fim-de-semana/",

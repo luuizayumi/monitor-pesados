@@ -1,5 +1,116 @@
 [
   {
+    "id": "5b48b6603ac6935adad716c00152ad6d",
+    "titulo": "Sílvio Renan retorna à Scania para recuperar participação e expandir os negócios",
+    "link": "https://www.autodata.com.br/noticias/2026/08/31/silvio-renan-retorna-a-scania-para-recuperar-participacao-e-expandir-os-negocios/133851/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-31T15:57:05.791970"
+  },
+  {
+    "id": "2999d523a79a8b9c1d8cf475022419c7",
+    "titulo": "Caminhão a gás da Reiter Log ganha conjunto de 32 paletes e autonomia de até 1 mil km",
+    "link": "https://www.autodata.com.br/mobility/2026/08/31/caminhao-a-gas-da-reiter-log-ganha-conjunto-de-32-paletes-e-autonomia-de-ate-1-mil-km/133837/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-31T15:57:05.791984"
+  },
+  {
+    "id": "00b9e2710b863ca30789bdc78153a4aa",
+    "titulo": "VW Caminhões anuncia venda de 375 caminhões, maior já realizada em Honduras",
+    "link": "https://frotanews.com.br/ultimas-noticias-vwco-2026/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-31T15:57:07.518137"
+  },
+  {
+    "id": "f0067610acf0378b66d608a6a8ba92a7",
+    "titulo": "O custo de uma falha começa muito antes de o caminhão parar",
+    "link": "https://frotanews.com.br/artigo-custo-de-uma-falha/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-31T15:57:07.518150"
+  },
+  {
+    "id": "e8a8a0dc4f9c0360a18dd645f7a737ed",
+    "titulo": "1.Honda Prelude é previsível e civilizado para não ficar guardado à espera do fim de semana",
+    "link": "https://www.estadao.com.br/jornal-do-carro/honda-prelude-e-previsivel-e-civilizado-para-nao-ficar-guardado-a-espera-do-fim-de-semana/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-31T15:57:09.458058"
+  },
+  {
+    "id": "814604f76335355ec7d7030983b0ac1d",
+    "titulo": "GWM realiza primeiro transporte de carga com caminhão a hidrogênio",
+    "link": "https://www.balcaoautomotivo.com/2026/08/31/gwm-realiza-primeiro-transporte-de-carga-com-caminhao-a-hidrogenio/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-31T15:57:14.734373"
+  },
+  {
+    "id": "c89d3d37fe86695fb540e95d1a792ca0",
+    "titulo": "top 100 carros mais vendidos do Brasil em julho de 2026; Strada domina e Tera encosta no Polo - Webmotors",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWY5TGxHNWtucWMxc19HMmdHazQ5QzNRTUN0ZEVobzl1NWQzMkZFMENaWGd3SlkyaFFSLUp1ak00UFhaSXNGalhtZ0dHN2xaejVFa1hTRlFWd1F1UFQzN3BkVFB4dTE2TjlacmNmZkdZWFV2V2lEOG91cHVPcUlXb01oa3RWZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T07:00:00+00:00"
+  },
+  {
+    "id": "0dd846840bcda3f1fc60bc3525fa01b6",
+    "titulo": "Venda de veículos financiados em Minas Gerais cresce 7,4% em julho - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkkyYzlVVWJZRWZBYXlxZ2Z3YW5NM2lIdVM4ODB5aktNbkhJV01CbXVnaGtRZXppR09aNkY2N2NlVnE3SnR3WGR1dFktbUR2RWdRbDV3b2dLUnNzdC1XMnhpX1hOTXNpQjk2MnhvSGVaNG9MZXdjSGcxbGE1OVhLbnNSWWF6UEZwTXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T08:00:00+00:00"
+  },
+  {
+    "id": "bbd32f2258cf25bd539246cea5c8fc90",
+    "titulo": "Confira o ranking dos livros mais vendidos da semana (17/08 a 23/08) - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0hQUjFnWmF4cnZTZ3o1M3FwS09qb0RLZ2FkV2RuRkFaUnhGcjJ3Rm0wNHpvdFR4VnkwVTltUXpkUnBFa3B3TXA2XzJ6eC1RTVk4WGo1azNpTWtzeFhTd3lreHJwMHlXcDJDcEZlM0QxRngtd0VFaDFOMTV4dVg3aUEyNnFqTl9Tb09QUDl2WXJySFNLdFlxTmhjM29FQ25OWllKSDg5VXc3dm1GQmptNkFONXZEbmE3dFJmY2pyaG1EOTQycUZIX9IB1wFBVV95cUxQajg2ajMwRnZ1dzNQWHV6YTRKRWZDcXdieTBYdWMwUms2RC1xN3ZGQVBMX1VIQU9ZTVhLMU5mT09FZEM5ZU1QZ01LZTZuNWJ6aVlpUkQ5aUNMSVhFZmxxWjhJd3M4bXJ6U1g3UXEtMVN1NDdkTzhZVEYtdFozWk1Ha2Iwb0dKazVRcVdfd0diN2tYV3l3bk9aNzJIUEFjRmMzd2FEN09DRzdBdy0waWV3dGRYZU1FYmdmeURFdFAyQlVMNjlTZkpINkZVZFlEd3hXTVQtSzh4bw?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T06:30:51+00:00"
+  },
+  {
     "id": "2e4c4b9e4122ae049e00c80b7d708977",
     "titulo": "2.Honda Prelude é previsível e civilizado para não ficar guardado à espera do fim de semana",
     "link": "https://www.estadao.com.br/jornal-do-carro/honda-prelude-e-previsivel-e-civilizado-para-nao-ficar-guardado-a-espera-do-fim-de-semana/",

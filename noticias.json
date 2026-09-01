@@ -1,5 +1,53 @@
 [
   {
+    "id": "6fb8ec2c0a8a6b5392e4bf32b779c140",
+    "titulo": "Geely abre programa para venda direta no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/09/01/geely-abre-programa-para-venda-direta-no-brasil/134556/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T21:57:35.750143"
+  },
+  {
+    "id": "d739f9315c7dee4ee4dbb685d1d3fc05",
+    "titulo": "Foton amplia rede e alcança 77 concessionárias no Brasil",
+    "link": "https://frotanews.com.br/noticias-rede-foton/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-01T21:57:37.281482"
+  },
+  {
+    "id": "b0fd0e7542799fca40e380f57aba6d9b",
+    "titulo": "Carro aposentado está superando o Corolla em vendas - abcmais.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnpKdmxxZXNtXzlSLW0wakUzUzlmMmNCdEdvUW41RnQzQk5yQ0syT25WQUJ6aS1OZGJoUlR5bllwaWZLNzNsTEhsX2dXNmFGaG84dUlFMkZjZm00MEJwMktYU0FRMXQ3elRoM0ctZ3k5T2FkNzI2VmNJVjlYSnltaUdRSTRyY1pGT3E0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-08T07:00:00+00:00"
+  },
+  {
+    "id": "b3ba5369d28385871037b1fa11ac1276",
+    "titulo": "BYD Dolphin Mini fica R$ 9 mil mais barato para CNPJ em agosto de 2026; confira o preço final - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2dWbnlzTUZHaU9USS1YS3FJRHVpZjVndmdXR045cHUwU0p3R01INThUMm85Y2YyWTBoU3Y4aEZGRE1wTzNjVm0ydkc1cm84QjJNemxXZF9xTG4tejdhVnpzRE9VWFlibHlFY3FaSHl4NE5aX3VpLU0zbkhNYmNER1JIZkZUbHYzM2hOY9IBkgFBVV95cUxObXBwcTVHSnVMS1M1cndMN205a3NiSkU4QWlqQ2tqTFQwVVZWcDFjcEs1N1gyTU1qWVZWalB4RXdzZkdEZ3dHbnRvZGJ0TTBtLTBRSlJlRTBQT3hFUWRIeWJvWHhpeW84dWFMYVRVSk1WVGlFZV9xTHlZRl9CSm84YTUyQVVsOEI1Z0toUkdRZ3JRUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-31T23:52:00+00:00"
+  },
+  {
     "id": "8201044b69059e5b09bcbf19f22f1c35",
     "titulo": "1.Aceleramos (e vimos nascer) o caminhão mais potente fabricado no Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aceleramos-e-vimos-nascer-o-caminhao-mais-potente-fabricado-no-brasil/",

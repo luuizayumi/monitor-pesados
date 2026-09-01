@@ -1,5 +1,165 @@
 [
   {
+    "id": "57bb7a05dc1f31de4d7574784064fca9",
+    "titulo": "Vendas de veículos leves crescem 22% em agosto",
+    "link": "https://www.autodata.com.br/noticias/2026/09/01/vendas-de-veiculos-leves-crescem-22-em-agosto/134477/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T16:15:33.820296"
+  },
+  {
+    "id": "15dcb63ce391ad1406e9816f3a004673",
+    "titulo": "ZF PowerLine leva conforto de automóveis aos caminhões e ônibus de 13 t a 23 toneladas",
+    "link": "https://www.autodata.com.br/mobility/2026/09/01/zf-powerline-leva-conforto-de-automoveis-aos-caminhoes-e-onibus-de-13-t-a-23-toneladas/133522/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-01T16:15:33.820312"
+  },
+  {
+    "id": "d03c11e3dedfcc2d3444b8ee64f25eb1",
+    "titulo": "Frota conectada, dados desconectados é o novo desafio da gestão de frotas no Brasil",
+    "link": "https://frotanews.com.br/artigo-frota-conectada/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-01T16:15:35.377651"
+  },
+  {
+    "id": "e0ca2e9bf445cb4386bab0e75e0875fa",
+    "titulo": "Compradores de ônibus: Real Brasil incorpora 30 novos Marcopolo",
+    "link": "https://frotanews.com.br/compradores-de-onibus/",
+    "fonte": "Frota News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-01T16:15:35.377663"
+  },
+  {
+    "id": "cf388d7644a43114406ab907a4201866",
+    "titulo": "2.Fiuk coloca Fiat Uno Mille 1996 à venda por R$ 54 mil - seis vezes mais que o valor da tabela Fipe",
+    "link": "https://www.estadao.com.br/jornal-do-carro/fiuk-coloca-fiat-uno-mille-1996-a-venda-por-r-54-mil-seis-vezes-mais-que-o-valor-da-tabela-fipe/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T16:15:37.209703"
+  },
+  {
+    "id": "11389c6872f762ac4505b53134e44f1d",
+    "titulo": "3.‘BYD das motos’ vende quarto lote em 3 minutos; maior parte das vendas foi da CFMoto Ibex 450",
+    "link": "https://www.estadao.com.br/jornal-do-carro/byd-das-motos-vende-quarto-lote-em-3-minutos-maior-parte-das-vendas-foi-da-cfmoto-ibex-450/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T16:15:37.209718"
+  },
+  {
+    "id": "ceacb46b3e967fff19557f8a6f2ed598",
+    "titulo": "Um de cada quatro veículos leves vendidos em agosto é de marca chinesa",
+    "link": "https://www.balcaoautomotivo.com/2026/09/01/um-de-cada-quatro-veiculos-leves-vendidos-em-agosto-e-de-marca-chinesa/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T16:15:43.433596"
+  },
+  {
+    "id": "1d14b04ebbda7f88627622b179db19a6",
+    "titulo": "Quais são cinco caminhões mais caros à venda no Brasil? - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0EzN1BJUV9BcnJXS2U0cVlQcFh4UFd4TFpYZkJyNGVPbFVOeUFNQm1XQlMtLVNHZ1AtQU9KV1VkMnlYMFFSWXAzX1dmbXZIR0I2RS1qUm1uTW5wLTJwMDJfQlJOamU2S0d3SXZDTDVKb3FXSlZTZmlwbl85SW0wZjc3Zi16ZndORXdCZ0dhVmdvVDJlMHlTdTJCcmFKcXF2cDZob182c2dmUW_SAbABQVVfeXFMTVE5TkJUMDFVeUc1RnI3VGRGQ2lkbzNfcmxDNlBmRTdLTDhIVkRia3I0UHVFZ21oZ29IeVl4X3p2MXp6U3ZJX3o0SmdkQ0sxR2lZS1lFMGRGT3gybTdkeTc0aTNENHJuWnVubkQ4dEowTlBaeXpYUWMyNFpBZVc1Qi1lamZBWXdWUmk3WFlBM3VDNkhwQ3pLdklIZmdWOWVZdy1VSllOMXlGcFdtaTZjUVI?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T09:41:00+00:00"
+  },
+  {
+    "id": "c8eab8ba3b4528e73e1a62a0a1ff1583",
+    "titulo": "Conheça os cinco caminhões mais caros à venda no Brasil - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUltWmloRHNiWEpGQ2thcmoyUkl1SkNSakFLMWZmZWFTUGN3MUNhZkEzTUo1RzhwUzVXSkVlSGNtWndrSHNyWFItRjdkeURjYTVueTA1bnBXME0ySjV2eHJkN2hHOEVpNnk5TC1nLUxrelM5YXcySm1HY1lPazgtLXM3MEpyUWU2ODRLSFlBSTU2enJLYnhYZ1hjeDlGNVptVjVjMkFNcjBoYUx4aTE3LURLdU5GQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-31T23:15:53+00:00"
+  },
+  {
+    "id": "771a4add5c2f063f716205722e6b7eb7",
+    "titulo": "Volkswagen Caminhões e Ônibus concretiza venda recorde em Honduras com 375 veículos - bluestudio.estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUHQ5VFF3aHJfVnRTMTkyWmNtbnpiMnRWMUxsQVlkcXVTMEVsZlNSaHNicHRfZm9TMlRSMzJ2TWNMV2EydHZMV0tSdU5ZT3ltSzBnQ203YU1pUkZIeE5ObU5TN1lRemFMT3VrcXFJX3BqdFJMX2lzenVnVnU5emZqQU4wMmd1NHBDbl9uQ2tEeEZCekhZWmxpM0hHWm9GdGFvMHB5MTJoaHhnTWlXWHBwT1QxY0tNcERhcnRiTk9FdTUtbGkzVWNEWGtQak9nUDFnTlZna3NUanRJNlhPWXRWRDhjQ1VUUXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-31T15:26:17+00:00"
+  },
+  {
+    "id": "eeec46875034fc3b5985ed7b68a16ab8",
+    "titulo": "Conheça os cinco caminhões mais potentes à venda no Brasil - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTF9XTEt1VFNmRk94SHdkUm1fN3ZCT2VER0E3V3FJLTV5bDQzWTVUUTV3bzhoeTN4d1JfQ25VbE9fR1lQbmx0MHlWLWF3M1MwNHRoT2FDdzN3RkNPQ0J3SWNRSUJOVzZZMEVXSVo0Zy1IWTdCdXItd0NNYnp3SGdnc0NLcHBMeFhkb1VuNEpBR09NMk9nR3VXLU8wOVFmeXN4NTFnS29UdlJseUJ2STZMVNIBtgFBVV95cUxNUVJVaFdpREFGRS01MGpLUi1XQk1JblcxT0p1WDFTVUJXaVp5TjlHX3pJVUd3OUEyRDA0aHpkbnZYdVlyTmpJeDBGTlRHcmYwaFRSdkd0ai1HazNsNm9WME5Udy0zMFlPZzhrb2hrRk5OaUdXSnNRSWs5SkN2WXJoZlN3UFhfclJoSmJOOVY2eERWM2ZrZUs3UVliQkFTX2ZaalhMVTJ5RXZLSklVOXQ1M2d3Q2x6UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T07:00:00+00:00"
+  },
+  {
+    "id": "50fbf34a0be5dffac93583f73a3fc68a",
+    "titulo": "Scania entra na briga dos caminhões elétricos no Brasil e entrega 1ª unidade - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTJia2E1WUVtVE1wWldkZlFXSndVY0t3dXczZExUbk5XdTVpMnZTQ3JfMUNsRC13Tm1XU0ZyS05tdm9iQS1kSE0zUFhOSGk2cTFwVHEwSEg4LWJtSnpwVHhxRVpvUjQtYnZHUFEtNldZV1lQZmJ6amNWc3Rua1UzckFqSXl4dThycGdaeEh4WXNoU3RvOTlBZUJDaVRrRmZXZHo1bjJsZmx5b0VJOFREa09fNGxOcGtiOC1IRHlUcXdGVDlPM3lN0gHMAUFVX3lxTFBJR0E0eENQbzFkeDhzd1EyQmxYUTE2VmdlVklZRXVVYW55Q21CWlhUN2F5Skhia3RBZXVxVEVZaWtNb2NsQXJ4MmRnMlBhbThxZHZRTVVHeFFMMUVSaWhxbU9NRGkyRUR6LW4wMlJKQ3JuMFQ2ajJYQmpLQjlJZFNuUVloTm9iN043Z2pCcUxyWXhvd0EwLXJHYzlnT29sQWNsMFExUUFYMm1VQk9HcXJSNWtmUEQyLS1mX2pfYjJfM3hOTkFmSWl1bnZVNw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-27T11:12:00+00:00"
+  },
+  {
+    "id": "97bdb88ff5c0d23072644624e2bcb0cf",
+    "titulo": "TJGO fará leilão de 490 veículos apreendidos; caminhão Volvo terá lance inicial de R$ 197 mil - rotajuridica.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDlUYWtwRGhNSUdXSnRQRVV0QXpFLW00czZibFdQRzNuU3c4WUdWT3ZwdUZPNnljb1hsN1RMdWs2YzZ4cTdrTTlWTGo5UG50ZnpHTkJZS2F0R05kZ2huUUY5VU5XNE84VEU5aGNTcGw2aThEbkJ2VUlHSWMtRmVXUE0yRnNNXzNYcGpXalZEb2t5NWkyenRUc1ZMRFd5OUkzQjd6Nmx3V3l2WWlLRmtXV3ZldHZXOWxhUEhzUjJmY1VNZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-12T07:00:00+00:00"
+  },
+  {
     "id": "e6adc0cf5d6d59e33e0a4e6f2ce089e9",
     "titulo": "1.‘BYD das motos’ vende quarto lote em 3 minutos; maior parte das vendas foi da CFMoto Ibex 450",
     "link": "https://www.estadao.com.br/jornal-do-carro/byd-das-motos-vende-quarto-lote-em-3-minutos-maior-parte-das-vendas-foi-da-cfmoto-ibex-450/",

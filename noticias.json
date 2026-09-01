@@ -1,5 +1,55 @@
 [
   {
+    "id": "e6adc0cf5d6d59e33e0a4e6f2ce089e9",
+    "titulo": "1.‘BYD das motos’ vende quarto lote em 3 minutos; maior parte das vendas foi da CFMoto Ibex 450",
+    "link": "https://www.estadao.com.br/jornal-do-carro/byd-das-motos-vende-quarto-lote-em-3-minutos-maior-parte-das-vendas-foi-da-cfmoto-ibex-450/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T11:55:22.801242"
+  },
+  {
+    "id": "05200a5e675ad4b1c843c25462a73934",
+    "titulo": "Volkswagen Caminhões e Ônibus concretiza venda recorde em Honduras com 375 veículos - Estadão Blue Studio",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUHQ5VFF3aHJfVnRTMTkyWmNtbnpiMnRWMUxsQVlkcXVTMEVsZlNSaHNicHRfZm9TMlRSMzJ2TWNMV2EydHZMV0tSdU5ZT3ltSzBnQ203YU1pUkZIeE5ObU5TN1lRemFMT3VrcXFJX3BqdFJMX2lzenVnVnU5emZqQU4wMmd1NHBDbl9uQ2tEeEZCekhZWmxpM0hHWm9GdGFvMHB5MTJoaHhnTWlXWHBwT1QxY0tNcERhcnRiTk9FdTUtbGkzVWNEWGtQak9nUDFnTlZna3NUanRJNlhPWXRWRDhjQ1VUUXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-31T15:26:17+00:00"
+  },
+  {
+    "id": "1d0079f3da43103165d6247b4082d58d",
+    "titulo": "Venda de veículos financiados em Minas Gerais cresce 7,4% em julho - diariodocomercio.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkkyYzlVVWJZRWZBYXlxZ2Z3YW5NM2lIdVM4ODB5aktNbkhJV01CbXVnaGtRZXppR09aNkY2N2NlVnE3SnR3WGR1dFktbUR2RWdRbDV3b2dLUnNzdC1XMnhpX1hOTXNpQjk2MnhvSGVaNG9MZXdjSGcxbGE1OVhLbnNSWWF6UEZwTXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T08:00:00+00:00"
+  },
+  {
+    "id": "57b7cbb06a6aa2d5073da1aa1fa79c2b",
+    "titulo": "Sprinter Truck é o caminhão semileve campeão de revenda em 2026 - Frota&amp;Cia",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTJsd0JoQm83bVZjdl9kYjIwdlVCOGNPRmFzZXMxNXBaa081clFKYk9yYXJoRXJVazFmS0dIbVBlLW9ORmFBVVVZckdRcm1oSWJkenhuSHFtb1ZyYTFqTDBiNm1WdjBOSnVVNjh5VFlQZFotVksybjJUY1pHYmVSd0FYeXJFZ0xPcWQxWVF2eXRmdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-28T14:02:03+00:00"
+  },
+  {
     "id": "517f7ed403a7de2e67006303e79c6259",
     "titulo": "3.Fiuk coloca Fiat Uno Mille 1996 à venda por R$ 54 mil - seis vezes mais que o valor da tabela Fipe",
     "link": "https://www.estadao.com.br/jornal-do-carro/fiuk-coloca-fiat-uno-mille-1996-a-venda-por-r-54-mil-seis-vezes-mais-que-o-valor-da-tabela-fipe/",

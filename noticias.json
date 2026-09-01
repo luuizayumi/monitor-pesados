@@ -1,5 +1,68 @@
 [
   {
+    "id": "8201044b69059e5b09bcbf19f22f1c35",
+    "titulo": "1.Aceleramos (e vimos nascer) o caminhão mais potente fabricado no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aceleramos-e-vimos-nascer-o-caminhao-mais-potente-fabricado-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-01T19:29:04.422094"
+  },
+  {
+    "id": "0eeb465863d477873a45dbdcebc84d6d",
+    "titulo": "4.Fiuk coloca Fiat Uno Mille 1996 à venda por R$ 54 mil - seis vezes mais que o valor da tabela Fipe",
+    "link": "https://www.estadao.com.br/jornal-do-carro/fiuk-coloca-fiat-uno-mille-1996-a-venda-por-r-54-mil-seis-vezes-mais-que-o-valor-da-tabela-fipe/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T19:29:04.422110"
+  },
+  {
+    "id": "c8fea6382ae03ea336a7547148034306",
+    "titulo": "Vendas de pneus nacionais caem 6,8% com avanço dos importados - revistacaminhoneiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXA2aHNEVFg2bHRIZ0RjUmluM1gya2xEaXluaXNiT0J6RnNXR0J6NlI0QnlzcUhCWE4zdDMxOFN4ZURLQ0hqbVJCZGg0ZXFxbVh3b0ZyLXFYQUpnZVk3c2hyMlVOTnNlMWwzYkZndko0cDZPeXBNc25kNTFTdGJXWnBpZ1RsMExiZ0tBMmtFb2JzR19ReVBCbXNzbTBWNkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T07:00:00+00:00"
+  },
+  {
+    "id": "e2676939c458c25f734c9c125c3ff0f9",
+    "titulo": "Volkswagen Caminhões e Ônibus fecha maior venda da história em Honduras, com 375 veículos - revistacaminhoneiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjhLN3NVX3BaSnNzdWxwbHJSaGVFelp1dUFzZERhSDhwXzN2Q0pnblNMd05oNHJ3bk1KRFdPeWtHVGUxRC1hbG9fR1p0cWxabzNTTFY4RXRKaWU3MlZEam8waEUwSnRDa1h4TWI1dTZ4LVJQZFRBQVNTS2VVX0libk9BcWx6U0p1TThCVVdUWVdNRDFWMzh5UHRpd3ZCb0xsLXlvWUQzcE1JNncxSEdxNnVweWFxczNobGtRNC1YV0l6YjFBTnc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T00:19:00+00:00"
+  },
+  {
+    "id": "0b20cab4c9500b777db2152eede9eb10",
+    "titulo": "Mercedes-Benz tem primeira mulher à frente da pós-venda de veículos comerciais na LAMEA - revistacaminhoneiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWw1VjROVGNPbWUydVRKTl90MFZESWNqenI5WUdxWmRRNG5TLWEwX09WeWsteVZYNjI4bTQ2ZGsxMzdraHhWdlZhOWV5MTB3Z3lqVkxkcDRCYzljeDQxWEFMWGxGcUpNaGU1RWZNOUFBX0MtVElGM3k0Z1ZodjF3U0lmUWptNUtOTC1NY3pLNmxWNlhRYVNXV0JYcGIyZE50VS0yMW0xNldQVGZ0ZXA3d2t3aUxKdWliM3JmVlNkVTFoRWJv?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-26T21:08:00+00:00"
+  },
+  {
     "id": "57bb7a05dc1f31de4d7574784064fca9",
     "titulo": "Vendas de veículos leves crescem 22% em agosto",
     "link": "https://www.autodata.com.br/noticias/2026/09/01/vendas-de-veiculos-leves-crescem-22-em-agosto/134477/",

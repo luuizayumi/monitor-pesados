@@ -1,5 +1,118 @@
 [
   {
+    "id": "49256399815578ce6748a071ac3cf2df",
+    "titulo": "FASYDNI nomeia o executivo Filipi Goshrman Cândido como responsável pela área de Expansão e Negócios",
+    "link": "https://frotanews.com.br/pessoas-fasydni/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-02T17:41:54.042595"
+  },
+  {
+    "id": "ae3513bd99c5c755a5729a67d1938376",
+    "titulo": "4.Aceleramos (e vimos nascer) o caminhão mais potente fabricado no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aceleramos-e-vimos-nascer-o-caminhao-mais-potente-fabricado-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-02T17:41:55.704015"
+  },
+  {
+    "id": "386fc1a96b3c251bfa2040afa311a770",
+    "titulo": "Carros mais vendidos no Brasil em agosto: mudanças no ranking — dia 30 - car.blog.br",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGlULW9WLUdDak9MOTR1ekRLZUo2RGJrYWxZRlpoTXVjQTd5RWNVQTYyY2R2LTFMTTZjVW5VbTJjQ3U2OHFjM0JGcldrR08xamk3eXdGOGZaSG1uV0dpS2FnTDdMdWljSU5rZVVwaF82UXBHOWNiLW5lbjljd1Z2TUszem8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-30T09:25:00+00:00"
+  },
+  {
+    "id": "c307a5208d178afc955c63431620c632",
+    "titulo": "Top 100 carros mais vendidos no Brasil até 30 de agosto de 2026; VW Tera encosta nas 10 mil unidades - Mundo do Automóvel para PCD",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYUZiM2o5YmRSMUtLdFU1SGNCamlER0N3N2JXcEZ5MTZISEtQVTNqbTFZQVh5aklrVGtzQ3hpSHJaZ1ppQy1pRFUzeGItRkIxRkQ0Sy0wdXpmaFlkRXNCUVpXcEpfaWFRVTJ2S2NiQktKNmRhQmVNdGt5aTBfcjdKVnJIR3FlcXdtZndUam0yekp5Snhqa0NqRVp6a0JVZEMxanowc2RTOTdEWi1pelJITV83MjJmLWppY3Jvem9QaFBNdHpmM2dTTFpNY0JSZDhjMjdZLWtn0gHbAUFVX3lxTE5jQWZiYnlLOEZhUWdadzBvdld6UEtTd1QxS2I0LU9rLXpONkVESWx4bVo0dHRWbG9NdHhlU1haTWxUcC03NUMxbEIySmt0T2pza3g3R0l2cHdHOXA5VnVXdWtnVEJzdGV3SGJjUHdhQmt1NnBOWEs1aE81RnoxYnJqeVlUWXdPanFybkRudDVfMVp1WWpzbVVQSThRckNSSU5VcUY3SkYwc2JmR2VSYVdWUmVPRi1VLWRycnJlQUhJLUtJNndmMkM5UXB5cENiX3FQVHl6dTZ2WXRtaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-31T00:57:00+00:00"
+  },
+  {
+    "id": "7be9509cee56fdc3851d56f23b5f341e",
+    "titulo": "China lidera salto nas vendas de veículos elétricos pesados e impulsiona mercado global em 2025 - brasil247.com",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXVoQmE3TG04UTRsdUJBd241WWxmWF8tMnFvTzFkZzNvS1dueDVDX3Rsei1iY0pyNzBhUDBKOU5RYTFSa1hYLThQR1cxWnhZYnBjS05SODNyejNNRk9KWXhvTEt3OFBNLUVtTDA0V0dqWHB6QzFzR19IYVNIY2kxUTZDSnNGRU9fM2ZJQ1RfaW1TVF9OOHVxWUlSbTBKM1dMVVhKVlo2RG00UjdUekUtY2lGSTBXQ3JXV3ZXWXBQYWp3bEFkS0M3b19Qbkc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-20T09:58:00+00:00"
+  },
+  {
+    "id": "cbc79d81e71902523ed8edab990a28d4",
+    "titulo": "TikTok cria transportadora com capital de R$ 111 milhões - automotivebusiness.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbi0tU1ZvaXNVOFBHRGptd2kzQXhjUWdVWkQxWG9qVWF6UDBIMmFEMFg0VUttbTRRY2l4T1RHbnpYcGlhZlhZQW5ocjBsemN6NXFKSGNyc0xYYXQxTVdRTUhlVzhxSjRWSlRIa3NaTHVhaVFyUnVEeTBvbnE2UkNxdm1yNk5BSDYwdjFZZFJKRVdSWkMtLVhVSzMwaDdNNGQ3UFdF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T05:02:17+00:00"
+  },
+  {
+    "id": "52354cead6e0782caef303e44d5c33c8",
+    "titulo": "BYD chega a mil chassis de ônibus elétricos fabricados em SP - automotivebusiness.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdndBWGt1Tm8tRGNHVTdqVkRsYmRwY1YtVjRKYlFVTk1XZU9KZi1MMGRFYzN2SFBPZ19hd1VsTTZVVXhFRGhBbjQ3aFdWTC1xc3p2SHdMakVlTlhSOC1ZWi1MdmdLSW1wSGZIQVFPSHZ6SFR3MzN5UlI3bThWLXVsSFVad0l3UjlrVzJNSkVBb3lSUV9sNFNOYWNRUUJ5bU5DUEh3dEtSOVdvak5ZTTVCRnBzN0otUjFN?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-26T22:54:32+00:00"
+  },
+  {
+    "id": "f3a73ae5ed2edd8afd6523b9a9edc0a2",
+    "titulo": "Mercedes-Benz nomeia primeira mulher para liderar Pós-Venda - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0M3NWNqaDZ2WnZmT2FYYjBoVzZnZ2I4SVhadGc3T3BIMm42NEg1TEdJLVBFRk1XUzBzOU50QWN1ZVFadHhZbERNYWlRc085LWJpU3o2SlNTQUdPRDBuYlJKNDlQVVV5MTlnWE5CblktUGh2Q0wzRFN0SEJ2d0kzWDZjeWFlaEh5NnY0cHg2bXJOZlNJSGtfUEJZUHdYY0VZMUF3TVU0OA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-24T19:22:45+00:00"
+  },
+  {
+    "id": "8e76c4d7063132aefeef648f4c279c7d",
+    "titulo": "DAF abre nova concessionária no RS com oito boxes e mira dobrar participação na região - Brasil do Trecho",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13TXRDMjMtdGt2OFAzY0hIUkFFdHRuN2xlWVU5NFd2dzZjNWpBdm1QTDhWbGR0QzUtUk1EVWw0TzJLdlVwUGthdjVzR2JuazI3TkJkbC1VUWRxaEw0RklZaWgwR2prYjJ3WFJDUjNIN21HUmJRZng3Uk9ZdGw?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-08-28T11:43:31+00:00"
+  },
+  {
     "id": "dad70dac61459adad060d4afd17d0e29",
     "titulo": "Paradas de ônibus se transformam em galeria de arte em Sorocaba",
     "link": "https://www.autodata.com.br/mobility/2026/09/02/paradas-de-onibus-se-transformam-em-galeria-de-arte-em-sorocaba/134560/",

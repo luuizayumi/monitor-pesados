@@ -1,5 +1,54 @@
 [
   {
+    "id": "9547a6ad6d5d490f87ac297596046973",
+    "titulo": "4.‘BYD das motos’ vende quarto lote em 3 minutos; maior parte das vendas foi da CFMoto Ibex 450",
+    "link": "https://www.estadao.com.br/jornal-do-carro/byd-das-motos-vende-quarto-lote-em-3-minutos-maior-parte-das-vendas-foi-da-cfmoto-ibex-450/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T04:15:15.513939"
+  },
+  {
+    "id": "7fc0791a0020d73bbd19cb8abe11271a",
+    "titulo": "Recorde de Market Share: Carros eletrificados respondem por 21% das vendas de veículos leves em julho - Portal Nosso Dia",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3hfb0ZXVWhYNWVKMWpmbGd6YUp1ck9xai1reVI5aWVwTXN3MHlORFFzcm5rc1h6X2ZyQTNyM2V6VDJYemkwdi05SmxKZ3ZmSG9QRm5mYWY1ZXhnSHd1Uno5MlR5aVZwazV4cWx4dmxMejFjdTZVQW1lZjljSklreHh1UFVldFBTSjA4R1ZsRFZnNEdvb1ZhUDRJUmF5aldXakk2cDEyUGduUWJyUldNTUxJQmNEYThrSmVrcnBUNUhWdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T18:53:40+00:00"
+  },
+  {
+    "id": "96c8352a4f4e46e6473f7a5b29b5d381",
+    "titulo": "Balanço do 34º Congresso Fenabrave: vendas aumentam 18% - jornalcruzeiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTNCS1RybmFDSDhwWHVuWHF1d0JEeUh4cjZQbjQtTklYcGYtOHFtOV9xMG1TdkdWRWNJcEZIdnR2Y1RfR0JmMjZVd2huSHdId3JLQlV1eEc0UFA5SllMam9QZ0E0N0x3V2hXS0MxTktPaWZJSnNPNnI4YjRDbjZnSmNNUmxraG93QU9EMXZsRUotZVNRRUVJcHpZYVpQYThQYl83R3dlS3h4dU5XdjNsQmNvSmRwRTBiRmoxLWdGV0hVeFRRaEM40gHHAUFVX3lxTE9lM0JLVHJuYUNIOHBYdW5YcXV3QkR5SHhyNlBuNC1OSVhwZi04cW05X3EwbVN2R1ZFY0lwRkh2dHZjVF9HQmYyNlV3aG5Id0h3cktCVXV4RzRQUDlKWUxqb1BnQTQ3THdXaFdLQzFOS09pZklKc082cjhiNENuNmdKY01SbGtob3dBT0QxdmxFSi1lU1FFRUlwellhWlBhOFBiXzdHd2VLeHh1Tld2M2xCY29KZHBFMGJGajEtZ0ZXSFV4VFFoQzg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T23:31:58+00:00"
+  },
+  {
+    "id": "c6fc19cebdccec3f0ce10b731ccb9c49",
+    "titulo": "Volksbus atinge marca de 200 mil chassis produzidos no Brasil - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORW1qQVdnWGNVTHZmR2VEOTlLMHJTZmdNV3h1RDJnYnBrcWZuR2N5V3ZsT3JtTFB1NVJERW1BdWdSUzVtS0V1Q0RpLUVNU0dITWNzRkJXWTBrQU1ZaGpIRzdjUjFvX2p3RlJTMERINlJua1dfdEVZZElpUGt6eFU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T13:43:00+00:00"
+  },
+  {
     "id": "6fb8ec2c0a8a6b5392e4bf32b779c140",
     "titulo": "Geely abre programa para venda direta no Brasil",
     "link": "https://www.autodata.com.br/mobility/2026/09/01/geely-abre-programa-para-venda-direta-no-brasil/134556/",

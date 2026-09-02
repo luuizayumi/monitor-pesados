@@ -1,5 +1,117 @@
 [
   {
+    "id": "dad70dac61459adad060d4afd17d0e29",
+    "titulo": "Paradas de ônibus se transformam em galeria de arte em Sorocaba",
+    "link": "https://www.autodata.com.br/mobility/2026/09/02/paradas-de-onibus-se-transformam-em-galeria-de-arte-em-sorocaba/134560/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-02T13:31:18.514925"
+  },
+  {
+    "id": "3683806dfa12015f7cabb9f1f6ddab26",
+    "titulo": "Ônibus elétrico: Entre 270 km e 500 km: O marco da Iveco e o descompasso da autonomia no Brasil",
+    "link": "https://frotanews.com.br/comparativo-autonomia-onibus-eletrico/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-02T13:31:22.490253"
+  },
+  {
+    "id": "089365c1c640f38f24300ee4cab6a217",
+    "titulo": "Venda dos aeroportos: Motiva destrava bilhões para focar no setor rodoviário e ferroviário urbano",
+    "link": "https://frotanews.com.br/noticias-motiva/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T13:31:22.490265"
+  },
+  {
+    "id": "258b604ca3132eb0fc5963415925a2eb",
+    "titulo": "Carros mais vendidos no Brasil em agosto: mudanças no ranking — dia 29 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1JIcjR5akRMYUhrMnJ6S0RBbS1FWm1mRjRGdzRUYnU2QnFYUWNnSTA5S2tQS0lUZDFlYjBrOXlXZ2tfSnliTy1qTGlteHBQSE9vdkZ3SXgwaDV6TnhzMXQ1QzhxYWFQNUo3SDNkUWpqemxJcDVrcFVpOHF0b1ZOTnhycG8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T12:05:00+00:00"
+  },
+  {
+    "id": "d1315267bd83640d2288db81b9c17452",
+    "titulo": "Produção de veículos tem melhor julho em 7 anos, diz Anfavea; vendas são as maiores em 12 anos - Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHFWUEY3V0xMblFnTk84STF2X3JBQk42Z0kwZ3lkRGRXcHdYZGVWOGtDcHBQUTdWdHZZbWk5Y1J2WTVYMEtKYUcwZ2FyY1p0V25KVHFuRkhZazkzS0dfRjZsLXUxLW4wLU5NcWpEc1NhYThKVGpVQWZ5d0pXeHpSVXZIampzbE1PYXpGeDBRb3pnbUtlZE5BSzBINUJfa3NrU09DN1VLN0FPYl9LN1pCa19ocnExWUVYT0J0Q2FTNkFXbUdNb2tnLXVyeVlDdXBaVDdkcDJMaXljOFJPQk82NFdvNFRLQUc5NGY4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T07:00:00+00:00"
+  },
+  {
+    "id": "42d72c0271ef9e7ffe6c40fbef697aad",
+    "titulo": "Balanço do 34º Congresso Fenabrave: vendas aumentam 18% - jornalcruzeiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGRSMXZCbHVja1BHWjR5MTVNNUJwM2R6UmQyMTVOYk11SHVmNDJzYUlHMzdKek9tVE9MajllNGx3cTZBa1JiaGZuTm93UC1XTVpOY1U1SWhOSzI5T0d3WllBWjFIYlVTSDNnd0ZLV1hYNFdvdzlEbVNQcWhNWm1SdmdaNy00NGtkbm5MODVsdzVXeUdQRV83NElFSmxRQ2xsalFveTNHZVRBWlVKTXBRbFRXN3JCOExORy1kS2otcV9WQdIBxwFBVV95cUxPZTNCS1RybmFDSDhwWHVuWHF1d0JEeUh4cjZQbjQtTklYcGYtOHFtOV9xMG1TdkdWRWNJcEZIdnR2Y1RfR0JmMjZVd2huSHdId3JLQlV1eEc0UFA5SllMam9QZ0E0N0x3V2hXS0MxTktPaWZJSnNPNnI4YjRDbjZnSmNNUmxraG93QU9EMXZsRUotZVNRRUVJcHpZYVpQYThQYl83R3dlS3h4dU5XdjNsQmNvSmRwRTBiRmoxLWdGV0hVeFRRaEM4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T23:31:00+00:00"
+  },
+  {
+    "id": "d68ad9ff6adaaaea9ce9223406dff8ad",
+    "titulo": "Mercado de veículos cresce 10,2% e soma 107,6 mil na 1ª quinzena; caminhões e ônibus voltam a avançar - garagem 360",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJocnVVT1U0aUhuMkhnLURSYWNGbnFzVEdqbGhXTENkNHBfd2RzNUIxN2ctQ01xUmVlSTJwMTk4alJzaC04VHJPMXY2aTI5ZkZJdEhwWW9mNzIxcFVOTFNPYVhJOGdSVm5jWTBhUTNzM2dwM2pYQ09fYktuWUZVdGpwMGsyRXFDLVl5QUprYWpybDNnRG1fanVTOWd4cDdDVllNVkN0R0FrOUhyY2Q3Y1o3Ui1FR182SUE2OHdpaVk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-20T07:00:00+00:00"
+  },
+  {
+    "id": "7d6ff712225410d3bbe1c851a621a88c",
+    "titulo": "Queda nas vendas de ônibus interestaduais obriga Busscar a conceder férias coletivas - Santa Catarina em Pauta",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc2FuVkVvQTlLeUhfWkt0Rl9rV2t4TmpRWDlDc0xlSXlWLXpyTDByWHA5X0h6S3JyWlpXd2p6Vl80Zi1yNkJiS2FoaFdzQUphbGhNTTFyWFAyNWxXdkE3d0hMNlpra0RaQUp6eV9LeXlmT0J1WlFOVGRyRW5FQmtNOWNLTVBmU01OTDRsMTB6amVSRFh6SjR2bWFZWFg4bURrR0psc3BBeUxTM0FpVC0zalFHZ25XRzdXNU1pQWw3U1BpQTRzYVI0bHdrMU5YSFBWbWc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-22T09:00:00+00:00"
+  },
+  {
+    "id": "ff8a86a437bd32850406f1226fec620e",
+    "titulo": "Feirão do emprego oferece mais de 2 mil vagas em Viana nesta quinta-feira (6) - A Gazeta",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNenR1RjlrTGtjU1Nyb0dBTEVKcTUxVHpkVW9RdlhuQVQ5QzB6UWJMZjlVbW1RdlJxNTRBUGVhTDI1UnBYaWtGazROMjZ1dDgtN29wcWlpMGd3UjViYldoakZyUEhnWnhrVjAwWXZHbVhJZEsxZ1JzcWV0R1N1R2JqekRuYXA5OU1uT2VPR2xuVFFwdDkwRGRxNmNMZ0RGUWdCNXpqX1JMNmxxdGNTT2NPblVxdWtRbEkxN2l1bGNqR3htZlo3UEdWQVpZeTBwd3ZaMWR3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T07:00:00+00:00"
+  },
+  {
     "id": "606190de525f8ff85be020fd011ec85f",
     "titulo": "Farizon comemora 10 anos e 600 mil veículos fabricados - omecanico.com.br",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLU5KdUdTMlNkX2FOOVdYaFhEUkFJODk1alNjdW9vSWUxbm9QQUhmOU1sRS1DaWJCRmlXRExDZTVYOUdGZ01kSDhJNkNqd2drUG05eHFWSjM3Sm81cUpzXzJDMnVUdVQ0ZjUtR1F4bzBFeUQ5WnFmQ25uYm9PM3V3VHV3S0xEVGM?oc=5",

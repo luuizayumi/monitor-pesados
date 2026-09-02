@@ -1,5 +1,90 @@
 [
   {
+    "id": "8764667d3ee8ebd06eb23a2505efe003",
+    "titulo": "Queda nas vendas de caminhões chega a 5% até agosto",
+    "link": "https://www.autodata.com.br/noticias/2026/09/02/queda-nas-vendas-de-caminhoes-chega-a-5-ate-agosto/134646/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:42:12.346049"
+  },
+  {
+    "id": "d22df351cc7cea20777ac163fb7e051f",
+    "titulo": "Mitsubishi Pajero retorna e tem venda confirmada no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/09/02/mitsubishi-pajero-retorna-e-tem-venda-confirmada-no-brasil/134596/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:42:12.346068"
+  },
+  {
+    "id": "fa21bf162bdda95b40ae668c1f193def",
+    "titulo": "Stellantis anuncia Arnaud Belloni no comando da Fiat na Europa",
+    "link": "https://www.autodata.com.br/noticias/2026/09/02/stellantis-anuncia-arnaud-belloni-no-comando-da-fiat-na-europa/134620/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-02T20:42:12.346093"
+  },
+  {
+    "id": "33e799d5a09c53295e9b14272a6af6fd",
+    "titulo": "Vans premium: Mercedes-Benz inicia pré-venda do Classe V no Brasil",
+    "link": "https://frotanews.com.br/ultimas-noticias-mercedes-benz-cars/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:42:13.679443"
+  },
+  {
+    "id": "1f8c57c35c17eeb619b1ec77aba07a17",
+    "titulo": "Aceleramos (e vimos nascer) o caminhão mais potente fabricado no BrasilScania 770S V8 tem coração sueco e é produzido em São Bernardo do Campo. Conheça o veículo mais potente fabricado em terras brasileiras",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aceleramos-e-vimos-nascer-o-caminhao-mais-potente-fabricado-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-02T20:42:15.144726"
+  },
+  {
+    "id": "d8dd023188aacfba1d412aefbff7b3a5",
+    "titulo": "5.Aceleramos (e vimos nascer) o caminhão mais potente fabricado no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aceleramos-e-vimos-nascer-o-caminhao-mais-potente-fabricado-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-02T20:42:15.144743"
+  },
+  {
+    "id": "9ecaa6207b40516579def72190fd259b",
+    "titulo": "Como o airbag de cortina protege os caminhoneiros em 7 mil tombamentos anuais - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUDdpbTJjdXlzRkE3UmkwVnRjYndub2RxWjJyMWtfSURfLS1SeUVMTW5JRURHZ3JqeXBGUmg4Rk8wUnp2UUFtS2ZhRHhYRkNVU0pQbms4V2tTNWVMZUNaYkVXclFiMERIbzFLQzEwZXV0VUgybVQ5VmVzTWJZTVV3aVc1V3NOX3pzdC1qMWkwanY1UlJBOUdIY1JaMlB4aWpTVG5pcHd3bW5QWnlaV1VBZGFVeUZBNnpNeTZSZUJJR1FvR3RrdW9PblZjVi1NVkRfQVlyUkQtR3dzSUdYUjg4dlJadXF4MFA5dkNwX2dn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-03T07:00:00+00:00"
+  },
+  {
     "id": "49256399815578ce6748a071ac3cf2df",
     "titulo": "FASYDNI nomeia o executivo Filipi Goshrman Cândido como responsável pela área de Expansão e Negócios",
     "link": "https://frotanews.com.br/pessoas-fasydni/",

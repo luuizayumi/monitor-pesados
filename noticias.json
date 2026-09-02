@@ -1,5 +1,139 @@
 [
   {
+    "id": "0332e55e6e5029dc3da98c6365f311a9",
+    "titulo": "vendasExportações da BYD crescem no semestre; lucro e receita em queda02/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/exportacoes-da-byd-crescem-no-semestre-lucro-e-receita-em-queda",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T23:04:44.112211"
+  },
+  {
+    "id": "46c27b1b9adf12acd335bb27930f199f",
+    "titulo": "vendasExportações da BYD crescem no semestre; lucro e receita em queda02 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/exportacoes-da-byd-crescem-no-semestre-lucro-e-receita-em-queda",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T23:04:44.112221"
+  },
+  {
+    "id": "5d960165fb0c10b8b756925786521cd5",
+    "titulo": "1.Quais são cinco caminhões mais caros à venda no Brasil?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quais-sao-cinco-caminhoes-mais-caros-a-venda-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T23:04:50.586953"
+  },
+  {
+    "id": "fe176d9e8cf84378ae26a80c621dc5e5",
+    "titulo": "5.Fiuk coloca Fiat Uno Mille 1996 à venda por R$ 54 mil - seis vezes mais que o valor da tabela Fipe",
+    "link": "https://www.estadao.com.br/jornal-do-carro/fiuk-coloca-fiat-uno-mille-1996-a-venda-por-r-54-mil-seis-vezes-mais-que-o-valor-da-tabela-fipe/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T23:04:50.586963"
+  },
+  {
+    "id": "e04a82e4173b632d73097d1e122173f2",
+    "titulo": "Veja os 50 carros mais vendidos do Brasil em agosto de 2026 - Autoesporte",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVEpodlVOeGlSeDJZNU1OQk1DM3ByVTJVdW5jUDlZR3VMQVRWekdKc2VNeDcta3ZMdXVoUEtGZW9NVWZ2VGwxMGRpcUZKU1ZjdVN4dkdFSmR6TENlNEFGeFhUd1dwSTh3S3c5Sm56VmZtYUJZZkNUYTlaTldhX3lYaXpiX1BNUEp6NXZ6cHp4R0pYV0x1ckNGX3NzRUVNSUJ0alFxNGpsN1g1bjVPRUlfUmdJWnZPbTZFemd2bE9MdTViOE82UDk0UzZn0gHYAUFVX3lxTE5kOXdSRDVWVWlqSkpzN25xVUZlanpNZXJZdmlJSEhpMzNLVDkxUVM2eVJsNkhPNF85SGFBTlk4Qi12N0FoQVJ4QnpiejFDd3Z5Vkg1RmlWeTN4RXBYU2haWUFMYzlJY0I3NkluYzUxWVdRS2FKR0Y2UUtmS1ZZQS14d3lkakxlem1FS1JPeTJucUlJR0w4ejNwN1hXRl9wczBTaFA1OEdMd1hrZEdINTdFeGRyckNzaEstM3NuczhiX2c3RzNvQTVKUVZoeEJCT0tON3dfS1JBSg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T19:02:26+00:00"
+  },
+  {
+    "id": "37d1ba112eecd5ab8232ccd8c6a53d5a",
+    "titulo": "VW Tera encerra julho como SUV mais vendido; Haval H6 entra no Top 5 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUnlGZi1VaVpzRjZ3aHNBMFFrRk5DNzRSczRPSHFOdFREenVpUVBEaGVFUEw5YWtyLVRYeDZ2MHJzLXQ1NzYzek5TTDNyYUNlUnQ3VEtNNHk0OFFZZXFZcmFublp3WGYxeEdUTk50VjF3ZTljaGhTOWdBYXlBNnM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-05T07:00:00+00:00"
+  },
+  {
+    "id": "ffde0609639df7e5d6922796b6e78f67",
+    "titulo": "Carros importados avançam 25,7% e deixam 360 mil veículos nos pátios; consumidor pode encontrar descontos - Revista Fórum",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXVNQ0toRTQ0UzFkQzlmOGYyNTNWbjF1cE40bFJhblhBbzFSX1BydEFDWTVKT1dOQkFuTWtTcjYyMjU0dFQ3a1pYdFdFNWc0bW4yX2N5TmlIeTdjdWZ0NnVfWlQ2c3hCNzB0UG95UWtyUlNRU1ppWXZ2RS1yNHZPXzFNYw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-17T07:00:00+00:00"
+  },
+  {
+    "id": "5c38fe29838d58b5ac7631d390f24ecc",
+    "titulo": "Vendas de tratores agrícolas caem 20,6% em junho, aponta Fenabrave - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVy1Ud2dhS1VrazEyTFBTNW5icG02WENfZnRTSHJDRndPaFJRLVhCemRrbEQ0X2Q4bXZZLVdXa0JocnNuYXBaTmpndl9JMkNpOGZOVWpydjExMWprMU1lMXZWb1pOVEJ3Mzk5dTFSZUdNNU80cjVRN3VxT2lqUWt4ZHR0ejhKRUJfdFd0ZDdZU0o4SURYTl9MbzZtLXRPellLRzUtaDN6T2ZoWW1YS3kwWVk0X3VRRWM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-04T07:00:00+00:00"
+  },
+  {
+    "id": "69d2593d365c7e0ad51d0d4f6be19c69",
+    "titulo": "Exportações de milho da Argentina disparam após safra recorde e forte alta dos preços internacionais - DatamarNews",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORDJ5VXc2UnBNbzFEWXFrc0VFOHVUS3lQd0MxUXd1ZnJDOWkxSlE4TmpiQktTdnNPS2IyWWxlVDNXdi1rMkJ4aFBXVGM2MGpSQWpZakdxaV91REZSMlhUMmFrTWdjVi04dEhDbTlyY09kNVhUalpoN19kcGJ3RFdwclkxMjRVcGRUMEVUaXA2Um8zMFlRODZSZTdOTkEyNXYzUkk4MUtKbUFxTzE5N01QbTNkeFZGUGFXVGlnMmxqT1BUMTRMN0ZzNHIzWE9nNmhELUI0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-29T00:17:36+00:00"
+  },
+  {
+    "id": "b105932ea1d8900ec05205bbdaae88eb",
+    "titulo": "Farizon completa dez anos atingindo marca de 600 mil veículos produzidos - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGxtSkdjaS1hcHU5c2UtVHdYanEtMDhib3NYRzFuVVltQUswM1dTNFlZMWVOaFVvQnUzZnV0NjJhYXpPTGE1blRxU20zWVEzY2dESXcySDNDMnJjSEpFemJFZndYbmlkamtORUo0VXN2M2dPY2xzbmJVR2pnbHZwbUFUM1cyeHQwNjVkWXlwZnE2QmRaQXg3REwzVkF5VGhMVmc2WGFXZERiZ2MzU2lweVNn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T13:34:01+00:00"
+  },
+  {
+    "id": "157d69205b552c65462058a9680e00bb",
+    "titulo": "Alcolumbre publica US$ 496,6 milhões do BID e Bird para 1,1 mil ônibus elétricos em São Paulo; Nunes acusou Governo Federal - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbURUTmNwQm1rajFFczQ5bjJlV2dmeUtFVHBJYWRJSEN0VGhSb0tKcjhGTmJ3c1dOZ2ZZTU1mQURoQU9tUkVvcGF6OVZqcWEzenh1OHA5bC1mT20wQmt3OWtUUnYxeV82Q2NzRmFnemFQUzBBckhUQmVQZUkzcnFIYWZaRXFmbnRxSjFON1FwVHd6M3U2NEQxWnlYdU95X2Z2WTZPRHU0WG1NSGhPSnlVSTBPS2tESEhjdDc0bTFiQmljbVdibGczY293cGw3RVpzaEN0Yzh0YlZKMHpaSlEwTDJTQ0h5amJ0VlBQVHB5V0lTX0NlQjU5U9IB_gFBVV95cUxORDVRNG04dFBNOW0wclJXNEhPUkM2S1g2bXBLRnJpVkxJODNfeEctRUJ6NTV3Zk9Wa1BBR01qdnF2WDNQUi1fRW1Ca0ZhMGtxeVBZSFBwX2VqOE1SQmx6aS10N3BzTGV5bEZrS21va1VNb1pacnRzOVdXY1Jmby1hR1FZSktQeUdHQnNVUnZMMVVWcW9tQXJuczk3NkJiWUYwVE1rNW1iY05vcW9WQVlYY092dlEyR3FSTXVuX1k5YmpTb05ycEx1ZHJ1N1dadUJIZ0swS0xpbGNMbTNoSHcwWVp2QzZ2ZDBWY3JVc2NaSW85UHQ1ZERKMVJOX2Y2QQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-17T07:00:00+00:00"
+  },
+  {
     "id": "8764667d3ee8ebd06eb23a2505efe003",
     "titulo": "Queda nas vendas de caminhões chega a 5% até agosto",
     "link": "https://www.autodata.com.br/noticias/2026/09/02/queda-nas-vendas-de-caminhoes-chega-a-5-ate-agosto/134646/",

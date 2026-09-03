@@ -1,5 +1,179 @@
 [
   {
+    "id": "ee0b1c1680fdd2b6b7bf834e23be66fb",
+    "titulo": "Marcopolo vende 78 ônibus para a Rio Negro Transportes em Minas Gerais",
+    "link": "https://automotivebusiness.com.br/negocios/marcopolo-vende-78-onibus-para-a-rio-negro-em-mg",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T21:49:57.660244"
+  },
+  {
+    "id": "a139f1cb16969f5dbac540ab53de0d16",
+    "titulo": "negóciosMarcopolo vende 78 ônibus para a Rio Negro Transportes em Minas Gerais03 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-78-onibus-para-a-rio-negro-em-mg",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T21:49:57.660265"
+  },
+  {
+    "id": "09d28cd60ad531553eae83b8a61c498b",
+    "titulo": "VW Caminhões e Ônibus busca fatia de 20% do segmento com nova van",
+    "link": "https://www.autodata.com.br/noticias/2026/09/03/vw-caminhoes-e-onibus-busca-fatia-de-20-do-segmento-com-nova-van/134695/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T21:50:00.740915"
+  },
+  {
+    "id": "8c9e1d242c1c930161f862ba85780b31",
+    "titulo": "Produção da van da VW Caminhões e Ônibus poderá ser fora de Resende",
+    "link": "https://www.autodata.com.br/noticias/2026/09/03/producao-da-van-da-vw-caminhoes-e-onibus-podera-ser-fora-de-resende/134736/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T21:50:00.740930"
+  },
+  {
+    "id": "1d5e1ed8167e2f109a8473c953937dce",
+    "titulo": "Mercedes-Benz abre pré-venda da van de luxo Classe V no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/09/03/mercedes-benz-abre-pre-venda-da-van-de-luxo-classe-v-no-brasil/134703/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T21:50:00.740935"
+  },
+  {
+    "id": "0c725e72a5747c365268a346ca1a876e",
+    "titulo": "3.Geely EX2 sai por R$ 104 mil em venda direta; veja preços",
+    "link": "https://www.estadao.com.br/jornal-do-carro/geely-ex2-sai-por-r-104-mil-em-venda-direta-veja-precos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T21:50:04.383515"
+  },
+  {
+    "id": "86b7c97428e3e69ee4aef9c8a874df4b",
+    "titulo": "BYD encosta na terceira posição do ranking geral de vendas com recorde de emplacamentos - Estradas",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTDM5OEJqZUpZRzU0X1lRTnRMSGsyVkVTN1BoSmlZSk9aYTRSSXN6aHc4bm1UbXNDLUJ4VlJWMTdJWXBoUDZmbnh4TWczVi16eTZVVThOT3BRVE1kRzY2Vk9fdjl0YVg0Uk0xdTY0em5EVzJWRkRhYnI3MkFTVGhGMDBDZjBIUC16eGdldS00bmJVR1JZaEdTTWpiNy1ENng2WVlrS2pqbmhxN0xVODhad1JR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T01:02:07+00:00"
+  },
+  {
+    "id": "63ba7b0365592caa7a18768877755a5a",
+    "titulo": "Confira os carros mais vendidos em agosto de 2026 - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZG91eF9tZU5vRzI3MVNLUTg2ZFlFTXFJZHNZcFFKWVRWNGtoTFFoY0NtWTZYUXJKNl9mbUlqZ0FRLTVYVGJZN1M2SUtTWDIxX0YwT2lPMzg2TmoyMm9lRXNLWFItUXREZTM0QWdCOTJSN0lDbndSWGtSeUltVXIyNmhrc3poVm1CMTFmTVFsVVJ3QTd4ZktDczZzUGE1b2wtVlVFY2FaTdIBrAFBVV95cUxNSGpEekE5YlMxbVZCNVpOMU15ekYxeUd2aDE4czV3YlBYdTZkcUJXRzdHaGxMNmZfUlB6YzllNlZVQ1U2VVhSWEwyX1g3d0pwS29nR2JaM2g3eVZ5eklDWlA0WmplZzRZX0ZQZllCNjJWUUVLTEtpZldzNzhVR0x0WF9JckwzNEJ4dFlxZmZtRVAwN2t6VWhEMm53X3pPNWZjNUxxc3B2ZTF5ZTAw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:27:06+00:00"
+  },
+  {
+    "id": "d2cee2d4359c70105506c337ccecc1a7",
+    "titulo": "Venda de veículos tem melhor julho em 12 anos, aponta Anfavea - odia.ig.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRHhtWG9VSWM0TjBpTVUxNkM2SnlqTng0V3paaElmeUxNS191MDg0V0NCNXRnQ2dFSFRCX3dTcWNXWXFEbVFZWm5LR2Q0eWlYeXlLYW9fQ1pZWV9oQWJYZHdnaGhveXdJOUJQWWxuN2dLb0o5SEtYTTFRckhGTUpPeExmX1JuREJjOG1UYXJyNzZQQ0RNSUdtU1RfYWpseG5MeERZOUw3Smd5OTVtYUI5T2s0a9IBuAFBVV95cUxQcEQ1SktrZ2ZYQ05LVDBFcFdpUEotRlUtb0wtYnZhbk1hSG1uWk13b2Z5Vi1xelZwRnU3YVFGc0hYZnlFQ0ZzODB3RlQxcjVxaXlXNzZqa202NGYxMGpUZG1xMDZDM2ZEaGRPN3lKeTVodFVJQnl5TGd0RDhOT1BzWEJxcm1TODNxbGF4clFmSlFtNFdHb1d3djN5TkFoaVJMMUEwWVQ1aFRGNWdUQm5LV0tUY0dWQnVY?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T07:00:00+00:00"
+  },
+  {
+    "id": "f3b4adae1a7329f5aad6e956851f91b5",
+    "titulo": "Fenabrave: vendas de veículos novos somam 275 mil em agosto, alta de 22% - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjF1UnE2SXRwU1dtV3hYSXRkVHl4SkR4YnkzNlhOT1RZeDlCVE9jdWlwTUpiNG5DQ0VuMk85aXR3NGdtSjJfVUdZdjlHb3hka1VGUEhhZnNUQjhzanRaT0tSU0tPZVlOVmNoMjBrWXVlYXdIQVpodndETU1XWGVmdjV6WHBJWmM1el8xOHdHdFVWQk9GVVlSR3FuOTJTNGVlT0E1Q3pzcWpfTlVlWWJDcEVEaDAxdXRUdFU5RzAwUG1yZFRVTFhF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T18:08:16+00:00"
+  },
+  {
+    "id": "2b80441b9a678d6ce7bbd068e01af54e",
+    "titulo": "Ações da BYD caem mais de 6% após balanço; marca avança fora da China, disputa vice-liderança de ônibus elétricos no Brasil e cresce entre carros de passeio - diariodotransporte.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQM2VKdkI3VkZSWjFMRXJtNHF0eW9hNllzV0xuRzh3THdUS0JPb21JTnRYeUw3cGhFdE82U1p1M0ZLR2xGX2JZblQ2TVYxdmxxUnRHWlk1c3pfREs0TUVZcVhMMUNHaTYxbTR5a2JxRUNuODBfVHlndlpfWDc2S2syaS1rLVVmVjJIN3J4V3VQNVUzU1V6MHRwUHVua0s3TjlXSlRJb2Q0ejIycFVfS1lYNHMxeVJLNjdmdF84R0FVUmlYNVR3cWFQNkk4TXRvZUVPNE1hUl9LUTJzZUM5V3lHb0ZjVV94VG1mZTFydWJiWjBsV05vWDFJeHJUbVZWeGdadC1rYnhGdmFtUjlYdVhNYk1PV3pCLTh2bmpQNVFETmUzZ1A0MnfSAasCQVVfeXFMUEEzeGVnanhIaHFfaEZwYi0zakhEX1RubFc3TjkxRDVUX2NSbnFWdnR1NmhNemdJMDJBNVdVUnNrempkdHJ5Vy1MelpIMFFCWnVmMnk1cy1tTEdpamdRQ1VNdUY1Y0wzRkN3X0lULXprWXVRVE9VbERBWmJCVV9QNlBES1pUOEJ1RVdBYVNfd3FSVzE0cGZjR3BVWXdkdFhoUV9od0Z3dVZOWHZQamdfNXlXTjVQenh0NThWLVhVdWlQcnppX0JqOXVSSzhMamYtSm5kUl9tdDNQWlNwRFVFSEJfQjlSS0tjSllHOWhlSHhNbHI2MUZLU2E3LUsyTThpYkZfRkFfZmVHSjhlMEFhTWpxYzJMNmVQcWJYS3B0TXlrZ3Nzcjg2VVhNOEU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-08-31T09:59:21+00:00"
+  },
+  {
+    "id": "db56669b6e4cadbc77b58b1f57b6be6f",
+    "titulo": "Carros e marcas mais vendidos em agosto de 2026 - Bright Consulting - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaEMtUVNONzYxZ3VCNXlUc3FtUFU4SmxaTVE4Z1FtODhta2FrUE1Cbk5LX2RKS0JZNWhfX091QnlMM1RINzFsTVVmNWRIckZRQ2M5Tk5fQXNNQzBLbFlUN2o4OWxmQUdROVNMdTl3S0p5MkZmMk1SRWFZZFZ6WUowOE9n?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T17:17:00+00:00"
+  },
+  {
+    "id": "fc8ebfce88b7f323c1508759a18ceb63",
+    "titulo": "Alcolumbre publica US$ 496,6 milhões do BID e Bird para 1,1 mil ônibus elétricos em São Paulo; Nunes acusou Governo Federal - diariodotransporte.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbURUTmNwQm1rajFFczQ5bjJlV2dmeUtFVHBJYWRJSEN0VGhSb0tKcjhGTmJ3c1dOZ2ZZTU1mQURoQU9tUkVvcGF6OVZqcWEzenh1OHA5bC1mT20wQmt3OWtUUnYxeV82Q2NzRmFnemFQUzBBckhUQmVQZUkzcnFIYWZaRXFmbnRxSjFON1FwVHd6M3U2NEQxWnlYdU95X2Z2WTZPRHU0WG1NSGhPSnlVSTBPS2tESEhjdDc0bTFiQmljbVdibGczY293cGw3RVpzaEN0Yzh0YlZKMHpaSlEwTDJTQ0h5amJ0VlBQVHB5V0lTX0NlQjU5U9IB_gFBVV95cUxORDVRNG04dFBNOW0wclJXNEhPUkM2S1g2bXBLRnJpVkxJODNfeEctRUJ6NTV3Zk9Wa1BBR01qdnF2WDNQUi1fRW1Ca0ZhMGtxeVBZSFBwX2VqOE1SQmx6aS10N3BzTGV5bEZrS21va1VNb1pacnRzOVdXY1Jmby1hR1FZSktQeUdHQnNVUnZMMVVWcW9tQXJuczk3NkJiWUYwVE1rNW1iY05vcW9WQVlYY092dlEyR3FSTXVuX1k5YmpTb05ycEx1ZHJ1N1dadUJIZ0swS0xpbGNMbTNoSHcwWVp2QzZ2ZDBWY3JVc2NaSW85UHQ1ZERKMVJOX2Y2QQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-17T07:00:00+00:00"
+  },
+  {
+    "id": "a37c76ae30e88d411b93206317b94073",
+    "titulo": "Leilão da Receita Federal reúne caminhões, utilitários e caminhonetes com lances iniciais a partir de R$ 2,4 mil - Primeira Página",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaXN4S3VnTm1nTVBmRy1neVVVRVBfWGdEdTF0eVhOM1U4d3ZIT0xxb2ZjWmFfZ3pWaHJFOUNrSEpSWjJGUzcyTVVuTjZmTmJmdlQ2UjZKNTNSelpqNlYtWDh5dnZGWEpETkpqTjFtR296NjR1UkV0VE5nX0lHY2tmTjNmbW45NS10R2oxRExjTE9VR2hwanZOa0dJazdVMS1PQ19PY2MyRHRyU2tuQUlLUzRCNTVLY2U5b0xsbUlBTmFqWDRpRFNoUFhSV1Q1TmNnNjNnRFJHTkE2VTF0elRXX3EtX1dmeFFRQ2p4OFQ0dw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-30T14:50:43+00:00"
+  },
+  {
     "id": "441bd0cdcbaff65b9e46a213f8146e24",
     "titulo": "Mercedes-Benz terá nova van de luxo no Brasil",
     "link": "https://automotivebusiness.com.br/lancamentos/mercedes-benz-tera-van-luxo-brasil",

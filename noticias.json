@@ -1,5 +1,115 @@
 [
   {
+    "id": "893c1fd18f6f53572d474de6e18d8cc1",
+    "titulo": "Produção de comerciais leves da VW Caminhões e Ônibus poderá ser fora de Resende",
+    "link": "https://www.autodata.com.br/noticias/2026/09/03/producao-da-van-da-vw-caminhoes-e-onibus-podera-ser-fora-de-resende/134736/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T23:50:20.313475"
+  },
+  {
+    "id": "cf9769628d624cfaa8a99e99ef2d35cc",
+    "titulo": "Compradores de ônibus: Rio Negro Transportes faz expansão em Minas Gerais",
+    "link": "https://frotanews.com.br/compradores-de-onibus/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T23:50:22.413323"
+  },
+  {
+    "id": "3c922536d8ba6f3c58ff713bbd9b23d2",
+    "titulo": "1.Geely EX2 sai por R$ 104 mil em venda direta; veja preços",
+    "link": "https://www.estadao.com.br/jornal-do-carro/geely-ex2-sai-por-r-104-mil-em-venda-direta-veja-precos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T23:50:23.960017"
+  },
+  {
+    "id": "d7326c0ecfdfce7c1e9be38c6bd387af",
+    "titulo": "Venda de caminhões registra recuo mensal, mas cresce sobre agosto de 2025 - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0I2SXVpUkhqVVVoUVV6YmZDSlg4OHg4ZENGV2Z4NXh1T1V5Wmx3X3BjajVEc0RUQnNsZEMwdDhDUFZaMDJGLUdfU3NETjdSejMwTlI3RHdTR3ptN2ZubGtqZmtWNHh0eDdNYWNrTUpQcmE5ejNmTXp0RUNRZ19EMFRZcVJ1TFlweG55OUwtbEh6LXNBY015LW1WYTdnamxJUVdBUFJqbUNRbktRY1VUci1iUnNfMURCeGc2YnNB0gG-AUFVX3lxTE9zQjZJdWlSSGpVVWhRVXpiZkNKWDg4eDhkQ0ZXZng1eHVPVXlabHdfcGNqNURzRFRCc2xkQzB0OENQVlowMkYtR19Tc0RON1J6MzBOUjdEd1NHem03Zm5sa2pma1Y0eHR4N01hY2tNSlByYTl6M2ZNenRFQ1FnX0QwVFlxUnVMWXB4bnk5TC1sSHotc0FjTXktbVZhN2dqbElRV0FQUmptQ1FuS1FjVVRyLWJSc18xREJ4ZzZic0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T00:32:22+00:00"
+  },
+  {
+    "id": "65909bb07ec3ca7145c4f30dda27d88a",
+    "titulo": "BYD encosta na terceira posição do ranking geral de vendas com recorde de emplacamentos - estradas.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTDM5OEJqZUpZRzU0X1lRTnRMSGsyVkVTN1BoSmlZSk9aYTRSSXN6aHc4bm1UbXNDLUJ4VlJWMTdJWXBoUDZmbnh4TWczVi16eTZVVThOT3BRVE1kRzY2Vk9fdjl0YVg0Uk0xdTY0em5EVzJWRkRhYnI3MkFTVGhGMDBDZjBIUC16eGdldS00bmJVR1JZaEdTTWpiNy1ENng2WVlrS2pqbmhxN0xVODhad1JR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T01:02:07+00:00"
+  },
+  {
+    "id": "a68b32738e97ac3b66f28217af8e83cd",
+    "titulo": "Venda de veículos tem melhor julho em 12 anos, aponta Anfavea - O Dia",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRHhtWG9VSWM0TjBpTVUxNkM2SnlqTng0V3paaElmeUxNS191MDg0V0NCNXRnQ2dFSFRCX3dTcWNXWXFEbVFZWm5LR2Q0eWlYeXlLYW9fQ1pZWV9oQWJYZHdnaGhveXdJOUJQWWxuN2dLb0o5SEtYTTFRckhGTUpPeExmX1JuREJjOG1UYXJyNzZQQ0RNSUdtU1RfYWpseG5MeERZOUw3Smd5OTVtYUI5T2s0a9IBuAFBVV95cUxQcEQ1SktrZ2ZYQ05LVDBFcFdpUEotRlUtb0wtYnZhbk1hSG1uWk13b2Z5Vi1xelZwRnU3YVFGc0hYZnlFQ0ZzODB3RlQxcjVxaXlXNzZqa202NGYxMGpUZG1xMDZDM2ZEaGRPN3lKeTVodFVJQnl5TGd0RDhOT1BzWEJxcm1TODNxbGF4clFmSlFtNFdHb1d3djN5TkFoaVJMMUEwWVQ1aFRGNWdUQm5LV0tUY0dWQnVY?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-07T07:00:00+00:00"
+  },
+  {
+    "id": "99b04c37ff7b28897ea0077f5e835d2b",
+    "titulo": "Venda de veículos tem melhor agosto em 13 anos; saiba o que explica - correiobraziliense.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnlTV0xnNk1rMUhvMDhPb19YZ2dFRUJYLUR0UGZxbThzRi0ycDJtUGN0M2dEazFvWnE3SThZRnYwbE9iRjBtTExEUFRVNDlrZ3VocXNOZERKSzQtZ3hBLUhtVVVYb0JVenFTSFpLVnltamdmQUtIQUJ5UzV5aW9xQ1JVOFl2QUI0dGhzTVM5SWZla0ZKYkpYS2QxR3E4Y0pBOEFoRXI2ZldHUXFuX1dsbjhzQWltNGdfcm85aGpvRmhfdFdMUVVER09fZ3RQaG_SAdQBQVVfeXFMTV9HWkpxZWNYYXgwMkp4Q3dTUDJfTzdUZ3VIejBicEl3TFpNSTZHYmVjWWtfQkR1eHRhTjV5SDFTLThCMk9Va1JfT2ZuWmd2M1dkeTJmSWVwV01uMnE2c1FFV3VVUDZCWkV0cjhzeWxBV0dPR3RNeFNSVkIydmhWZzY5WkMta054YlZXMi1BVl9vQ0hQR2VzMHd0MUVJTXVMc21kOEtzN2J3MTNFOU9NYkxLS0k4Zl93YzNRTUZSV05kYVR0aWZSeG45Uko3UEFJWnZ3S2s?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T19:11:00+00:00"
+  },
+  {
+    "id": "bc218f467a34906b4ed44c138775f487",
+    "titulo": "Venda de veículos sobem 22,1% em agosto, diz Fenabrave - esbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UclVaMGdHZDhZay1kMFJ4b2ZmLU94Z0tjSUpvYVVmZFJ4QjV5OTM5cGdaM1cwaTc1ZWU2Q1hPRF9sZXZ2TGhiVzdwaDU1d0pGUVRMQ2JrVlRHS0gxaFdnVkhuMUVGNm5teXlQOA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:33:38+00:00"
+  },
+  {
+    "id": "967306c23c818e990e0abb3879984c90",
+    "titulo": "No melhor agosto em 13 anos, venda de veículos sobe 22,1% ante agosto de 2025, diz Fenabrave - tribunadosertao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaGNjcE1lbjNEV0d0cEtNMG95aWx6NlA1TF96RW92NjR1MWlsOFpjaHFOTHFOMkwtdXI1WHQ4eDRGZldXQzFwTGV6MkctMEx0QXVMS1A3Z1NlOXFvTm9ZWFM1MVpPeG9NR0VEczVXdjVmRkZzbFRmWnI5VnNBM2g2VXJXNkVMelpvd3JGRXB4M1VmTTEzSUtlUXBKMFE5OC1XdlRmSEVMdkx4UGkyQ2tQWjkycTBVOUpJWGtNWlZXTzFpbkVtNG1DNXRIZmZpd094Tm5STnprdFJnRTU3Q3Mtdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T18:40:00+00:00"
+  },
+  {
     "id": "ee0b1c1680fdd2b6b7bf834e23be66fb",
     "titulo": "Marcopolo vende 78 ônibus para a Rio Negro Transportes em Minas Gerais",
     "link": "https://automotivebusiness.com.br/negocios/marcopolo-vende-78-onibus-para-a-rio-negro-em-mg",

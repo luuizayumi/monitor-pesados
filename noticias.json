@@ -1,5 +1,226 @@
 [
   {
+    "id": "441bd0cdcbaff65b9e46a213f8146e24",
+    "titulo": "Mercedes-Benz terá nova van de luxo no Brasil",
+    "link": "https://automotivebusiness.com.br/lancamentos/mercedes-benz-tera-van-luxo-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T19:15:35.316183"
+  },
+  {
+    "id": "a594467e01e9ae5c3d6777f64eef1780",
+    "titulo": "comerciais levesMercedes-Benz terá nova van de luxo no Brasil03/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-tera-van-luxo-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T19:15:35.316199"
+  },
+  {
+    "id": "f397461675c6d32d9e48269c52ff144c",
+    "titulo": "comerciais levesMercedes-Benz terá nova van de luxo no Brasil03 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-tera-van-luxo-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T19:15:35.316204"
+  },
+  {
+    "id": "2b36ede11a1f55a46d032a975f3328f2",
+    "titulo": "VW Caminhões e Ônibus faz parceria com chinesa SAIC para comerciais leves",
+    "link": "https://www.autodata.com.br/noticias/2026/09/03/vw-caminhoes-e-onibus-faz-parceria-com-chinesa-saic-para-comerciais-leves/134678/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T19:15:38.623746"
+  },
+  {
+    "id": "7098a4acba3c9ad051c8857520a73466",
+    "titulo": "O motorista é o primeiro sensor da manutenção do caminhão",
+    "link": "https://frotanews.com.br/motorista-primeiro-sensor-manutencao/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T19:15:40.899397"
+  },
+  {
+    "id": "6218a50daa8e2f7cda4ef635f4131fcb",
+    "titulo": "4.Geely EX2 sai por R$ 104 mil em venda direta; veja preços",
+    "link": "https://www.estadao.com.br/jornal-do-carro/geely-ex2-sai-por-r-104-mil-em-venda-direta-veja-precos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T19:15:42.526744"
+  },
+  {
+    "id": "91d170371a302ffc991b77c59d97addf",
+    "titulo": "5.‘BYD das motos’ vende quarto lote em 3 minutos; maior parte das vendas foi da CFMoto Ibex 450",
+    "link": "https://www.estadao.com.br/jornal-do-carro/byd-das-motos-vende-quarto-lote-em-3-minutos-maior-parte-das-vendas-foi-da-cfmoto-ibex-450/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T19:15:42.526757"
+  },
+  {
+    "id": "0bafa8403af026da0ffa8ae665bcc9dc",
+    "titulo": "De Porsche a frotas com 18 caminhões: veículos declarados de candidatos ao TSE ultrapassam R$ 20 milhões - gazetasp.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUd6OUpKLTY4ZjQxV2ljVGVWenJhSzQ5R050bmlPSTRmTlVNa092dFlvUHhKb0o3MTg0T2ZUUXVfVUE5UlFsZENXVDhmRmJhUEFNcXQ4UjdjRVNxdUFVVTJkTExqdUhxOW83dUV3RVluLUVYY1NiZzdWd3hTeXZzNzhSejdYN01wMlFBUldKdkgxdHNXc0ZMMHZlN25pdXR6VW5HV3BEeUxUekdCNk1aQ0NnVDdoZWQxV0JJbm9hc1pGb280LVZURXlmUkVkZ1VjWXg3aFlJQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-22T10:45:00+00:00"
+  },
+  {
+    "id": "80ac28512e23c0a40f0582cf8444f5e8",
+    "titulo": "Farizon completa dez anos atingindo marca de 600 mil veículos produzidos - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGxtSkdjaS1hcHU5c2UtVHdYanEtMDhib3NYRzFuVVltQUswM1dTNFlZMWVOaFVvQnUzZnV0NjJhYXpPTGE1blRxU20zWVEzY2dESXcySDNDMnJjSEpFemJFZndYbmlkamtORUo0VXN2M2dPY2xzbmJVR2pnbHZwbUFUM1cyeHQwNjVkWXlwZnE2QmRaQXg3REwzVkF5VGhMVmc2WGFXZERiZ2MzU2lweVNn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T13:34:01+00:00"
+  },
+  {
+    "id": "2015e47aee15929fe371ea0198ba9185",
+    "titulo": "Steam: os 10 jogos mais vendidos da semana - Flow Games",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16V3gtTUdrUHkwclVGUXhyVnVzc3hSTWF5ck1CTFpRd3RzWktaVk5sbk1zeWtURTlseWsyOUM1emJhdWNIMjJEdjd6cnhFTVF2NFVtRUZQY0lJUk5OMFlVSXhrcjFHVmJmRVFlcndwQWg?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-27T09:50:00+00:00"
+  },
+  {
+    "id": "785d6d330a7de61b58cd400836f8c101",
+    "titulo": "Foton chega a 77 concessionárias no Brasil e mira 100 unidades até 2027 - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFRCZGtPRzJIUWg4U3VLeHcycFVDRzhvYVpOdi02UzRmS2Z4RklRa29OWExmVVZiQjZjV19VZENyZUhjbGpSSzZsUEhPeTVZNG05UV84dzF2SW9EQ2w0MU1oMEFuVlhRV05tbFpPTUNOT3dFb3lvTWxJc0R0bEdDeDdYeWFidkJPVEtfd3pQeEUtV1REbGxSZWw3ZUNTb2R3d1I0YVFTVdIBrAFBVV95cUxOWDNqZklEcEZ5bGlEMlNlQURpbnpJczhIaGVXQ0gxV1dqdTBvTTV0SUlVM3J4RkF4RFFEQW9GZmFMWlU4QUFVQktFOHJUWWVERDlRenhVbUZ2b3ozd3ZPR1BaQnBVWi1CbGZiN1BrRUM2emw1a1d6eGNHQVZjVFBFVl9iWU9GQlhub1g2bDZLU1BMd0ZZSmRPSXdkY2p3ZWtLaEFjZV9tY3Z2YUJQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T11:30:00+00:00"
+  },
+  {
+    "id": "e93632fda014875c1a5ec8f0c27d6343",
+    "titulo": "Venda de veículos tem melhor agosto em 13 anos; saiba o que explica - Correio Braziliense",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnlTV0xnNk1rMUhvMDhPb19YZ2dFRUJYLUR0UGZxbThzRi0ycDJtUGN0M2dEazFvWnE3SThZRnYwbE9iRjBtTExEUFRVNDlrZ3VocXNOZERKSzQtZ3hBLUhtVVVYb0JVenFTSFpLVnltamdmQUtIQUJ5UzV5aW9xQ1JVOFl2QUI0dGhzTVM5SWZla0ZKYkpYS2QxR3E4Y0pBOEFoRXI2ZldHUXFuX1dsbjhzQWltNGdfcm85aGpvRmhfdFdMUVVER09fZ3RQaG_SAdQBQVVfeXFMTV9HWkpxZWNYYXgwMkp4Q3dTUDJfTzdUZ3VIejBicEl3TFpNSTZHYmVjWWtfQkR1eHRhTjV5SDFTLThCMk9Va1JfT2ZuWmd2M1dkeTJmSWVwV01uMnE2c1FFV3VVUDZCWkV0cjhzeWxBV0dPR3RNeFNSVkIydmhWZzY5WkMta054YlZXMi1BVl9vQ0hQR2VzMHd0MUVJTXVMc21kOEtzN2J3MTNFOU9NYkxLS0k4Zl93YzNRTUZSV05kYVR0aWZSeG45Uko3UEFJWnZ3S2s?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T19:11:00+00:00"
+  },
+  {
+    "id": "b440f57311234c05b0cbc90c1d0be25b",
+    "titulo": "Vendas de veículos novos caem 1,6% em agosto ante julho, diz Fenabrave - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcVBEYk1zM2t6YThaYXJ4bVB2dGlHVUNyUDdZbFZSb2I5Q0MtWVJHWUxNWUhxUWFIR3pXaXgwT29GTm9pd1cyaS1MMTRtblJBT2gybkJZWlR0WXpBUTJHdGRSanpxUzR6X1BEdUp0VHJLZjRVYm14WjNuN2s4dEVjNkhhamoydVhnV3dSY044MVd2ZU90R3FGUkRuZkNubWNmc19Zb2VBUGJieVdGaFptbVhnVlMyQXpjSzdkWTNuaGtiMUE2N21kWXl0Y2ZZWkwxYm1PWndOWGE0MnJJbThlV09PRmZIQXdoMDFmQg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T18:08:16+00:00"
+  },
+  {
+    "id": "239cdb15d76dc64591118f83a0d0429d",
+    "titulo": "Agosto tem recorde nas vendas de 0km no Brasil, com chinesas ameaçando marcas tradicionais - Motor1.com Brasil",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wSWdNVHFZWHIyM0VUVy1EbHJFTnFMOEh2WmcyVWFza1I0UG5hamZtZDlING5ZVmhkeWp6T1pOZkg4elEtTFFRZjlIZXBHQjNqcGxGWVBzNHdkWWZVM09QZXJ2LVJtSUpEOWtBRENzU2M3eXhuSlI2SDVFMA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:20:00+00:00"
+  },
+  {
+    "id": "817210432e7240eb48800aa9cda1ce95",
+    "titulo": "Venda de veículos tem aumento de 22,1% em agosto - jornalcruzeiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjBfSmdiZ2NKS0JVWW9qS2pMRzBkdE92dlptazdvNklkaktsZWdiOWhBdEd3eXRDcnNrVWkwaTJrRXpMN0E1MU5SdDlha1REVWRPbk1uTUlBLTJUc0FiYzdlMDJUWm9CZmU5NU9hd1RwWDZsWG1tUEZWZ1Vaam9PRFpwZFBZT0FrdUw0eVQwb0VXZmd3eUh2bEFoT2N2SXBPQzhPN25rSkRieWlYY2hoQUF1N3ozUdIBuwFBVV95cUxPQU9PR25uRVhReUI3VXBPTTRobTlIeTdLYkg0bmNubjZkandqYnl1Z0RDamY0RnhUVW1PQXBwVHVzTjd3RDdHelBrT3RWVVlzMkljdEJTOG9VZmtZVEZHdmIzQzNfTzM1TnZCVVhFbjJHZGpGbVNseFl6WFZMWDA4MndaRzZXWVBQX2ZQcmo5dUloUGFIeXJjeXlfY0gwT1JJUUZtVEhZT2JMRURyYkJZdDhOTFhoSXlzR1Rz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T23:46:00+00:00"
+  },
+  {
+    "id": "0f9d6ccff564d9702d504284a1995148",
+    "titulo": "Ex-dono do ônibus da tragédia de Petrópolis define venda do veículo como 'balaio de gato'; veja fotos antes e após - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMDdZRGV4QjZ5YkVnaURWcWtvam9aZ3d3MmxFcVJBX2VTQ1d2UlZMdkpZQWFRY1RtcTJRdjA2NDY2N0ZGX3NSYWZKNEpScjVoOFRoOEZIdG1DaXNWMVUxRFVxbUl0Rl9nTzY2aTZqdXp4Qkt5WXU4OVpvR05aZ2w4LUFOSWVYdzBWNVpIM1NWWDJpcGpMb2IyXzYzMDNlcW5ocFl2ajJ3SmFETlhEbk1ZcnhBR25LRmNVQVVhNFV0MVI1NzRhTVRDM0JrRlBnLWFxeE1QX3RtXzJmQmVldU5xeFhQYjV6UFdH?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-18T07:00:00+00:00"
+  },
+  {
+    "id": "9986ded6d486649559fb786d55505396",
+    "titulo": "BMW de ‘placa preta’ e mais 55 veículos vão a leilão com lances a partir de R$ 30 mil - Midiamax",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDZkV1FPenVmM1h4UFVwUG1HVWx3b1hIR0I0Q3V6b042aVBQV1o5R2VFNUZ0d0l0UXNyUmZsRkV3WWFwVy1GOVZtWE1DTDM5SWdHSE1FQlhpR2Y3OUdicGpfTk9yVUcxUEhtYldWaVpuSXFSNWVuY0hkam9FMUp6ZVhuMGRPd1JNclhQZV9uYS1XRlpjZE1WMEVJbVV5NmtMNjQw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T17:50:00+00:00"
+  },
+  {
+    "id": "ff5ad67e8869bf7855dbc8c99df84ad7",
+    "titulo": "Caminhão a 100% biodiesel roda mais de 500 mil quilômetros sem problemas mecânicos - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmN2QmVmYTd3czN2bDgtWkREVUpocy1LNzlKYmh6Ql9WcHpLc0Zic3BlVmkydDlxZDZBSk1TRzJtUVcxOEhQd0RacTZ2VTVFZVFmZ01yZTNBTk5aUXQ0WHNiRDhvNWVpU3BVOVExUEtUdVBtU3dicXk3REZMUXVfMVZxNlZFbFNnLV9jVVdTTVJkM1RRWi1vQk9kWWVCb1EyTVl1cGdEaTQwVGJJTFFpM2VwX29jdmZZT3lIaDJB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-21T14:31:25+00:00"
+  },
+  {
     "id": "52e1b23a0a9cc06d7adc88d9fbeb59c0",
     "titulo": "pesadosAos 45 anos, Volkswagen Caminhões entra no segmento de leves por meio da chinesa Saic",
     "link": "https://automotivebusiness.com.br/noticias/aos-45-anos-volkswagen-caminhoes-entra-no-segmento-de-leves-por-meio-da-chinesa-saic",

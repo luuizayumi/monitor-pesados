@@ -1,5 +1,65 @@
 [
   {
+    "id": "52e1b23a0a9cc06d7adc88d9fbeb59c0",
+    "titulo": "pesadosAos 45 anos, Volkswagen Caminhões entra no segmento de leves por meio da chinesa Saic",
+    "link": "https://automotivebusiness.com.br/noticias/aos-45-anos-volkswagen-caminhoes-entra-no-segmento-de-leves-por-meio-da-chinesa-saic",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-03T15:59:46.612041"
+  },
+  {
+    "id": "d818cdf46de678ceb0fe68e65b6bca39",
+    "titulo": "vendasEmplacamento de veículos cresce 15,3% entre janeiro e agosto03/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/emplacamento-de-veiculos-cresce-153-entre-janeiro-e-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T15:59:46.612058"
+  },
+  {
+    "id": "a5ccfc7e0e96e38c41bc6ac43802e290",
+    "titulo": "vendasEmplacamento de veículos cresce 15,3% entre janeiro e agosto03 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/emplacamento-de-veiculos-cresce-153-entre-janeiro-e-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T15:59:46.612062"
+  },
+  {
+    "id": "0bd51b515cc805908a36bae73d235e54",
+    "titulo": "Venda de veículos cresce 22,1% em agosto, informa Fenabrave - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0dtMDM0ZmFuRml0aEdQejdtemFZdDRtVGVkS0FQdlVIZ2dBYVlCT0VLR2swQzhsNThYVmpfNS1GV2ZVSmQ1emxQUDdrdVlqUHNOVHdTNXFpaWJNMlptNXJpVGRra0w3X2RIX2hQaXg3angweFh5cWk2Q21nb3cyZWprR3pEZ0xrbDdnb2dNN3h1djFPczVJc1FlOUlDdURBU1FNUnhvdThsNmdnZkU0ZEdpOWszTEVja1hyVl9R0gHMAUFVX3lxTE9rakFrYXBPbEtuUDQyci1yekFSbk02czEyanlReFdDZ3psaFdWYm9kRlRab2pfUzBTN0JEb1NHVjFwUTlXbHVqTXh1VEl6a0xTeXpNa0RPY0Vxbk5td0ZkY3BsdFYwM0gwYXFSbWRfbVh0Y0JaT1o2TnhodFUzaUxUeWVLRHdVOW45dWc4T29vN0ZqaVYwSzg1aFhJWUQ5N0daU3JnTlpsblJWMHVlWWhHUTlYZHRPakZMNUlmVWZlT3RMVkpEeEg1dktwWA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:56:44+00:00"
+  },
+  {
+    "id": "13cc3ae5edf74e32c9deb38a4604e19a",
+    "titulo": "Venda de veículos tem aumento de 22,1% em agosto - jornalcruzeiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQU9PR25uRVhReUI3VXBPTTRobTlIeTdLYkg0bmNubjZkandqYnl1Z0RDamY0RnhUVW1PQXBwVHVzTjd3RDdHelBrT3RWVVlzMkljdEJTOG9VZmtZVEZHdmIzQzNfTzM1TnZCVVhFbjJHZGpGbVNseFl6WFZMWDA4MndaRzZXWVBQX2ZQcmo5dUloUGFIeXJjeXlfY0gwT1JJUUZtVEhZT2JMRURyYkJZdDhOTFhoSXlzR1Rz0gG7AUFVX3lxTE9BT09Hbm5FWFF5QjdVcE9NNGhtOUh5N0tiSDRuY25uNmRqd2pieXVnRENqZjRGeFRVbU9BcHBUdXNON3dEN0d6UGtPdFZVWXMySWN0QlM4b1Vma1lURkd2YjNDM19PMzVOdkJVWEVuMkdkakZtU2x4WXpYVkxYMDgyd1pHNldZUFBfZlByajl1SWhQYUh5cmN5eV9jSDBPUklRRm1USFlPYkxFRHJiQll0OE5MWGhJeXNHVHM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T23:46:08+00:00"
+  },
+  {
     "id": "14ce1e7ec96bd6a37727962380d8ca02",
     "titulo": "Queda nas vendas de caminhões chega a 5% até agosto - autodata.com.br",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVySHZVRmFNUlM2MG50VTFIc25UR0hocm9MRzd2Rkt1dXNhMDFpTGFlRHp5STFYb2VLeTZoS2ZwakZLSjEwb01UdWMybDNCdV9QMFZaQVBTaG9nTjhManh0Q0VEYWxnX1MyYm5SRlQ5ZFpiX3VEZ3hwT2JybExESFBiSzN2NnpvbE1XZXBtRllNeWh2UGlmbWRhSzRvWDNoTnJWM25WLW1WZw?oc=5",

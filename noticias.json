@@ -1,5 +1,55 @@
 [
   {
+    "id": "6f49c8b9a244eebef23365baeede139a",
+    "titulo": "GWM supera Honda e Jeep no ranking mensal",
+    "link": "https://www.autodata.com.br/noticias/2026/09/04/gwm-supera-honda-e-jeep-no-ranking-mensal/134829/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T19:23:42.960429"
+  },
+  {
+    "id": "70aa9209d5addd4f38371fcb54e8b85e",
+    "titulo": "BYD bate novo recorde de emplacamentos e encosta na terceira posição do ranking geral de vendas - byd.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0JyRHQ0SEFoR1IzckF5V2VRVG9hTjk4Zmg5Y2pCYjFqSEJES0ZDb2d5NzlOSzRVS0JKVm5yRHlXMmljaUFXeFBoSVR3RUhkUTlKaHhmaVRSWWhtaHdIT0cyVHowVHNOdEpETFVoS3RkWUN2b0xhRDFqSUVJeEFaNmtZZmtnd1hOeURkTUFXY3RXLXU1Q1d1UllkMWZMVHJvUW9sN0RnNGJNaVdxWlI5QUtvSkpRQVZ2Z0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T07:00:00+00:00"
+  },
+  {
+    "id": "d7f096c1bbc157bf6af5a1ae95d546bc",
+    "titulo": "Volkswagen arrebata três certificações de Campeão de Revenda - frotacia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzNYVHJGR2NKNEpNU0N0eFFLV0xYaG9QT1NsejRoSXlDR0RrM2wtb3FiN243WmxCWU02aUhuUTVxNmZBTUxPN0JTMk1adUxONDdwaW54Z2w4Tk82aHRPMFNDbWpuOUZmcG9jQlo1SzhCQ2N2OUIyNWNPLURYZ3Yxcnlqa1BBc1BGTEN2NE5R?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T05:16:29+00:00"
+  },
+  {
+    "id": "f770d023c43433b7759aaea2086fe100",
+    "titulo": "Queda nas vendas de caminhões reduz para 5% até agosto - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdaUzBVb3NURjkxbWNWaFYzVXlYWnZjdGI2dm5mczZHekVLUGlhVnFHYVotQmFDTmpWa0RtQVRKWTNvdFJUakNIYUZOQmNBb29NSDdpOVJjRlVTQXFMYjFDekpoSERYTm15dzJOZ29sNmlGV3M3Y2k5ZjgtSVA1d1F3T1NSTE9Ga3JDMFhiejJmX1VCZW1WNWxTS2l6MzUxLU1tSW9hblpJZEtuN0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T20:02:00+00:00"
+  },
+  {
     "id": "f299a11122ee1025c1c02e7399b7c23e",
     "titulo": "Geely abre vendas diretas de EX2 e EX5 no Brasil",
     "link": "https://automotivebusiness.com.br/mercado/geely-vendas-diretas-ex2-ex5-brasil",

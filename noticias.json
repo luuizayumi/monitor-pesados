@@ -1,5 +1,89 @@
 [
   {
+    "id": "f299a11122ee1025c1c02e7399b7c23e",
+    "titulo": "Geely abre vendas diretas de EX2 e EX5 no Brasil",
+    "link": "https://automotivebusiness.com.br/mercado/geely-vendas-diretas-ex2-ex5-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T16:57:41.846111"
+  },
+  {
+    "id": "3173de1fac32b2df9d727d10cc7140c4",
+    "titulo": "vendas diretasGeely abre vendas diretas de EX2 e EX5 no Brasil04/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/geely-vendas-diretas-ex2-ex5-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T16:57:41.846131"
+  },
+  {
+    "id": "2ac7eb3e791d0475f6b79cab60c4452d",
+    "titulo": "vendas diretasGeely abre vendas diretas de EX2 e EX5 no Brasil04 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/geely-vendas-diretas-ex2-ex5-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T16:57:41.846134"
+  },
+  {
+    "id": "022699662cbfb1d837d559918f2a47a6",
+    "titulo": "Cadillac prepara abertura de pré-venda do Lyriq e Vistiq",
+    "link": "https://www.autodata.com.br/mobility/2026/09/04/cadillac-prepara-abertura-de-pre-venda-do-lyriq-e-vistiq/134816/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T16:57:44.842179"
+  },
+  {
+    "id": "10899999e452e6771fff2b86d3f7b84d",
+    "titulo": "VW Caminhões e Ônibus apresentará na Fenatran novos e-Delivery e Delivery",
+    "link": "https://www.autodata.com.br/mobility/2026/09/04/vw-caminhoes-e-onibus-apresentara-na-fenatran-novos-e-delivery-e-delivery/134767/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-04T16:57:44.842193"
+  },
+  {
+    "id": "63f2092b75020a4bac0b6052f3a67d0d",
+    "titulo": "Varejo em agosto: metade do Top 10 já é chinês; veja o ranking - Motor1.com Brasil",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUdsVFhBdThSbUJ1dUlGS19SdTdSOGhWQU1tak5QVkVEYnA2cDdGRVlVR3VjMkpzZWQ5SUE4VVR5S2lJSU1QYlVNelFPUkt1NzBQNWczTlpKMXFMZG90cGJjMUY2QldQbnJjSXAtLUFSeWF0Uk8xM0hrd2diY3ZNQw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T11:00:00+00:00"
+  },
+  {
+    "id": "756c2f955a774acf0e6ea97699321a4e",
+    "titulo": "Volksbus atinge marca de 200 mil chassis produzidos no Brasil - caminhoes-e-carretas.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORW1qQVdnWGNVTHZmR2VEOTlLMHJTZmdNV3h1RDJnYnBrcWZuR2N5V3ZsT3JtTFB1NVJERW1BdWdSUzVtS0V1Q0RpLUVNU0dITWNzRkJXWTBrQU1ZaGpIRzdjUjFvX2p3RlJTMERINlJua1dfdEVZZElpUGt6eFU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-01T13:43:00+00:00"
+  },
+  {
     "id": "a3a3741eacc41754b2cbd9b9944bf811",
     "titulo": "VWCO apresenta nova linha Meteor Ultra de até 540 cv para ampliar presença entre os pesados",
     "link": "https://frotanews.com.br/noticia-vw-meteor-ultra/",

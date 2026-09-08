@@ -1,5 +1,29 @@
 [
   {
+    "id": "5861ea27e1f287c35bf8978901b71c8d",
+    "titulo": "2.Mercedes-Benz abre pré-venda de van de luxo no Brasil por R$ 729.900",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-benz-abre-pre-venda-de-van-de-luxo-no-brasil-por-r-729900/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T22:26:36.361524"
+  },
+  {
+    "id": "ac974e7a0907020ddd6462b97e2f3bf8",
+    "titulo": "3.Chineses ocupam os quatro primeiros lugares entre os mais vendidos no varejo em agosto",
+    "link": "https://www.estadao.com.br/jornal-do-carro/chineses-ocupam-os-quatro-primeiros-lugares-entre-os-mais-vendidos-no-varejo-em-agosto/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T22:26:36.361538"
+  },
+  {
     "id": "b68d3b48ff2dcf555a723c13fada63f8",
     "titulo": "Exportações de veículos recuam com menor demanda da Argentina",
     "link": "https://www.autodata.com.br/noticias/2026/09/08/exportacoes-de-veiculos-recuam-com-menor-demanda-da-argentina/134946/",

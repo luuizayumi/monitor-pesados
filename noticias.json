@@ -1,5 +1,77 @@
 [
   {
+    "id": "b49ab2788b9178387d06907ae37fc33d",
+    "titulo": "Volkswagen Delivery 11.180 lidera mercado de caminhões no Brasil em agosto - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHJPZlhyMkVkSi1kM3ZueHBwd2dMdUFtajBwVVpleUxrdjZ3U2pVU2xnLVI1UHM3Yjk4X1l5NTRmcnpocmJUSU1sTEZLTlRoMEZMWUlIbnBnai1qVndZTWlyN18wdUpfeUpmdmlHbHlCZGFvOVo5S2VBOE41bTI3UmptcWxTZkhWOGhBOWk1YXRRaWFTeE4yZVFZZENuR1pQN3N2R0lfMTFwUElERlN0N0xpZzVfV2lVWGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-07T15:55:49+00:00"
+  },
+  {
+    "id": "8ee030fe81c1ea9d9dcb0de3ba8c32b8",
+    "titulo": "Quais são os caminhões mais vendidos do Brasil em 2026? - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWl5anpWNkk5VElDSkR6TWU5SFVJWDNaZXdPTW9FaUctQUwtSnVXMTRNNElsRW96UTZMOXlJdHhydHhUR05PLUZNRXVSX0liempFcUl6SVZFYUtMOUVIWUY3bGVMd2JYTGIyYlVkN0tZejUzai1MZzI0VVRsM0dfa081UzJFQ1pBTmgzYkFWWU5ETFY0VFFzYWhieXZ4RUhtMlgxTjhuTTBrRTZ1cTdTbnFVSU9PZ9IBtgFBVV95cUxNNWl5anpWNkk5VElDSkR6TWU5SFVJWDNaZXdPTW9FaUctQUwtSnVXMTRNNElsRW96UTZMOXlJdHhydHhUR05PLUZNRXVSX0liempFcUl6SVZFYUtMOUVIWUY3bGVMd2JYTGIyYlVkN0tZejUzai1MZzI0VVRsM0dfa081UzJFQ1pBTmgzYkFWWU5ETFY0VFFzYWhieXZ4RUhtMlgxTjhuTTBrRTZ1cTdTbnFVSU9PZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T15:43:00+00:00"
+  },
+  {
+    "id": "d9a429423fb0cf62cda9182ba6cb7d55",
+    "titulo": "Os caminhões mais vendidos do Brasil em 2026 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmM3TUNhTW1Ua1dJX290Q29tRDZCWDZvdll6Y2RnU29pSjBSck9na0hfQ25tU0JPNV9QN3Bnd0hNdmxVQWcxUHBBbnVMUTYtckRLU2lnY1I3Vzl2VUFyTEZheHgzWE1jOTkyWlVkQ3VUNmh1VTQxeFV5THROcEd0TzhHdHhsS2N6UEtZekxFVmpnOE9rSDNHMFRnakRUMDdPTi1ad19nVURFdDhKVXdVWlFLR0luNldudXlz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T15:44:42+00:00"
+  },
+  {
+    "id": "113f8adc869fa4b2cd0ee816aba8313e",
+    "titulo": "Anfavea Visions: lideranças automotivas debatem o futuro da mobilidade - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEtPZlptUWZSeVhZRC1kZG9vbTdrOU9odlpvZ3VpTTV3WEo1eDJtQ1dDa1Z3bzczTW1LakdfTGZidGhSdFY3TTVpTnJoa1RMWmlpMzVNWWFqbkpvOTJPbE91VmMwSTl3QlhnUGlMU0c4SEN0VTV2VHVjU1Z5SWZ4LW5uZUhhNFFiWGllcmdWQ0JzMVE5M2xwMk04YXdESUFxa1pENFg5QQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-06T07:00:00+00:00"
+  },
+  {
+    "id": "1038d037e8207c157c570798e452824b",
+    "titulo": "Quais são os caminhões mais vendidos do Brasil em 2026? - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0lkOUpYSWtpMmtsRjUwWXNfV183WHRTTW5lUi1mSnFQSnpnc0w2WlpPR2JSVlVxRWdkUFJNZXJhUDVtLWJiYjlTZmZkb2YwbEdEQ3Q0bGhWZ2VtbGpjY3VHNzNJaUNRSkcwWk9oX1NwYTlkN1lnRkhoUDZZNU9xNEJDTUZiQ0g0SUNKWHBWcHpEZEM4eXY5dHFDeUNqYmVtZ2VEbXgxSWd1WjdQdGhTZdIBtgFBVV95cUxNNWl5anpWNkk5VElDSkR6TWU5SFVJWDNaZXdPTW9FaUctQUwtSnVXMTRNNElsRW96UTZMOXlJdHhydHhUR05PLUZNRXVSX0liempFcUl6SVZFYUtMOUVIWUY3bGVMd2JYTGIyYlVkN0tZejUzai1MZzI0VVRsM0dfa081UzJFQ1pBTmgzYkFWWU5ETFY0VFFzYWhieXZ4RUhtMlgxTjhuTTBrRTZ1cTdTbnFVSU9PZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T15:43:00+00:00"
+  },
+  {
+    "id": "3f477f7b4c6b8f95454f9295d1620667",
+    "titulo": "Vendas de caminhões zero km despencam 14% em agosto - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmRlTGV1bXprNXZXam5DVG9fZUlKZHhXb3FEaEkxbUJFU1J6TU1hbW1jQTV5Q0VYVVFoRjRUcnNrVFN5bUNTeXZBdXRPMDd6X2RjdVZMdzRiLTJYSzF3NUVyREljZ1o0NWpVSjNrbzJIVHE4ZG5jWmkxT21nQ1k4Q29JN0o?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T12:25:00+00:00"
+  },
+  {
     "id": "5b6a86ac477a29a437446175b6f37790",
     "titulo": "Emplacamentos de veículos crescem 16,87% em agosto, aponta Fenabrave - autoranking.com.br",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwSWthNDRSa1BoOTN4eE1iNjBPd1BmcTg2SDR6T1E5M1pnYkw5TU9ZNXE5YWw0ZEE2SW5VOEJKLWlKUENGM1lvQldGWUxCUEw0SV90c0VqbDVKNE5JOVM3NlhhTzBpSHNEeWQxUEFQYnRRaTZRRExRVnRUUks?oc=5",

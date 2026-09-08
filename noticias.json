@@ -1,5 +1,65 @@
 [
   {
+    "id": "b68d3b48ff2dcf555a723c13fada63f8",
+    "titulo": "Exportações de veículos recuam com menor demanda da Argentina",
+    "link": "https://www.autodata.com.br/noticias/2026/09/08/exportacoes-de-veiculos-recuam-com-menor-demanda-da-argentina/134946/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-08T19:31:06.256301"
+  },
+  {
+    "id": "7e27eaf02ca3c36f7ba0fef98da134cf",
+    "titulo": "Produção de chassis de ônibus recua 29% em agosto e 6% no ano",
+    "link": "https://www.autodata.com.br/noticias/2026/09/08/producao-de-chassis-de-onibus-recua-29-em-agosto-e-6-no-ano/134944/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-08T19:31:06.256320"
+  },
+  {
+    "id": "625947421b84cd500ef0f04c34aa5a8c",
+    "titulo": "Caminhões e ônibus evoluíram. A oficina também precisa evoluir.",
+    "link": "https://frotanews.com.br/caminhoes-e-onibus-evoluiram/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-08T19:31:10.128100"
+  },
+  {
+    "id": "07f72b9ab0884fc7f8bcb6d188bb1535",
+    "titulo": "Lalamove amplia demanda e frota de carga no primeiro semestre de 2026",
+    "link": "https://frotanews.com.br/aplicativos-startup-lalamove/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-08T19:31:10.128117"
+  },
+  {
+    "id": "6f54a95ebbf1e4601f43133c17179bea",
+    "titulo": "AutoZone lança &#8220;Mês do Cliente&#8221; com foco em manutenção preventiva",
+    "link": "https://www.balcaoautomotivo.com/2026/09/08/autozone-lanca-mes-do-cliente-com-foco-em-manutencao-preventiva/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-08T19:31:16.555142"
+  },
+  {
     "id": "0aefbd840891e036029a1cec18521623",
     "titulo": "Mercedes-Benz vira o jogo e assume liderança entre caminhões; VW 11.180 segue soberano como o mais vendido do Brasil",
     "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",

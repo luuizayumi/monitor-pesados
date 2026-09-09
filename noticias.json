@@ -1,5 +1,81 @@
 [
   {
+    "id": "b1c8797bb07cd761ab40bb13a77caff3",
+    "titulo": "SVD Transportes inicia testes com caminhão 100% elétrico",
+    "link": "https://automotivebusiness.com.br/esg/svd-transportes-inicia-testes-com-caminhao-100-eletrico",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-09T23:26:51.279014"
+  },
+  {
+    "id": "9d6a98bf187f28be621e7394ebe8593a",
+    "titulo": "Volvo vende 22 ônibus para duas empresas rodoviárias do sul",
+    "link": "https://automotivebusiness.com.br/mercado/volvo-vende-22-onibus-para-duas-empresas-rodoviarias-do-sul",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T23:26:51.279027"
+  },
+  {
+    "id": "0d4ab35cdd91d0abe70bc23016e59c51",
+    "titulo": "Caminhões elétricosSVD Transportes inicia testes com caminhão 100% elétrico09/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/svd-transportes-inicia-testes-com-caminhao-100-eletrico",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-09T23:26:51.279035"
+  },
+  {
+    "id": "f9a390729438d0233973fea37a4acdf3",
+    "titulo": "Caminhões elétricosSVD Transportes inicia testes com caminhão 100% elétrico09 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/svd-transportes-inicia-testes-com-caminhao-100-eletrico",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-09T23:26:51.279038"
+  },
+  {
+    "id": "d81bf648898aa45246d0daab65f5e387",
+    "titulo": "ônibus rodoviárioVolvo vende 22 ônibus para duas empresas rodoviárias do sul09 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-vende-22-onibus-para-duas-empresas-rodoviarias-do-sul",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T23:26:51.279046"
+  },
+  {
+    "id": "dadac0689c1663ef562495ef3f026bcc",
+    "titulo": "A mineira GTS Transportes amplia frota com 45 novos Axor 2545 6&#215;2 para operações em 2026",
+    "link": "https://frotanews.com.br/noticias-transportadoras-gts/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T23:26:55.316152"
+  },
+  {
     "id": "9ff85e13f2c498fff8f0efd50b0bf375",
     "titulo": "Marca de veículos comerciais da Geely lança novo caminhão elétrico no Brasil",
     "link": "https://automotivebusiness.com.br/lancamentos/caminhao-eletrico-marca-geely-chega-brasil",

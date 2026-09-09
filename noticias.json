@@ -1,5 +1,114 @@
 [
   {
+    "id": "27939c9734236f3971690f34a74aff1a",
+    "titulo": "Produção e emplacamentos de veículos pesados caem entre janeiro e agosto",
+    "link": "https://automotivebusiness.com.br/balanco/producao-e-emplacamentos-de-pesados-caem-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T14:44:41.165484"
+  },
+  {
+    "id": "5750552ed3e66f88b270ad75d1e44e8f",
+    "titulo": "caminhões e ônibusProdução e emplacamentos de veículos pesados caem entre janeiro e agosto09/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/producao-e-emplacamentos-de-pesados-caem-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T14:44:41.165499"
+  },
+  {
+    "id": "7f244490d8a06e45985872e96cec9049",
+    "titulo": "caminhões e ônibusProdução e emplacamentos de veículos pesados caem entre janeiro e agosto09 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/producao-e-emplacamentos-de-pesados-caem-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T14:44:41.165503"
+  },
+  {
+    "id": "5e03d662deb5deb6558046b5bc9289c9",
+    "titulo": "Avelloz inicia produção de motos em Manaus e busca crescer 20%",
+    "link": "https://www.autodata.com.br/mobility/2026/09/09/avelloz-inicia-producao-de-motos-em-manaus-e-busca-crescer-20/134954/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T14:44:44.444902"
+  },
+  {
+    "id": "2f41cc451b27eb35ef156ef550aff627",
+    "titulo": "Crédito do Plano Safra 2026-2027 avança e definição sobre renovação ou reforma da frota agrícola",
+    "link": "https://frotanews.com.br/novo-trator-t7-new-holland-biometano-safra/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T14:44:46.046207"
+  },
+  {
+    "id": "9acb6886021f4e4725edaa01a9f21e4e",
+    "titulo": "1.Chineses ocupam os quatro primeiros lugares entre os mais vendidos no varejo em agosto",
+    "link": "https://www.estadao.com.br/jornal-do-carro/chineses-ocupam-os-quatro-primeiros-lugares-entre-os-mais-vendidos-no-varejo-em-agosto/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T14:44:47.726076"
+  },
+  {
+    "id": "753c9bee10dd144fee126659125f25c4",
+    "titulo": "Vendas das associadas à Abeifa fecham agosto com alta de 3,3%",
+    "link": "https://www.balcaoautomotivo.com/2026/09/09/vendas-das-associadas-a-abeifa-fecham-agosto-com-alta-de-33/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T14:44:53.108545"
+  },
+  {
+    "id": "bcb4360fb704bc3d4563cc6b3ef53e32",
+    "titulo": "Vendas de veículos usados recuam em agosto no Brasil, diz Fenabrave - istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDh0UnozcVgzbGhhRVFrU21PeTVnZWFKNlFDSzlPRy1TNGlDV19wU2E0R2VrN2JzS01hOTc3UFV4Tk9IMjJUZFc2TjNJTjZoaVhSYU1lNWpJQU5jYTA5YlQ5WUlnQnhkSkVFbGRFZDRfRGI3emJEaEZ2TUhHQWg1NA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T14:47:03+00:00"
+  },
+  {
+    "id": "f3e26d8247eb69c3de77dd81fe5a5b10",
+    "titulo": "Carros mais vendidos em agosto de 2026 - vendas diretas: Polo e Strada lideram - car.blog.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVVvZ3ZUSERSQ0tCQ25wWFRDcG1OckdPZlJuMUxPRE0yMVNWNmlybWg5dnA4OC1wcWVtYlY4MVR4TFNsVHZvVGRmOWxMdnEwc1U2NTFOLWRDd2NLOURPRjBCREJ1Ul9mVXh3UU1Dc2pDdjRmeFFYaWRoNmxvOG85UA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T12:24:00+00:00"
+  },
+  {
     "id": "b86ab2577fb71ffa79cc234587209c3d",
     "titulo": "Venda de caminhões usados avança em agosto e acumula alta de 4% no ano - transportemoderno.com.br",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2Y0dE1SRUhURTFlXzFrWGs2cHBqNGhRMFhOZENfRXhEcmZSWHZqeGZaQ0hpMUNwdWpiMlF2T2h1WXB2b0NkNm81YnFnZWFnUWdWbHNOS2U5QUVMRm5sSWdlSjRuNklQREloSEJzMWNxcGFzY0p6N05FQVJoTWlPZHg1c2tiQlVoeEFHdGZGTExRck0wRlNyTjF0OVNveXFfdE81N3hjNURrV0FzV1V4dC1zUTg?oc=5",

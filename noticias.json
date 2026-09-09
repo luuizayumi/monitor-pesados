@@ -1,5 +1,96 @@
 [
   {
+    "id": "9ff85e13f2c498fff8f0efd50b0bf375",
+    "titulo": "Marca de veículos comerciais da Geely lança novo caminhão elétrico no Brasil",
+    "link": "https://automotivebusiness.com.br/lancamentos/caminhao-eletrico-marca-geely-chega-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-09T21:05:22.877424"
+  },
+  {
+    "id": "905850e76f9b69dffbe803eb0fc21739",
+    "titulo": "caminhãoMarca de veículos comerciais da Geely lança novo caminhão elétrico no Brasil09/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/caminhao-eletrico-marca-geely-chega-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-09T21:05:22.877441"
+  },
+  {
+    "id": "001f5dfeee89766f690fb4335911db92",
+    "titulo": "caminhãoMarca de veículos comerciais da Geely lança novo caminhão elétrico no Bras...09 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/caminhao-eletrico-marca-geely-chega-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-09T21:05:22.877446"
+  },
+  {
+    "id": "79b42a0c0e49ac73a7389f2bd32e1a76",
+    "titulo": "Recuo nas vendas de implementos chega a 3% com contribuição do Move Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/09/09/queda-nas-vendas-de-implementos-recua-para-3-com-contribuicao-do-move-brasil/135010/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T21:05:25.458222"
+  },
+  {
+    "id": "e2d2f469d786419d87a8fdff6cf0d798",
+    "titulo": "Com 27 eActros 600, 35 Volvo elétricos e frota com mais de 3 mil caminhões a gás, Amazon aposta no modelo multienergético",
+    "link": "https://frotanews.com.br/frota-sustentavel-amazon/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-09T21:05:27.054010"
+  },
+  {
+    "id": "ba39a6e282d641f2bf45e0e311f87ac7",
+    "titulo": "Volkswagen Delivery 11.180 lidera mercado de caminhões no Brasil em agosto - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHJPZlhyMkVkSi1kM3ZueHBwd2dMdUFtajBwVVpleUxrdjZ3U2pVU2xnLVI1UHM3Yjk4X1l5NTRmcnpocmJUSU1sTEZLTlRoMEZMWUlIbnBnai1qVndZTWlyN18wdUpfeUpmdmlHbHlCZGFvOVo5S2VBOE41bTI3UmptcWxTZkhWOGhBOWk1YXRRaWFTeE4yZVFZZENuR1pQN3N2R0lfMTFwUElERlN0N0xpZzVfV2lVWGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-07T15:55:49+00:00"
+  },
+  {
+    "id": "1ae164fefde60e108620856ebe1ec8fe",
+    "titulo": "Vendas de caminhões tem queda de 14,2% em agosto - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1YyZndrOUxoV3FjaWRnZE5kM0w3WVc0d2h6QXZpUTU1Z0lpRnRIX3VWRUVrOUtNdVBCZjk5UDBUMXN4WlRUWUZHZ1ZGT1FWZElBQk1ZWTBtakpsdTlwMmN2Z2MxWWN5czRhbmMyWnFDczMxdDlaRWtIQzh1ZHd2Z1BhdEpYTnNTMVBXeDRNRQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T15:18:06+00:00"
+  },
+  {
     "id": "5360f4d4822cf5c484453f54e5a63b55",
     "titulo": "TRATON GROUP avança na padronização de software para veículos VW, Scania, MAN e International",
     "link": "https://frotanews.com.br/traton-group-software/",

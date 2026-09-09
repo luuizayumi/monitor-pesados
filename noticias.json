@@ -1,5 +1,105 @@
 [
   {
+    "id": "990202da8c6d06d0a7fd9fb80d39ccdc",
+    "titulo": "2.Chineses ocupam os quatro primeiros lugares entre os mais vendidos no varejo em agosto",
+    "link": "https://www.estadao.com.br/jornal-do-carro/chineses-ocupam-os-quatro-primeiros-lugares-entre-os-mais-vendidos-no-varejo-em-agosto/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T05:05:30.806221"
+  },
+  {
+    "id": "08ebf7564a74cbb1ac14afed9fb03168",
+    "titulo": "3.Três modelos da Fiat deixam de oferecer opção de câmbio manual no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/tres-modelos-da-fiat-deixam-de-oferecer-opcao-de-cambio-manual-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T05:05:30.806234"
+  },
+  {
+    "id": "5c23d02200bcfc2e8cb4727d86c005f5",
+    "titulo": "Venda de veículos sobe 18,4% no ano - Rádio Fandango",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2xIN2lWRlFQQ1lkM1dXM3kxYnRjLTVOR29CaUNMdnFSWC1GR1Jqd0FKdHlZVDgwZHRpalJzbVNibDB1TWs0ZUlpcUlvZi11cnFNYUNERHpmRk1YZFZFM1BpS1E5ZWp4WWoxdEJvck9HeGFjUWlqYmR1b3Z5MEpSSF9OZ24?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T18:20:42+00:00"
+  },
+  {
+    "id": "26a50bf40308cb70f8abacc72583de69",
+    "titulo": "Produção de veículos cresce 9,4% em agosto ante mesmo mês de 2025, mas vendas caem - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1ljdmFMU0JsYTVSTVppcUp4Vl9UNG1CX2h1bG12a252U2EtRjR3VXN2aDQxd0lxSS1oZTZ1enhVRHlvbGFyNWFNRFdyQWJTTmx1NG0wOGJtYnNfRS1YSFFMX0M5MmJQR0lDd2pRSmhzNzA3SGRtalh2Y0Jhd2Q3b1VGLVJkVE9JOUJ6OGlxbEUwZWJSMjVEVXh1a0xCLVFJNXVBUTc4Ym1pbFd3TGJ1X0NidmVVUFo4bUHSAb8BQVVfeXFMTTZQOFF4NWktQV9wMUZhX2hNdzdhSTkwRkZlR2JnU3doVUFVd2cwVkdPWVJqUlFNSVFYOXVDclpweHRzUmktb3ZzZzRLR203ZU1XTGZlODdzVU9wY3RkcDA0XzcwVFA2NDZyWk1oRmNMV3o2V0xNaXNrV2VUMUdfd2o3Yk4wREV0OUJFQmM0Yk5iM1V2U2xybUE4ZzR1TVA2N2RoUDA5OFczZTNKdkgxWk9CLVppQzRRZk5nMmpOY2M?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T14:42:45+00:00"
+  },
+  {
+    "id": "1acdbff86e9d46e5ebae27757cdd3e3b",
+    "titulo": "Venda de caminhões registra recuo mensal, mas cresce sobre agosto de 2025 - autoindustria.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUlhR1Q4VWZpU056X2VUWW1mQ2lvQVhLWU95MXdwWWRrR0Y0Ymw4UzZXaXdSdVdPVVFnNGdMY3JKNTJDbDc0NjFxbDRsU3N4Y0ZJQ2F3c1lueHllX0FfYlppcHJBU25STGlmLVE4SWFEblktTkxkSlpYekhnMkFaOU1ZQmE5aXdMWk9ESTdnb295azRDT0ZTcGN2YTdzdS1lZjBzWnlBcEhlSHo0X1lMVHBlbnN4b3Vt0gG-AUFVX3lxTE9zQjZJdWlSSGpVVWhRVXpiZkNKWDg4eDhkQ0ZXZng1eHVPVXlabHdfcGNqNURzRFRCc2xkQzB0OENQVlowMkYtR19Tc0RON1J6MzBOUjdEd1NHem03Zm5sa2pma1Y0eHR4N01hY2tNSlByYTl6M2ZNenRFQ1FnX0QwVFlxUnVMWXB4bnk5TC1sSHotc0FjTXktbVZhN2dqbElRV0FQUmptQ1FuS1FjVVRyLWJSc18xREJ4ZzZic0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T19:12:00+00:00"
+  },
+  {
+    "id": "2a246e320fcbabb99eacda0836a4afa0",
+    "titulo": "BYD emplaca dois modelos entre os cinco mais vendidos - autoindustria.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmRrMXh2YnlWWDdCMjVka1UxeGJIVmVFLTdRUnZxam9oSXFlN0I4Sy1GU0MwaW1BLWdlU0xtZDUwckpLZFJRTW1jVzZFUGYxWkRLWVlkVDZrUWkyTS04Y042RF9OZXVNejNnQU1qR3Q1T2dXdGEtUFJTZk01aUVLUjFmT3N2aUs0ZWNSaWpMT2RBbmNBYndUd2QtYkVqR3fSAaQBQVVfeXFMTTd4Sjg3OEE2WkRuc21ZTmJqYkpYMUpEcG5wLWtCYWVFTlRYQjI2VnBKWTRZTEZFSDBLeEh3UTFFc0wyeGZzbE81UTZmRkJQNVFySTBHcWxSQlNuT0ZGemo2aGhfMktCeTM0VDYyVmFGeUZ5NVA0LW53andzcVRNWVVPNktGV21GWDlibXphOG1QakNMdTJEZ2lpU005aGUza2xoVFY?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-17T07:00:00+00:00"
+  },
+  {
+    "id": "c58768a6a0395c775826d33c6841db99",
+    "titulo": "Farizon F3E chega ao Brasil por R$ 240 mil com até 314 km de autonomia - Guru dos Carros",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1ViZzM5ZHlxQ3l1YnR2cEN2RFZyVlkxdzV1SkFMbG1leHVfTjUwT3FlZVVidnJLeXFUeU1XQl9feDlYaFhSeDlNNnphcm5lRWJ5alBHdDNISktEYnZIeTBpZWFsTEI0LXVwY2xKeVFQeXUzRVUxWmo0TGxiYnBGTEFYMGFtRDZPUGkxSEFkVVJaTzl6eW1Ub0dzSzhJQ0VfblFzcENTaXBmaXZndjNV?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T23:21:28+00:00"
+  },
+  {
+    "id": "8450cdfbda04386a72cfe07b9f52e0d1",
+    "titulo": "Jaqueline Marzola é a nova diretora de Pós-Venda de Veículos Comerciais da Mercedes-Benz - autoindustria.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQmZvUVB4Y2tGUkZLel9nUXdtd2hQc0JLUUVTdXRBa0hrRTJqU2NfSjJJc21GcWV4dG5mZ2kwZERrXzhKS1ZlRXllUDJIdUpOUEM3VllmTEd1UUEwdnZlSjNsbXZITC02YlFFY2Y0T2hfSVExUW9PU25kaDk3QUtUM0RJRjRkSlFJb2pqNHNRZ01iZFMtSkFhREZ2YmhLZWNsdVE3VG04WjBJWkRET0xTRF9lT09DYnNxZkZLNG1JLUNRMUlNblRHbG9lM09Id9IB0wFBVV95cUxObnBwb0FzY01ydWFmM0lJTUFpTzVRNGhsdWZ1S3RELTBkaUwxVFBkSXVTbnk0LWYxblJTNTFQNV9fWEliQmwtNzlpUGY2NDdVODlrOERfSUhRSHdvUGVNYnM1UFFBMmIwTERSTjg1bUp1U3NFVEdnRmplT29qaGs1MXNmWHpGbWFwcFBTZTMzXzhWNFlfa3kwSkpOS09SVU9FZjRQdUtSSDhyaHdONDdzRmRtZDdFTVZncUtwQXBOTUZXazVtdmI1NWJuRThtaXFxWDFF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-24T15:34:00+00:00"
+  },
+  {
     "id": "8da1491e38c4f1c326f587b892f8cc82",
     "titulo": "Venda de caminhões usados avança em agosto e acumula alta de 4% no ano - Transporte Moderno",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2Y0dE1SRUhURTFlXzFrWGs2cHBqNGhRMFhOZENfRXhEcmZSWHZqeGZaQ0hpMUNwdWpiMlF2T2h1WXB2b0NkNm81YnFnZWFnUWdWbHNOS2U5QUVMRm5sSWdlSjRuNklQREloSEJzMWNxcGFzY0p6N05FQVJoTWlPZHg1c2tiQlVoeEFHdGZGTExRck0wRlNyTjF0OVNveXFfdE81N3hjNURrV0FzV1V4dC1zUTg?oc=5",

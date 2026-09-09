@@ -1,5 +1,140 @@
 [
   {
+    "id": "5360f4d4822cf5c484453f54e5a63b55",
+    "titulo": "TRATON GROUP avança na padronização de software para veículos VW, Scania, MAN e International",
+    "link": "https://frotanews.com.br/traton-group-software/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T18:21:59.355444"
+  },
+  {
+    "id": "3711e0797291993048bb68a2e1095b8c",
+    "titulo": "Compradores de ônibus: Princesa dos Campos e Cantelle ampliam frota com 22 ônibus Volvo",
+    "link": "https://frotanews.com.br/compradores-de-onibus/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-09T18:21:59.355457"
+  },
+  {
+    "id": "e713bda163149f367e4d2da09fbe1027",
+    "titulo": "4.Chineses ocupam os quatro primeiros lugares entre os mais vendidos no varejo em agosto",
+    "link": "https://www.estadao.com.br/jornal-do-carro/chineses-ocupam-os-quatro-primeiros-lugares-entre-os-mais-vendidos-no-varejo-em-agosto/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T18:22:00.792224"
+  },
+  {
+    "id": "10f0e84a89485a192ee87b4b80d0a7f2",
+    "titulo": "Quais são os caminhões mais vendidos do Brasil em 2026? - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWl5anpWNkk5VElDSkR6TWU5SFVJWDNaZXdPTW9FaUctQUwtSnVXMTRNNElsRW96UTZMOXlJdHhydHhUR05PLUZNRXVSX0liempFcUl6SVZFYUtMOUVIWUY3bGVMd2JYTGIyYlVkN0tZejUzai1MZzI0VVRsM0dfa081UzJFQ1pBTmgzYkFWWU5ETFY0VFFzYWhieXZ4RUhtMlgxTjhuTTBrRTZ1cTdTbnFVSU9PZ9IBtgFBVV95cUxNNWl5anpWNkk5VElDSkR6TWU5SFVJWDNaZXdPTW9FaUctQUwtSnVXMTRNNElsRW96UTZMOXlJdHhydHhUR05PLUZNRXVSX0liempFcUl6SVZFYUtMOUVIWUY3bGVMd2JYTGIyYlVkN0tZejUzai1MZzI0VVRsM0dfa081UzJFQ1pBTmgzYkFWWU5ETFY0VFFzYWhieXZ4RUhtMlgxTjhuTTBrRTZ1cTdTbnFVSU9PZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T15:43:00+00:00"
+  },
+  {
+    "id": "3343e794f77e001b3d89cde2caa04fe5",
+    "titulo": "Os caminhões mais vendidos do Brasil em 2026 - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmM3TUNhTW1Ua1dJX290Q29tRDZCWDZvdll6Y2RnU29pSjBSck9na0hfQ25tU0JPNV9QN3Bnd0hNdmxVQWcxUHBBbnVMUTYtckRLU2lnY1I3Vzl2VUFyTEZheHgzWE1jOTkyWlVkQ3VUNmh1VTQxeFV5THROcEd0TzhHdHhsS2N6UEtZekxFVmpnOE9rSDNHMFRnakRUMDdPTi1ad19nVURFdDhKVXdVWlFLR0luNldudXlz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T15:46:08+00:00"
+  },
+  {
+    "id": "16fc07f0ff749739df642a2885907c4d",
+    "titulo": "Queda nas exportações de veículos, com recuo das vendas à Argentina, preocupa setor, diz Anfavea - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWlocFFSVlFfTVZLMGotLWhzSTJDWHRvSlFhY1pSMnY2NmpCdWFjUG5fN0kzb0VqVWhFblhGN0JheHVYMEFwVzI1ODBFWWNqNUQ1OWJoTUkxaUV6TE8zZUgwS2xmU0Z2akxFWUJIaXFlSDh6ZkhzamtWa09oQ3BwWDBKRzZGYmVhbUo1ZWxvVDhseTJsaHZvMkxR0gGfAUFVX3lxTE5Hb3V1NFZXWUgyRTE4MG9KeUY2RXdxMThNT0puQzdiMWQtZzJwY2ZWSnpSeXdoZnVaUk5KUzlrUVAzNk80bWlNaXRodkNHdFNmUDF5MXd6dEJVTFUxcVBQLUtCbXg4MDBhZkFsdTFubXBFUWhJaU55RlVobmRINVpXUnNUcWdMWjFvX2NBWS1lcXl5VFE2dXVic0hEbXRjbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T15:30:00+00:00"
+  },
+  {
+    "id": "213f052cfd8de020e0d88106b9b1961b",
+    "titulo": "Com 3,1 mil emplacamentos em um mês, Campinas ganha, em média, 101 veículos novos por dia - G1",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaHVkREJwNWpLa2c2YjRXLV9MN1VIZ25aeXdxSWxPdmxXZktiQU5sQzlYS2xnZDFxOHpGVTBtamJXRDJvcldjSDJuOGQ1R3RBWXhEN1dOUEJoNFgxOGlocGo0aUdoZEx4eWNTWE8tRWZ4a0Q2TnlOMGpUT1ljNzN4ZWI1ZjRGaHRKVFVLRDIzQjhXNDZibkFMempnZjZjY3E1NjlZd05EdFREN2VHU2VpRG5iZVVWNTdvSWFDUUNEaVdnSlh5dGhPQkdZNzFsVFJCY2REejlNOGZ3WWM5MVMtUmR3ZkrSAfMBQVVfeXFMT3BqUWpRVENWUzY2QVVmT1FBcXlBZHVrd0NVeWJEM2FPa2V2Z3pTaWFRU3RZTFh0REN0NG10SFdwR2xabVBLMkUtUERPYWtEWExEdklLOWRmN1MtbzNoaVV2Ukt0WE1iU19QOUQ0NzJkLUZOWjdWbGdpandxUkVPTDB4R18tM1lrek0xQ1UyNlpYNnFoTE9LT3gza2tndGk2Y01EbjZsLVUweWIwTkhGWGdvYlJyNk5ockhtWmFGSGhHQ3RIVk53YUptTnl6NnQ1dEppQWhxS1pMbG5aZzNIb1NTX1BsVHpzbUdmZzNSOU1TNHBn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-06T12:48:55+00:00"
+  },
+  {
+    "id": "b646d6c0f3667ce28bc183e1771afe2c",
+    "titulo": "Quais são os caminhões mais vendidos do Brasil em 2026? - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0lkOUpYSWtpMmtsRjUwWXNfV183WHRTTW5lUi1mSnFQSnpnc0w2WlpPR2JSVlVxRWdkUFJNZXJhUDVtLWJiYjlTZmZkb2YwbEdEQ3Q0bGhWZ2VtbGpjY3VHNzNJaUNRSkcwWk9oX1NwYTlkN1lnRkhoUDZZNU9xNEJDTUZiQ0g0SUNKWHBWcHpEZEM4eXY5dHFDeUNqYmVtZ2VEbXgxSWd1WjdQdGhTZdIBtgFBVV95cUxNNWl5anpWNkk5VElDSkR6TWU5SFVJWDNaZXdPTW9FaUctQUwtSnVXMTRNNElsRW96UTZMOXlJdHhydHhUR05PLUZNRXVSX0liempFcUl6SVZFYUtMOUVIWUY3bGVMd2JYTGIyYlVkN0tZejUzai1MZzI0VVRsM0dfa081UzJFQ1pBTmgzYkFWWU5ETFY0VFFzYWhieXZ4RUhtMlgxTjhuTTBrRTZ1cTdTbnFVSU9PZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T15:43:00+00:00"
+  },
+  {
+    "id": "991b71cc5ffef7d20ab02943a6769578",
+    "titulo": "BYD chega a mil chassis de ônibus elétricos produzidos no Brasil - canalve.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEZqRF91VXcyWHhNZGFENmhvd2hocHBVMUxxemwtQ1I3eWNva2hVTWpfVmJqQld1d2ZWRXk3dzlSVEFZSi1Bei1JVjlMQU8tel9IYXFpRXZXVU1VYTIwUzB1c0QyZzdZQWg5a1gyb2w2alRYUnBkOHRHNU1yaEpUYzRkUThqdmM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-26T07:00:00+00:00"
+  },
+  {
+    "id": "a15cdc525cf3c0075363ce4b6e15f213",
+    "titulo": "Caminhões Volvo conquistam prêmio “Campeão de Revenda 2026” - volvogroup.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1A5djRUTzd2aExfUUtxUnMzRjZnY1l2NUgxeU5CMlNZR2ZhTWV2UFExMDljM3ZnaEQ0a2ItanM4d2lYLWVQQXVTNVhQVEZ3QWxSUHN4WkExUHdwZFhTRXR5bWlhUzFxMHFtRXo2Nmk0Q1BOOUNNY2NoRUR5RldGc3ZwUW9JWjYzd19sMDZnYkpVU3N1VmVCMGI5MXc4NWlkOHl5OUdRZXZua1N1RzFWcGpObllndXRxYWJZeUNsLTU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-20T13:35:30+00:00"
+  },
+  {
+    "id": "7a0467731e30aca037632abab7e34256",
+    "titulo": "Vendas de caminhões zero km despencam 14% em agosto - caminhoes-e-carretas.com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmRlTGV1bXprNXZXam5DVG9fZUlKZHhXb3FEaEkxbUJFU1J6TU1hbW1jQTV5Q0VYVVFoRjRUcnNrVFN5bUNTeXZBdXRPMDd6X2RjdVZMdzRiLTJYSzF3NUVyREljZ1o0NWpVSjNrbzJIVHE4ZG5jWmkxT21nQ1k4Q29JN0o?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T12:25:00+00:00"
+  },
+  {
     "id": "27939c9734236f3971690f34a74aff1a",
     "titulo": "Produção e emplacamentos de veículos pesados caem entre janeiro e agosto",
     "link": "https://automotivebusiness.com.br/balanco/producao-e-emplacamentos-de-pesados-caem-agosto",

@@ -1,5 +1,81 @@
 [
   {
+    "id": "265cc49819d0d4549ebec0a8aee66db0",
+    "titulo": "A mineira GTS Transportes amplia frota com 45 Axor 2545 6&#215;2 para operações em 2026",
+    "link": "https://frotanews.com.br/noticias-transportadoras-gts/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-10T01:22:20.568687"
+  },
+  {
+    "id": "bc596513946f35e3ff5f4bf9ee5e3181",
+    "titulo": "Queda nas vendas de caminhões chega a 5% até agosto - portaldaautopeca.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHY4Z3JwQlMwME11emJKcmc2ZzlBeEM4c21SU2FxaGdmY3dHTEtNREJ2bDhRVmpsMGRXWjlicUxFbzZIRjRZTWFGaTVWczRIekVHTUZVSzM1TnBIY2RyQ1EyX0ZBRndDdGp3Rjg0NWI1MDJ5WVB6SHBHMms5Q0pjY3kwRWdjVDRYTTZTaHg4X1A0SHg5dEZlRFVMY0Y2eU0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T03:45:05+00:00"
+  },
+  {
+    "id": "f9627e0e8132cef8344095659433c4dd",
+    "titulo": "Farizon lança caminhão elétrico F3E no Brasil por R$ 240 mil - revistacaminhoneiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWklkWHl3dmMwNlBLV09uYWJPaFplRWQ1SXFjSE45c1otdExrbTlzT1N0dGJYVDh5T0ViN0RJT01tTjVLbjFMY0N3MHdsMFZKSmxON05aV1c5S2k0WUFIb3Y5WDRUdDBKSURldW5KamZ6LUE0a05ISGctR1MwZlFLdEY5Z2c3VGpPbGdqYUtOQzZ1c3g3TS1ncnFTekY2clk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-09T18:03:00+00:00"
+  },
+  {
+    "id": "b39f1d2c2732c5a6c14cf5da32784c7e",
+    "titulo": "Caminhão 1 milhão da Mercedes-Benz: 34 anos com o mesmo dono - revistacaminhoneiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkt1enl5TnlaWFdCd2dIMUJIRDViS1hqMFdsXzhvWHJHNkRZTl90MEcwWnBtNU9CLVVwNUEyWVpaV2lYb245WFpYdzhBQlNnem1qZEo1OXdLOGZ5RzVPRllEemhuY2ZlZUZ6ekRBVXpWeENDVlJ5YXVLWlhDbVM1cExYLUgyalF4RGJDOGZCNHlhclV2VDNmS1Vhc1g4R0U?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-04T21:03:00+00:00"
+  },
+  {
+    "id": "8863cd0b95273a5e3eff64b07c4a0b44",
+    "titulo": "Caminhão DAF roda 500 mil km com B100 feito de sebo bovino sem falhas - AutoRanking",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM2lRc1BDWHhRQ0RtT2UzRVplMl85dkdfX25SOUpJQV83TjZBTXZLcGVsSnVET3NzMzlxMmJva01CLWNRemM5OEVIS1VWdXlBVkxNV2YzdlZ2Rl9BdGJGTG5uLW14VWdoZW1hSDRNZWx2WTlBNThzX3B2YVl4OFlBSUNDLW56VmYwTU5EWEUwUjg4NmVUM1dpNEI2NzBYZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T16:20:28+00:00"
+  },
+  {
+    "id": "da5ab7bf10044589aaabec8e6f31eabb",
+    "titulo": "MAN e Rheinmetall relançam a marca de caminhões Star na Polônia com modelos militares - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTE2UmQwSEtJLXVIWVl1UTlDb2ttdEdzY090RnhRbUI1YkctZmNycV83RGR3eW1UcmJ0N3hhNEVHaGZUTmFZbXJmdWlBUkhHSUJNVFdFNVBaWklGa2UyNzd1elZ3SkVxNW1WZTZCdXphVzhaeFRGdjRGSGU1c2dFTi0wMkxPV19FZTdKMlNuZjJGam94RUFSb3BOaTB6Uks4cmswYlRodGdzN0dKczZHVWNMUnNYUUkwUTVPZGpHa1JVRDQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T13:26:50+00:00"
+  },
+  {
     "id": "b1c8797bb07cd761ab40bb13a77caff3",
     "titulo": "SVD Transportes inicia testes com caminhão 100% elétrico",
     "link": "https://automotivebusiness.com.br/esg/svd-transportes-inicia-testes-com-caminhao-100-eletrico",

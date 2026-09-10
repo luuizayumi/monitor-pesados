@@ -1,5 +1,68 @@
 [
   {
+    "id": "070b58941b15ad0fc7eb6f6593d90364",
+    "titulo": "Projeto de lei propõe venda de gasolina sem etanol nos postos brasileiros",
+    "link": "https://automotivebusiness.com.br/legislacao/projeto-de-lei-propoe-gasolina-sem-etanol",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T21:46:19.562805"
+  },
+  {
+    "id": "742ec384fe7e848a717ec40551f7f072",
+    "titulo": "etanolProjeto de lei propõe venda de gasolina sem etanol nos postos brasileiros10/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/projeto-de-lei-propoe-gasolina-sem-etanol",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T21:46:19.562821"
+  },
+  {
+    "id": "0278073c05b43386414548d79f8f3f2c",
+    "titulo": "etanolProjeto de lei propõe venda de gasolina sem etanol nos postos brasileiros10 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/projeto-de-lei-propoe-gasolina-sem-etanol",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T21:46:19.562825"
+  },
+  {
+    "id": "d4152f9fd396976e07f6a6e3e51de03c",
+    "titulo": "1.Exército dos EUA gasta quase R$ 1 bi em apenas 8 unidades do caminhão mais caro do mundo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/exercito-dos-eua-gasta-quase-r-1-bi-em-apenas-8-unidades-do-caminhao-mais-caro-do-mundo/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T21:46:27.549304"
+  },
+  {
+    "id": "5342ae09a7ffc89fd5c51b9d0044e091",
+    "titulo": "Farizon lança caminhão elétrico F3E no Brasil por R$ 240 mil - frotacia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3p3bmg0NERDQlVRRkRxT2M0c2NGa2w1SlFvUE1PUnpZTFBNMFlleVEtVzR0VzhDVzlLVDJ4WFRCZ0JaRm0zcUlvYTRuNW1DcFBOM3FBZmhzZVNLTVRCU3BrZzZNODNTQmZ4bTBZdUJQbXBOdkZZaGFkMGF3am9zWFJWekdpQnVpVnhETw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-08T15:26:00+00:00"
+  },
+  {
     "id": "595eb7f7a88bc0189d098d1d7ca78ab6",
     "titulo": "Bosch e Pirelli Brasil firmam parceria para a venda de pneus na rede Bosch Car Service",
     "link": "https://automotivebusiness.com.br/conteudo-de-marca/bosch-e-pirelli-brasil-firmam-parceria-para-a-venda-de-pneus-na-rede-bosch-car-service",

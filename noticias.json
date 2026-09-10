@@ -1,5 +1,79 @@
 [
   {
+    "id": "23280f876e5ce95f3bf253322cde52da",
+    "titulo": "Descarbonização de frotas: Do Proconve P8 à Fase E: Cummins detalha os desafios tecnológicos e o futuro do diesel no Brasil",
+    "link": "https://frotanews.com.br/entrevista-cummins-andre-garcia/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-10T16:01:09.884019"
+  },
+  {
+    "id": "a79701e221be2b9c6b2f9006ee1e4e9e",
+    "titulo": "5.Chineses ocupam os quatro primeiros lugares entre os mais vendidos no varejo em agosto",
+    "link": "https://www.estadao.com.br/jornal-do-carro/chineses-ocupam-os-quatro-primeiros-lugares-entre-os-mais-vendidos-no-varejo-em-agosto/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T16:01:11.224780"
+  },
+  {
+    "id": "8da8f6cc18a09014e870499fbe9b624d",
+    "titulo": "Envelhecimento da frota aumenta a importância da manutenção preventiva",
+    "link": "https://www.balcaoautomotivo.com/2026/09/10/envelhecimento-da-frota-aumenta-a-importancia-da-manutencao-preventiva/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-10T16:01:20.825426"
+  },
+  {
+    "id": "32d8044e65b3b868ed8e6548dc06014e",
+    "titulo": "Barra de direção desgastada coloca em risco a segurança do caminhão",
+    "link": "https://www.balcaoautomotivo.com/2026/09/10/barra-de-direcao-desgastada-coloca-em-risco-a-seguranca-do-caminhao/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-10T16:01:20.825442"
+  },
+  {
+    "id": "63b8a26110740e8ffac2e1757b0f6543",
+    "titulo": "Volkswagen Delivery 11.180 lidera mercado de caminhões no Brasil em agosto - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2VhRlFjUjV5WmF6a3J4VVl4R19PRkthbjZXOG9WemVYVG84aEV5bkxkTlQ0ZmgwVVpkZWlFM1dLNTh3QkVtZmVNV0pBUWxld1hndE5QUEY3SUwxWWZJejZ4WVRlMTlabkMxcWstYVhESExhdDVFQzBJcklnZml4S092ZWR3dkdrV3lJck0xYk5WODJPWGMtTXIxZ0wzMnM1R2N3dC1TeWQzeTNaYThZci1sZmM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-07T15:45:51+00:00"
+  },
+  {
+    "id": "3b5ef5466b95caa7a61f125c28f99f40",
+    "titulo": "Farizon amplia oferta no Brasil com o semileve elétrico F3E - autoindustria.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObm96Y0RXbF81VlQxTDAwbElFOFQxT3hYTm1YX0p0UWlWUUgtOGFRbFAxUXJnMW9ubVVvMS1QY3Vpd0JwbnNoMjVQY21HM2ZsYzdhUk5YSmZTSVlIX3B0NG9IekUwYlBtaThhZ0xPY050am1KS25fZndRbkZfNmZTalhnOWtKY0tOQ2lXZHhERUZXNTZxbnJCREd0QUI5QU52eXNkcWxJYzAtZy1S0gGsAUFVX3lxTE5ub3pjRFdsXzVWVDFMMDBsSUU4VDFPeFhObVhfSnRRaVZRSC04YVFsUDFRcmcxb25tVW8xLVBjdWl3QnBuc2gyNVBjbUczZmxjN2FSTlhKZlNJWUhfcHQ0b0h6RTBiUG1pOGFnTE9jTnRqbUpLbl9md1FuRl82ZlNqWGc5a0pjS05DaVdkeERFRlc1NnFuckJER3RBQjlBTnZ5c2RxbEljMC1nLVI?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-08T20:31:59+00:00"
+  },
+  {
     "id": "57cb6cb499a1970624c3915a298a7c74",
     "titulo": "SVD Transportes testa caminhão elétrico pesado em rotas de São Paulo",
     "link": "https://frotanews.com.br/svd-transportes-amplia-frota/",

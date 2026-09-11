@@ -1,5 +1,55 @@
 [
   {
+    "id": "8f1c93c7568531ce0c2d5b3541018e78",
+    "titulo": "Foton Malabar inaugura unidade em área estratégica para centros de distribuição e e‑commerce",
+    "link": "https://frotanews.com.br/noticias-foton-malabar/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T19:56:50.773448"
+  },
+  {
+    "id": "ad531fd5cb0ab600d7d0b34bfc0bc383",
+    "titulo": "MANN+HUMMEL Brasil marca presença na Automechanika Frankfurt 2026",
+    "link": "https://www.balcaoautomotivo.com/2026/09/11/mannhummel-brasil-marca-presenca-na-automechanika-frankfurt-2026/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T19:56:57.809184"
+  },
+  {
+    "id": "f5a7529a37c751f1958903a68bab31e5",
+    "titulo": "Chevrolet \"dá\" quase um BYD Dolphin de desconto para acelerar venda de SUV - DOL",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHRPRm14SGdvUVh0SzJsR1RZY0tMMWRSMlZNZVlIcTJKVV9YR0haU1hMbTJUY3VVbVcxVWtHQ1V0VXFIYVRReHZNUnk5Q0kzb3Y1eC0yOW1mQ05CeGUtVFdJOVE3NHI0X0pIelgwcC1EU0xTNW9KUGVlTmRvdVJBY21QNDFuVGhYbEdmOUhDWmlPZTRVNU5VeG1vb3JkS0Y4TnExQ1VaMmNMTXBybE5aaThqR3hSdTNhaHfSAcIBQVVfeXFMTVVBa0FUTVJFUVhDbzVJaHBWOF92QjU5QVdTcWI0VmstMmRiMG5BVWFmSDJqbjVLUEhFV1ljZll6bGluODFtV3N4d1hUd2hpNHNFUjdkc3kwYXpXeS1OVUxuVTdjZXMxMW95cE1tQ3dHa0M4QTc0bkRCX1l1YnhNNHlZWkJZSDlURWFSSktIWTllUE5vUVoxMjBROEpTWHJlLWxtRGV0T1VINHh3c19XamlDVkVSLXlGeXZfLU5qMS1DeUE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T07:00:00+00:00"
+  },
+  {
+    "id": "e4100652fdcbb9140989ca97940f66e8",
+    "titulo": "Mercedes-Benz avalia limites da eletrificação e ClickBus detalha uso de IA na venda de passagens - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVpCbDFCSy1TT1ZqckJkYjdOR1lRQkdrVG5NSE9KOGRVWld3UnVwdUZBaDFYUHhFd1pzaDRtUC02Yk1lVFVMa2FPcElMZ0dxYk11d25aZFhGQWMzRnVPQUpDMWNhQ1RKSk9SQ1F1R1BFSXFHUkRxeXQ1S2drWXVUUjlveS1wSzNiSmJKZmRtaEZFZWZZMXpBbnU1ZWRTZlNDT3lqdGtwYVh3d05KVnFzQmNFV2xiWEFGb3pJRDJIT1pRUjZR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-10T10:50:38+00:00"
+  },
+  {
     "id": "2c7723a3e4f4a9da2c3043222ea861c6",
     "titulo": "Iveco reúne fornecedores e premia seis empresas em Minas Gerais",
     "link": "https://www.autodata.com.br/noticias/2026/09/11/iveco-reune-fornecedores-e-premia-seis-empresas-em-minas-gerais/135223/",

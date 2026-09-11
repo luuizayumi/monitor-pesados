@@ -1,5 +1,53 @@
 [
   {
+    "id": "2c7723a3e4f4a9da2c3043222ea861c6",
+    "titulo": "Iveco reúne fornecedores e premia seis empresas em Minas Gerais",
+    "link": "https://www.autodata.com.br/noticias/2026/09/11/iveco-reune-fornecedores-e-premia-seis-empresas-em-minas-gerais/135223/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T17:05:29.589631"
+  },
+  {
+    "id": "c2a4c7bf185fd8b4456de014dbf69c12",
+    "titulo": "Leblon Transportes inicia maior renovação de frota com 37 articulados Scania",
+    "link": "https://frotanews.com.br/transportadoras-leblon/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T17:05:31.207219"
+  },
+  {
+    "id": "b4253c39fa7fa7255cbbd3ef69bfe6a3",
+    "titulo": "4.Exército dos EUA gasta quase R$ 1 bi em apenas 8 unidades do caminhão mais caro do mundo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/exercito-dos-eua-gasta-quase-r-1-bi-em-apenas-8-unidades-do-caminhao-mais-caro-do-mundo/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T17:05:32.897784"
+  },
+  {
+    "id": "490c4a6b98034394a09f8a5419b1e166",
+    "titulo": "Chevrolet \"dá\" quase um BYD Dolphin de desconto para acelerar venda de SUV - dol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHRPRm14SGdvUVh0SzJsR1RZY0tMMWRSMlZNZVlIcTJKVV9YR0haU1hMbTJUY3VVbVcxVWtHQ1V0VXFIYVRReHZNUnk5Q0kzb3Y1eC0yOW1mQ05CeGUtVFdJOVE3NHI0X0pIelgwcC1EU0xTNW9KUGVlTmRvdVJBY21QNDFuVGhYbEdmOUhDWmlPZTRVNU5VeG1vb3JkS0Y4TnExQ1VaMmNMTXBybE5aaThqR3hSdTNhaHfSAcIBQVVfeXFMTVVBa0FUTVJFUVhDbzVJaHBWOF92QjU5QVdTcWI0VmstMmRiMG5BVWFmSDJqbjVLUEhFV1ljZll6bGluODFtV3N4d1hUd2hpNHNFUjdkc3kwYXpXeS1OVUxuVTdjZXMxMW95cE1tQ3dHa0M4QTc0bkRCX1l1YnhNNHlZWkJZSDlURWFSSktIWTllUE5vUVoxMjBROEpTWHJlLWxtRGV0T1VINHh3c19XamlDVkVSLXlGeXZfLU5qMS1DeUE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T07:00:00+00:00"
+  },
+  {
     "id": "933e75a47a9488552c94c7155a2c0e6e",
     "titulo": "Iveco e Toyota desenvolvem caminhão a hidrogênio com autonomia superior a 900 km",
     "link": "https://www.autodata.com.br/noticias/2026/09/10/iveco-e-toyota-desenvolvem-caminhao-a-hidrogenio-com-autonomia-superior-a-900-km/135140/",

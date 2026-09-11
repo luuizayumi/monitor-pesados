@@ -1,5 +1,42 @@
 [
   {
+    "id": "933e75a47a9488552c94c7155a2c0e6e",
+    "titulo": "Iveco e Toyota desenvolvem caminhão a hidrogênio com autonomia superior a 900 km",
+    "link": "https://www.autodata.com.br/noticias/2026/09/10/iveco-e-toyota-desenvolvem-caminhao-a-hidrogenio-com-autonomia-superior-a-900-km/135140/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T13:21:32.206403"
+  },
+  {
+    "id": "9e56f371f9ed86633af6f86da4d68278",
+    "titulo": "Leblon Transportes investe R$ 70 milhões na renovação da frota com 37 ônibus Scania",
+    "link": "https://www.autodata.com.br/noticias/2026/09/11/leblon-transportes-investe-r-70-milhoes-na-renovacao-da-frota-com-37-onibus-scania/135204/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T13:21:32.206416"
+  },
+  {
+    "id": "8a592ff166b7770302ccb0e908af08a1",
+    "titulo": "5.Exército dos EUA gasta quase R$ 1 bi em apenas 8 unidades do caminhão mais caro do mundo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/exercito-dos-eua-gasta-quase-r-1-bi-em-apenas-8-unidades-do-caminhao-mais-caro-do-mundo/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T13:21:35.222901"
+  },
+  {
     "id": "eaba7c8871d44fb7a0957a65e365957c",
     "titulo": "Venda de veículos sobe 18,4% no ano, mas exportações caem 22,9% - Jornal O Sul",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRnY2cTJ5ZmlqVnA1eGJEd2Nfazd4U28yZkhONE41N2FfVWpLWk0wU1MtSG1hZVBIclBYV0Z1bVBsNzJ5M2hBdlRCa0lpVURYWTNlREIzX1YzMDJhR1YtcXVZdjhtMkRpd0ZuZ2FUOXgyN1ZYNDJWRk0tNGZmSU9xRUE0VVYyUzNhSTFxQ0NwSlXSAZABQVVfeXFMUEZ2NnEyeWZpalZwNXhiRHdjX2s3eFNvMmZITjRONTdhX1VqS1pNMFNTLUhtYWVQSHJQWFdGdW1QbDcyeTNoQXZUQmtJaVVEWFkzZURCM19WMzAyYUdWLXF1WXY4bTJEaXdGbmdhVDl4MjdWWDQyVkZNLTRmZklPcUVBNFVWMlMzYUkxcUNDcEpV?oc=5",

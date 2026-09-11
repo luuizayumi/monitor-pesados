@@ -1,5 +1,139 @@
 [
   {
+    "id": "e94b8a1679bec9a4284d29df73437c9e",
+    "titulo": "Scania vende 37 ônibus articulados para Leblon Transportes",
+    "link": "https://automotivebusiness.com.br/mercado/scania-vende-37-onibus-articulados-para-leblon-transportes",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:44.256073"
+  },
+  {
+    "id": "d555d7ad02f5ebb3d21b27f7dbef239b",
+    "titulo": "Marcopolo vende 55 ônibus para o Grupo NSO",
+    "link": "https://automotivebusiness.com.br/mercado/marcopolo-vende-55-onibus-urubupunga-turismo-viacao-caieiras",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:44.256094"
+  },
+  {
+    "id": "8a666c22567428b6e202b42676109282",
+    "titulo": "scaniaScania vende 37 ônibus articulados para Leblon Transportes11/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-vende-37-onibus-articulados-para-leblon-transportes",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:44.256098"
+  },
+  {
+    "id": "b5972c49fc47cf8b55f0e8ae208857a8",
+    "titulo": "marcopoloMarcopolo vende 55 ônibus para o Grupo NSO11/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-55-onibus-urubupunga-turismo-viacao-caieiras",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:44.256101"
+  },
+  {
+    "id": "3a2bfb37088775cd97d1db7e533f47b1",
+    "titulo": "scaniaScania vende 37 ônibus articulados para Leblon Transportes11 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-vende-37-onibus-articulados-para-leblon-transportes",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:44.256103"
+  },
+  {
+    "id": "7522d1e7ff67757c2a3bf2316f435423",
+    "titulo": "marcopoloMarcopolo vende 55 ônibus para o Grupo NSO11 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/marcopolo-vende-55-onibus-urubupunga-turismo-viacao-caieiras",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:44.256110"
+  },
+  {
+    "id": "68c221be1aebb3ca211a55b1f86995b4",
+    "titulo": "Scania leva ADAS para ônibus urbano e Leblon estreia tecnologia em Curitiba",
+    "link": "https://www.autodata.com.br/mobility/2026/09/11/scania-leva-adas-para-onibus-urbano-e-leblon-estreia-tecnologia-em-curitiba/135215/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:47.028555"
+  },
+  {
+    "id": "2e498921a3d565ffdc33401aff0dacc9",
+    "titulo": "Manutenção de frotas não é despesa: é parte da estratégia da operação.",
+    "link": "https://frotanews.com.br/manutencao-de-frotas/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:48.783150"
+  },
+  {
+    "id": "92e4a55f1f13e2af4e9f289cc5c84a85",
+    "titulo": "Iveco Group reúne fornecedores e lideranças para discutir maior produção nacional e menos importação",
+    "link": "https://frotanews.com.br/comparativo-autonomia-onibus-eletrico/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-11T22:23:48.783164"
+  },
+  {
+    "id": "f7c48011c3555537aa4ba2fefb65e2bf",
+    "titulo": "Filiadas à Anfavea não conseguem capturar todo o crescimento de vendas - autoindustria.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGxQOEVHR0pnQllzNkRLRmQ2QWtGZHZ3WVV2NHdBbHBTWXk4Zm44RDUyZ2U1aEJ1Q01GQnV4TEdkVnpsdS1nTE1wX2t0UGNUZGZWSjFTN2hTOWVCOTVCaE54QlhwV1BOQzZnM2lfd1g0NjNuNkxOSEp3bVV5d1QxZTlXbHNlZkhmdWxhNHFSR1lXczRobkNySjVXTm9kamFlQ1Y1Q21tYktRMXhzaXp2VmEwWjZ1RW1ZcHd30gG7AUFVX3lxTE9YbFA4RUdHSmdCWXM2REtGZDZBa0ZkdndZVXY0d0FscFNZeThmbjhENTJnZTVoQnVDTUZCdXhMR2RWemx1LWdMTXBfa3RQY1RkZlZKMVM3aFM5ZUI5NUJoTnhCWHBXUE5DNmczaV93WDQ2M242TE5ISndtVXl3VDFlOVdsc2VmSGZ1bGE0cVJHWVdzNGhuQ3JKNVdOb2RqYWVDVjVDbW1iS1ExeHNpenZWYTBaNnVFbVlwd3c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T17:25:16+00:00"
+  },
+  {
+    "id": "df5668b5cca47084efc598ab5de5cce9",
+    "titulo": "Após venda de 50 unidades, Mercedes-Benz entrega os primeiros 27 eActros 600 para a Amazon na Alemanha - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdVFWeWUtaHA4QWI1QUwzSDBoQ1NlV3RXeEZfRWhUQ2xNZ2JpRG1aLTNaR1J4VVJNbEw4eWQtS3dqMEhNZWRLa05LQ1dNX1YxWFlVdUFQdkxhYW96R19ialpuV0NCQkJONWFYM21TZUd4NFF2UV9WbHNhNUdzdmdKMnRlOGdqazJfNVByRE9DMUdKa2dPZ2dCdm83T3RfYkNpTnVoVlM1RjFrOHRjYjJqcmxqYmZaWEp4VzJYRDIxSmNOcDdJbW9mY1ZlRVNRVjRsMEdCOFcwMFI?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-09T13:12:36+00:00"
+  },
+  {
     "id": "8f1c93c7568531ce0c2d5b3541018e78",
     "titulo": "Foton Malabar inaugura unidade em área estratégica para centros de distribuição e e‑commerce",
     "link": "https://frotanews.com.br/noticias-foton-malabar/",

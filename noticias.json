@@ -1,5 +1,29 @@
 [
   {
+    "id": "ceb18319c41373230fe2231888f31587",
+    "titulo": "4.Tecnologia brasileira criou micro-ônibus híbrido movido a etanol",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/tecnologia-brasileira-criou-micro-onibus-hibrido-movido-a-etanol/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-12T21:17:47.693975"
+  },
+  {
+    "id": "b91152f0f4604921b388f5d9fc3047b2",
+    "titulo": "Exército dos EUA gasta quase R$ 1 bi em apenas 8 unidades do caminhão mais caro do mundo - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN1VBZ1JpUWpPeDZRSEF5WVUtalJpMnZLSXNkUGtnWFB5NFdPS3FnOTc5ODAwTUJiM1VkTmdNRklOdDVSRHVFVjROLWZacjhLc25QS2UxRXZZYklCaXc2LXA1Q1RSMHJpb1cweGdBeTJ0dDhEYWo1c1UtdTllT0JkMk1PXzR1dUQwMl9DeXJza2dBUnZ0WlgxeTY5QVBKaFZCR0pvSXlid1NKdXAtZXF4elNBaDlLYTFmY0JkRU93UllnMEd1aVhzVXVVSVNHY1Ni0gHQAUFVX3lxTE83VUFnUmlRak94NlFIQXlZVS1qUmkydktJc2RQa2dYUHk0V09LcWc5Nzk4MDBNQmIzVWROZ01GSU50NVJEdUVWNE4tZlpyOEtzblBLZTFFdlliSUJpdzYtcDVDVFIwcmlvVzB4Z0F5MnR0OERhajVzVS11OWVPQmQyTU9fNHV1RDAyX0N5cnNrZ0FSdnRaWDF5NjlBUEpoVkJHSm9JeWJ3U0p1cC1lcXh6U0FoOUthMWZjQmRFT3dSWWcwR3VpWHNVdVVJU0djU2I?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T19:42:00+00:00"
+  },
+  {
     "id": "87a28143f11938228971fec919142eb0",
     "titulo": "5.Tecnologia brasileira criou micro-ônibus híbrido movido a etanol",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/tecnologia-brasileira-criou-micro-onibus-hibrido-movido-a-etanol/",

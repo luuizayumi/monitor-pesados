@@ -1,5 +1,57 @@
 [
   {
+    "id": "20593f7d1d45a7abdf73c7048e6661e4",
+    "titulo": "Mercedes-Benz dá nova sobrevida ao diesel com Powerliner mais eficiente",
+    "link": "https://www.autodata.com.br/mobility/2026/09/13/mercedes-benz-da-nova-sobrevida-ao-diesel-com-powerliner-mais-eficiente/135242/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-13T19:13:46.490818"
+  },
+  {
+    "id": "faeb4fc17e50000e07c5f2693d562ba3",
+    "titulo": "Mercedes-Benz transforma 130 anos do caminhão em série especial",
+    "link": "https://www.autodata.com.br/mobility/2026/09/13/mercedes-benz-transforma-130-anos-do-caminhao-em-serie-especial/135285/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-13T19:13:46.490832"
+  },
+  {
+    "id": "4b92c1a82646d764eef3c1f4d381dea6",
+    "titulo": "Mercedes-Benz amplia ofensiva de zero emissão com elétrico e hidrogênio na IAA",
+    "link": "https://www.autodata.com.br/mobility/2026/09/13/mercedes-benz-amplia-ofensiva-de-zero-emissao-com-eletrico-e-hidrogenio-na-iaa/135237/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-13T19:13:46.490835"
+  },
+  {
+    "id": "250f11f023496997f3a453c28ec42316",
+    "titulo": "VÍDEO: Eletra quer levar tecnologia brasileira de ônibus elétricos para o mundo com chassis inteligentes: Cerca de mil novos empregos no Brasil - diariodotransporte.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ1hBS0FUZWJIdTVuVWw4VUJsNlNtOHRpWGdQeTRod00tNkJsZG0tOHRxdDhNdFhmT0FzUE5welhxZjc3Y3J3RVNtZFk1elRaRVBUQlNIeUdWdWYtWDlNaE5pdW9wR3lkcFQ1ZEk2M2pKTFFlQzVEWkc1MEFITjNnbWx1Ull4U1pxc0VaWng4T3drZGluaUR6LVpFR19VeEM4dVNXYTM1UkZUdkpURFhfQW9paUwyZGRuenFkdkFvUDZLaE1nWFVycXVLdjVZRmNRRUFNY3o0RmhUQU1QdEVBQi1HVEpIMGNnTkJhV0g5U2RCcFBuWDlYa20tRS1xOV9zaU01WExCaUV5ZEFqUlQ3cjJIdVFFZzBZeERWWdIBogJBVV95cUxOTlJBdjJncS15S1ZWU3hEZnFHNTdCdU1qUkdvX1V4alNOR1dtNzNtbVliWkY4NkhrLWZOLUVrRXdhNC1FNzZXRFQzSUdzUzNHVUpBdXAzWHFwMnBoVnBsVUJqVHBkLW84dVdEWUNEYzFQbEJCZDNSai1fNzgzeGZ1bTJiYmxkdEp6RkpmaFBETEljV1YxRWRQbk1YVE9KOEJ6T1dILWV3Nmdxb0JLU2owWjE1Ym9ZOFFHNHpZUFVDVEpFdmQzU1ZKZ0VuRUt4S0RVTVlOWlpIaklNYzZ5Z1pRb1g0Tml5VlBudWYzLWQtMTJfU0UtTG55aVJBck92VzBwQmxPb1V1bTJZS0o2UnkzOWpmb0NHSWgtaUtXTFlENUx3Zw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Eletra",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-08-19T07:00:00+00:00"
+  },
+  {
     "id": "ae47e286d3cefcd74e21d7c1c96d2939",
     "titulo": "Farizon apresenta mini truck elétrico por R$ 240 mil - Estadão",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUE82Q3NrSkVhaFFINy1ZaHBaTlFlUUQyRVl2bnN0RjRZT0RYNzFwNmFqNzI4akpYVUFZaGZUM0gxQ1hIY2ZzLWVyRldOSUJTNWYzVWV0cXJnSkxDRS1yV0E1ZzNab1cyM0VEbzJIRTRjN0JZWlpQeDRtbXlCeWp0Vmh6OFZqXzFnUjZKMWlIQlFLa041cGhicDdURm9fYnNvM1huOEJrMNIBrAFBVV95cUxOY1h2aC1oVkR0azNWbnZCS3RFUXlnOWN2N0NTWHJ0VEZ1OUhiNnZVYUhtc3ozdU8ySHhfcGNqeS13aXZhRkVkbUE4RXVPbkJraEZYbWlXTkFIYW1ZZW85Z29vOXVPNDFQaXVJRG1jak1zcWd1SXFhOTJXZ1VrejM3YWlzV0Q3NlYyYVEwLW5TWkNNRm1kc3Ewdk1pdXItSkFidDNhSjFwRUFvV3JP?oc=5",

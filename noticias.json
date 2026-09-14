@@ -1,5 +1,93 @@
 [
   {
+    "id": "b79755ed31ac4a22fe332a92a2d5516e",
+    "titulo": "Com vendas de 57 mil em agosto, eletrificados abrem corrida para o milhão em setembro",
+    "link": "https://abve.org.br/com-57-mil-emplacamentos-em-agosto-eletrificados-abrem-a-corrida-para-o-milhao-em-setembro/",
+    "fonte": "ABVE",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-14T20:27:04.751328"
+  },
+  {
+    "id": "62f13bb94c86c5357db765da27f6322f",
+    "titulo": "Iveco reforça pós-venda com Centro de Distribuição próprio diante da chegada de chinesas",
+    "link": "https://www.autodata.com.br/noticias/2026/09/14/iveco-reforca-pos-venda-com-centro-de-distribuicao-proprio-diante-da-chegada-de-chinesas/135383/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-14T20:27:08.945760"
+  },
+  {
+    "id": "50553667106d42510b5f0ea0ed23ee4e",
+    "titulo": "Volvo conquista o título de “Caminhão Internacional do Ano 2027” com sua nova gama elétrica",
+    "link": "https://frotanews.com.br/caminhao-internacional-do-ano-2027/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-14T20:27:10.464290"
+  },
+  {
+    "id": "e6709c47bbdb1b59ff1461723277ab21",
+    "titulo": "Mercedes-Benz Vans detalha nova arquitetura de veículos comerciais na IAA Transportation 2026",
+    "link": "https://frotanews.com.br/caio-eletromobilidade-biometano-sustentabilidade/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-14T20:27:10.464301"
+  },
+  {
+    "id": "c93b804aa070abb3236e0d8d72946f72",
+    "titulo": "BYD lidera as vendas de ônibus elétricos e São Paulo é a principal “cliente” - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONS1mU0tsbkR3eTZHdmUzaWY1ZVJIb3pVTzktSHd5OGNLTmdnQTlneTJuVlM4QVFGMVZhY2lwLUxuZXdTOWFDa19KcHhlN1pia3l6RHFjOE1sUU1BQ3BZYlNyUXVjeFd3ZkVLQklObVkxVGh1RmR5X09VaUgwZjB6ejl1aXdWVFpLNld2Ui15d3FIcHdabEt2WVNHMldDMEdQWXpJUUlSZjdxd1pLTm0tdG00ZVZ1eVBRZG5RU3p1VdIBvwFBVV95cUxONS1mU0tsbkR3eTZHdmUzaWY1ZVJIb3pVTzktSHd5OGNLTmdnQTlneTJuVlM4QVFGMVZhY2lwLUxuZXdTOWFDa19KcHhlN1pia3l6RHFjOE1sUU1BQ3BZYlNyUXVjeFd3ZkVLQklObVkxVGh1RmR5X09VaUgwZjB6ejl1aXdWVFpLNld2Ui15d3FIcHdabEt2WVNHMldDMEdQWXpJUUlSZjdxd1pLTm0tdG00ZVZ1eVBRZG5RU3p1VQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-13T12:00:00+00:00"
+  },
+  {
+    "id": "e600f15c523cbe94568535030abcaa9e",
+    "titulo": "BYD lidera as vendas de ônibus elétricos e São Paulo é a principal cliente - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUJ4c2JCVWFEd2tWVG4yVUcxa3ZFcnRKZzJyZlVZNEVJc185N0RoNUZMYlBtdS1SdFloajZyZDZzdWRyYk9QdmoxYTJfdmU3M3B5OE1ndWotUUFZVzRTLUVSNVNXQ2xydTVyb2xQRGFCOWJ6SzBIb0pIRWtNczhJb2tkbWowNC1ic3BTd0ZEV2IwM3M4RXNhWHozMmlVWmExRGFmYmxiaXBtUWEtQzRWMmhPX2o3RU9ZV2FfNk9OZ3pQSXRy?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-13T12:15:44+00:00"
+  },
+  {
+    "id": "6f7b37933bb7ad058f507ca7a272aa54",
+    "titulo": "BYD lidera as vendas de ônibus elétricos e São Paulo é a principal “cliente” - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmVqZC0yWXBqbVBtMEFyUDJRc1JxdXB6MVBHd1JSM3Z5a1pGdmpEZ0U2c1RrdnRHZ01WcFJyUy1ucWhGb244aFMzQmhmYTZQbmtZQlBVV21ES1Y4MEZOWXZRWnBCMEJYLWR1YlpzMm5DaUxWem0wWGc1clVHNFFPcHRUaGJHUUdOVVhsTXFuU25kWTlwWV8tUzFDd3FKRHBZWnMtTXI1WmZnT2lLVEFWbWNZMF9acEhsM1HSAb8BQVVfeXFMTjUtZlNLbG5Ed3k2R3ZlM2lmNWVSSG96VU85LUh3eThjS05nZ0E5Z3kyblZTOEFRRjFWYWNpcC1MbmV3UzlhQ2tfSnB4ZTdaYmt5ekRxYzhNbFFNQUNwWWJTclF1Y3hXd2ZFS0JJTm1ZMVRodUZkeV9PVWlIMGYweno5dWl3VlRaSzZXdlIteXdxSHB3WmxLdllTRzJXQzBHUFl6SVFJUmY3cXdaS05tLXRtNGVWdXlQUWRuUVN6dVU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-13T12:00:00+00:00"
+  },
+  {
     "id": "283815ef72459739161ea581429bf2a7",
     "titulo": "Apesar do mercado, Mercedes-Benz dobra aposta nos caminhões elétricos",
     "link": "https://automotivebusiness.com.br/montadoras/apesar-do-mercado-mercedes-benz-dobra-aposta-nos-caminhoes-eletricos",

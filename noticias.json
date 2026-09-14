@@ -1,5 +1,46 @@
 [
   {
+    "id": "55b40027166e3581beda65bfb7908329",
+    "titulo": "Transit elétrico será vendido em três configurações no Brasil",
+    "link": "https://automotivebusiness.com.br/lancamentos/transit-eletrico-tres-configuracoes-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-14T23:21:30.476806"
+  },
+  {
+    "id": "170056cc6815bc5afa57f845fbd86c47",
+    "titulo": "comerciais levesTransit elétrico será vendido em três configurações no Brasil14/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/transit-eletrico-tres-configuracoes-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-14T23:21:30.476821"
+  },
+  {
+    "id": "a1ebd295f61b82f73708ddb1bd4c838d",
+    "titulo": "comerciais levesTransit elétrico será vendido em três configurações no Brasil14 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/transit-eletrico-tres-configuracoes-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-14T23:21:30.476828"
+  },
+  {
     "id": "b79755ed31ac4a22fe332a92a2d5516e",
     "titulo": "Com vendas de 57 mil em agosto, eletrificados abrem corrida para o milhão em setembro",
     "link": "https://abve.org.br/com-57-mil-emplacamentos-em-agosto-eletrificados-abrem-a-corrida-para-o-milhao-em-setembro/",

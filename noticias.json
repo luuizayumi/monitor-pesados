@@ -1,5 +1,93 @@
 [
   {
+    "id": "08f32d1fffaf5f2e239f0dc4dbe8329b",
+    "titulo": "Europa precisa alinhar meta de CO₂ à realidade do mercado, alerta Mercedes-Benz",
+    "link": "https://www.autodata.com.br/noticias/2026/09/15/europa-precisa-alinhar-meta-de-co%e2%82%82-a-realidade-do-mercado-alerta-mercedes-benz/135438/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T17:31:48.575248"
+  },
+  {
+    "id": "72c95df67fca0c77a79d13552759812a",
+    "titulo": "Rental Mobility realiza quinta edição em São Paulo com foco na eletrificação das frotas",
+    "link": "https://frotanews.com.br/noticiais-rental-mobility/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-15T17:31:50.085924"
+  },
+  {
+    "id": "373e56b6e0e66d67e040bae825de827d",
+    "titulo": "Abrafiltros destaca mitos e verdades sobre a manutenção de filtros",
+    "link": "https://www.balcaoautomotivo.com/2026/09/15/abrafiltros-destaca-mitos-e-verdades-sobre-a-manutencao-de-filtros/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T17:31:56.270895"
+  },
+  {
+    "id": "321ce132a15f2765a351baa97dccf38e",
+    "titulo": "Farizon amplia portfólio no Brasil com novo caminhão elétrico F3E",
+    "link": "https://www.balcaoautomotivo.com/2026/09/15/farizon-amplia-portfolio-no-brasil-com-novo-caminhao-eletrico-f3e/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-15T17:31:56.270909"
+  },
+  {
+    "id": "df84f824e6b220a417865875c3a3c66a",
+    "titulo": "Carros mais vendidos no Brasil em agosto de 2026 - dia 17 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2RPd3JoejRGNmNSOVBZLWRqdmI0WTFXUThJMWgyOEdnaVM2T1RGZ3BsV0wxSkRFX2ZFakxTdUtnQUlZOWRCX3pqdG5KdHJqYV9ncUFNZEw0TlJIanlkX0JIYXp1Z0xfVE9QZXFyMGpnZUpDcWwzZFlFV1ZNeXRJREhiVVRxYTln?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-17T07:00:00+00:00"
+  },
+  {
+    "id": "ce3cf508586c150aefeaca688db5eab0",
+    "titulo": "Farizon apresenta mini truck elétrico por R$ 240 mil - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1h2aC1oVkR0azNWbnZCS3RFUXlnOWN2N0NTWHJ0VEZ1OUhiNnZVYUhtc3ozdU8ySHhfcGNqeS13aXZhRkVkbUE4RXVPbkJraEZYbWlXTkFIYW1ZZW85Z29vOXVPNDFQaXVJRG1jak1zcWd1SXFhOTJXZ1VrejM3YWlzV0Q3NlYyYVEwLW5TWkNNRm1kc3Ewdk1pdXItSkFidDNhSjFwRUFvV3JP0gGsAUFVX3lxTE5jWHZoLWhWRHRrM1ZudkJLdEVReWc5Y3Y3Q1NYcnRURnU5SGI2dlVhSG1zejN1TzJIeF9wY2p5LXdpdmFGRWRtQThFdU9uQmtoRlhtaVdOQUhhbVllbzlnb285dU80MVBpdUlEbWNqTXNxZ3VJcWE5MldnVWt6MzdhaXNXRDc2VjJhUTAtblNaQ01GbWRzcTB2TWl1ci1KQWJ0M2FKMXBFQW9Xck8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-12T15:30:00+00:00"
+  },
+  {
+    "id": "38122c431b4abf0716b2499350eec737",
+    "titulo": "Venda de veículos sobe 22,1% em agosto, mas exportações recuam 31,7% - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRnhfQV9YSlExME5wcUxxaWZ6UTNKdktONVJfS1dHUjFLUTJVeURKOURyNDRfZEIxd1JQUHdPUm51amk1LVplcE9MRS1qX1d4QVctMEtLSE9sLVEwRVhGcmpsMmxTMm1QQjVmOW56UUMwQUhsVF93WHU2dklYVzkwNkVjaTJpdkZkYVpjTHRQTjVPTTlBeDZSa2VpSWVaenNGZXlsWW9aaVhBMzNzYWtWNWlFczhXc2dpMFItVkVhcjNHOXJkZ2tLclV5c1FZUkRRcEtZ0gHiAUFVX3lxTE0yTm80N0QzYWNncHRSd2tNUWM1ZUVYUDhhS0dPYl8zaTlNN1ZVdnZQd3dWakotQUdLZkxBY2p5QTNZTWQwVXhVMVBzd3RzYXM0RXdQNVZjcllHdWVyY01nN3REVDEwNHptWU9VdWgzVTB1NFpQSFpCSlI5anY3TDNoOG9WQ3JTX1R4aWJJRFZUb2VGMVN2OTBmRVl6XzVubDlhLWoyOHd0R29QMHNpYm9qUHRqWlUyY3JwaWl2Q3pWMmp6aGZ1OWtYUlRabE4yVnpsNF9zM2k5aWhMeVd4emxXaHc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T15:02:20+00:00"
+  },
+  {
     "id": "b58f37f288ff7b9c2b75340a7f2d4f3b",
     "titulo": "Mercedes-Benz aposta em caminhões de defesa e projeta receita de 1 bilhão de euros",
     "link": "https://www.autodata.com.br/noticias/2026/09/15/mercedes-benz-aposta-em-caminhoes-de-defesa-e-projeta-receita-de-1-bilhao-de-euros/135349/",

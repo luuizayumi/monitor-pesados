@@ -1,5 +1,107 @@
 [
   {
+    "id": "dc6bf986b8599b6cfed06709f6358783",
+    "titulo": "Grupo Iveco inaugura centro de distribuição de peças em Minas Gerais",
+    "link": "https://automotivebusiness.com.br/industria/iveco-inaugura-centro-de-distribuicao-minas-gerais",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T23:29:58.085026"
+  },
+  {
+    "id": "09b9e069845a100dcc1c2656043b3cd0",
+    "titulo": "autopeçasGrupo Iveco inaugura centro de distribuição de peças em Minas Gerais15/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/iveco-inaugura-centro-de-distribuicao-minas-gerais",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T23:29:58.085040"
+  },
+  {
+    "id": "470b3ef18e327d28b168b8e1563d39d4",
+    "titulo": "autopeçasGrupo Iveco inaugura centro de distribuição de peças em Minas Gerais15 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/iveco-inaugura-centro-de-distribuicao-minas-gerais",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T23:29:58.085043"
+  },
+  {
+    "id": "ce8f6777fc0637bcc83c40dd24cf26af",
+    "titulo": "Carros mais vendidos no Brasil em agosto de 2026 - dia 17 - car.blog.br",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2RPd3JoejRGNmNSOVBZLWRqdmI0WTFXUThJMWgyOEdnaVM2T1RGZ3BsV0wxSkRFX2ZFakxTdUtnQUlZOWRCX3pqdG5KdHJqYV9ncUFNZEw0TlJIanlkX0JIYXp1Z0xfVE9QZXFyMGpnZUpDcWwzZFlFV1ZNeXRJREhiVVRxYTln?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-17T07:00:00+00:00"
+  },
+  {
+    "id": "f35e15608e14be1efb818c7270dba815",
+    "titulo": "SUVs mais vendidos em setembro: mudanças no ranking — dia 12 - car.blog.br",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHJkTEtSQVZOQlE3WEZ4MWJIOHFIV3JUUEk3T1NlNFd0aG9ZYzYwempPX3VtLU1KdnVfLWlTZlgwZURKZHduYU9Ob3gzZG9qbEtycnpGZXJod2pwbHBsQ2RSeHBlNjBGSHVBclc0QS1HZkt3SFIzbFVJeTYzczlTcDhBdk8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-12T09:30:00+00:00"
+  },
+  {
+    "id": "493303be84e14e3f0b6b54b6879a05df",
+    "titulo": "Filiadas à Anfavea não conseguem capturar todo o crescimento de vendas - automaistv.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWh3dVJpaTB2UnlFcVNxNXh4NzA2c1B1Q3hvZlZhUm8tQjN0UFZFMWhhSzkxbmFzUFpCQ3R0Qkh2NXRpU3lBSTJNbE5kbFU1VVNrdWVKUWhONTFoc3dCZjhydDFVWEIxZ1lGVTVzZ1ZIX3pfcUtRMjZoRVg0WnBZejhTX2ZGeDE1VHQ4WE5XTHc4RE9EOFpXSlU1dEh2R1ZJVTlHNHk5UEc5X0pKNC12bG5XQ0FjRmVRVEE4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T23:10:00+00:00"
+  },
+  {
+    "id": "e1bb3532794215fecdada441ca4d838e",
+    "titulo": "Venda de veículos esfria, mas é maior que em 2025 - jornaldebeltrao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk14TXgzbEM2cG5ROVBwZVJ3ZUxjSnN5cmtDZ095T2RnbnBGcGx0ZU9MRkdpSTYxamZYa3dZVXBsQzc5Wm9MQzZLbEJJQ1lpaXNzVl9kQjFFdlVMNmpRMEVkYkxLSE9oNFprYm9tT1N2VG5tZHloMWFIWHd3TmJxbG9uMVhDYmFoT282d2xkWnJDLUdXVFZxTk9aaDM3blI1c2xBLWJ1NXpHVzg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T19:30:00+00:00"
+  },
+  {
+    "id": "fcd7c10d6d7e3be46411eca8d73202d3",
+    "titulo": "XCMG anuncia venda de 251 caminhões elétricos para a TN Logística por R$ 500 milhões - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd19kSGpXQS1iUFNteWgtQ2I4WUxsYlUyVGRNNjZPSmRKUFpCd25BVHBoR1k0LS1vZC10V1lxY0RoSEszb3ltWVNrVVozVjdDSXB1OVI4NG1qeTJIZ3lsTU5MUW5sdVVsMmpkU0Y4c1Y4amxadWVlcEQ2UGVkUVdteVVkTUJJNGptUExwU29EVDZPT1N3SU5QV21KcnF1OTZ4akxUcGZ5QjJjYTFRcVpFVnptSzdwUExtWVBTUGdCd2pjMEJuSXBr?oc=5",
+    "fonte": "Google News",
+    "montadora": "XCMG",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-11T13:58:57+00:00"
+  },
+  {
     "id": "92a13c03e4b568fce5c2f5e5a712346d",
     "titulo": "manufaturaRenault Geely inicia produção do EX2 em dezembro15/09/2026",
     "link": "https://automotivebusiness.com.br/noticias/renault-inicia-producao-geely-ex2-sao-jose-dos-pinhais",

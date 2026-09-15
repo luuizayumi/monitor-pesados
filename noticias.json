@@ -1,5 +1,43 @@
 [
   {
+    "id": "3173c6ee3fb130167e59c326fdda0bcd",
+    "titulo": "BYD lidera as vendas de ônibus elétricos e São Paulo é o principal “cliente” - NovaCana",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE11SndlOG5abHBjV0U0TVNfWWE3RVVoY095VXRnWDFHcFpHLXp3VEVRWnladnltZ2c2WEVHbF9yQXY5UmxxdC1kZXFiTHB0S1hmaWoyLXlEaUlhSFlXZVR6bWY1ajdJWkhKb1BOeHc3cjBhWmVrX3ZtZHNvNkQzYW9jeGNKTHQ3M0FXdjB5UmVwS0F3TXpwT2V4OG5fRDlra3JiMFc3alUtM1hw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-14T13:14:49+00:00"
+  },
+  {
+    "id": "e7b9dce020cb5d86475ce12aacad17c3",
+    "titulo": "Iveco reforça pós-venda com Centro de Distribuição próprio diante da chegada de chinesas - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU1pKNFZ3Szd0eFFmc2l6SFpBcHloeEd4aVZrdmNoSVhLZVNaWXFrenE1SFM1TElNTVY4cVNtSFQ4ZWFpbHNFNDhtZ2daN19ZQWp3MHFJTkdTTGtCendQblZZbnBYWFRhdEJQYno4bFIyTVdvSUVrOEpKOFZ6blJvM3pTQncxNVNiTWdOZktTSXc5enVWNEZBVi1qSGpYWTNMbG4xRWpVQ0Y4dV9mVlBQUEZaSW9DVDc4TWFCTEplU1piSXhZT3h2WHd0Uko3V1RZai02TTNTbThCNDlx?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-14T17:30:00+00:00"
+  },
+  {
+    "id": "c52597cf2cdffae9ff9549f2f31e6868",
+    "titulo": "Iveco aposta no pós-venda para ir além do preço - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGxPa3ZzcFYxOUV5aHZqRHBMTC1Memp4QVFOMS1vZ2xQZHpCRFFzcjRkVzFlTmVNTXZYN3hRWHhpcTB5WGF5ZXMyVVZTYWRhZUZkd0hBOWtRbHU2OHJodThwODFucUhWbF9SbnNEUXFjdDNCVDB5aThxTmk2bUJSTmx1UktGUlR2bTFUM1NWbFViQXVQVE5N?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-14T13:00:00+00:00"
+  },
+  {
     "id": "55b40027166e3581beda65bfb7908329",
     "titulo": "Transit elétrico será vendido em três configurações no Brasil",
     "link": "https://automotivebusiness.com.br/lancamentos/transit-eletrico-tres-configuracoes-brasil",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "92a13c03e4b568fce5c2f5e5a712346d",
+    "titulo": "manufaturaRenault Geely inicia produção do EX2 em dezembro15/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/renault-inicia-producao-geely-ex2-sao-jose-dos-pinhais",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T20:58:42.770122"
+  },
+  {
+    "id": "ca9bc8627fa58f236ca0c9119d9c250a",
+    "titulo": "manufaturaRenault Geely inicia produção do EX2 em dezembro15 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/renault-inicia-producao-geely-ex2-sao-jose-dos-pinhais",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T20:58:42.770137"
+  },
+  {
+    "id": "500e7a5fcc79f60213c8e0229aac9883",
+    "titulo": "Cadillac Lyriq e Vistiq entram em pré-venda no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/09/15/cadillac-lyriq-e-vistiq-entram-em-pre-venda-no-brasil/135492/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-15T20:58:45.376738"
+  },
+  {
     "id": "08f32d1fffaf5f2e239f0dc4dbe8329b",
     "titulo": "Europa precisa alinhar meta de CO₂ à realidade do mercado, alerta Mercedes-Benz",
     "link": "https://www.autodata.com.br/noticias/2026/09/15/europa-precisa-alinhar-meta-de-co%e2%82%82-a-realidade-do-mercado-alerta-mercedes-benz/135438/",

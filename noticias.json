@@ -1,5 +1,53 @@
 [
   {
+    "id": "b58f37f288ff7b9c2b75340a7f2d4f3b",
+    "titulo": "Mercedes-Benz aposta em caminhões de defesa e projeta receita de 1 bilhão de euros",
+    "link": "https://www.autodata.com.br/noticias/2026/09/15/mercedes-benz-aposta-em-caminhoes-de-defesa-e-projeta-receita-de-1-bilhao-de-euros/135349/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T12:49:34.648694"
+  },
+  {
+    "id": "c91da9e99a70b53f80b3fe34fbc4bad1",
+    "titulo": "Stellantis assumirá produção local de peças remanufaturadas",
+    "link": "https://www.autodata.com.br/noticias/2026/09/15/stellantis-assumira-producao-local-de-pecas-remanufaturadas/135395/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T12:49:34.648718"
+  },
+  {
+    "id": "ad0cc8703ec9836ba23c7be7635d5e4e",
+    "titulo": "Exército dos EUA gasta quase R$ 1 bi em apenas 8 unidades do caminhão mais caro do mundo - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRUprN0ktcTdiVTJyV0hKZ2ttOUkyUVdhX0o5aGg0azN4ejRlaExsUTVZek1GN0ZzTnJjWVJTTEh0U2ZuMnhCdF9mOVQwdXhhdHlleFdvLW90MEVTbExVaFhsaXpzeDRqdFJNZGZYc05UTVFFSTVZMzVWM2NBZmxBUWtsWW84RTV6R0d4RVhrc2w2OEEwd08wOXpjeUV1QjNscDZVdWlGcExhUGR2blBCSFdVdmo2OEhGUldTU1Bzc013UWlrQ1pIcnNvNNIB0AFBVV95cUxPN1VBZ1JpUWpPeDZRSEF5WVUtalJpMnZLSXNkUGtnWFB5NFdPS3FnOTc5ODAwTUJiM1VkTmdNRklOdDVSRHVFVjROLWZacjhLc25QS2UxRXZZYklCaXc2LXA1Q1RSMHJpb1cweGdBeTJ0dDhEYWo1c1UtdTllT0JkMk1PXzR1dUQwMl9DeXJza2dBUnZ0WlgxeTY5QVBKaFZCR0pvSXlid1NKdXAtZXF4elNBaDlLYTFmY0JkRU93UllnMEd1aVhzVXVVSVNHY1Ni?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-10T19:42:00+00:00"
+  },
+  {
+    "id": "da11a4026a0d4d989736204e932a7009",
+    "titulo": "ClickBus troca CEO, traz fundador de volta e mira R$ 2,5 bilhões em vendas - Exame",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHQ4YWYxaFFrdzVLNE9lUjNYYTFZRGlSaWFadXpqanVXaGtwUUQ4OWhfZnNPcFZ5dElfdnlFdzFMX2NIcWxFTGlnWU94SzZGVVJoQUo2WHZZR0l6WDZtSkkzcldyZ2JyYVFxektHUXd1SDhVOHl5a2NlSHhEN1hobHZ5ZXZ1NjZ3ZlEteEs1VzJDTUQtcjlHMGhDc1IxSThERE9aSUVhYw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-14T15:01:26+00:00"
+  },
+  {
     "id": "b2f8060a45df434a43647ade54d5eebe",
     "titulo": "SUVs mais vendidos em setembro: mudanças no ranking — dia 12 - CAR.BLOG.BR",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHJkTEtSQVZOQlE3WEZ4MWJIOHFIV3JUUEk3T1NlNFd0aG9ZYzYwempPX3VtLU1KdnVfLWlTZlgwZURKZHduYU9Ob3gzZG9qbEtycnpGZXJod2pwbHBsQ2RSeHBlNjBGSHVBclc0QS1HZkt3SFIzbFVJeTYzczlTcDhBdk8?oc=5",

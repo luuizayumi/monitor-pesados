@@ -1,5 +1,198 @@
 [
   {
+    "id": "eaa9ee9182385e14817e02c16bf6e242",
+    "titulo": "🔥 Semana do Cliente: Assine o Digital por R$ 5,99/mês e tenha conteúdo exclusivo na palma da sua mão! 🔥 Semana do Cliente: Assine o Digital por R$ 5,99/mês e tenha conteúdo exclusivo na palma da sua mão!",
+    "link": "https://quatrorodas.abril.com.br/ofertas/quatrorodas/?source=cl_sites&#038;channel=botaoassinemobile&#038;url-retorno=https://quatrorodas.abril.com.br/tudo-sobre/mercado",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356663"
+  },
+  {
+    "id": "8fead9fd32ca1d4368bba9485976a320",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://quatrorodas.abril.com.br/ofertas/quatrorodas/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356689"
+  },
+  {
+    "id": "997e97bbe15fd430d740bbb55544ca7c",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://veja.abril.com.br/ofertas/veja/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356692"
+  },
+  {
+    "id": "7af686633ee65726813c3b124b24a9fa",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://super.abril.com.br/ofertas/super/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356695"
+  },
+  {
+    "id": "1ca5a3752705df9d74abe724fc30431f",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://veja.abril.com.br/ofertas/veja-negocios/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356698"
+  },
+  {
+    "id": "6c1887c763c1b426c815ade2b8a66070",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://vocerh.abril.com.br/ofertas/vocerh/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356700"
+  },
+  {
+    "id": "c5f808e4c311459420cc42a3a7e9b4c3",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://guiadoestudante.abril.com.br/ofertas/guiadoestudante/?source=cl_assine&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356703"
+  },
+  {
+    "id": "fe55678241a22cd458431bf81cc062d3",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://saude.abril.com.br/ofertas/saude/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356705"
+  },
+  {
+    "id": "871cef1f77bad9ff0981ce0ae540e1db",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 5,99/mês",
+    "link": "https://claudia.abril.com.br/ofertas/claudia/?source=cl_assine&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356708"
+  },
+  {
+    "id": "118d85e1d3faa1435c03ac5a710141a6",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 1,99/mês",
+    "link": "https://viagemeturismo.abril.com.br/ofertas/viagem-e-turismo/?source=cl_assine&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356719"
+  },
+  {
+    "id": "b3ed23c5f82164751702d5eb1c99744e",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 52,50/mês",
+    "link": "https://veja.abril.com.br/assinar/kit/VJ_GE_COMBO/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356722"
+  },
+  {
+    "id": "dfd076b0fb8af3a6990111987a1d60ea",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 9,90/mês",
+    "link": "https://assine.abril.com.br/ofertas/goread/?source=cl_assine&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356725"
+  },
+  {
+    "id": "ca9c331e29fc8e364b63d65b1629ca76",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 9,90/mês",
+    "link": "https://veja.abril.com.br/assinar/veja/VJ_ZEROHORA_DIGITAL_RELAMPAGO/?v=a38&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356727"
+  },
+  {
+    "id": "25b42a03c2c9f0f9999c858bfa8340ce",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 9,90/mês",
+    "link": "https://capricho.abril.com.br/ofertas/capricho/?source=cl_assine&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356730"
+  },
+  {
+    "id": "ab087cbd12e48065f061f0988f058362",
+    "titulo": "Assine a revista OFERTA SEMANA DO CLIENTE - A partir de R$ 39,80/mês",
+    "link": "https://quatrorodas.abril.com.br/assinar/quatrorodas/QUATRO_RODAS_PLACAR_COMBO/?source=cl_sites&#038;channel=assinatura",
+    "fonte": "Quatro Rodas",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T21:00:47.356732"
+  },
+  {
+    "id": "50d5d0f08a148986e2a3cbe9fbe396ab",
+    "titulo": "Iveco investe R$ 93 milhões em centro de peças - newsrondonia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmVPQ2ZVNEVVam0yUzNQTUNrUzFYVGF1d1NabUZqY01sMjBFZkdldWlXdDI1Sk9CdkMwQkRjcnVHNzZESDlYTjlLNnY3SUxpdWthOWZtUngxc3RFVjRaLUt6b0dXNi1BM095RWw2djcyZEZNX24wU0htOUlxZm9OZ2tHazBBbUJYaUFGYURQM2J4eHFNYjhnRg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T02:42:48+00:00"
+  },
+  {
     "id": "2d3fc7907233ee1ab40a069ccabc0f2e",
     "titulo": "Foton Cavan Beacon inova com porta de abertura invertida e cabine pensada para o motorista",
     "link": "https://www.autodata.com.br/mobility/2026/09/16/foton-cavan-beacon-inova-com-porta-de-abertura-invertida-e-cabine-pensada-para-o-motorista/135447/",

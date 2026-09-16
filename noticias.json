@@ -1,5 +1,89 @@
 [
   {
+    "id": "6901797a66ea500346d302e7b3c1beb4",
+    "titulo": "Vendas de veículos na primeira quinzena de setembro avançam 7,9% sobre igual período de agosto",
+    "link": "https://automotivebusiness.com.br/balanco/vendas-veiculos-setembro-avancam-79-sobre-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T23:44:24.496961"
+  },
+  {
+    "id": "9ad62e3e1b224c7415992351b5e0959e",
+    "titulo": "BYD mira mercado de pesados e planeja produção local de caminhões na Europa",
+    "link": "https://automotivebusiness.com.br/industria/byd-planeja-producao-local-de-caminhoes-europa",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T23:44:24.496973"
+  },
+  {
+    "id": "39831e0616f7812dd1de55533f2140a9",
+    "titulo": "Mercedes-Benz questiona Euro 7 e pede mais prazo para reduzir emissões",
+    "link": "https://automotivebusiness.com.br/mercado/mercedes-benz-questiona-euro-7-prazo-para-reduzir-emissoes",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T23:44:24.496977"
+  },
+  {
+    "id": "d4147aaff40f200b5988ff141287c2fc",
+    "titulo": "vendasVendas de veículos na primeira quinzena de setembro avançam 7,9% sobre igual período de agosto16/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/vendas-veiculos-setembro-avancam-79-sobre-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T23:44:24.496982"
+  },
+  {
+    "id": "b7beed30910466ce9914273f9838b5fa",
+    "titulo": "vendasVendas de veículos na primeira quinzena de setembro avançam 7,9% sobre igu...16 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/vendas-veiculos-setembro-avancam-79-sobre-agosto",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T23:44:24.496989"
+  },
+  {
+    "id": "08cd7fc14237934e4b6712838275c38c",
+    "titulo": "bydBYD mira mercado de pesados e planeja produção local de caminhões na Europ...16 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/byd-planeja-producao-local-de-caminhoes-europa",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T23:44:24.496992"
+  },
+  {
+    "id": "f85962f5718af76ef15ded12cc39f7f9",
+    "titulo": "emissõesMercedes-Benz questiona Euro 7 e pede mais prazo para reduzir emissões16 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-questiona-euro-7-prazo-para-reduzir-emissoes",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T23:44:24.496996"
+  },
+  {
     "id": "eaa9ee9182385e14817e02c16bf6e242",
     "titulo": "🔥 Semana do Cliente: Assine o Digital por R$ 5,99/mês e tenha conteúdo exclusivo na palma da sua mão! 🔥 Semana do Cliente: Assine o Digital por R$ 5,99/mês e tenha conteúdo exclusivo na palma da sua mão!",
     "link": "https://quatrorodas.abril.com.br/ofertas/quatrorodas/?source=cl_sites&#038;channel=botaoassinemobile&#038;url-retorno=https://quatrorodas.abril.com.br/tudo-sobre/mercado",

@@ -1,5 +1,104 @@
 [
   {
+    "id": "2d3fc7907233ee1ab40a069ccabc0f2e",
+    "titulo": "Foton Cavan Beacon inova com porta de abertura invertida e cabine pensada para o motorista",
+    "link": "https://www.autodata.com.br/mobility/2026/09/16/foton-cavan-beacon-inova-com-porta-de-abertura-invertida-e-cabine-pensada-para-o-motorista/135447/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T17:31:57.238478"
+  },
+  {
+    "id": "b63d9a830a1c918dc9d328a44daf9377",
+    "titulo": "Caminhão pesado ou extrapesado? Afinal, qual é a diferença?",
+    "link": "https://frotanews.com.br/caminhao-pesado-ou-extrapesado-afinal-qual-e-a-diferenca/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T17:31:58.792859"
+  },
+  {
+    "id": "254b50440338b3af4faa264828b13ff3",
+    "titulo": "Velocidade limitada: por que os caminhões precisam respeitar limites restritos?Inércia e distância de frenagem dos pesados estão entre os motivos de cautela na velocidade máxima nas operações de transporte de cargas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/velocidade-limitada-por-que-os-caminhoes-precisam-respeitar-limites-restritos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-16T17:32:00.520440"
+  },
+  {
+    "id": "952668b7d5208647b121f2b4a4f70a47",
+    "titulo": "BYD lidera as vendas de ônibus elétricos e São Paulo é a principal “cliente”",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dongfeng-dfm-e-a-7-marca-chinesa-a-confirmar-presenca-no-mercado-brasileiro-de-caminhoes/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-16T17:32:00.520454"
+  },
+  {
+    "id": "c485f4bcda346a01127a365e62583040",
+    "titulo": "Carros mais vendidos do Brasil: ranking diário de setembro - dia 12 - motorvicio.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEF1MVpDblozS1ZPWUdPT1QyMGtCZW9oUnhjaV9GVmVFdnJTcG11dmtDRFprZXBMNjdwWHkzNFRUU2hhVVd2VUNOWTJWbTJpS1hiTDNsYVF1VVFMblpGMDc3QjBRUW1GWlNVaHZpT2FkZXE3b2Y4MUxCdGxVRi0wblNhaUJraVdRNzN2Zw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-12T10:48:00+00:00"
+  },
+  {
+    "id": "587a58fd1c85f54b8250ec167abaa233",
+    "titulo": "Frota de carros híbridos cresce 191% em Itapetininga em meio à busca por economia no combustível - irecelider.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQX3lTc05FM25fODh1eHp2Y092WWpGLTFZYXpfUjFwOU5ycG81VnVJVk83YUZXeExYd2g4MldydDR4cmRkMjFkVlczZU0yZzRVbE52VldRZjcyLVU5NWpiZHJXekJCQ0ktY0M2UFVnSnAxMGxER29lNjYyTVFPeFI5NXNURjV2ZC1SdHgtZGx0b1Q2QlNFek1YRzIyZjRvZWdSVU43Wlh0T0VUclFWUG1oTjh3UDlrLWwtR2lJTmktSE93WnZuaVlOdkRzSk15Z3otRUNvWUtLZUd0V1BFX1kzeE9PVmF4d3pLNXdXNlMzWU9GdnpfOEtyb1dNeDM5NGlRdTZORDJ2Z9IBjAJBVV95cUxOWnM5TzJTN21EeWY4Sm9YTzNUeUdWOGwxcTVqWFlqalFaZ2lyQjh6V21TZzk4Q016QWZRQnRBZWhXd09tRDQzVWRtWTBWNnBGeHh1SkFCSW1vNzRzR1FlSUNSVG1DeW14LTl3LWpCWko1eG5UeUs5dmUwZG1oQ2JYTUZQUlRHa3pYM2IzSTc4Ui1sUi1aYnYxYU1TNW9ob1pBME1ZX2lUV295T1B4bmVsNURnZ0FzYlJtdTA1ZzV5TlVwT3FKZkZQWndMdXJNSFd0bUFocEUxaDFndzRNWGFUM3haQm52V2hSalZZaEZITTZCekZoSTV1N1FMcXBIdnc5clN5ZTJCdVhHUnYt?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-06T11:57:39+00:00"
+  },
+  {
+    "id": "ae612f2c3a886fabb35a82fccf0c5002",
+    "titulo": "Marcopolo confirma as 21 primeiras vendas do G8 para o mercado europeu em aliança com Scania e Volvo e entregas serão em janeiro de 2027 - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZVEyRGZsRF95T0RsM0o3MEQ1Z0s0amNFNkNNT082WWFnSDAyMFU1YmNMWkZvMGZZRWR3VWhIZFZBSGxUNEpBR1dUVGdPTE9qOE5hMHViS2o3YU1ETEU3SVVWeGV3RXBKZEpTTkV4d1hldDJfa29ib3B0enFsY1BMZ0JvTnpyM0VFa1hneEl1UHVDUUtNdmh1dFdIY19wZ1BkQ2M2R1oxOFF3Z3MwbDZNdE5hd0h3YjA5cjNuT19MQUk5aC1MdTZXSWpTUGJtaVV4bkhTRTJYbmVIbkRHVklfbnBDcXREdkFQQi1abGFaeHgtVWpkYTV3b1dkRGg2cGZjSnBjMzVWYlEzdC1rY0xZ0gGUAkFVX3lxTE9PdW94d3FPVjd1NklKN2pjWnhyXzZFdDFRWXI3QnplT2V2NmJkMm1sN2ZtOTVvRUVJM05BRDl1NFJuVml4akVRWGRJTW44RmtFNDc2Z09YMTJkTmlrRTJTT3BaMm5WalJaWm1zWU10ajNQMTh6dnBkSk5HQm5ubnRKNWZlSmowUlNGWWNPOElCRW5zRGQ2X1RFaW0ycEJ0VUZuSmd1Q3lCTGhqVkowNS1jcS03MVF2R0lVTzlEYXhOOEhZV05PeVgyU0RQa2VVTkNwYWs5UHhaTU9CUkFYMWFnRUZ5TWJ0WTVyT3hqTS1URk1iaGczT1pJTlJiYUczLXVxak1Ic1k4cXNwcWZNa1BBNWZwdA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-15T21:59:44+00:00"
+  },
+  {
+    "id": "20ba22fcfc3932ccff6b833dbc095e42",
+    "titulo": "Iveco inaugura centro de distribuição de R$ 93 milhões - CPG Click Petróleo e Gás",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZ0RGSjhqLUpjVVpydTdZSVh4eE1DUHctdHkzYWxGZERnazJqTVA0VGFtWmZYb29DcXlLSk02b0czY0ZkZEhKQlJ5X3FTb3RaM2taRlcxUl9qV3lpNWhsTTRDTkhseGx4U1NEOGxUbmJKYUFIOEt1TEx3TURpSDVuZEd6cVFlWVc0OXFDZkV3SXNXWHRwbG1vY1YxeDhGSkctMHk2VWt4OWpzaG1JYXNsVnhGcWlhRXIyd0dmcEhZOHphU3k5MjZXeGgzekFpNDhEajVyMEEwdG9RbGdjS3pMc3JsZksxeDJMYWdKX3RNLWl3TlRDNHpyT1REQU9kXzlqeFpxei1hWndOZ0xLZmo0TXVB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T03:53:00+00:00"
+  },
+  {
     "id": "c98b91643094cc92a8d9ded8c6ad6336",
     "titulo": "Brasil está no centro do planejamento global de ônibus da Mercedes-Benz",
     "link": "https://www.autodata.com.br/noticias/2026/09/16/brasil-esta-no-centro-do-planejamento-global-de-onibus-da-mercedes-benz/135443/",

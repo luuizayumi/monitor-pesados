@@ -1,5 +1,103 @@
 [
   {
+    "id": "c3727b401552e395d8d60f258dc0ea00",
+    "titulo": "Volvo aposta em lançamento de 13 modelos para recuperar participação de mercado",
+    "link": "https://automotivebusiness.com.br/estrategia/volvo-lancara-13-modelos-para-recuperar-participacao-de-mercado",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-17T21:39:24.170103"
+  },
+  {
+    "id": "000493c8eed33b3024810384f962d046",
+    "titulo": "Por que a manufatura eletrônica busca localização e ganha espaço na estratégia da indústria automotiva brasileira",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/por-que-a-manufatura-eletronica-busca-localizacao-e-ganha-espaco-na-estrategia-da-industria-automotiva-brasileira",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-17T21:39:24.170118"
+  },
+  {
+    "id": "43e27fd1507d1e687fb579e6a95f55a7",
+    "titulo": "Manufatura eletrônicaPor que a manufatura eletrônica busca localização e ganha espaço na estratégia da indústria automotiva brasileira",
+    "link": "https://automotivebusiness.com.br/noticias/por-que-a-manufatura-eletronica-busca-localizacao-e-ganha-espaco-na-estrategia-da-industria-automotiva-brasileira",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-17T21:39:24.170125"
+  },
+  {
+    "id": "ded977648bd56b052d242685fdd48f80",
+    "titulo": "VolvoVolvo aposta em lançamento de 13 modelos para recuperar participação de mercado17/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-lancara-13-modelos-para-recuperar-participacao-de-mercado",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-17T21:39:24.170135"
+  },
+  {
+    "id": "34219b103671f473ff37a2acf42ba8ef",
+    "titulo": "VolvoVolvo aposta em lançamento de 13 modelos para recuperar participação de me...17 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-lancara-13-modelos-para-recuperar-participacao-de-mercado",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-17T21:39:24.170138"
+  },
+  {
+    "id": "2663c62945cb49ebd690d2f0704586fa",
+    "titulo": "Conteúdo de marcaPor que a manufatura eletrônica busca localização e ganha espaço na estratégia da indústria automotiva brasileiraEletrificação, conectividade e produção local impulsionam um modelo em que parceiros especializad...",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/por-que-a-manufatura-eletronica-busca-localizacao-e-ganha-espaco-na-estrategia-da-industria-automotiva-brasileira",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-17T21:39:24.170145"
+  },
+  {
+    "id": "aa0555e68a8fd619b7a55a712697957f",
+    "titulo": "Agência de Comunicação - VWCO fecha vendas estratégicas no exterior e chega com nova geração Volksbus - Estadão Blue Studio",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlptampmZEhETWkyZnd4YlNzdDlnLVl0TklWUm1FU3hfTmtaX2VMUG1xeGQ1d0FMNG41WEViZzctbFc3SER3bFZWTFlMbl93OHY1U3ZPNGFtbnBoMGhWd0xwR01XdGFicFhLZFB4Q1BzcHNOYk0yLW5lWTlPc2VoRGlmY2ZMeDFWZl9FUkg5MFdZNnkzdTZhQ0llWkxqcTZmOTQ3cEU3LTlJc0RaN0dJRmphS0hDdGR0aEViYWZ6dS1od24yMjFtU29wUmtCc0pycFZqVTVtR3BMWXJheUE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T15:38:44+00:00"
+  },
+  {
+    "id": "3f7ab522e879d12cdb9f9a78e265e7ff",
+    "titulo": "Iveco Group inaugura centro de distribuição de peças em Pouso Alegre com investimento de R$ 93 milhões - tecnologistica.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEFoMF9lTFpKT3AwRWs5Tjg3VkhXU29qUVFWT3FyWGRnYXh3OUZuZTVkWThZZzFDWkt0TllfYVZPS3lEVmRrRmZvQWZkZlhZSm1mVjR3YkV0aFBtSDRQQUNhYzRXb0pveHN3bE5yNTJ6X0dVc1h5SmVyNVNCSzJyM1g4aU83VlNTbHVuRXpBVkh1Zi1nS1VDYW9sLXdvbmtyRnd6aTBwQnJPTThRUnVrcWVhN1I1VXBmcEhzNmR6cEFWN0EydzZjYVpLQlBHNmhsb3l4WDRWMm0ycjZvSGJrRFRaWEVJeVoyQUdGVHBJSmppdmdQcGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T11:00:00+00:00"
+  },
+  {
     "id": "b1adfc002db90f846510fe710433a262",
     "titulo": "Eaton amplia portfólio para veículos pesados com nova embreagem 430 mm",
     "link": "https://www.balcaoautomotivo.com/2026/09/17/eaton-amplia-portfolio-para-veiculos-pesados-com-nova-embreagem-430-mm/",

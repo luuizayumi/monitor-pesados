@@ -1,5 +1,81 @@
 [
   {
+    "id": "b1adfc002db90f846510fe710433a262",
+    "titulo": "Eaton amplia portfólio para veículos pesados com nova embreagem 430 mm",
+    "link": "https://www.balcaoautomotivo.com/2026/09/17/eaton-amplia-portfolio-para-veiculos-pesados-com-nova-embreagem-430-mm/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-17T14:24:24.629764"
+  },
+  {
+    "id": "194e2cbfb79d2c58831873731341d906",
+    "titulo": "Filiadas à Anfavea não conseguem capturar todo o crescimento de vendas - Jornal Extra Alagoas",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXRjNU5jQmlFYkxmSHUxTnhPM1l5cUZQaG01YW9qU3pnTVFjWFRPNjBnRWZ0b3pyTVRsa1FIcTc5Ykotdl91dzhKMVpkRGNsTjk2TXBsNnY1TU9USnRwNl85dDdqRFZzRzNMeGxmTjhqWjdFYmNQVUpfNnE0dlk1S1FNVVNLX3dma3ZpZjdtQy1ubWtmZ3o2cTJaSS1qd2F6UzNKbFhSbFQ1b2JVX1lkam1JZVRHVTBiRVpzemFteEVUMllKY3MzZA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T19:51:00+00:00"
+  },
+  {
+    "id": "8da79382081944f124266928144255f5",
+    "titulo": "Venda de veículos novos em MS cai 6,69% em agosto - Campo Grande News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGtCX3J2M0NPSUNUVkYtckV5UTRPY3FTcURsdzdoX3NoTTE0bzZIVGk0a2JyUE9LUkludlMxMEFYWDZPRm0xSFJvR01EaWtxbjY4N1ZPU1BlRmFfaWJPbmpsU3BUZE9JOGY4NGk2dzNwOXEtUUFIVklPTGpBRi1ZYzQ0c295dUJpNzJMOHkwVjB4NnFpZWpPRGhkNWVSSTVtWjJOR2hPb3JkZVVIVVlEStIBsAFBVV95cUxOUmZvemNJQTY4S1dNZUJZOFRzVUZ3Yjc5RmdoS25CQXpkOGJKZlAyaFhVei1kVFNMRmhlSktET1hQZ1ZjMEdObGViRXNydmlIVVNLeDlGQkc0VXM1QTFTNEtpV3JYWjdKZ1dWTnJHbjNBaDhXOW1zTXlnNXF5cTI0WEtvSDNBajh3Ylg2TUxham9WQUlZQ1RlY1lpeHBWdU1EWE9kU1NuNXZhQW1fM3N1Yw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T07:00:00+00:00"
+  },
+  {
+    "id": "e9c367cd1dc930284569c484880be80d",
+    "titulo": "Iveco investe R$ 93 milhões em novo centro e aumenta capacidade de armazenagem em 40% - businessmoment.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOencxMjJ5TnFGbHhwbGFEa2w2NWI4dHRkTlVQRVRqX2x6VlRaM2RCZzcxM1BoOWR4X1NmMTkyeFZlYWl4c3JEa1pyd05NcHdaQmJ1NzRJTnVuRVVoeGVCQlE4NmNfeTBQanExdmtXZmZZajlGNU11NHV2dmhDQmVoMDkwQlBXd9IBhgFBVV95cUxOencxMjJ5TnFGbHhwbGFEa2w2NWI4dHRkTlVQRVRqX2x6VlRaM2RCZzcxM1BoOWR4X1NmMTkyeFZlYWl4c3JEa1pyd05NcHdaQmJ1NzRJTnVuRVVoeGVCQlE4NmNfeTBQanExdmtXZmZZajlGNU11NHV2dmhDQmVoMDkwQlBXdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T16:54:09+00:00"
+  },
+  {
+    "id": "850cdf1d28ecfaabe512fcd903237c31",
+    "titulo": "Iveco inaugura CD de autopeças de R$ 93 milhões - portaldaautopeca.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkQ5RVgtZXNaTGhFZHJTbVBiWlA2SDQ3a1FYX1dJMFRsQjBQNi1IU3JuZ0V6bWsyZGdTZFB2R0xHU1RXNW5zOFBPNVhmTXFKV3FyWC0ySHE0MklVdE4zQVAya21GVWo2T2pndjY1QUMxVHdCZDZRaTFMLXRTc3FLcnZpeEx1amwya0lHNFNDUWVFX0RCSXd5ZVBn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-15T22:17:18+00:00"
+  },
+  {
+    "id": "f6d8e2fb1b20c777ff6dc58b4683f36e",
+    "titulo": "Mecânicos e transportadores ganham apoio de um centro de R$ 93 milhões que movimenta 5,8 milhões de peças por ano e corta a expedição para 2 dias - CPG Click Petróleo e Gás",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZ0RGSjhqLUpjVVpydTdZSVh4eE1DUHctdHkzYWxGZERnazJqTVA0VGFtWmZYb29DcXlLSk02b0czY0ZkZEhKQlJ5X3FTb3RaM2taRlcxUl9qV3lpNWhsTTRDTkhseGx4U1NEOGxUbmJKYUFIOEt1TEx3TURpSDVuZEd6cVFlWVc0OXFDZkV3SXNXWHRwbG1vY1YxeDhGSkctMHk2VWt4OWpzaG1JYXNsVnhGcWlhRXIyd0dmcEhZOHphU3k5MjZXeGgzekFpNDhEajVyMEEwdG9RbGdjS3pMc3JsZksxeDJMYWdKX3RNLWl3TlRDNHpyT1REQU9kXzlqeFpxei1hWndOZ0xLZmo0TXVB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T03:53:00+00:00"
+  },
+  {
     "id": "69772355d5cd14c7bf039273a6e13197",
     "titulo": "Dolphin Mini no pódio e Chevrolet fora do Top 10: os mais vendidos da quinzena - Motor1.com Brasil",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3hWcXlCbkRuZUFJaThVcEhHem1NOFdYSVBpSFgxUnM1cFA1NkVGazhONHUxdDNjZ3VpekphX2swRHQ5UFd3cHJVTHl3X0tPN1p6N2tLSnRMNWZ6d2tMN3lCY1lvSHlmSi1kQnNoY0cxcFp1dVZjcEk3U0tNa2N2cHE0OA?oc=5",

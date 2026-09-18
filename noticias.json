@@ -1,5 +1,43 @@
 [
   {
+    "id": "1efc0b548b10750138a8b2a7712c8550",
+    "titulo": "Ao lado de 600 kW andamos no Mercedes-Benz eActros 600 nas estradas alemãs",
+    "link": "https://www.autodata.com.br/mobility/2026/09/18/ao-lado-de-600-kw-andamos-no-mercedes-benz-eactros-600-nas-estradas-alemas/135641/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-18T20:35:06.822663"
+  },
+  {
+    "id": "143f909813d7d8eda729dde7563a47e6",
+    "titulo": "PCC teria controle de 12 das 22 empresas de ônibus de SP, aponta investigação; Milton Leite é citado como operador - oglobo.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY2xpaFU5Z2dhbXlacE1DUC12dlB3c3pFYUZQRGtVVjkySmhXNVBWVEk4dFhuOEk0THZ1WlZBeFBlS0NBV3NUNnh2QWFtbEJob1dLN1E2aXlhbDZsYTdjV25PeV9DMG5WOVRjTWdMOExmM3FmVW9qTWhScXdJTDAtRWFMVmtZdEk2U3BiQ05LWTdCa21HcDA4WkppWFh3cXhDY0M3RnJ5dTJxVk83bF9nRFJxT01JbVJZT083TlNXS3pfd21fcHBhX29ORmluX19CZllWMC03TFMyUnI4Mk1LSU43TmFGWkRYTUR2X0hZUEVCYUl4UWhaZlRFVElnQdIBjAJBVV95cUxNcjUxVnJQTzVMcHFFMlNOTGlDdlNwdjQwQlJzU1dDWHBJQjFZMEJHODZaZlZVRkhHbFREbUIxLWw5TmVwdFBtZmE2eWdwWjJBQldjeWpFREtqQjQ5WFhRUVYwUGVrZ29pb0gwaWVHcWNRQWwtcERSUUxsMmdIODJjWEhTMEhkaG9TS2VZcUg5cDhGWlNSOUFRb2s5cmYxUVQta1AwM1NwdHF3WDhMMk9ONU9GTHozVXlkOHYxSXp4SjVxcFBmU3Y2T2wwRGR1WGlrMXotdWt6T2ZiRFRMbmt6RGxRbnFCa19Sa294cVZYVkZBMmNDNnlFOFgyblNjeG95VTcxUWw0Ml9sZG9h?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-17T10:38:51+00:00"
+  },
+  {
+    "id": "72670b6bea8bb35eae03a20102bf5fd9",
+    "titulo": "Polícia mira ex-vereador Milton Leite em investigação contra PCC em SP - G1",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX2tENk9QYXptejNZSG1PcG5uVkFNN1FNWXVuRTh1andGdzlfNkNWY2VpenhFbDUwVHVMR20wbTJid1RGOVhzYV9nRloyUlY2MzBoR3ZJSlZqTW40QUdma3Y5cW9fbGxhOGZvOVlUMWFOYjUzVjhiNk4xdFpzUDJXeDE4eXI3bmp0VnJ4Vm92MjhNZVJFZ3hzYWRfeHNpSU1YVUdNVGtxSTN2Y2VzSGU3cW1rcWw5cDhNckFWX21MZWI2MXdZWk5uUndQcG1aZzFZenFRanRCNURwMWlaZXQ4NNIB7wFBVV95cUxQX1N5c0JUakxWMGN5TlZuamFIWFJKT2NwNno3dVdpR0pUR1VvN214elhEM2ZrNmQ4cjlMUXZXNFlfU0tOMHlvQ0dvV1lzUEVnYmF1eVpmYnE2blVJeTRNc2VtWW11TGtwWUkwcEl3TUtITlpzdEFDcEdkVlJUbDMtcXpBVG1LMU1BUTIwSVpWZVRZaGc1NWZHODhQeW1QNnFKaTY2Mm14Y29aU2dWMVRhbUJGNXNtQjY2dE0zSzg4VHRJRk9hRkNla1ZFQ1N3U3pmMlJ6T2NteUMxdzFkODg1NlRQN290NW9iN2hCQzhqQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-17T09:22:02+00:00"
+  },
+  {
     "id": "90b974478a1c75ce54236b271b112052",
     "titulo": "Dolphin Mini no pódio e Chevrolet fora do Top 10: os mais vendidos da quinzena - motor1.uol.com.br",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3hWcXlCbkRuZUFJaThVcEhHem1NOFdYSVBpSFgxUnM1cFA1NkVGazhONHUxdDNjZ3VpekphX2swRHQ5UFd3cHJVTHl3X0tPN1p6N2tLSnRMNWZ6d2tMN3lCY1lvSHlmSi1kQnNoY0cxcFp1dVZjcEk3U0tNa2N2cHE0OA?oc=5",

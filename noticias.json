@@ -1,5 +1,57 @@
 [
   {
+    "id": "6a9d403501d4faa983ae91bb9c6fbbfb",
+    "titulo": "XCMG anuncia venda de 251 caminhões elétricos para a TN Logística por R$ 500 milhões - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd19kSGpXQS1iUFNteWgtQ2I4WUxsYlUyVGRNNjZPSmRKUFpCd25BVHBoR1k0LS1vZC10V1lxY0RoSEszb3ltWVNrVVozVjdDSXB1OVI4NG1qeTJIZ3lsTU5MUW5sdVVsMmpkU0Y4c1Y4amxadWVlcEQ2UGVkUVdteVVkTUJJNGptUExwU29EVDZPT1N3SU5QV21KcnF1OTZ4akxUcGZ5QjJjYTFRcVpFVnptSzdwUExtWVBTUGdCd2pjMEJuSXBr?oc=5",
+    "fonte": "Google News",
+    "montadora": "XCMG",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-11T13:58:57+00:00"
+  },
+  {
+    "id": "f80c69a1982b4100ddaa967a699ce5fa",
+    "titulo": "VWCO fecha vendas estratégicas no exterior e chega com nova geração Volksbus - prnewswire.com",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaF95Tk14OTJjOVpIVXlYeFdTdy1LX0k2U3NaU1FLZUZZdXVFaTdMbDBIX2RXd3NXT203OXBTX3hyUHhVc1YtSzlBXzJySmc1Mk13bmg3cklLUGZEV211eDNiNFZzOVRMWktLeUcxbkE4ZUxXUkF4YkhSWVJDQ0UzRTg3emZtcF9fNlUtMXhrLXgxLXdKRk1ZS01GVE10NkM4Yk52X0ZINGVmY29xeGVLWVZPbDBOOGlGZ3k0TlV3OWwzQndSRzYyU0RTZ2hYNW11NjludXlOMW10R2ZKOS0ybjFFdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-16T15:18:00+00:00"
+  },
+  {
+    "id": "3439221e7fa998365d3df4da63c15eee",
+    "titulo": "BYD Dolphin Mini: o elétrico mais vendido do Brasil dá conta de uma cidade como SP? - olhardigital.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXZ3dlhXcG42NDVtemwwb3JlTEhYMjU3WnpobHBfa19pU2M1bW9BUDNMSkNmTzJkZlYyWlJZWFFvOWhnNWNDbGJKZzRWbHZ5bzJsR3o0ekhJU3pZb20xaFB5aEw4endVMURnc2hsZ1JlLTdXYXFLWFZjODMyWnlubkZGRmxrUFgzc3h6a3dTaGVJZ01UQWx2anhwRHcxMWl6SXBSZU03QWNncnlRcFRCYkRkcVJLQUxJT05mTW9DR3VhcFZDalRKU3JmM1plejZiWGVJUHJnby0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-15T14:04:00+00:00"
+  },
+  {
+    "id": "b5ce8561f77203479d9fce37a83800c1",
+    "titulo": "Iveco aposta no pós-venda para ir além do preço - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGxPa3ZzcFYxOUV5aHZqRHBMTC1Memp4QVFOMS1vZ2xQZHpCRFFzcjRkVzFlTmVNTXZYN3hRWHhpcTB5WGF5ZXMyVVZTYWRhZUZkd0hBOWtRbHU2OHJodThwODFucUhWbF9SbnNEUXFjdDNCVDB5aThxTmk2bUJSTmx1UktGUlR2bTFUM1NWbFViQXVQVE5N?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-14T13:00:00+00:00"
+  },
+  {
     "id": "c2b9692edff1e877373973049cc44836",
     "titulo": "30 elétricos mais vendidos no Brasil em agosto - Webmotors",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnduZGc2RzIzdU1vb3Z0ZWFWRXhTYVZBV2JBYTg1NDFPWGZad3JzZ0hyVXlmOVJILVlWbkhsa2tvVGRsemlCSEJqSWdEZ3VScGliak1jbFY4MDZvM3B1RFVLZlh1dDYwQzNTR2g2aFVaZFdTcTlvWVFOazVIZlZQNFRtekl3MDA2VjJwc3U4N0J2Z9IBlwFBVV95cUxPYU5kVXVxcmdBVGJubUlXeTJTUUhlRDFLSjVQbVkwOVQ2cHNlRVplV1NLQ1JNbHlqUms5MF9IeHk5UTR4UkpLMDNteTJNZ1JUZFVoS0VuV3c3S2d4RFZTaVRMb0phMVhDNWdLUUN6Yl9rT2VGQmhVS3I4eUNxSkUwZFRuWkRDWktpblFIQU9OYXEyaXUxMEtv?oc=5",

@@ -1,5 +1,31 @@
 [
   {
+    "id": "c98cb06fc3dd8fb4aa6c8816a5cdce53",
+    "titulo": "1.BYD lança caminhão elétrico com 1.000 cv e recuperação de 600 km de alcance em 30 minutos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/byd-lanca-caminhao-eletrico-com-1000-cv-e-recuperacao-de-600-km-de-alcance-em-30-minutos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-20T17:35:22.419381"
+  },
+  {
+    "id": "56878b96b6c7d3f53e5c6e4f63f69452",
+    "titulo": "BYD lidera as vendas de ônibus elétricos e São Paulo é o principal “cliente” - novacana.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE11SndlOG5abHBjV0U0TVNfWWE3RVVoY095VXRnWDFHcFpHLXp3VEVRWnladnltZ2c2WEVHbF9yQXY5UmxxdC1kZXFiTHB0S1hmaWoyLXlEaUlhSFlXZVR6bWY1ajdJWkhKb1BOeHc3cjBhWmVrX3ZtZHNvNkQzYW9jeGNKTHQ3M0FXdjB5UmVwS0F3TXpwT2V4OG5fRDlra3JiMFc3alUtM1hw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-14T13:14:49+00:00"
+  },
+  {
     "id": "419a9b59268511679b16f728e3ec5d46",
     "titulo": "BYD lança caminhão elétrico com 1.000 cv e recuperação de 600 km de alcance em 30 minutosModelo ETT 44, revelado no maior Salão de Caminhões do Mundo (IAA), tem capacidade para 44 toneladas, traz novo sistema de recarga e pacote completo de segurança ativa",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/byd-lanca-caminhao-eletrico-com-1000-cv-e-recuperacao-de-600-km-de-alcance-em-30-minutos/",

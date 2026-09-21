@@ -1,5 +1,89 @@
 [
   {
+    "id": "d2f2b00ac88484ac769bf8e56f4d7f5d",
+    "titulo": "AutoData amplia Perspectivas e cria plataforma permanente de inteligência para a indústria automotiva",
+    "link": "https://www.autodata.com.br/noticias/2026/09/21/autodata-amplia-perspectivas-e-cria-plataforma-permanente-de-inteligencia-para-a-industria-automotiva/135819/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T18:31:56.396610"
+  },
+  {
+    "id": "8fba6ecc556cbd9f56a39081338e9902",
+    "titulo": "1.Dicas de sobrevivência para dirigir com o caminhão ao lado",
+    "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/dicas-de-sobrevivencia-para-dirigir-com-o-caminhao-ao-lado/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T18:31:59.426690"
+  },
+  {
+    "id": "e58fb62e259e9c0f4751887158009551",
+    "titulo": "Desgaste no freio a tambor demanda atenção dos motociclistas",
+    "link": "https://www.balcaoautomotivo.com/2026/09/21/desgaste-no-freio-a-tambor-demanda-atencao-dos-motociclistas/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T18:32:05.451287"
+  },
+  {
+    "id": "ded2eba971aa97bf746539d3e91ecd38",
+    "titulo": "Volkswagen Caminhões e Ônibus surpreende com entrada em novo segmento",
+    "link": "https://www.balcaoautomotivo.com/2026/09/21/volkswagen-caminhoes-e-onibus-surpreende-com-entrada-em-novo-segmento/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T18:32:05.451303"
+  },
+  {
+    "id": "27cce99f0f9784ebf7cce1f376d0aa27",
+    "titulo": "Magneti Marelli alerta sobre a manutenção do kit de distribuição",
+    "link": "https://www.balcaoautomotivo.com/2026/09/21/magneti-marelli-alerta-sobre-a-manutencao-do-kit-de-distribuicao/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T18:32:05.451308"
+  },
+  {
+    "id": "26374b09bcdd6794de6d9cc3d26f83d1",
+    "titulo": "Como a manutenção correta dos pneus pode te proteger no trânsito",
+    "link": "https://www.balcaoautomotivo.com/2026/09/21/como-a-manutencao-correta-dos-pneus-pode-te-proteger-no-transito/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T18:32:05.451317"
+  },
+  {
+    "id": "82159ea8ae31036764d2d2603def02d6",
+    "titulo": "Volvo lidera premiação de inovações na IAA 2026 - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSkkta1ZISzJTY1JJNWJONGdmZTgtdlB0blk4VzRLbUZnMVpSblJjWmM2WF9JVHlTM2lraW5PSmFsbDhVMTZJc0pmTUI4ejFjM0N0aVJVU2pHaEMxTHRpb0lzQnJWMkpuTi0zMEVSQTB5QVhtenVvYVBLbWVVcnpSRUc5MEM2ZzFvNzZweURWMFJJdnpnSkVB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T14:51:38+00:00"
+  },
+  {
     "id": "02c4750cd32f40c376d68f3f4256326a",
     "titulo": "BYD lança caminhão elétrico com 1.000 cv e recuperação de 600 km de alcance em 30 minutos",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dona-cegonha-cuida-de-seus-bebes-podando-arvores-para-nenhum-carro-chegar-riscado-no-cliente/",

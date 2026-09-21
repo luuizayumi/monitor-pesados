@@ -1,5 +1,67 @@
 [
   {
+    "id": "f3eea32fa433f6efec709d54913602d3",
+    "titulo": "Eletrificação total em ônibus urbano está mais próxima, diz presidente da Mercedes-Benz Buses",
+    "link": "https://www.autodata.com.br/noticias/2026/09/21/eletrificacao-total-em-onibus-urbano-esta-mais-proxima-diz-presidente-da-mercedes-benz-buses/135806/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-21T22:29:46.710635"
+  },
+  {
+    "id": "27fbd181ef2639e3545865ee1e2cceb6",
+    "titulo": "Baú com material reciclado faz caminhão pesar 3.250 kg com sobra para 250 kg de carga útil",
+    "link": "https://frotanews.com.br/bau-reciclado/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T22:29:48.087226"
+  },
+  {
+    "id": "832f70a9e472af5efff30ae3588ceddb",
+    "titulo": "2.Dicas de sobrevivência para dirigir com o caminhão ao lado",
+    "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/dicas-de-sobrevivencia-para-dirigir-com-o-caminhao-ao-lado/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T22:29:49.735445"
+  },
+  {
+    "id": "b19fb927a0de5d0ad5ea1b35a58db812",
+    "titulo": "4.BYD lança caminhão elétrico com 1.000 cv e recuperação de 600 km de alcance em 30 minutos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/byd-lanca-caminhao-eletrico-com-1000-cv-e-recuperacao-de-600-km-de-alcance-em-30-minutos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-21T22:29:49.735459"
+  },
+  {
+    "id": "f0694489c872705912a12e1db1e19b14",
+    "titulo": "Governo aprova R$ 15,2 milhões para novos ônibus em Belo Horizonte - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFo4Z3FuTHp1RTEyVkxRQlhIc0ZTZ3BxdDQtQkZSb0I3YXJmYVdfbHhCQmhDSG1PRi1zNFZRUU1xYTlReEZKR2V2cDBKRy1MTExfN2tUZkRseWo5SllPaTBOeS1aVjFZZDFVZ2hMZ1J4SHczWEwyQU44aVUtcUhWSll6M1AzVW9kakRWLVhMQ2RVSUFoTjdFVFpRSXo1a090a2ZfLVp0M3hIakl5MHJRSW1EZTFKMWZJazg5WHNRQzNBVDZ2V09sczVTWkp6OEVtUjRDTXhvLWpRMy00Qzlr?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T07:00:00+00:00"
+  },
+  {
     "id": "d2f2b00ac88484ac769bf8e56f4d7f5d",
     "titulo": "AutoData amplia Perspectivas e cria plataforma permanente de inteligência para a indústria automotiva",
     "link": "https://www.autodata.com.br/noticias/2026/09/21/autodata-amplia-perspectivas-e-cria-plataforma-permanente-de-inteligencia-para-a-industria-automotiva/135819/",

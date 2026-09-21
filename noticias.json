@@ -1,5 +1,55 @@
 [
   {
+    "id": "f176da6cd27219f9b40aa0aeb690a389",
+    "titulo": "2.BYD lança caminhão elétrico com 1.000 cv e recuperação de 600 km de alcance em 30 minutos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/byd-lanca-caminhao-eletrico-com-1000-cv-e-recuperacao-de-600-km-de-alcance-em-30-minutos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-21T00:54:31.693014"
+  },
+  {
+    "id": "6e1adb837343c52642342cc721a0e931",
+    "titulo": "Quais são os caminhões mais vendidos do Brasil em 2026? - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0lkOUpYSWtpMmtsRjUwWXNfV183WHRTTW5lUi1mSnFQSnpnc0w2WlpPR2JSVlVxRWdkUFJNZXJhUDVtLWJiYjlTZmZkb2YwbEdEQ3Q0bGhWZ2VtbGpjY3VHNzNJaUNRSkcwWk9oX1NwYTlkN1lnRkhoUDZZNU9xNEJDTUZiQ0g0SUNKWHBWcHpEZEM4eXY5dHFDeUNqYmVtZ2VEbXgxSWd1WjdQdGhTZQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T07:00:00+00:00"
+  },
+  {
+    "id": "ca7ac2bda0d2a7e7be1dd177f49f303f",
+    "titulo": "Rio e Baixada terão R$ 35 milhões para compra de novos ônibus - novaiguassuonline.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUpsNTROc1hDZUlmMmphODVVMndOOHp5U0xDdWsxbFRwOVgydU8zWVg4MUNpX28xSVF4WW8xUkNzbkVlbG9Bd21NZFdhSFFPbUNKelo2RFVMbVNZd2M4ZTBKS3hLbWxmSG5DcFBUUXNqaklPWGk3WGxoV0x6SmpublhPbVVncWx1dFYzS0ZqLWhiVF9OckVlVUFn0gGfAUFVX3lxTE9jLXd2czNfRXJoNGZKc2xQUklQZzU3MUdXZkN2TmxRMTJrQWZjbHFscXo4UVNzQ2ozbVNxTjIzcjRNdDFQVnJZb0xVOTRKWW1ibjdJb2JkMHNuQnh1QmoxVFRmbWxVQkh4d2FsaHo5LV9RLXdWRnMtcDdNd3NvazBqWlFhQTJjUEdYTERwZEZLQk93aHpwdFZOM1FucXF2OA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T16:36:35+00:00"
+  },
+  {
+    "id": "05c941260f34cc27996d1a870c9f35a6",
+    "titulo": "Jeep Compass mostra por que lidera entre os SUVs médios - News Rondônia",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGZaM29QeXJPdmozc1YwMG5pS2UzeGhmX2w1cjM3YkRNemlpVWtNZklCSjJDdjd4MzJvdDNvNWgtSUV4Q01teVQwaDUxQ2RRQ2wxT0xaRVd0c3o4bk5PRGt5XzA1clk4SktJMlR1UEo5VUpWR0pWNjYyOGtvTWF1aXEtaXBUbDRhS3BOZV84MVV5NFBLeGlQaTg4TGVZNjgwazMtelZB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-20T20:08:38+00:00"
+  },
+  {
     "id": "bc93be093a9a9546c36035716fb5227a",
     "titulo": "BYD lidera ônibus elétricos no Brasil enquanto São Paulo acelera renovação da frota - R7",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUFdvejNvZC1qS2xEYktjbnVhVHBtNVYwTGZkeTlFTGdvMmlKdWo3OFh2OXdsb19kTnRxRkdocUhXZmZ6TTV5S0k3UmZ0ZGNfV01GX3BHVGpGSGFpam01cDYtNVlMU1NtaXA1YVZUeENqZDc0a2lQVHpBTkVKZnhqLXBmWjV5ZEJkQ2ZhZFlvTzItbXREaWtMVnVOWmRlcFF6SmNfaHlYOU1EQWV3SmlGeERaT29BUUdoNjgtaXRpYUM5N3JIeVo1eXAxc2ZaMERqOHE0?oc=5",

@@ -1,5 +1,91 @@
 [
   {
+    "id": "abd3748296a80f990ba5d6bb1824385e",
+    "titulo": "Como a Toyota manteve a produção de motores após a tragédia em Porto Feliz",
+    "link": "https://www.autodata.com.br/noticias/2026/09/22/como-a-toyota-manteve-a-producao-de-motores-sem-a-fabrica-de-porto-feliz/135937/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T20:24:28.383095"
+  },
+  {
+    "id": "3a74d92b4e5c2d7b5d1b882935e759a3",
+    "titulo": "Renault inicia vendas do Kardian Vibe por R$ 99 mil 990",
+    "link": "https://www.autodata.com.br/mobility/2026/09/22/renault-inicia-vendas-do-kardian-vibe-por-r-99-mil-990/135911/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T20:24:28.383115"
+  },
+  {
+    "id": "1c189fadcede4f22bc8dbfaa7abe9b37",
+    "titulo": "Iveco Bus apresenta seus minibus elétricos na Europa",
+    "link": "https://www.autodata.com.br/mobility/2026/09/22/iveco-bus-apresenta-seus-minibus-eletricos-na-europa/135915/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-22T20:24:28.383118"
+  },
+  {
+    "id": "67e5ae2b8225a9da43df28c01ac80b9d",
+    "titulo": "Venda financiada de veículos alcança o melhor resultado em 15 anos",
+    "link": "https://www.autodata.com.br/noticias/2026/09/22/venda-financiada-de-veiculos-alcanca-o-melhor-resultado-em-15-anos/135944/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T20:24:28.383135"
+  },
+  {
+    "id": "c72242f68ec1dfc7193d98234db05028",
+    "titulo": "1.Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de água",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T20:24:31.803834"
+  },
+  {
+    "id": "39bea21da342d4db1756e51eff3d941e",
+    "titulo": "2.Volvo lançará 13 novos modelos até 2030 para voltar a crescer",
+    "link": "https://www.estadao.com.br/jornal-do-carro/volvo-lancara-13-novos-modelos-ate-2030-para-voltar-a-crescer/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T20:24:31.803846"
+  },
+  {
+    "id": "4b2eebc7bbc656d5244866b638446e74",
+    "titulo": "Jeep Compass mostra por que lidera entre os SUVs médios - GiroGO Noticias",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHRFOGxqbUVwZzh3M2xPWko3RnVERF9nOWdWMC1qZDRaRlh1c3JPZzUyTFp1N0pFT3JhT2Q5Y2x3RlVicXd2TmlQVjZ5bVk2UGFVejJjM0RORjhhaWFGWW5wVTEwV1FZd19ZZV9BUWQzZUZyMnlvYWpVQTJybjNBTnBjSWswRFJYaEJ2M1hPMkh4SWI4cVd5M3FNOHBNN2w4Wm9FUzVHMFZoVm8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-21T13:33:00+00:00"
+  },
+  {
     "id": "cf0c5ee55cc9d0f1e940c34c2d826086",
     "titulo": "BYD estreia na Europa com caminhão de 1 mil cv e cinco estrelas no Euro NCap",
     "link": "https://www.autodata.com.br/mobility/2026/09/22/byd-estreia-na-europa-com-caminhao-de-1-mil-cv-e-cinco-estrelas-no-euro-ncap/135701/",

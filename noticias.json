@@ -1,5 +1,106 @@
 [
   {
+    "id": "cf0c5ee55cc9d0f1e940c34c2d826086",
+    "titulo": "BYD estreia na Europa com caminhão de 1 mil cv e cinco estrelas no Euro NCap",
+    "link": "https://www.autodata.com.br/mobility/2026/09/22/byd-estreia-na-europa-com-caminhao-de-1-mil-cv-e-cinco-estrelas-no-euro-ncap/135701/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T17:11:11.235433"
+  },
+  {
+    "id": "aae16f034a2e798d72ff601d5893858e",
+    "titulo": "Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de águaCaminhão a hidrogênio da marca alemã vira realidade e entra em produção. Veículo tem pedido de 100 unidades da operadora logística alemã Dachser depois de quatro anos em desenvolvimento",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T17:11:14.437856"
+  },
+  {
+    "id": "fdf2da877a5ae4467bda257c389b0274",
+    "titulo": "BYD lança caminhão elétrico com 1.000 cv e recuperação de 600 km de alcance em 30 minutos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/byd-lanca-caminhao-eletrico-com-1000-cv-e-recuperacao-de-600-km-de-alcance-em-30-minutos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-22T17:11:14.437870"
+  },
+  {
+    "id": "352ac45b57a51f8547794a3304ad8db8",
+    "titulo": "2.Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de água",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T17:11:14.437873"
+  },
+  {
+    "id": "5a51b9e47d44cc2ec0365af722a6ad02",
+    "titulo": "5.Dicas de sobrevivência para dirigir com o caminhão ao lado",
+    "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/dicas-de-sobrevivencia-para-dirigir-com-o-caminhao-ao-lado/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T17:11:14.437876"
+  },
+  {
+    "id": "a90af077e431b0b8465ebef85cd262db",
+    "titulo": "Fras-le lança revestimento de embreagem para caminhões Scania Série 5",
+    "link": "https://www.balcaoautomotivo.com/2026/09/22/fras-le-lanca-revestimento-de-embreagem-para-caminhoes-scania-serie-5/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T17:11:20.961197"
+  },
+  {
+    "id": "4f3d232b396c918c0b312533d66fb5b2",
+    "titulo": "Bombas de água Pierburg oferecem 76% de cobertura da frota de veículos",
+    "link": "https://www.balcaoautomotivo.com/2026/09/22/bombas-de-agua-pierburg-oferecem-76-de-cobertura-da-frota-de-veiculos/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T17:11:20.961210"
+  },
+  {
+    "id": "17fef25238dd515ba612df75502e59ed",
+    "titulo": "Ônibus elétricos crescem 70% enquanto urbanos a diesel caem 25%; mercado pode fechar 2026 em 19,5 mil - garagem360.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGRlZVU1UkljaldTR2FZZDVQU3lOeE80MkIzdUY3NVFxTEtyUEJEdEdTRjltOVdZaXVkbVBlSncwX3VzSXV4YjZvMUxpV3k3TzJjeTJhUlZ2RlM2VzNGd05XZ1VUcjU1dVlfRHFuZVk5ekdZVl82bE1LNXc0ZEI2Zk1ZUE1YTGJQdnhDTkY3WTlCaVZISi1RQ3dnQzA5MHhHeENfTEViTkdIR0hjUVlYUlhXcEhiRktyRjVhWExkU0NFZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-13T23:45:54+00:00"
+  },
+  {
     "id": "0e99be6ca6ef382b560e19c47a3345fa",
     "titulo": "Iveco Bus apresenta microônibus elétrico eFLEXY na FIAA 2026",
     "link": "https://frotanews.com.br/comparativo-autonomia-onibus-eletrico/",

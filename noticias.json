@@ -1,5 +1,117 @@
 [
   {
+    "id": "4d3cfd602b325f05e7dd7cf42df9e6dc",
+    "titulo": "Volkswagen Caminhões e Ônibus completa 45 anos de exportações com 200 mil veículos embarcados",
+    "link": "https://automotivebusiness.com.br/mercado/volkswagen-caminhoes-45-anos-exportacoes-200-mil-veiculos-embarcados",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T23:53:09.805705"
+  },
+  {
+    "id": "374eaf59c4a9aa5f49dde3e14bb9f1ab",
+    "titulo": "Mercedes-Benz Classe V estreia no Brasil em duas versões",
+    "link": "https://automotivebusiness.com.br/lancamentos/mercedes-benz-classe-v-estreia-brasil-duas-versoes",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T23:53:09.805720"
+  },
+  {
+    "id": "e39fbbb21ee4218581fcaa8a8cff4d92",
+    "titulo": "volkswagenVolkswagen Caminhões e Ônibus completa 45 anos de exportações com 200 mil veículos embarcados23/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-caminhoes-45-anos-exportacoes-200-mil-veiculos-embarcados",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T23:53:09.805735"
+  },
+  {
+    "id": "4b6852782dd9711c97934326a936db67",
+    "titulo": "volkswagenVolkswagen Caminhões e Ônibus completa 45 anos de exportações com 200 mil ...23 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-caminhoes-45-anos-exportacoes-200-mil-veiculos-embarcados",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T23:53:09.805739"
+  },
+  {
+    "id": "edc3805ade3c96ecc224cb6916fdcae2",
+    "titulo": "classe vMercedes-Benz Classe V estreia no Brasil em duas versões23 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-classe-v-estreia-brasil-duas-versoes",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T23:53:09.805742"
+  },
+  {
+    "id": "f18ec92ef3c194cbc511d591fc609631",
+    "titulo": "Foton busca reduzir tempo de veículos parados com expansão do estoque de peças",
+    "link": "https://www.autodata.com.br/noticias/2026/09/23/foton-busca-reduz-tempo-de-veiculos-parados-com-expansao-do-estoque-de-pecas/136023/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T23:53:12.760647"
+  },
+  {
+    "id": "b951da5b114fa83eb6600d7b2795891a",
+    "titulo": "Volvo disponibiliza portal brasileiro para venda de itens oficiais da marca",
+    "link": "https://frotanews.com.br/ultimas-noticias-volvo-caminhoes/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T23:53:14.298354"
+  },
+  {
+    "id": "7b419c825846c30442fd2c5491cc6610",
+    "titulo": "4.Mercedes-Benz lança van com assento de classe executiva e preço de apartamento",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-benz-lanca-van-com-assento-de-classe-executiva-e-preco-de-apartamento/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T23:53:16.297497"
+  },
+  {
+    "id": "96e37572233ca9e4b8a5c9da95f53cdb",
+    "titulo": "No PANROTAS Next SSA, ClickBus mostra como agentes podem ampliar vendas com rodoviário - Panrotas",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcUVHSDQzOGlkNU5jTGFyU1B4R2dnWjdEcXhramxURlVaNWYtV0Vkb1F2cEh0V2xFM0x4RDJyVEprRzExVlZqRnBKdzlNM2JGUFZCLWdXc1FEWWcxVzhFcDR3SjBfakRqUFpRZ1IzaHpJTXo5Y2ltdFpha0dUcW1PejVnMzIyb2VJZzMxdVExbFlaamFjX0hCbFBHSmpNUVpIc2k1Y2t2Y04zbXVfYWQyanIybnM5RkJxa3VfNXFPMS1XOERjTXRqczdLMmJvd2Rqd2VYcGpWR05xSlBfd1c2ZzNmc2dWeU0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T21:13:00+00:00"
+  },
+  {
     "id": "40f93ca658a16aba1aa654ee38078e20",
     "titulo": "Renault começa vendas do Kardian mais barato",
     "link": "https://automotivebusiness.com.br/lancamentos/renault-vendas-kardian-mais-barato",

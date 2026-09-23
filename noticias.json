@@ -1,5 +1,30 @@
 [
   {
+    "id": "cd10d1be42c57132c455375921a18fca",
+    "titulo": "3.Toyota retoma produção de motores em Porto Feliz após um ano; fábrica foi destruída por vendaval",
+    "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/toyota-retoma-producao-de-motores-em-porto-feliz-apos-um-ano-fabrica-foi-destruida-por-vendaval/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T07:30:04.375189"
+  },
+  {
+    "id": "d006c6051aa9937938b70dc3f081a9b7",
+    "titulo": "Brasil responde pela maior fatia das vendas globais de ônibus da Mercedes-Benz - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnptZExFbUFWREJLWS04LXNFak45MndFUk1ScUxfaDlSRDBUNDhwd2M3Y2c1QU56VUJoWGQxWmNVRUxSdDFGU29lX0lDb090d2hGLUlOUk9pYzk3djh1Q1lOZU8tR0VsMnNVTDZpeENuRTlNRWxQRDZuOExBMnN5UUVwM3FnN1FmU28zLTVuQWVMR0hBTHEzZmlPeUs3ZVlwRnk2dTdEZVF4SklIZlpTODV3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T11:39:54+00:00"
+  },
+  {
     "id": "e184129f41172dfa4eaaf12ec58a356b",
     "titulo": "3.Dicas de sobrevivência para dirigir com o caminhão ao lado",
     "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/dicas-de-sobrevivencia-para-dirigir-com-o-caminhao-ao-lado/",

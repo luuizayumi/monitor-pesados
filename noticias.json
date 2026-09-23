@@ -1,5 +1,105 @@
 [
   {
+    "id": "40f93ca658a16aba1aa654ee38078e20",
+    "titulo": "Renault começa vendas do Kardian mais barato",
+    "link": "https://automotivebusiness.com.br/lancamentos/renault-vendas-kardian-mais-barato",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T21:14:54.308072"
+  },
+  {
+    "id": "f077ac3e8a479ca7460dac66e0933cdf",
+    "titulo": "Foton busca reduz tempo de veículos parados com expansão do estoque de peças",
+    "link": "https://www.autodata.com.br/noticias/2026/09/23/foton-busca-reduz-tempo-de-veiculos-parados-com-expansao-do-estoque-de-pecas/136023/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T21:14:57.542697"
+  },
+  {
+    "id": "0aa8cc814f187d40da64f119f585bab1",
+    "titulo": "Os 70 anos da Mercedes-Benz no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/09/23/os-70-anos-da-mercedes-benz-no-brasil/136004/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T21:14:57.542710"
+  },
+  {
+    "id": "26bb7aadef2800954202f056b3eebf1c",
+    "titulo": "Mercedes-Benz explora o transporte de luxo com a Classe V",
+    "link": "https://www.autodata.com.br/mobility/2026/09/23/mercedes-benz-explora-o-transporte-de-luxo-com-a-classe-v/136064/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T21:14:57.542714"
+  },
+  {
+    "id": "d81ecebbed978f444cace201a2a520d8",
+    "titulo": "Sitrak, da Sinotruk, inicia produção na Europa com caminhão elétrico de 630 kWh",
+    "link": "https://www.autodata.com.br/mobility/2026/09/23/sitrak-da-sinotruk-inicia-producao-na-europa-com-caminhao-eletrico-de-630-kwh/136011/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-23T21:14:57.542717"
+  },
+  {
+    "id": "c500cb89eaf2b276a95ccfb3b97e8876",
+    "titulo": "VW Caminhões e Ônibus soma 200 mil veículos exportados em 45 anos",
+    "link": "https://www.autodata.com.br/noticias/2026/09/23/vw-caminhoes-e-onibus-soma-200-mil-veiculos-exportados-em-45-anos/136054/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T21:14:57.542739"
+  },
+  {
+    "id": "b71b87e9cf2510f963fa6baea1fe47c0",
+    "titulo": "São Paulo concentrou 25,4% das vendas de veículos no Brasil - vrum.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXlycmdhajlyMmlqWm9FQVFDSERnZXJKTy1mc0w2ejFJcExwRm5PSWo1LTR3SkgzWTlwLUF6UHROeE45eUFHT3lSbWtaOWY4aXh1WUFEejFfTWNob2VzQVNILWNZTVM3S2pYLUJSckVsV2o4QlNvX0NZRVdpeU4wRF9iQ0hHN3dsZWw5NUJsRS1kTDlhRHJhU1p2bWdQcEx0T3B6eEZIdXhUQkJMREUxNkViaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T13:27:00+00:00"
+  },
+  {
+    "id": "5b05c416837739e478cdd2b5dc0ed577",
+    "titulo": "Farizon lança mini truck elétrico de R$ 240 mil que pode ser dirigido com CNH B - acritica.net",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUDZSbHRvOUhMWThVTUstQ2VmZUJUaDBIdFF5bVBma2RIWDByTWlmNTMxTWJINzFhaVdhTGNjRGVZN3Jab2FCV1hEY1ZZWUtPVjJ6TG1UdXNrSXIwVWNBRTcyS1NjUjI5MUhicw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-12T07:00:00+00:00"
+  },
+  {
     "id": "e4cac827bf813b192c6391a634abe1fa",
     "titulo": "Mercedes-Benz eActros 600 vai dar a volta ao mundo e chegará ao Brasil",
     "link": "https://www.autodata.com.br/mobility/2026/09/23/mercedes-benz-eactros-600-vai-dar-a-volta-ao-mundo-e-chegara-ao-brasil/135625/",

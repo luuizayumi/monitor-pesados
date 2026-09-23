@@ -1,5 +1,81 @@
 [
   {
+    "id": "e4cac827bf813b192c6391a634abe1fa",
+    "titulo": "Mercedes-Benz eActros 600 vai dar a volta ao mundo e chegará ao Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/09/23/mercedes-benz-eactros-600-vai-dar-a-volta-ao-mundo-e-chegara-ao-brasil/135625/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T12:58:38.711261"
+  },
+  {
+    "id": "fec4f137d55057f6dc1793ee820ea69c",
+    "titulo": "Programa Primeiro Caminhão pode abrir caminho para novos empreendedores do transporte",
+    "link": "https://frotanews.com.br/programa-primeiro-caminhao/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T12:58:40.088594"
+  },
+  {
+    "id": "8b8e47ef560013c2682b6ff9f9461563",
+    "titulo": "Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de água",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T12:58:41.296447"
+  },
+  {
+    "id": "cea303956ac9563f7d4601bf2beb3c6e",
+    "titulo": "Montadora chinesa fecha quase todas as lojas no Brasil, reduz rede de 70 para 3 e vê vendas despencarem - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUY2WXlzcl95QzJsbjJqZ2dBdEZUeDZBNHpxSTRPdnZfenhEVWhRQ2ctaWlmYUo1WngtWUJjWTRUWXF3ai1mNkRKUWNremRjTkZnMXlSVm8yVnFHNzlKQndTNnFMbEFNNnFsUlZXandDMjBvR0Nkb3lINkxZYUdSdjM5dU8zR21SclE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T07:00:00+00:00"
+  },
+  {
+    "id": "89d9b65f49867237e7e3e1ecf0be98e1",
+    "titulo": "Governo aprova R$ 15,2 milhões para novos ônibus em Belo Horizonte - terra.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFo4Z3FuTHp1RTEyVkxRQlhIc0ZTZ3BxdDQtQkZSb0I3YXJmYVdfbHhCQmhDSG1PRi1zNFZRUU1xYTlReEZKR2V2cDBKRy1MTExfN2tUZkRseWo5SllPaTBOeS1aVjFZZDFVZ2hMZ1J4SHczWEwyQU44aVUtcUhWSll6M1AzVW9kakRWLVhMQ2RVSUFoTjdFVFpRSXo1a090a2ZfLVp0M3hIakl5MHJRSW1EZTFKMWZJazg5WHNRQzNBVDZ2V09sczVTWkp6OEVtUjRDTXhvLWpRMy00Qzlr?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T07:00:00+00:00"
+  },
+  {
+    "id": "68fce5ec1576d4287b81c252ae35a0d3",
+    "titulo": "BYD lança caminhão elétrico de 1 mil cv com 600 km de autonomia e recarga em 20 minutos - mundologistica.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEwwWUd6Sy1SNDg4NlhWckI1eFB0b3U3d1RJWlF6LTIwUEJ0RTJXaS1WR3ZUZjRRT0lUYVNpeGJXOXZ3MHhxd0h1ZW5Dclp3YmFMSS1aMWZzR1hoR3pHbDg3S0hNN1dlVUlkeDQ0SDFYSDQwV24zWGFtMzRFekhISkNyc0xaaGhrdG5NeXF0RVgwN3RjZVpIZTRWZTdNV0FZNFFoSg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-22T15:27:38+00:00"
+  },
+  {
     "id": "cd10d1be42c57132c455375921a18fca",
     "titulo": "3.Toyota retoma produção de motores em Porto Feliz após um ano; fábrica foi destruída por vendaval",
     "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/toyota-retoma-producao-de-motores-em-porto-feliz-apos-um-ano-fabrica-foi-destruida-por-vendaval/",

@@ -1,5 +1,84 @@
 [
   {
+    "id": "e184129f41172dfa4eaaf12ec58a356b",
+    "titulo": "3.Dicas de sobrevivência para dirigir com o caminhão ao lado",
+    "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/dicas-de-sobrevivencia-para-dirigir-com-o-caminhao-ao-lado/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-23T01:40:46.648388"
+  },
+  {
+    "id": "95fce7724de2f0294b701ecd0fa0ceb7",
+    "titulo": "São Paulo concentrou 25,4% das vendas de veículos no Brasil - Vrum",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXlycmdhajlyMmlqWm9FQVFDSERnZXJKTy1mc0w2ejFJcExwRm5PSWo1LTR3SkgzWTlwLUF6UHROeE45eUFHT3lSbWtaOWY4aXh1WUFEejFfTWNob2VzQVNILWNZTVM3S2pYLUJSckVsV2o4QlNvX0NZRVdpeU4wRF9iQ0hHN3dsZWw5NUJsRS1kTDlhRHJhU1p2bWdQcEx0T3B6eEZIdXhUQkJMREUxNkViaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T13:27:00+00:00"
+  },
+  {
+    "id": "d2669af28a9a4fb4b0cfc564d0d89f36",
+    "titulo": "Farizon F3E chega ao Brasil por R$ 240 mil com até 314 km de autonomia - gurudoscarros.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1ViZzM5ZHlxQ3l1YnR2cEN2RFZyVlkxdzV1SkFMbG1leHVfTjUwT3FlZVVidnJLeXFUeU1XQl9feDlYaFhSeDlNNnphcm5lRWJ5alBHdDNISktEYnZIeTBpZWFsTEI0LXVwY2xKeVFQeXUzRVUxWmo0TGxiYnBGTEFYMGFtRDZPUGkxSEFkVVJaTzl6eW1Ub0dzSzhJQ0VfblFzcENTaXBmaXZndjNV?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-08T07:00:00+00:00"
+  },
+  {
+    "id": "dfc97811bca989c4aa43f64101c17ab0",
+    "titulo": "Brasil responde pela maior fatia das vendas globais de ônibus da Mercedes-Benz - transportemundial.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnptZExFbUFWREJLWS04LXNFak45MndFUk1ScUxfaDlSRDBUNDhwd2M3Y2c1QU56VUJoWGQxWmNVRUxSdDFGU29lX0lDb090d2hGLUlOUk9pYzk3djh1Q1lOZU8tR0VsMnNVTDZpeENuRTlNRWxQRDZuOExBMnN5UUVwM3FnN1FmU28zLTVuQWVMR0hBTHEzZmlPeUs3ZVlwRnk2dTdEZVF4SklIZlpTODV3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T11:39:54+00:00"
+  },
+  {
+    "id": "e29ae3f0ebe10c99d1fc90c6b8e61a7f",
+    "titulo": "BYD estreia na Europa com caminhão de 1 mil cv e cinco estrelas no Euro NCap - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcnJlWnZIdXFvS3AxZ1Z0YWVXZHBzb2UzOFZteG5odEI5S2RqX3NIMUlYNHhsZVN5WTd5Uk1SWU9GTm1CSzhVNlZXZnRwNnJoYjRwdXJ3bWkyNWh6dGFPdElPSmJfZHVmdWZQaC1hX0MzT2JGMkd2MXcxVzZtT2VlT2NEemt3bG5sSUtINDNqUl84ZFo0Y3ZuMl9JaUw5ZlA0TlI4ZHpIZXFzekNhcGF4ZUt6ZXhWOUd5ZWFTVldYZG5xZjJZTEVGWFFnNGE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T13:00:00+00:00"
+  },
+  {
+    "id": "85eda35d5f7233208c16077cfde60c8e",
+    "titulo": "BYD lança caminhão elétrico de 1 mil cv com 600 km de autonomia e recarga em 20 minutos - MundoLogística",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEwwWUd6Sy1SNDg4NlhWckI1eFB0b3U3d1RJWlF6LTIwUEJ0RTJXaS1WR3ZUZjRRT0lUYVNpeGJXOXZ3MHhxd0h1ZW5Dclp3YmFMSS1aMWZzR1hoR3pHbDg3S0hNN1dlVUlkeDQ0SDFYSDQwV24zWGFtMzRFekhISkNyc0xaaGhrdG5NeXF0RVgwN3RjZVpIZTRWZTdNV0FZNFFoSg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-22T15:27:38+00:00"
+  },
+  {
     "id": "985824804eddb77f8b54dc719ec6dda4",
     "titulo": "Farizon lança mini truck elétrico de R$ 240 mil que pode ser dirigido com CNH B - A Crítica de Campo Grande",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUDZSbHRvOUhMWThVTUstQ2VmZUJUaDBIdFF5bVBma2RIWDByTWlmNTMxTWJINzFhaVdhTGNjRGVZN3Jab2FCV1hEY1ZZWUtPVjJ6TG1UdXNrSXIwVWNBRTcyS1NjUjI5MUhicw?oc=5",

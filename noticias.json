@@ -1,5 +1,81 @@
 [
   {
+    "id": "bf0f8b820e9b3358710485e6844ecf3d",
+    "titulo": "4.Toyota retoma produção de motores em Porto Feliz após um ano; fábrica foi destruída por vendaval",
+    "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/toyota-retoma-producao-de-motores-em-porto-feliz-apos-um-ano-fabrica-foi-destruida-por-vendaval/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T09:05:44.611615"
+  },
+  {
+    "id": "c25255faa9fa98919e5c710a8816636f",
+    "titulo": "Vendas de veículos novos caem 23,1% no pior novembro em 16 a - sctd.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1Bzd0JSekpBNFlHdFZoRXdIdDdvRjlTVlgzaEY2RkpkLXNOZ0ZRbUthaDU0YnhHT2trcXlmVFNtSGU4bDlmVE56QVNEeGZHZTJyLVVCU1BTNjJob3dCakJmMDVTLXFuVGtnVzVQaDVlYnpLZ3dsVDN6SkdUWWpWdUQ2TVU5N3FwTmxfdmhtazhiSVhJN1d3cUtNQzd0NExHa3lISVhGS1U?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-06T18:20:43+00:00"
+  },
+  {
+    "id": "ed7c7424c897e1e602837f5666b303f4",
+    "titulo": "Volkswagen chega a 200 mil veículos exportados em 45 anos e ônibus já representam ao menos 40 mil unidades enviadas ao exterior - diariodotransporte.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQnRVZ0RaQ3hWd2ZwR1FfYmNNMGVCMm01eFN2ZnIxdlNMOFpHcXkwTW40YVVSOVRHeExrV2FFVmExcHdwQmNkUDcwdDhmd1AzRG15REUyT3g0LXhWTXd1LU1ZSzdCc1dEcXdKX1BYRTZ5Y0dlZHc1dXRkNTZvSzZlblB5Yy1mdm1JV3kyX1RSdGdUQlAzN3NyXzRmVGtKUXdkUXFHRlVVRFRQTjNJLWFsd2NicTB6bWdSUk5OQlVESUtScEstc1gxdm5LVHpTMkNDUm4xbzFuRlBZYkViZDJvdXFONF92bnMyRmp4d2RLbDFXME9uWnpzUHI4NzBwZGIzZ0Zz0gGIAkFVX3lxTFBnQjZuaTNySGRZZTFIbklpNlpjci0wUkRscER5Z3dsa2lMc0F0U1ZwRXplT1I4Q3JsUE4wRi1pRHpfNTlyQVBHNTJDN3UzMFo3SEM1ZmtUNG9mcWtvTEpEYmVhdHBscS1WbXppZTNXUWdjcDE2OUJBbnJNMWk0ZDVsNXJ4allfWVBnbGFRbklTNWZKZ1l4R2JQU2pNUWJfV2VRVmh4OWFJN1NfQ3BjenVCZjRvSFBBa2tmZmFsandpS1RkVFlwZ1BBNGZMeVVNWktCeFNNTGVqNmpxeTlySW80Q0VnbkFRMml5SDBOVW5sMHAyejRIVnVhd1gxZkl4cVNVMEZfNEVNcA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T21:03:34+00:00"
+  },
+  {
+    "id": "7dbf86f2f9eac88b8fa12a3dd1bbe745",
+    "titulo": "Volkswagen chega a 200 mil veículos exportados em 45 anos e ônibus já representam ao menos 40 mil unidades enviadas ao exterior - lucianapombo.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEhSU3h6UXc1Rk8yMHhRdHlfU1N0X0RjQVJJSmM1V1hLRE9CNnRrSWJrMkhoMmhxSEUxN2RTdkgyZWpZSl8xRGV1SXVVaUkwVV9aa3paSU1mTEVRQWE4QkFqNlhOS3hNMU5xWmtheHVnODhkcmpzdkFoN3AtYkRkS1FGeDhsUXJQZzdGOXkzZnhmS25HbUVmdVhmVVE0TlUyZGx3TVJNaENXTF9na0NSbHNoak80VXhsNTlkWUxURF9ncWtlUjMzN2V0NW1vQzctTzJndHM0Q2VWZEswOWZj?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T01:55:33+00:00"
+  },
+  {
+    "id": "6bd556dad8c0c9e38f633224b427be9e",
+    "titulo": "BYD lidera mercado de ônibus elétricos no Brasil - eletrolarnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONFZ2RUJ0V2tUQzdrR0tHZ3FRZS1YWWxBWHU0NmotYV91dHhUdXZlUHBQMEFxWmlkUnlfeUtaOXc5Nm11RW9iX2x2VWRSc3BhbkFGd3UxSTlCOWd1U3RkVnpjRmlsSWo2aHo5UWh3cHZMRUlFMFR0TnVKdDl4NmZsTEI5ZVU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-04T14:33:43+00:00"
+  },
+  {
+    "id": "80706db29473627d2f05a0e713090a88",
+    "titulo": "Agência de Comunicação - VWCO celebra 45 anos de exportações com marca de 200 mil veículos embarcados - bluestudio.estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaGx5ajh3S1BWZ3pwT2EwSWV5c05IaVBSRS1zN0pqSnM0cE1xUWpzR1ZmNE1KcTdoS25uSndGeVNtZ3dxQzlWUEdhWXpXaG5ld2VZa054ZWt3TGp1M0MzYS0xS3ZJcTRpLXp5N0gyUzBkZHhXbzRDQ0laaTU5ZHA4Y0pocWhuOFpia1ppUlJBMFllNEc0aHc0VmNsT05MRFM2UFRlcnRFWmpJQXF1Q1lGZ2djT0RvTjU4c3g2NW4zWlVqbjFqZ19SZ2ZfZHBsZEs0YWFEd1I2dTQwaGt0Unc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T17:45:13+00:00"
+  },
+  {
     "id": "b87ffd2436ca29ebc9275a6c83b3c5f9",
     "titulo": "VW Caminhões e Ônibus soma 200 mil veículos exportados em 45 anos - autodata.com.br",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFdzZHoya0hlSF9IR1BYLWxTc0ZQZF9naE40MnhKX3RzSkF3SWhCWmN0eDNJLVhTcUFWYy1QQUVVV2M5WnkxYk9zUGZGWG80RURYakNHYV9TT0tIM0dSRHJLUXpxS1FubzZ4OTdGRjdCNWp2QlhoeHRSeU9aUGJURjJYV0xWQTBneEV1NHBCVHg3ZGFtUElQSFJBdVBMdVZPWklWZGJITFFyUUNpRGhLR2ptRXVjcW5naWdxMlhn?oc=5",

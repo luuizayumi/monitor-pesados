@@ -1,5 +1,68 @@
 [
   {
+    "id": "3016ceabf702bf2b30510f8939533888",
+    "titulo": "Guia de Veículos Elétricos de Carga para Última Milha inclui Foton eView Connect",
+    "link": "https://frotanews.com.br/guia-veiculos-eletricos-ultima-milha/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-24T18:35:03.525843"
+  },
+  {
+    "id": "bf1a17d5510d19f9c4130bc8949a3daa",
+    "titulo": "Veículos comerciais do futuro. Quem está formando os profissional que vão atuar na área?",
+    "link": "https://frotanews.com.br/veiculos-comerciais-do-futuro/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T18:35:03.525859"
+  },
+  {
+    "id": "520b6d08518eb4a1dd6a97909c80cd8b",
+    "titulo": "Novo VW Constellation consegue tracionar sozinho o peso de um Boeing 737 lotadoModelo 33.540 tem motor MAN D26 de 13 litros e 540 cavalos de potência e capacidade para tracionar mais de 90 toneladas em super rodotrens",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/novo-vw-constellation-consegue-tracionar-sozinho-o-peso-de-um-boeing-737-lotado/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T18:35:05.429950"
+  },
+  {
+    "id": "aa2d477d9ec19c7a40f8421635b17f6f",
+    "titulo": "Montadora chinesa fecha quase todas as lojas no Brasil, reduz rede de 70 para 3 e vê vendas despencarem - ndmais.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUY2WXlzcl95QzJsbjJqZ2dBdEZUeDZBNHpxSTRPdnZfenhEVWhRQ2ctaWlmYUo1WngtWUJjWTRUWXF3ai1mNkRKUWNremRjTkZnMXlSVm8yVnFHNzlKQndTNnFMbEFNNnFsUlZXandDMjBvR0Nkb3lINkxZYUdSdjM5dU8zR21SclE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-08-25T07:00:00+00:00"
+  },
+  {
+    "id": "61132622551dd6eace3c0f5e3deed139",
+    "titulo": "Volvo lidera premiação de inovações na IAA 2026 - transportemoderno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSkkta1ZISzJTY1JJNWJONGdmZTgtdlB0blk4VzRLbUZnMVpSblJjWmM2WF9JVHlTM2lraW5PSmFsbDhVMTZJc0pmTUI4ejFjM0N0aVJVU2pHaEMxTHRpb0lzQnJWMkpuTi0zMEVSQTB5QVhtenVvYVBLbWVVcnpSRUc5MEM2ZzFvNzZweURWMFJJdnpnSkVB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-15T14:51:38+00:00"
+  },
+  {
     "id": "b9a4ace9cdbdc2b45b2dc7295c4fb8e7",
     "titulo": "DAF prepara nova geração para o Brasil e amplia portfólio antes da virada tecnológica",
     "link": "https://www.autodata.com.br/noticias/2026/09/24/daf-prepara-nova-geracao-para-o-brasil-e-amplia-portfolio-antes-da-virada-tecnologica/136045/",

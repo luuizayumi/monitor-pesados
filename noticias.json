@@ -1,5 +1,151 @@
 [
   {
+    "id": "2463260a1821d183e0346b89514e7071",
+    "titulo": "BMW é mais uma alemã que aposta na manufatura robotizada",
+    "link": "https://automotivebusiness.com.br/aftermarket/bmw-aposta-na-manufatura-robotizada",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T22:04:58.688695"
+  },
+  {
+    "id": "442ebcfbb430f9196ad86fd52d34dd95",
+    "titulo": "Motiva entra no mercado de recarga para ônibus elétricos",
+    "link": "https://automotivebusiness.com.br/mobilidade/motiva-entra-no-mercado-de-recarga-para-onibus-eletricos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-24T22:04:58.688708"
+  },
+  {
+    "id": "3ef03e4c5f2cdadaaf8f10bcfac34894",
+    "titulo": "#ABX26: Eletrificados devem superar 70% das vendas de veículos leves até 2035",
+    "link": "https://automotivebusiness.com.br/ab/abx26-eletrificados-devem-superar-70-das-vendas-de-veiculos-leves-ate-2035",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T22:04:58.688712"
+  },
+  {
+    "id": "3c06fcdb299703368ad60fec00629b1e",
+    "titulo": "#ABX26#ABX26: Eletrificados devem superar 70% das vendas de veículos leves até 2035",
+    "link": "https://automotivebusiness.com.br/noticias/abx26-eletrificados-devem-superar-70-das-vendas-de-veiculos-leves-ate-2035",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T22:04:58.688723"
+  },
+  {
+    "id": "c97c35c2d324f0087ff29114e667bac1",
+    "titulo": "BMWBMW é mais uma alemã que aposta na manufatura robotizada24/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/bmw-aposta-na-manufatura-robotizada",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T22:04:58.688733"
+  },
+  {
+    "id": "cdc425703c28a461548735a99c4e59b8",
+    "titulo": "eletromobilidadeMotiva entra no mercado de recarga para ônibus elétricos24/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/motiva-entra-no-mercado-de-recarga-para-onibus-eletricos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-24T22:04:58.688736"
+  },
+  {
+    "id": "63f07b2efcf093cf464c2e87e678252f",
+    "titulo": "BMWBMW é mais uma alemã que aposta na manufatura robotizada24 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/bmw-aposta-na-manufatura-robotizada",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T22:04:58.688738"
+  },
+  {
+    "id": "30857dd94dcf93b8a0fa82fd4f29840f",
+    "titulo": "eletromobilidadeMotiva entra no mercado de recarga para ônibus elétricos24 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/motiva-entra-no-mercado-de-recarga-para-onibus-eletricos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-24T22:04:58.688745"
+  },
+  {
+    "id": "d8874851c4d1a5c6cb902ff55466237d",
+    "titulo": "RIO &#8211; Riosulense e Mercedes: parceria que atravessa gerações.",
+    "link": "https://www.autodata.com.br/noticias/2026/09/24/rio-riosulense-e-mercedes-parceria-que-atravessa-geracoes/136251/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T22:05:01.843937"
+  },
+  {
+    "id": "b59167c1dcedc9f3767d101f5c1a32b7",
+    "titulo": "Mercado Livre lança entregas em 60 minutos e amplia venda de medicamentos em São Paulo",
+    "link": "https://frotanews.com.br/transportadoras-de-veiculos/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T22:05:03.273293"
+  },
+  {
+    "id": "8c6ad0ee88117952a318e6242db133e5",
+    "titulo": "5.Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de água",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T22:05:05.075518"
+  },
+  {
+    "id": "d1abbd1133d626dccf639eff49f9fafc",
+    "titulo": "Volkswagen Caminhões e Ônibus completa 45 anos de exportações com 200 mil veículos embarcados - automotivebusiness.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFg2WklrZUZpRWVYUHVEVlh1THFHSGx2SnlPbklUbTJTeFhsc1Yzd1VWMWtOOFJZWnVUNXBjamJKdGQ0TGFXMk55dDNFUElhSU9IZUpldlFqaHhBZmRsaDAxM3Z3M3hmVVQ1R2VEalBPVkVZc1o3VFhmcTJzN0pXTVVWemh0LTNHSVdULVFKa2ZscUljcXlROWZ6ZjBuZU5xLUNETjVxNWhQcDR0WXluWl9NZGdoUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T22:17:23+00:00"
+  },
+  {
     "id": "3016ceabf702bf2b30510f8939533888",
     "titulo": "Guia de Veículos Elétricos de Carga para Última Milha inclui Foton eView Connect",
     "link": "https://frotanews.com.br/guia-veiculos-eletricos-ultima-milha/",

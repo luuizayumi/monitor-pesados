@@ -1,5 +1,90 @@
 [
   {
+    "id": "b9a4ace9cdbdc2b45b2dc7295c4fb8e7",
+    "titulo": "DAF prepara nova geração para o Brasil e amplia portfólio antes da virada tecnológica",
+    "link": "https://www.autodata.com.br/noticias/2026/09/24/daf-prepara-nova-geracao-para-o-brasil-e-amplia-portfolio-antes-da-virada-tecnologica/136045/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T14:19:19.762142"
+  },
+  {
+    "id": "5ac2c5befc460dd66dcb78807f5fc076",
+    "titulo": "Juros comprimem margens e deixam mercado de caminhões em xeque, avalia DAF",
+    "link": "https://www.autodata.com.br/noticias/2026/09/24/juros-comprimem-margens-e-deixam-mercado-de-caminhoes-em-xeque-avalia-daf/136065/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-24T14:19:19.762169"
+  },
+  {
+    "id": "0b71f47131baee6fe55ee560dbbd4479",
+    "titulo": "Triade anuncia Fábio Bertini como gerente LATAM de Vendas e Marketing",
+    "link": "https://www.balcaoautomotivo.com/2026/09/24/triade-anuncia-fabio-bertini-como-gerente-latam-de-vendas-e-marketing/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T14:19:27.010051"
+  },
+  {
+    "id": "fc9f13a3420bfaa9f13b80efdb00a98e",
+    "titulo": "Rock in Rio: venda de passagens de ônibus cresce até 30% e e-commerce já responde por 65% das compras - VOENEWS",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmpIcmd0QnJWT0FqblFoOTFla0FzYlN2c0p6elI5aDl5NzBkaWtVbEtwOFhSQVBKZ1JBUFhJam9IckhheDltUXVMQjNqekhtcU9BTksxRVM2dmw3ZTRHQy1iUEY0RVlLVDAwNHlzZ2lZM0xkMy13RzFic0JPZ0JHMEdXZjJXQUI3blFPRkNka3owTTk4SmtRdm01VE1SQkhOT05FR2d5bTh1NGJadGE4OWxGS2h0OWQzQm9WNkxIbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T18:40:55+00:00"
+  },
+  {
+    "id": "35ba96953b450f2930d7c0fd7da0e15b",
+    "titulo": "Brasil deve atingir 1 milhão de eletrificados em circulação em setembro - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWhEM3M4RjNPSWVNUmNPSXlGdXhQZndKNHVYX0NhWkpVNVlySjZiNVRiemVValhVVkp0S3ljQkM5QW5lRjJBZFgtY3VkY2lJRjliWU56cGRzSHQybWxxOUpGNm5YZnRUTnFxU1ZZUWhNejJVOS0xZGtEMUJUdVFwOWFsVGhrek9KWTBacGNORVl2VE5TdWlVU093T0F5eE00a0tPMnR1V2NFQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T07:00:00+00:00"
+  },
+  {
+    "id": "1990cbd6074d257b07230710e42e0b03",
+    "titulo": "DRiV reforça liderança no Brasil com novos executivos - Oficina News",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWxWWm9ydmZ0bjM3dE9kbU52VTMtdGpKUHZkVGNlVW9keGdFbV92U2dxVGZWQTJSdTZ4T3hqcDZEVjB6aGtYS2xvV1hTMS1PNHZabVVJM2RSMGdJeVdjbzdPRGRGUl9nOTFGS1JnUkJFY19kek1yd3puVnNCRm9MZDJkTFAzQWNuLTZFU2ttUld1Zw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-22T21:39:35+00:00"
+  },
+  {
+    "id": "3c30d4e509653d9a60e64862bbec7b42",
+    "titulo": "VWCO celebra 45 anos de exportações com marca de 200 mil veículos embarcados - igmais",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFdGRWJnaWlhNlM3Tm9jLTVDYVQ5bnhtbmJuemNWWXBpRFVnTG5YQXQ1RG5hUGlaWXlUQWU3SldFMmwxRFRMejVlcVJDakktNzVjMDIzUVBpbHFrME4wdVNtQXhpN0pHWm1YY3dzbkJmU2oyRFpKb18xWGxwRExYVW1ld1g0aHNyVDJhMHZ2UDRha2M1ZlZ5UlRyYm1QSmZoVUJQVzdrMkJIdmRBTmdHdFJlb2ZyRFI4QzJsSEVPRHJIN1Y2Z05z0gHMAUFVX3lxTE1VV2J0XzAta1lDclhkdlhVYWVwWi1fcFkxRzhQN2RBOTQwbHF4UGdLMlBjajFiUWd6bmV6UlNHZHBINWpJOXM4SklzdUM0bHZwdHIxMVJ1WE9ORmhES2pIRlV0eGdQdFU3TlhUdkM5alhMWlVlNWlVRGhXbTlBd0Y4dDhZeVZITXF1dzFmU014YkVXc280S1N4S1lqal96cFF4RjBWc2tGV29tYXdzbjdEUDlzMkRFSmhySG9WbllxaENQR243S0l3ektzVw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T16:51:00+00:00"
+  },
+  {
     "id": "bf0f8b820e9b3358710485e6844ecf3d",
     "titulo": "4.Toyota retoma produção de motores em Porto Feliz após um ano; fábrica foi destruída por vendaval",
     "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/toyota-retoma-producao-de-motores-em-porto-feliz-apos-um-ano-fabrica-foi-destruida-por-vendaval/",

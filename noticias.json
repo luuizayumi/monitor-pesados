@@ -1,5 +1,69 @@
 [
   {
+    "id": "74af7aed0c2b31845500ab764b485061",
+    "titulo": "3.Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de água",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T00:41:39.111594"
+  },
+  {
+    "id": "650dd574d82479e6bf2efddb08c9c5c2",
+    "titulo": "Autopeças fecham novos contratos e ampliam vendas para montadoras",
+    "link": "https://www.balcaoautomotivo.com/2026/09/24/autopecas-fecham-novos-contratos-e-ampliam-vendas-para-montadoras/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-25T00:41:45.576345"
+  },
+  {
+    "id": "350c5f4284ea05218f8eaa86fa0bc92f",
+    "titulo": "Pós-venda se tornou maior gerador de lucro de concessionárias",
+    "link": "https://www.balcaoautomotivo.com/2026/09/24/pos-venda-se-tornou-maior-gerador-de-lucro-de-concessionarias/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-25T00:41:45.576360"
+  },
+  {
+    "id": "628d6ef6b5b3f9323d5138ca65e36558",
+    "titulo": "Automechanika Frankfurt 2026 consolida IA e SDVs no pós-venda",
+    "link": "https://www.balcaoautomotivo.com/2026/09/24/automechanika-frankfurt-2026-consolida-ia-e-sdvs-no-pos-venda/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-25T00:41:45.576363"
+  },
+  {
+    "id": "c4ae2d588080caaaabcadb9a1b86d7f1",
+    "titulo": "VWCO celebra 45 anos de exportações com marca de 200 mil veículos embarcados - igmais.ig.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFdGRWJnaWlhNlM3Tm9jLTVDYVQ5bnhtbmJuemNWWXBpRFVnTG5YQXQ1RG5hUGlaWXlUQWU3SldFMmwxRFRMejVlcVJDakktNzVjMDIzUVBpbHFrME4wdVNtQXhpN0pHWm1YY3dzbkJmU2oyRFpKb18xWGxwRExYVW1ld1g0aHNyVDJhMHZ2UDRha2M1ZlZ5UlRyYm1QSmZoVUJQVzdrMkJIdmRBTmdHdFJlb2ZyRFI4QzJsSEVPRHJIN1Y2Z05z0gHMAUFVX3lxTE1VV2J0XzAta1lDclhkdlhVYWVwWi1fcFkxRzhQN2RBOTQwbHF4UGdLMlBjajFiUWd6bmV6UlNHZHBINWpJOXM4SklzdUM0bHZwdHIxMVJ1WE9ORmhES2pIRlV0eGdQdFU3TlhUdkM5alhMWlVlNWlVRGhXbTlBd0Y4dDhZeVZITXF1dzFmU014YkVXc280S1N4S1lqal96cFF4RjBWc2tGV29tYXdzbjdEUDlzMkRFSmhySG9WbllxaENQR243S0l3ektzVw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T16:51:00+00:00"
+  },
+  {
     "id": "2463260a1821d183e0346b89514e7071",
     "titulo": "BMW é mais uma alemã que aposta na manufatura robotizada",
     "link": "https://automotivebusiness.com.br/aftermarket/bmw-aposta-na-manufatura-robotizada",

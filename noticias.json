@@ -1,5 +1,91 @@
 [
   {
+    "id": "c0509c9c8ddfadd9d1b5f1cef650e593",
+    "titulo": "Frota eletrificada chega a um milhão de veículos no Brasil: &#8220;a eletromobilidade já é o presente&#8221;",
+    "link": "https://abve.org.br/frota-eletrificada-chega-a-um-milhao-de-veiculos-no-brasil-a-eletromobilidade-ja-e-o-presente/",
+    "fonte": "ABVE",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-25T16:48:38.898101"
+  },
+  {
+    "id": "e4b74732c6593aeb1757346ac74ef608",
+    "titulo": "FAW Trucks cria caminhão que pode trocar de propulsão e tem design brasileiro",
+    "link": "https://www.autodata.com.br/mobility/2026/09/25/faw-trucks-cria-caminhao-que-pode-trocar-de-propulsao-e-tem-design-brasileiro/136167/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T16:48:42.982884"
+  },
+  {
+    "id": "dcc590e22ac4309f6c8b0135df1e3442",
+    "titulo": "Consórcio Mercedes-Benz: planejamento que movimenta histórias.",
+    "link": "https://www.autodata.com.br/noticias/2026/09/24/consorcio-mercedes-benz-planejamento-que-movimenta-historias/136248/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T16:48:42.982929"
+  },
+  {
+    "id": "5b6b413dfe0b0e4685a0140bf0b39a41",
+    "titulo": "Fras-le promove palestra técnica sobre manutenção do sistema de freio",
+    "link": "https://www.balcaoautomotivo.com/2026/09/25/fras-le-promove-palestra-tecnica-sobre-manutencao-do-sistema-de-freio/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T16:48:51.595109"
+  },
+  {
+    "id": "1fb85683d1bf1dc0adc18e383edea952",
+    "titulo": "A VOLKSWAGEN CAMINHÕES E ÔNIBUS CELEBRA 45 ANOS DE BRASIL E 200 MIL VEÍCULOS EXPORTADOS - petronoticias.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONWFmREIzN0V0S0hTWEdxUnlkYng1M1ozWlRGRWw2Skl3UEtpYVMyOGlieHFtd0dxWlJpYzJfOUlLa05kc0VRcDBTZGo4ZG80TzRFZEtkNXdGYWp1MWRFR1VqYk0tb1lkcWE3cjRYd1VnNVQtYUd6ZXFSaF9YcWZveDdtd3VDXzdTWXFfYXJ2eERad25VUHM4S3VVUlNTczNYN0hGakkzYjBqTGhjY3NXQmlsVnctZTgz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T21:00:00+00:00"
+  },
+  {
+    "id": "3b5efc1adf8a2e93c352e403a512e080",
+    "titulo": "Carros mais vendidos no Brasil em setembro — dia 24 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDdlN0paUEdSRjFvcTU0cWZ1LVpXNmVMV2J6cGRjcktXZy1qb2VqLUlCY1kyOFdORGhHT1JRbnQxeTBXX25IaVdKLWtKWHNfRm45YzcxYjNSUXpoeU1nR0w5ZEVUQUlZVVQ4cEtULTdyTzdUT09wcS1kYU9wZlE1a1lB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T13:58:00+00:00"
+  },
+  {
+    "id": "f24abfb618e1145b052a9da081102ae7",
+    "titulo": "1º Acampamento Farroupilha de Camaquã atrai mais de 20 mil pessoas; 2ª edição é confirmada - Rádio Acústica FM",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnB5X3YzTnZtcGRDbmt3cThiREVWdTkyWG9vVkVrVDFQM09QUXBPdTBjTlNrWExYeGV3eXJQZTVVVWpqaktnY2ltb2g4TWswQTZfRVFDel83Y292ZDRtMi1rMHJFX1AzblowU0VqeVJDNFZCVXRFT29ZRUNBX1IwX19TZzYwck1NYW5QZWVQTVlIUUxs?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T16:51:14+00:00"
+  },
+  {
     "id": "db3563dc5ab14e199be319b9cd80757a",
     "titulo": "Veículos comerciais do futuro. Quem está formando os profissionais que vão atuar na área?",
     "link": "https://frotanews.com.br/veiculos-comerciais-do-futuro/",

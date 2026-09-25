@@ -1,5 +1,54 @@
 [
   {
+    "id": "e73f2d2308dbb069c899797e33709e9b",
+    "titulo": "1.Volvo VM e VW Constellation lideram caminhões semipesados; veja o ranking",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-vm-e-vw-constellation-lideram-caminhoes-semipesados-veja-o-ranking/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-25T05:56:40.026149"
+  },
+  {
+    "id": "762b834610dfa53d1e02137b33b2aa8a",
+    "titulo": "Volkswagen chega a 200 mil veículos exportados em 45 anos e ônibus já representam ao menos 40 mil unidades enviadas ao exterior - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ0I2bmkzckhkWWUxSG5JaTZaY3ItMFJEbHBEeWd3bGtpTHNBdFNWcEV6ZU9SOENybFBOMEYtaUR6XzU5ckFQRzUyQzd1MzBaN0hDNWZrVDRvZnFrb0xKRGJlYXRwbHEtVm16aWUzV1FnY3AxNjlCQW5yTTFpNGQ1bDVyeGpZX1lQZ2xhUW5JUzVmSmdZeEdiUFNqTVFiX1dlUVZoeDlhSTdTX0NwY3p1QmY0b0hQQWtrZmZhbGp3aUtUZFRZcGdQQTRmTHlVTVpLQnhTTUxlajZqcXk5cklvNENFZ25BUTJpeUgwTlVubDBwMno0SFZ1YXdYMWZJeHFTVTBGXzRFTXDSAYgCQVVfeXFMUGdCNm5pM3JIZFllMUhuSWk2WmNyLTBSRGxwRHlnd2xraUxzQXRTVnBFemVPUjhDcmxQTjBGLWlEel81OXJBUEc1MkM3dTMwWjdIQzVma1Q0b2Zxa29MSkRiZWF0cGxxLVZtemllM1dRZ2NwMTY5QkFuck0xaTRkNWw1cnhqWV9ZUGdsYVFuSVM1ZkpnWXhHYlBTak1RYl9XZVFWaHg5YUk3U19DcGN6dUJmNG9IUEFra2ZmYWxqd2lLVGRUWXBnUEE0Zkx5VU1aS0J4U01MZWo2anF5OXJJbzRDRWduQVEyaXlIME5VbmwwcDJ6NEhWdWF3WDFmSXhxU1UwRl80RU1w?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T21:01:22+00:00"
+  },
+  {
+    "id": "25e7197e02dfd3284101ebbe5250e375",
+    "titulo": "Pacotes para o Insane Sound 2026 começam a ser vendidos - Cartão de Visita News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXFqRVpFcnlPTGgzd0FPQUdNYVgtZ093aDZCMDN2Qmd1TEtXLU1TQXZoSGYyQTcycF8yTjVnMHVHeVQ5ZFdUR05mamlEeDFVdDYxTkNubXRSRlUxUUdreUk2REMxYXoxSGd4c0RSdmxNOS1lSzl2ZF9yRi1Ua0JRMVhldUdUNU1wN245V0Y1QUJLVjVKRFc3RVNHMTRKZDlGT2c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T00:16:54+00:00"
+  },
+  {
+    "id": "543a2e4d9b3be11db05e1402c0a73854",
+    "titulo": "1º Acampamento Farroupilha de Camaquã atrai mais de 20 mil pessoas; 2ª edição é confirmada - acusticafm.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnB5X3YzTnZtcGRDbmt3cThiREVWdTkyWG9vVkVrVDFQM09QUXBPdTBjTlNrWExYeGV3eXJQZTVVVWpqaktnY2ltb2g4TWswQTZfRVFDel83Y292ZDRtMi1rMHJFX1AzblowU0VqeVJDNFZCVXRFT29ZRUNBX1IwX19TZzYwck1NYW5QZWVQTVlIUUxs?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T16:51:14+00:00"
+  },
+  {
     "id": "74af7aed0c2b31845500ab764b485061",
     "titulo": "3.Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de água",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",

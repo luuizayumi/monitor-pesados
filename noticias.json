@@ -1,5 +1,54 @@
 [
   {
+    "id": "b24ffce86b970c36932047c4b90473d8",
+    "titulo": "Brasil sofre 4 mil ciberataques por semana e manufatura industrial é o principal alvo",
+    "link": "https://www.autodata.com.br/noticias/2026/09/25/brasil-sofre-4-mil-ciberataques-por-semana-e-manufatura-industrial-e-o-principal-alvo/136299/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-25T20:18:26.522954"
+  },
+  {
+    "id": "8797cba5c412cf3d34b46096b5301672",
+    "titulo": "Interior amplia participação na demanda por fretes, aponta Transvias",
+    "link": "https://frotanews.com.br/aplicativos-plataformas-transvias/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T20:18:27.895651"
+  },
+  {
+    "id": "e0980047b86e73c3fff17541bac7163c",
+    "titulo": "De startup a grupo global: empresa recebe R$ 200 milhões e vende passagem de ônibus até pelo ChatGPT - exame.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjVLZU1fNzBRQk1oNUZYV2RIdzN4Nm5nRTk4VV9aUmxyQjZCMFNleWMzUnA2VTM1VWRQLVA2SldOVU1kbmNpYXFIYVpRQ1NkVVJBMWhwYjM2WUN1Sm5CeEQwR1BoWjVXZEIyeTVDVm5sZW9xbGwyM1BWb0NidmlmRkRUMGNhNGt6U3lnVUdLYWhOV2U4dTRRYVJkRndmSTYyNXFRUWd3VG93cTIxMFRCSWhRMGRPZ3RsY2RaZDhEN2N0R0pS?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T17:08:40+00:00"
+  },
+  {
+    "id": "3e2b61b532eaf516eb4f9c5a02b2ca01",
+    "titulo": "América Latina e Caribe passam de um milhão de veículos eletrificados, diz Olacde - eixos.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMldreHNKdjNSOGwxa0loSEdxQkV6aDBaYnRicHpJSU5DRkFEWmd5a1pVa2ZhU2JYNzdGS1dzQ3ZScDgxczBOaVItTXVXeDJibnpPZXBKSEVISWZyRzBhcjl1a3NNeE9sTnFBeFhNZ1kydEFMN0toUGtIaUhjRDY3bGZhcnVQS2hjZmV0bkV5UVZWVTFxSXRLMGU2d0FwSXBmbGJqdHBYWWNZa2VFdVRyS0huOFozODd2QW5pZzV3Uzc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T19:02:59+00:00"
+  },
+  {
     "id": "c0509c9c8ddfadd9d1b5f1cef650e593",
     "titulo": "Frota eletrificada chega a um milhão de veículos no Brasil: &#8220;a eletromobilidade já é o presente&#8221;",
     "link": "https://abve.org.br/frota-eletrificada-chega-a-um-milhao-de-veiculos-no-brasil-a-eletromobilidade-ja-e-o-presente/",

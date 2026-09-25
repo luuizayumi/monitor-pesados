@@ -1,5 +1,45 @@
 [
   {
+    "id": "db3563dc5ab14e199be319b9cd80757a",
+    "titulo": "Veículos comerciais do futuro. Quem está formando os profissionais que vão atuar na área?",
+    "link": "https://frotanews.com.br/veiculos-comerciais-do-futuro/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T11:34:59.934389"
+  },
+  {
+    "id": "0650b912bb87440c09c15ca86c208ed3",
+    "titulo": "Carros mais vendidos no Brasil em setembro — dia 24 - car.blog.br",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDdlN0paUEdSRjFvcTU0cWZ1LVpXNmVMV2J6cGRjcktXZy1qb2VqLUlCY1kyOFdORGhHT1JRbnQxeTBXX25IaVdKLWtKWHNfRm45YzcxYjNSUXpoeU1nR0w5ZEVUQUlZVVQ4cEtULTdyTzdUT09wcS1kYU9wZlE1a1lB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T13:58:00+00:00"
+  },
+  {
+    "id": "75c3ce2861076319324fa90a680b3492",
+    "titulo": "BYD lança caminhão elétrico de 1 mil cv com 600 km de autonomia e recarga em 20 minutos - Mundo Logística",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEwwWUd6Sy1SNDg4NlhWckI1eFB0b3U3d1RJWlF6LTIwUEJ0RTJXaS1WR3ZUZjRRT0lUYVNpeGJXOXZ3MHhxd0h1ZW5Dclp3YmFMSS1aMWZzR1hoR3pHbDg3S0hNN1dlVUlkeDQ0SDFYSDQwV24zWGFtMzRFekhISkNyc0xaaGhrdG5NeXF0RVgwN3RjZVpIZTRWZTdNV0FZNFFoSg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-22T15:27:38+00:00"
+  },
+  {
     "id": "e73f2d2308dbb069c899797e33709e9b",
     "titulo": "1.Volvo VM e VW Constellation lideram caminhões semipesados; veja o ranking",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-vm-e-vw-constellation-lideram-caminhoes-semipesados-veja-o-ranking/",

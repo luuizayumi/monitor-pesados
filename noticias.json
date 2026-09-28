@@ -1,5 +1,185 @@
 [
   {
+    "id": "00f2561bbc254ff9bce16cd227b2e031",
+    "titulo": "Mercedes 70 anos: como a montadora alemã ajudou a industrializar o Brasil",
+    "link": "https://automotivebusiness.com.br/montadoras/mercedes-70-anos-como-a-montadora-alema-ajudou-a-industrializar-o-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863907"
+  },
+  {
+    "id": "f2b37319dd6db8302b5bd258bb72b97c",
+    "titulo": "Mercedes 70 anos: os números que contam a história no Brasil",
+    "link": "https://automotivebusiness.com.br/montadoras/mercedes-70-anos-os-numeros-que-contam-a-historia-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863918"
+  },
+  {
+    "id": "10538b7d3efce1e781e3bf3b8244e596",
+    "titulo": "Mercedes 70 anos: os caminhões que marcaram as sete décadas no país",
+    "link": "https://automotivebusiness.com.br/mercado/mercedes-70-anos-os-caminhoes-que-marcaram-as-sete-decadas-no-pais",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863922"
+  },
+  {
+    "id": "282ecb9be6e36d6cc7448343eaa45676",
+    "titulo": "mercedes 70 anosMercedes 70 anos: como a montadora alemã ajudou a industrializar o Brasil",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-como-a-montadora-alema-ajudou-a-industrializar-o-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863931"
+  },
+  {
+    "id": "928139e117a663677a3d135604ed65b1",
+    "titulo": "mercedes 70 anosMercedes 70 anos: os números que contam a história no Brasil28/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-numeros-que-contam-a-historia-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863936"
+  },
+  {
+    "id": "ffbaae4127e5e5a9496698cb35ddfaeb",
+    "titulo": "mercedes 70 anosMercedes 70 anos: os caminhões que marcaram as sete décadas no país28/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-caminhoes-que-marcaram-as-sete-decadas-no-pais",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863940"
+  },
+  {
+    "id": "a01e7be9f0504c182f4dffd3eac3d0f0",
+    "titulo": "mercedes 70 anosMercedes 70 anos: os números que contam a história no Brasil28 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-numeros-que-contam-a-historia-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863967"
+  },
+  {
+    "id": "d7e248f43a40eea94d982679b4b6bbc3",
+    "titulo": "mercedes 70 anosMercedes 70 anos: os caminhões que marcaram as sete décadas no país28 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-caminhoes-que-marcaram-as-sete-decadas-no-pais",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:38.863969"
+  },
+  {
+    "id": "42c0fed27ea3aa267b9986eea071a997",
+    "titulo": "Mercedes-Benz Sprinter é o veículo comercial menos desvalorizado",
+    "link": "https://www.autodata.com.br/noticias/2026/09/28/mercedes-benz-sprinter-e-o-veiculo-comercial-menos-desvalorizado/136369/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:41.469303"
+  },
+  {
+    "id": "cb2a96505383cddbf051638423062241",
+    "titulo": "Frostfire, a obra de Svempa que transformou um Scania V8 em peça de coleção",
+    "link": "https://www.autodata.com.br/mobility/2026/09/28/frostfire-a-obra-de-svempa-que-transformou-um-scania-v8-em-peca-de-colecao/135848/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:41.469316"
+  },
+  {
+    "id": "028d90c4935afb1c0bd8e43ede142f4e",
+    "titulo": "Senai EAD: Envelhecimento da frota impulsiona qualificação na reparação automotiva",
+    "link": "https://frotanews.com.br/frota-educacao-reparacao-automotiva-senai/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:43.548529"
+  },
+  {
+    "id": "afe5ba908a857b04aa5f3b4e483c0b79",
+    "titulo": "Como a Foton investe no Brasil para encarar gigantes globais de caminhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/como-a-foton-investe-no-brasil-para-encarar-gigantes-globais-de-caminhoes/",
+    "fonte": "Estradão",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:45.049200"
+  },
+  {
+    "id": "f1d3ed3619392f4a6e2684f9cb28d645",
+    "titulo": "Ford Pro adianta na Alemanha os modelos da elétrica Transit City que virão para o Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/ford-pro-adianta-na-alemanha-os-modelos-da-eletrica-transit-city-que-virao-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:45.049209"
+  },
+  {
+    "id": "ed0b4bd004a078864f7a1c388574e860",
+    "titulo": "5.Como um ônibus virou estúdio de rádio nas mãos de um jornalista apaixonado",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/como-um-onibus-virou-estudio-de-radio-nas-maos-de-um-jornalista-apaixonado/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:45.049213"
+  },
+  {
+    "id": "941adff5dc90e6a5eb7a3f3f668786d2",
+    "titulo": "Foton amplia estoque e reduz prazo de atendimento às concessionárias",
+    "link": "https://www.balcaoautomotivo.com/2026/09/28/foton-amplia-estoque-e-reduz-prazo-de-atendimento-as-concessionarias/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Foton",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T16:55:50.512134"
+  },
+  {
     "id": "df3b5b81f457124ab457da0de767e439",
     "titulo": "Quais caminhões usados menos desvalorizam? Veja os campeões de revenda após 3 anos de uso - estadao.com.br",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMHAwU3VDQVdkRGNmcVhLb0wwVFBNcmRrSG9nclFsa1dBOTRYU2hoRGFpdG9keXZZNVVYOUpDQnc5dUxjclozN25zLTFDSnV1RktFVlV4LTNlRW9DR3JQb0JGUG1TekhzZW9EeWRMa29RUkozMWFpOF9KUkw1RTVveHpyektVN0RPa1RVLXBET2NOb0lhV2l4djIzUk1fYXpmRWNOTG4xblB5RXlrX3lyYVNFaS1MbzJ6c295ek1oMFFSNl81bTRET3lVVjBjdURFWkxIZTJtclI4WEF5T3fSAd4BQVVfeXFMTzBwMFN1Q0FXZERjZnFYS29MMFRQTXJka0hvZ3JRbGtXQTk0WFNoaERhaXRvZHl2WTVVWDlKQ0J3OXVMY3JaMzducy0xQ0p1dUZLRVZVeC0zZUVvQ0dyUG9CRlBtU3pIc2VvRHlkTGtvUVJKMzFhaThfSlJMNUU1b3h6cnpLVTdET2tUVS1wRE9jTm9JYVdpeHYyM1JNX2F6ZkVjTkxuMW5QeUV5a195cmFTRWktTG8yenNveXpNaDBRUjZfNW00RE95VVYwY3VERVpMSGUybXJSOFhBeU93?oc=5",

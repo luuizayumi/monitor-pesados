@@ -1,5 +1,77 @@
 [
   {
+    "id": "9080300a6964aaf61c70515d70766c52",
+    "titulo": "especialMercedes 70 anos: como a montadora alemã ajudou a industrializar o Brasil",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-como-a-montadora-alema-ajudou-a-industrializar-o-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T22:26:46.084644"
+  },
+  {
+    "id": "f3bde5c14ab7b2fee308af6386276d31",
+    "titulo": "especialMercedes 70 anos: os números que contam a história no Brasil28/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-numeros-que-contam-a-historia-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T22:26:46.084656"
+  },
+  {
+    "id": "8dbcfb5807c6217ac1c8170aa3444f7c",
+    "titulo": "especialMercedes 70 anos: os números que contam a história no Brasil28 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-numeros-que-contam-a-historia-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T22:26:46.084659"
+  },
+  {
+    "id": "e0e9d3512586e1d32b228e0ba4c059a8",
+    "titulo": "especialMercedes 70 anos: os caminhões que marcaram as sete décadas no país28 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-caminhoes-que-marcaram-as-sete-decadas-no-pais",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T22:26:46.084662"
+  },
+  {
+    "id": "8f1036273944d2fb5cc64ba52b8be14b",
+    "titulo": "Volkswagen Caminhões e Ônibus chega a 200 mil veículos exportados - mecanicaonline.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVpiYjVqV3JUNjhabXZSX1p6MFRIU056Zko4TkxoTzdPOXNlUThHTkhHUUJnb05yMVNGRDdiTS1OMHNsZXhOUTRnazRvUnhwbFY5WGFOVjRyS21jWHRQWWFoQWdHOEszNjcxdzZCb2xVd3pUS2lQanJRbjdzTWxkakpwYkRpb09WQ1VRbFppV1UzWXJSQnVfQ19DZk9mbU9ZWklmSFZpcw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-24T18:16:00+00:00"
+  },
+  {
+    "id": "b8be5856b30cf3b3279f2939261b5c85",
+    "titulo": "Iveco inaugura centro de distribuição em Minas, enquanto venda para Tata Motors entra em fase final - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUlYM1h1VlEycEoxSno3Y201djYwdzhySmxJN1JFU2dpQUFINzFsb01YSE5Iem9GTW5mRjdTNmY2enZSSjhlZjI1VjV1TFptcTJPU0JSVlJxZENNT1lZTEYzdVA4ejh5QkNBc2oyQWE1ZGE2S0NxY1o2dFBicEZiYlVyYWlpVnZWcXNtS2VITDBObTBpWjBJV2tOenRrTlJaZmY1ejhaMFN6a19LWkp3ck9zbzlMRk5ZZDFpaVhQZnpSb2tNZG1jR0o4bWwtbzQyT28xWGppOWxqcFE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T07:00:00+00:00"
+  },
+  {
     "id": "00f2561bbc254ff9bce16cd227b2e031",
     "titulo": "Mercedes 70 anos: como a montadora alemã ajudou a industrializar o Brasil",
     "link": "https://automotivebusiness.com.br/montadoras/mercedes-70-anos-como-a-montadora-alema-ajudou-a-industrializar-o-brasil",

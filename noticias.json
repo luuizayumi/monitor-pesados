@@ -1,5 +1,115 @@
 [
   {
+    "id": "3f08639a2fdbebbc6e1b984a9e964a93",
+    "titulo": "Honda alcança marca de 33 milhões de motos produzidas em Manaus",
+    "link": "https://automotivebusiness.com.br/duas-rodas/honda-alcanca-33-milhoes-de-motos-produzidas-em-manaus",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-29T23:54:06.423404"
+  },
+  {
+    "id": "9c32213e4ad6422b81406f4b99d07d42",
+    "titulo": "HondaHonda alcança marca de 33 milhões de motos produzidas em Manaus 29/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/honda-alcanca-33-milhoes-de-motos-produzidas-em-manaus",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-29T23:54:06.423426"
+  },
+  {
+    "id": "3790214cef70c508fcd504ad8d2db112",
+    "titulo": "HondaHonda alcança marca de 33 milhões de motos produzidas em Manaus 29 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/honda-alcanca-33-milhoes-de-motos-produzidas-em-manaus",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-29T23:54:06.423429"
+  },
+  {
+    "id": "a861269702c644c4c56871394e5e6310",
+    "titulo": "PACCAR transforma operação brasileira em plataforma de crescimento da DAF",
+    "link": "https://www.autodata.com.br/workstudio-autodata/2026/09/29/paccar-transforma-operacao-brasileira-em-plataforma-de-crescimento-da-daf/136562/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-29T23:54:09.115471"
+  },
+  {
+    "id": "961b131b4d8c34b2ae7e707482f6d2df",
+    "titulo": "Um novo eixo na parceria Suspensys e Mercedes-Benz",
+    "link": "https://www.autodata.com.br/workstudio-autodata/2026/09/29/um-novo-eixo-na-parceria-suspensys-e-mercedes-benz/136569/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-29T23:54:09.115485"
+  },
+  {
+    "id": "dceaa1fab21618419a0893113f582bb1",
+    "titulo": "Carros mais vendidos no Brasil em setembro — 12 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkpjRFRiaEJhaGpUdHo1YzR1VUExMkZfMGZsSDRIX0xNMFh0ektwSFE2b1gzSUpBVWhtMTZLTVVLU2RxS005UDlMTi1zb3pBMUtuc1oyeUlwQ2cxcVlnWXpScWZsck13aU1NbzVhSjlMSEZVNnFnZGNmbklMTUJHaGpB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-12T07:00:00+00:00"
+  },
+  {
+    "id": "1d81cdeb7ab4e760b382bcca0eea228c",
+    "titulo": "História de mulher que teria vendido o carro para comprar iPhone 18 Pro Max e sido assaltada no ônibus viraliza - atl.clicrbs.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQlo2OE4wS0lFSlJNeFpyU2NsZnFETjZodm5xZEFBMmgxN2JBcU5WQnlZTkdMS1JnaVE3aXpaU2JjOHk1NXVuNjVBOHFjQVVGYkpuRllqZTZWdU5zOVMwYS00OUhiLVdaYnJ1elRwMklkUDBLR1E1c05Nck5NN3ZVZlhYcXpKMjVxR19kZFdXS25VSkxvdEgtbkJkNnozeVF3R1dCdlpjVnJoOWpTdkR2VENCVVNGZUVHMGlhb29kYjlZa2lyUU9rbDk2ZUszTlFrR2VzRUV2ZTJoNkdyZG1odjZacXFVVTNYdzF1cF9zSjM0dHVuc2tLOV8ySVplMEhqcVkyRnNRUUVHY3FKU0VfWm9vU1BLb3Jod2xF?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-28T19:03:48+00:00"
+  },
+  {
+    "id": "13479e5b1e10a7a183b98ceca38bb8fc",
+    "titulo": "Iveco inaugura centro de distribuição em Minas, enquanto venda para Tata Motors entra em fase final - otempo.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUlYM1h1VlEycEoxSno3Y201djYwdzhySmxJN1JFU2dpQUFINzFsb01YSE5Iem9GTW5mRjdTNmY2enZSSjhlZjI1VjV1TFptcTJPU0JSVlJxZENNT1lZTEYzdVA4ejh5QkNBc2oyQWE1ZGE2S0NxY1o2dFBicEZiYlVyYWlpVnZWcXNtS2VITDBObTBpWjBJV2tOenRrTlJaZmY1ejhaMFN6a19LWkp3ck9zbzlMRk5ZZDFpaVhQZnpSb2tNZG1jR0o4bWwtbzQyT28xWGppOWxqcFE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-11T07:00:00+00:00"
+  },
+  {
+    "id": "f4e5b882260234e62907018a779cbdda",
+    "titulo": "VWCO celebra 45 anos de exportações com marca de 200 mil veículos embarcados - PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNzlHTmM0YmN5MWozWlQtY3dOYjJVNU9QN3dMeXpYZTdWeXJ1Q1ByYjJ2bkh0ZFlCajBIUVUzYUdrOTRQOGp3WXBkUlFLQkJyalpxRzJJbkdpa0ozOEdrVzB3V0hLVVFmSHhtSTA4THBOQkY1blB4UEtrcmJYZ2tkd25yTlVOTElmSEpqTU5EZTRObnlWeHd0VTVlbDhnNEhqY2NqUVYzYi15WHhYbkltSDdqdE9LYUJDZlNMaDA1NWRjbThzSmZ5V1NnRzVqRDRRQldRbGJHb29pdG03RlBDRkdSOA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T16:27:00+00:00"
+  },
+  {
     "id": "bc6cd07675546568647dd3157bcb0238",
     "titulo": "Tata Motors avança para concluir aquisição do Iveco Group no próximo mês por R$ 22,7 bilhões",
     "link": "https://frotanews.com.br/iveco-tata-motors/",

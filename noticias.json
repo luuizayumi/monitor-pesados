@@ -1,5 +1,41 @@
 [
   {
+    "id": "d807d670ad1685543babb431f0164d3e",
+    "titulo": "Oficina própria: quanto ela pode contribuir para o resultado da frota?",
+    "link": "https://frotanews.com.br/oficina-propria-resultado-frota-propria-oficina/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-29T15:28:01.816696"
+  },
+  {
+    "id": "166a1e18231ebc94d8347c5b250976d6",
+    "titulo": "Mercedes-Benz do Brasil completa 70 anos de operação industrial no país",
+    "link": "https://frotanews.com.br/fabrica-mercedes-benz-brasil-70-anos/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-29T15:28:01.816709"
+  },
+  {
+    "id": "f3b39b2147b027ea1e8b9f99fd58e22d",
+    "titulo": "5.Conheça o caminhão que puxou o peso de 13 casas, com mais de 1,4 km de comprimento e bateu recorde",
+    "link": "https://www.estadao.com.br/jornal-do-carro/conheca-o-caminhao-que-puxou-o-peso-de-13-casas-com-mais-de-14-km-de-comprimento-e-bateu-recorde/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-29T15:28:04.117876"
+  },
+  {
     "id": "8325c2326de1e102a83a9bae78e69433",
     "titulo": "2.Ford Pro adianta na Alemanha os modelos da elétrica Transit City que virão para o Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/ford-pro-adianta-na-alemanha-os-modelos-da-eletrica-transit-city-que-virao-para-o-brasil/",

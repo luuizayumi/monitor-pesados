@@ -1,5 +1,56 @@
 [
   {
+    "id": "8325c2326de1e102a83a9bae78e69433",
+    "titulo": "2.Ford Pro adianta na Alemanha os modelos da elétrica Transit City que virão para o Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/ford-pro-adianta-na-alemanha-os-modelos-da-eletrica-transit-city-que-virao-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-29T08:54:44.875138"
+  },
+  {
+    "id": "0f0c5cfd2207c2eb608d987fc4271cdb",
+    "titulo": "Caminhões elétricos avançam na China e chegam a 28% das vendas de pesados - frotacia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yYjFNc0x0bmpTWEpsTFd4NkRmX3p1d244S1B5bXZRSnN1X2kxQ0VIQU0yQnlrOFZKbkg2WTdYcVY3b29hYlVJbmZiVWREekhyZ2huQmhITzVobmFSdl9lS2ZFekgxRVZwS1E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-28T12:45:00+00:00"
+  },
+  {
+    "id": "d806f5a059157b9c1be19b84e8316b89",
+    "titulo": "Fiat Strada lidera ranking dos emplacamentos em agosto deste ano com 13.798 registros, indica Fenabrave; Polo e Tera completam o top 3 - Gazeta de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdWNLUV9kYThWZkhpX3dRd3dtQVBJeDNDNXVjc0w0TmNKMVRWTEExQWRBSTE1TU1QRk1NZXg1aUJYb213Umx4TnYta1VOQUpNem5LejJvZWZRMFUtNHZ2Y0w0ZDkxczhHZWdZN1ZLVk5Fb0VXYUFjblRPalh1QTFiWEluT1VmLUE0bU9DV2VHNzZhajAxX2E5eWd4bWswWHJVUWR1YUJCOE1IdElJNTlLQXVlMTBveWVJQzRyLXJIMEFhbkFySjk0bVQ1WndkWXZxQ1NVN1JULTFpSnppbmM1NGN1RERST1E4aWU0YUdLbnFNX0o0VFZtQkRRcXN0S2t0UFE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-02T07:00:00+00:00"
+  },
+  {
+    "id": "7b2914876847d4085ab5748098730407",
+    "titulo": "Crise no transporte? Mais de 18 mil transportadoras já encerraram as atividades no Brasil em 2026 - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1doRzFWVmJrVDVveXpjanVaRVQzWk1iU0NwOWVROFk3d1ByVWt6cWFiMkpBZ005QldfN3dKdTN2dHdzekFSdEV2bm8xdmpsZUcwalU0aktPYk1wbHIwTERyVEpsbzFob256ZTkyckZVVnBlVmxBbmVlem15T3MyeGVGRTk1eDhWMmVVTFdOdFJPem8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-28T17:08:00+00:00"
+  },
+  {
     "id": "96949957f36da2b449bcace95ba82451",
     "titulo": "Mercedes-Benz e Scania dominam premiação de maior valor de revenda",
     "link": "https://automotivebusiness.com.br/mercado/mercedes-scania-premiacao-maior-valor-revenda",

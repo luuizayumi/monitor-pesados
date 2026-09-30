@@ -1,5 +1,140 @@
 [
   {
+    "id": "1b2b8cbc6e403ddac8df2ea9523a14b1",
+    "titulo": "Volkswagen vendeu 472 caminhões e ônibus ao governo federal",
+    "link": "https://automotivebusiness.com.br/mercado/volkswagen-caminhoes-e-onibus-fornece-472-veiculos-ao-governo",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-30T21:18:09.985809"
+  },
+  {
+    "id": "3eb437d7033a1e984634d601843d0bd3",
+    "titulo": "MercadoVolkswagen vendeu 472 caminhões e ônibus ao governo federal30/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-caminhoes-e-onibus-fornece-472-veiculos-ao-governo",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-30T21:18:09.985834"
+  },
+  {
+    "id": "40a1aebe78455c7462c65e7bd61ed78e",
+    "titulo": "MercadoVolkswagen vendeu 472 caminhões e ônibus ao governo federal30 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-caminhoes-e-onibus-fornece-472-veiculos-ao-governo",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-30T21:18:09.985838"
+  },
+  {
+    "id": "22f6235a77125beb3109d69fe4e4008b",
+    "titulo": "São Paulo chega a 2 mil ônibus elétricos, mas ainda não cumpre a meta de 2024",
+    "link": "https://www.autodata.com.br/noticias/2026/09/30/sao-paulo-chega-a-2-mil-onibus-eletricos-mas-ainda-nao-cumpre-a-meta-de-2024/136638/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-30T21:18:12.554502"
+  },
+  {
+    "id": "95ddf7156b88074b9bcc4494ddcad080",
+    "titulo": "Scania refina cabines R e S e prepara próxima etapa de segurança e eficiência",
+    "link": "https://www.autodata.com.br/mobility/2026/09/30/scania-refina-cabine-r-e-s-e-prepara-proxima-etapa-de-seguranca-e-eficiencia/136563/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-30T21:18:12.554518"
+  },
+  {
+    "id": "2fedb51bce6e805207c93291ef64c477",
+    "titulo": "Tupy e Mercedes-Benz: 68 anos de parceria.",
+    "link": "https://www.autodata.com.br/workstudio-autodata/2026/09/30/tupy-e-mercedes-benz-68-anos-de-parceria/136599/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-30T21:18:12.554538"
+  },
+  {
+    "id": "1c24e068b45f59568b88ceb977550f8b",
+    "titulo": "Henkel amplia frota sustentável com três carretas movidas a biometano",
+    "link": "https://frotanews.com.br/frota-sustentavel-henkel/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-30T21:18:14.035680"
+  },
+  {
+    "id": "d4fe878ee729d2f76485fd7e56853427",
+    "titulo": "São Paulo chega a 2.009 ônibus elétricos; Eletra responde por 43% e BYD, por 26% da frota",
+    "link": "https://frotanews.com.br/frota-onibus-eletrico-sao-paulo-byd/",
+    "fonte": "Frota News",
+    "montadora": "Eletra",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-09-30T21:18:14.035695"
+  },
+  {
+    "id": "ff690226c4e9d88e74cfc1ee14f121dc",
+    "titulo": "FedEx encomenda 131 caminhões da DAF para operações em três países",
+    "link": "https://frotanews.com.br/caminhoes-daf-fedex/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-30T21:18:14.035703"
+  },
+  {
+    "id": "d7e290571f7b74c447a7807e63cd90a3",
+    "titulo": "Nordeste impulsiona vendas de veículos eletrificados em 2026",
+    "link": "https://www.balcaoautomotivo.com/2026/09/30/nordeste-impulsiona-vendas-de-veiculos-eletrificados-em-2026/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-30T21:18:20.411572"
+  },
+  {
+    "id": "c834a711d9ba49fb2ac376832a216591",
+    "titulo": "Rio terá investimento de R$ 509 milhões para compra de 175 ônibus elétricos com financiamento do BNDES - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZG54djktT19zLU1GclFYbFFSSkVQaVRvNHVCY3kwVEt5MWI3dnIzVFFOWWl4OHRRZFhqVUN3bGczVlREX2Voampha09CRjNDWTdMOUZDandRS1Z1OGw5blRyaVc1b19vTWthVHVhSzlYaDdsX0RLbVlnVXlVSDBPVjJBVFZ2WUlaQm16NmRleGEzSUpuSWhhUHVZcFVfUUNWbHN5X0ZBQnA5NFVOMl9RQ3o3WW5mTGpPcFVfYnlGendGaVoxMkpGYjBvS1E1M0ZWYlozRlhtTU5KWHVYUTVsZjdYbGt3UGVKamZ30gH6AUFVX3lxTE5BbTJIZ1RXYTJKMGhGdnVYS3B2RndvNHJyY05IcE45aW5fWEFsX01CVlBKaFo1ZDREYlkwMC11NjZMaEtoSGw2SFRZOXI1TDNGcnlVZFJwdlhpNXdMT2pRbnNEQmlMQk1BVFMzUlBIUFFsWXhfTWJfZ09MWVNrUnAwS21YTDh3TnNxYUIzNE1qcWVWSlRyVUhZaWxud1BKVVBma0tYWGpoRXkxRU5yWnk2S2ZQVl81YjZJSElLZFYwTXp2bG5DMmtFYkIxQms2SjQyMFFrMS1pd1l2ZjZ3V0dzc181bW9MVno2ZlNBTnhrcURIbDBoTWthUEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-25T13:00:09+00:00"
+  },
+  {
     "id": "c3014197e2a467d09021cb56c47e5096",
     "titulo": "Mercedes-Benz segue sua trajetória sem se preocupar com chineses",
     "link": "https://www.autodata.com.br/noticias/2026/09/30/mercedes-benz-segue-sua-trajetoria-sem-se-preocupar-com-chineses/136456/",

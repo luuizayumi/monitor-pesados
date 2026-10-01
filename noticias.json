@@ -1,5 +1,66 @@
 [
   {
+    "id": "d5391b987b560c4a7576f625d746ba8e",
+    "titulo": "#ABX26 &amp;#8211; Chegada das montadoras chinesas amplia opções e ‘complica’ escolha da frota",
+    "link": "https://automotivebusiness.com.br/ab/abx26-chegada-das-montadoras-chinesas-amplia-opcoes-e-complica-escolha-da-frota",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T23:44:56.924228"
+  },
+  {
+    "id": "24a80aa5d4d35079da361a06dd96ac75",
+    "titulo": "#ABX26#ABX26 &#8211; Chegada das montadoras chinesas amplia opções e ‘complica’ escolha da frota01/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/abx26-chegada-das-montadoras-chinesas-amplia-opcoes-e-complica-escolha-da-frota",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T23:44:56.924238"
+  },
+  {
+    "id": "30d3f92a946055863390ae2fd0ce73c1",
+    "titulo": "VW Caminhões e Ônibus fornecerá 472 veículos ao governo federal",
+    "link": "https://www.autodata.com.br/noticias/2026/10/01/__trashed-12/136744/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T23:44:59.484266"
+  },
+  {
+    "id": "d66832f8118a081a73b9e9dc23b52072",
+    "titulo": "Clássico sueco: os números que separam Scania e Volvo no Brasil e na terra natal",
+    "link": "https://frotanews.com.br/mercado-sueco-scania-x-volvo/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T23:45:00.835821"
+  },
+  {
+    "id": "3b018c0bd2c6d99210ba615cac129975",
+    "titulo": "Rock in Rio: venda de passagens de ônibus cresce até 30%; 65% foram via e-commerce - Turismo em foco",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZE93TkE3MDB2SU9WTFQtTnl4RW4zUXNVOFVkdlM3S0ZkZEJwczFnNTlOdmNiLV9DZVA0QjJlczIwM0VScGlSNXhyOWx3RzZRdHQ5a2VRWEVIcElmUU5kblhKbnRaTEsxaHZpbTc5c0cxd1B1WU5zR0hiUy1POVJDSmZOVFJtWnNFeDg4eERjaDg0bW9Xel81a0JTWW1uVnA2RWw3TkFaUHo2eEdvc3RRRmh3S1p4VFdkVmR2RTlXMA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-30T11:38:13+00:00"
+  },
+  {
     "id": "f75e6a58ce338be21710f36c29c8f398",
     "titulo": "Vendas de veículos leves crescem 14,5% e começam a se acomodar",
     "link": "https://www.autodata.com.br/noticias/2026/10/01/vendas-de-veiculos-leves-crescem-145-e-comecam-a-se-acomodar/136722/",

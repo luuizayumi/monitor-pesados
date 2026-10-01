@@ -1,5 +1,30 @@
 [
   {
+    "id": "ff256adb460aefae09869f29b9712ea4",
+    "titulo": "5.Mottu Sport 110 i: locadora inicia venda de moto utilitária por menos de R$ 10 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/motos/mottu-sport-110-i-locadora-inicia-venda-de-moto-utilitaria-por-menos-de-r-10-mil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-01T06:58:17.541343"
+  },
+  {
+    "id": "3d1cb3562d106cb5b8bdae75e7f98295",
+    "titulo": "Pacotes para o Insane Sound 2026 começam a ser vendidos nesta terça-feira, 22 - Jornal Tudo Aqui",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZU9BNnlkYlZEWXV5TFRybVEtLVNJQUEtUTE1UTZJSEp0MndFUm56LUVTa2o0X0Z1SFQwYlVHb2Z0cENvOGFUM3dfaFluVWprLTdGck8yTXk3bW5EZFFkTWRIS0R3clRYeGVkUWNidk83aGpjZnA5QXFzNUYxZ21DYW5fWlIwOVF3VjVvZXNjbC1VS1h1UWJ0SXFhSjJ6cl84d0ZaSlVSOVpsaUZNUzRwM0tUdi1kRXV6NGFmVjM5LVdNYzgtX3VSbk9Wdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T23:57:00+00:00"
+  },
+  {
     "id": "1b2b8cbc6e403ddac8df2ea9523a14b1",
     "titulo": "Volkswagen vendeu 472 caminhões e ônibus ao governo federal",
     "link": "https://automotivebusiness.com.br/mercado/volkswagen-caminhoes-e-onibus-fornece-472-veiculos-ao-governo",

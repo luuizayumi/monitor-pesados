@@ -1,5 +1,66 @@
 [
   {
+    "id": "84b4e1df1aa1cc231b5360ebf9ba9d1e",
+    "titulo": "DAF reúne campeões dos 50 anos do Truck of the Year",
+    "link": "https://frotanews.com.br/daf-50-anos-international-truck-of-the-year/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T14:23:43.346131"
+  },
+  {
+    "id": "ac9b5e476526a4acde552b3909cf3d9d",
+    "titulo": "Scania nomeia Silvio Renan Souza como diretor de Vendas de Soluções no Brasil",
+    "link": "https://frotanews.com.br/scania-nomeia-silvio-renan-souza-diretor-vendas-solucoes-brasil/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-01T14:23:43.346144"
+  },
+  {
+    "id": "b7bc9bdbc44db4ab3ecda2c374c3948d",
+    "titulo": "Cofap amplia catálogo de amortecedores para caminhões e ônibus",
+    "link": "https://www.balcaoautomotivo.com/2026/10/01/cofap-amplia-catalogo-de-amortecedores-para-caminhoes-e-onibus/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T14:23:50.511832"
+  },
+  {
+    "id": "4197cce0cbb4423d0b12dd5f633de292",
+    "titulo": "Brasil deve atingir 1 milhão de eletrificados em circulação em setembro - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWhEM3M4RjNPSWVNUmNPSXlGdXhQZndKNHVYX0NhWkpVNVlySjZiNVRiemVValhVVkp0S3ljQkM5QW5lRjJBZFgtY3VkY2lJRjliWU56cGRzSHQybWxxOUpGNm5YZnRUTnFxU1ZZUWhNejJVOS0xZGtEMUJUdVFwOWFsVGhrek9KWTBacGNORVl2VE5TdWlVU093T0F5eE00a0tPMnR1V2NFQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T07:00:00+00:00"
+  },
+  {
+    "id": "70cbb91aca8f6d0252f2bd6a319cf8f5",
+    "titulo": "Quais caminhões usados menos desvalorizam? Veja os campeões de revenda após 3 anos de uso - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQzViZVo4WTgzVUtjejJkQm80VG82eVlNenI5d2psZVBVbXVjenRxX2RyTzh1RkIyMmlzVk5ZS2Npa3ljZmVvZUhWeWUwSzFocGdnY2ZYWHh6TnBra004UzRyUFNXM3dZQjViNFk2WDBwc2w0U2FIZTFqWTV0ZUpBd1NmT0VEbE1VaXg3X05hb2lBUHV5WU12ZnNMWXdqdHZTc2s5clFDQTlIbF82M2xLOTNONXRuTmNMcnBONlpwQldSUGdfcktaTkRyMFdja3NZOElKZ1FGTnHSAd4BQVVfeXFMTzBwMFN1Q0FXZERjZnFYS29MMFRQTXJka0hvZ3JRbGtXQTk0WFNoaERhaXRvZHl2WTVVWDlKQ0J3OXVMY3JaMzducy0xQ0p1dUZLRVZVeC0zZUVvQ0dyUG9CRlBtU3pIc2VvRHlkTGtvUVJKMzFhaThfSlJMNUU1b3h6cnpLVTdET2tUVS1wRE9jTm9JYVdpeHYyM1JNX2F6ZkVjTkxuMW5QeUV5a195cmFTRWktTG8yenNveXpNaDBRUjZfNW00RE95VVYwY3VERVpMSGUybXJSOFhBeU93?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-27T16:00:00+00:00"
+  },
+  {
     "id": "ff256adb460aefae09869f29b9712ea4",
     "titulo": "5.Mottu Sport 110 i: locadora inicia venda de moto utilitária por menos de R$ 10 mil",
     "link": "https://www.estadao.com.br/jornal-do-carro/motos/mottu-sport-110-i-locadora-inicia-venda-de-moto-utilitaria-por-menos-de-r-10-mil/",

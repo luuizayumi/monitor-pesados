@@ -1,5 +1,54 @@
 [
   {
+    "id": "f75e6a58ce338be21710f36c29c8f398",
+    "titulo": "Vendas de veículos leves crescem 14,5% e começam a se acomodar",
+    "link": "https://www.autodata.com.br/noticias/2026/10/01/vendas-de-veiculos-leves-crescem-145-e-comecam-a-se-acomodar/136722/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-01T19:43:39.648940"
+  },
+  {
+    "id": "db462088963259bfc815f4eb86ef65e0",
+    "titulo": "Scania oficializa chegada de Silvio Renan à direção de sua operação comercial",
+    "link": "https://www.autodata.com.br/noticias/2026/10/01/scania-oficializa-chegada-de-silvio-renan-a-direcao-de-sua-operacao-comercial/136721/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T19:43:39.648968"
+  },
+  {
+    "id": "8b89660df1d8c3c7db482c46b25a5b20",
+    "titulo": "Frota Summit 2026 chega à sua segunda edição para colocar o gestor de frotas no centro da estratégia",
+    "link": "https://frotanews.com.br/frota-summit-2026-gestao-de-frotas-estrategia/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-01T19:43:41.282419"
+  },
+  {
+    "id": "3895dbec612514b96471fc8d878b6ea8",
+    "titulo": "70 anos no Brasil e mais de 2,5 milhões de veículos produzidos - transportemundial.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVhRZHdoa0NHX1VULV9xa1N3OE1jOUJWaG9DWjF2X3ZNUzhzMXF0SzhjTEszZzROa0NSb0h5Nkx4b2laQU1GUTRNQTFqTllYUzQ4WUtvNnNpbU9OUTJJX1F4UFJBazdKVHVkbUwyVkFidWx5OUtPd2M3MmpLQXplb1FzdHdSUzB2TGsyZjB0c3ZZaEVrSGJoak92NA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-29T16:58:52+00:00"
+  },
+  {
     "id": "84b4e1df1aa1cc231b5360ebf9ba9d1e",
     "titulo": "DAF reúne campeões dos 50 anos do Truck of the Year",
     "link": "https://frotanews.com.br/daf-50-anos-international-truck-of-the-year/",

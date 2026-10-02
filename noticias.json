@@ -1,5 +1,102 @@
 [
   {
+    "id": "4f5051d4a77988aacd5df2d7fcfe9422",
+    "titulo": "VW reposiciona 18.320 para surfar nova lógica do mercado de ônibus",
+    "link": "https://www.autodata.com.br/mobility/2026/10/02/vw-reposiciona-18-320-para-surfar-nova-logica-do-mercado-de-onibus/136459/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-02T16:33:37.880032"
+  },
+  {
+    "id": "9dde6b4e0ac10d8775fccaf559af313e",
+    "titulo": "Vendas de veículos seminovos da Localiza crescem 30%",
+    "link": "https://www.autodata.com.br/noticias/2026/10/02/vendas-de-veiculos-seminovos-da-localiza-crescem-30/136799/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T16:33:37.880064"
+  },
+  {
+    "id": "c5ffb5f754570e9575719b3bec226cc1",
+    "titulo": "Congresso analisa venda de biodiesel B100 em bombas exclusivas nos postos",
+    "link": "https://frotanews.com.br/postos-biodiesel-b100-bombas-exclusivas/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T16:33:40.993412"
+  },
+  {
+    "id": "7c31eb2b23d4a8df272d90c15894aca5",
+    "titulo": "Mercedes-Benz Actros ProCabin é eleito Caminhão do Ano Australásia 2026",
+    "link": "https://frotanews.com.br/caminhao-do-ano-australasia/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-02T16:33:40.993424"
+  },
+  {
+    "id": "a462498839f6e28e9ab99605133d08b0",
+    "titulo": "Seminário da Reposição Automotiva discute remanufatura e eletrificação",
+    "link": "https://www.balcaoautomotivo.com/2026/10/02/seminario-da-reposicao-automotiva-discute-remanufatura-e-eletrificacao/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-02T16:33:48.773651"
+  },
+  {
+    "id": "9be632774f73c25ebb6062a6e964e671",
+    "titulo": "Dunlop: como a escolha dos pneus impacta os custos da frota de ônibus",
+    "link": "https://www.balcaoautomotivo.com/2026/10/02/dunlop-como-a-escolha-dos-pneus-impacta-os-custos-da-frota-de-onibus/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-02T16:33:48.773663"
+  },
+  {
+    "id": "73bd1361d9cbd746a59b1e8156222bb4",
+    "titulo": "BYD apresenta ETT44 com 1.000 cv na IAA – Modelo poderá ser comercializado no Brasil - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOemJieVUwQjZYejV6emZnQ3Nld1N0VldjZTBQNFB5c0ozRXJDUURHc0hiQUhqdW16aFQ4b1pxQ1dRVFI4b0FpUzF0QlRKY21wbnZtcVBIbjlvX2RWNkhmV2Q0VUR1RURrN2ZKTXo5WFVvMTJnTUtzN3NlUjZQSTZrYmNoZEFSeHUybWVWNkxtZGpUcDNaaThsNXoxbFNsTEppZ3ROeHdsQXY0S0NLYzNnczJXdllVQlBtczRIVjM2TQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T14:01:31+00:00"
+  },
+  {
+    "id": "37e0266b3babb7f9ac095ca6c86ba4da",
+    "titulo": "Quais caminhões usados menos desvalorizam? Veja os campeões de revenda após 3 anos de uso - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQzViZVo4WTgzVUtjejJkQm80VG82eVlNenI5d2psZVBVbXVjenRxX2RyTzh1RkIyMmlzVk5ZS2Npa3ljZmVvZUhWeWUwSzFocGdnY2ZYWHh6TnBra004UzRyUFNXM3dZQjViNFk2WDBwc2w0U2FIZTFqWTV0ZUpBd1NmT0VEbE1VaXg3X05hb2lBUHV5WU12ZnNMWXdqdHZTc2s5clFDQTlIbF82M2xLOTNONXRuTmNMcnBONlpwQldSUGdfcktaTkRyMFdja3NZOElKZ1FGTnHSAd4BQVVfeXFMTzBwMFN1Q0FXZERjZnFYS29MMFRQTXJka0hvZ3JRbGtXQTk0WFNoaERhaXRvZHl2WTVVWDlKQ0J3OXVMY3JaMzducy0xQ0p1dUZLRVZVeC0zZUVvQ0dyUG9CRlBtU3pIc2VvRHlkTGtvUVJKMzFhaThfSlJMNUU1b3h6cnpLVTdET2tUVS1wRE9jTm9JYVdpeHYyM1JNX2F6ZkVjTkxuMW5QeUV5a195cmFTRWktTG8yenNveXpNaDBRUjZfNW00RE95VVYwY3VERVpMSGUybXJSOFhBeU93?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-27T16:00:00+00:00"
+  },
+  {
     "id": "9a7a29ed76c31dfa0ca863ff3e123d6b",
     "titulo": "Rock in Rio: venda de passagens de ônibus cresce até 30%; 65% foram via e-commerce - turismoemfoco.com.br",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZE93TkE3MDB2SU9WTFQtTnl4RW4zUXNVOFVkdlM3S0ZkZEJwczFnNTlOdmNiLV9DZVA0QjJlczIwM0VScGlSNXhyOWx3RzZRdHQ5a2VRWEVIcElmUU5kblhKbnRaTEsxaHZpbTc5c0cxd1B1WU5zR0hiUy1POVJDSmZOVFJtWnNFeDg4eERjaDg0bW9Xel81a0JTWW1uVnA2RWw3TkFaUHo2eEdvc3RRRmh3S1p4VFdkVmR2RTlXMA?oc=5",

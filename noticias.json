@@ -1,5 +1,134 @@
 [
   {
+    "id": "2acec66e1f5f7ffe77b628f1ea53d584",
+    "titulo": "Volare exporta 16 micro-ônibus Fly 10 para operadores de transporte no Uruguai",
+    "link": "https://frotanews.com.br/exportacao-volare-uruguai/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-03T00:38:34.554186"
+  },
+  {
+    "id": "202910eb446c53c717336fb59c400603",
+    "titulo": "1.Honda City 2027 ganha design de esportivo, versão esportivada, mas mantém só o motor 1.5 aspirado",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/honda-city-2027-ganha-design-de-esportivo-versao-esportivada-mas-mantem-so-o-motor-15-aspirado/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-03T00:38:36.272692"
+  },
+  {
+    "id": "b64ae74c615c043c185ee7c8d69bf1d5",
+    "titulo": "Silvio Renan assume direção de vendas de soluções da Scania no Brasil - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXBzTlZuOG5FcTBDN1pUdDljUl9wcFRLR1ZONW5jYmRRTDFJMGMwVXV6LWJNX01iTnJfNE05TktxRjNKeGN2Y1JxUTVmTzZidXlKamFGTHl3S3ZodUZiVWx5ZWZGMUNmWklvZlBYOW1XMkRySHcxeWFvQmQ2THhPTWR6X3QxS0hKV3p5WC1QWWhwbnpGcXlCTHRDOFFwYlBzX1Z0RmNfeW95ajdzR2I2cWYtZG4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T14:22:10+00:00"
+  },
+  {
+    "id": "97223834796cc79589b8f8f914ab4bb8",
+    "titulo": "Ford Trucks faz venda recorde de caminhões para grupo empresarial na Turquia - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEZBNHNRbFdTMDR4b3d4NS1kTmEwaGFESTB4ZzRMVzVnV1lfWXRHV3VmZGdJaVVwX2l3VjFfLXI1QnZZX2U1WnpaenNqNlBBTWxEVGlGWDBnRC1GaGhhZ0hMVlo1bDI5NnNoYk1XeXhaeGFRcWVHV0Y4WnF1MFdCanlYTkR1eFpkUk93dExEZXJKSG1xZXl2LWlTSzgwcngxRFJEQVZYMkNHZ1lsMXRqRUQ1d284NnU4TVhqNA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T14:22:29+00:00"
+  },
+  {
+    "id": "34a71865e0f50e990a6bba23e2f04a26",
+    "titulo": "Dolphin Mini no Top 3, Avenger estreia e EX2 desaba: veja os mais vendidos de setembro - Motor1.com Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcDNjSjRBb3hFQnk2ZDk5T3A0VXIwM3lDazdEa1ZHXzdnNlpHeFMyOFh1R0pwXzludjJfX0xHOTcyZjBOcG5nSHBQcGpWc25XeHRHdi0teFZTdWlsNzZzU3dPTGpzc1JRblRjUW1XZ2U4aW1LeC1UMWpBX3NwRTJSVlV3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T14:10:00+00:00"
+  },
+  {
+    "id": "8e6b2fda0cf2f6facf142f9e4143390f",
+    "titulo": "Venda de veículos novos cresce 31,49% em Minas e supera média nacional - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDlJR3JDRUhiTDBqaXB6N0pBUlFGbzJ6RmJScDFiekI5RElxekJtYmJSMl8yRlAtQVJYbUdqLWl5SDdEc0FVc2hSZS1Hc3dJZlc5bk00UXR3OGR6bTlfemV3dHpLNUhoWWFXTUJFWjBqb0FSaHlMdlBmc2hoSVJZMXpTT1B4WGJyYjhEWHQ3VXFuYVY4c0xQLS1vbU94YmRvRjhJQzRkT1llMkJINTFseFhQQ3V5U1l6TnVEcVJrMWZ3TkU1S3g2Y19LSk8tZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T07:00:00+00:00"
+  },
+  {
+    "id": "9a049e31e2ec4843861bcf8ff2b02802",
+    "titulo": "BYD Dolphin Mini é primeiro carro elétrico entre os 3 mais vendidos do Brasil - Autoesporte",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTTFsS055U2lHQzJIY29xRk1NU0lrUWs3b0t3OTJmeVF0X2FnRzU3SkZjM3RmU0VTUTgzUzFBaVNETjBaaHdJeHQ3MTlfdVpvUFA3cmVXVks4LUdVblZCMTdtTnMxa3lDNW5vQV9IWThTTkpMZXVSQkN2dUZQYVd5TFc3UERyVmVPakRsT2RZaUhlUDVXRjFTeGlGWlh6RXE4LXkzSUxGYzhLZU92dUtuaXZsU0RsVHFoQnc4X05TRXZib1drbUNtWWMzc2xOQ2ZjYm5FbVQxWTZUZzItWWZtNjFocjV3bzlmZHVsMWpB0gH8AUFVX3lxTE03a1JVTFdqX1Nsa2NWUnpnZVBUMElfT2lCaVJoNFZONzNsbkdxX0Y0LXAxNVlQSHYyWmFsNmJlT1VtNlV2anZaTlVMNlNrOW5GUWdFek03aFJwSzNYNXpyUG9oTlEtbXR5eFlBTVpPdWI2Y3Nsd1hMU29wTGFqZmVOeFFXQ2UtRjZpVGlkZG1jWVdJTGpuNVpRTWJncTEtSVlKbTdMQ2MzVTFudHdwazZhX05JU3hXLUtScTNPbmFzM2VsUHY0V1NNbkZtRV9SUF80QUluNUZ3SmxMM3NPME5rbXM3bXdMYnlMZW1YVFZoa0tCN2p6SW9iZWdoSg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-02T13:00:07+00:00"
+  },
+  {
+    "id": "df88723d927b8137f42cdd8366dc3c34",
+    "titulo": "BYD apresenta ETT44 com 1.000 cv na IAA – Modelo poderá ser comercializado no Brasil - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOemJieVUwQjZYejV6emZnQ3Nld1N0VldjZTBQNFB5c0ozRXJDUURHc0hiQUhqdW16aFQ4b1pxQ1dRVFI4b0FpUzF0QlRKY21wbnZtcVBIbjlvX2RWNkhmV2Q0VUR1RURrN2ZKTXo5WFVvMTJnTUtzN3NlUjZQSTZrYmNoZEFSeHUybWVWNkxtZGpUcDNaaThsNXoxbFNsTEppZ3ROeHdsQXY0S0NLYzNnczJXdllVQlBtczRIVjM2TQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-25T14:01:31+00:00"
+  },
+  {
+    "id": "05151c9ca7d5764fcbe23b41a158f41a",
+    "titulo": "Scania muda comando de vendas e reforça foco em soluções no Brasil - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3RORUIxTXNJdmFIMWdFQlg5UkJlM2ZtSldnMjFfX2RZemlCc2ZiREVQek1qNmQ3cnNyNEVHaml2dHpOZHRkb2UydVRNRmVoTi1iYUoxV0E3cWliNERWX2FPVTBXTzVwbTA5T2tEcWRwNjd6N1hTeUxWMHlzNDd5QzA5T09RNnFuSERmR1pRN2NCSVVYaF9lTkZfUXZLOEdLZXI4bFlxZG8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T11:05:00+00:00"
+  },
+  {
+    "id": "95b4e7f1dc613bab7938e2b0ed88bf0f",
+    "titulo": "Waberer compra três unidades do Volvo FH Aero Electric com 700 km de autonomia - blogdocaminhoneiro.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzJETk1aVXVPemc2TEVEYXFPdzI2ODFaNWNieXJtaGNrU3kzdEdob0wtblhXUzk3TzRZNDVIdDJKcC01dC1xZlFMSjRCbzNobTJaQVFEZkh3bEFyaVkyUVdaLVZRYkowemthMklxck9HOFBtUkFqdnZMUHJ2UUdNOVFYdm95OU5vcmt3dHJxNHg4WDhtdEkyNE02WTlNYzRUNWxQMEpsODBjYko2WjlBb1lnUFVSRUp5WEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-07T07:00:00+00:00"
+  },
+  {
     "id": "be5bdee899013b6004d41117912f4908",
     "titulo": "Mercedes-AMG lança versões esportivas do GLC",
     "link": "https://automotivebusiness.com.br/lancamentos/mercedes-amg-versoes-esportivas-glc",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "c8467be0860fe3ac8852c05422d33866",
+    "titulo": "Venda de veículos novos cresce 31,49% em Minas e supera média nacional - itatiaia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDlJR3JDRUhiTDBqaXB6N0pBUlFGbzJ6RmJScDFiekI5RElxekJtYmJSMl8yRlAtQVJYbUdqLWl5SDdEc0FVc2hSZS1Hc3dJZlc5bk00UXR3OGR6bTlfemV3dHpLNUhoWWFXTUJFWjBqb0FSaHlMdlBmc2hoSVJZMXpTT1B4WGJyYjhEWHQ3VXFuYVY4c0xQLS1vbU94YmRvRjhJQzRkT1llMkJINTFseFhQQ3V5U1l6TnVEcVJrMWZ3TkU1S3g2Y19LSk8tZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-03T07:00:00+00:00"
+  },
+  {
+    "id": "9b0bfc3055b05e0133f39a8446a16290",
+    "titulo": "Scania muda comando de vendas e reforça foco em soluções no Brasil - mecanicaonline.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3RORUIxTXNJdmFIMWdFQlg5UkJlM2ZtSldnMjFfX2RZemlCc2ZiREVQek1qNmQ3cnNyNEVHaml2dHpOZHRkb2UydVRNRmVoTi1iYUoxV0E3cWliNERWX2FPVTBXTzVwbTA5T2tEcWRwNjd6N1hTeUxWMHlzNDd5QzA5T09RNnFuSERmR1pRN2NCSVVYaF9lTkZfUXZLOEdLZXI4bFlxZG8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T11:05:00+00:00"
+  },
+  {
     "id": "9d2dcbf82e0556f3b1d4204e3e1fe620",
     "titulo": "5.Honda City 2027 ganha design de esportivo, versão esportivada, mas mantém só o motor 1.5 aspirado",
     "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/honda-city-2027-ganha-design-de-esportivo-versao-esportivada-mas-mantem-so-o-motor-15-aspirado/",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "6b23ae4a16bd962d07615ceece959b01",
+    "titulo": "Chinesa Zhongtong vende primeiro lote de ônibus no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/10/05/chinesa-zhongtong-vende-primeiro-lote-de-onibus-no-brasil/136933/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-05T15:39:10.621684"
+  },
+  {
+    "id": "e2c54f351c839b6e14b4bbb2f3c8ec1d",
+    "titulo": "Setembro registra o melhor desempenho do ano em vendas de veículos",
+    "link": "https://www.autodata.com.br/noticias/2026/10/05/setembro-registra-o-melhor-desempenho-do-ano-em-vendas-de-veiculos/136928/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T15:39:10.621700"
+  },
+  {
+    "id": "6b101a2b5f579bd470b28368e18dab6b",
+    "titulo": "POMO4 cai 40% em 12 meses: o que mudou na Marcopolo após lucro de R$ 271 milhões - A Revista",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3Q1bnowdmxDcUM4OWo2NDNlTGhfNW0zS21ZR0hjZi11WGliajduM3A5bmNqUFhFd0JvVmdFSEhQTnN1c0NCcS04b250OUZJWUdJQXZwakdRUkh0b1c1RFpCcHdrNGo1R01ONW5obF9rYzB0eTJFTGwweWtkLWdpYUhQOHltV0M3QlZWRGVNd1BUNEVjeTZLU2FHS3I3czdGb2NUX2tfZlpkYUgx?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-01T11:50:56+00:00"
+  },
+  {
     "id": "b15eb50a2eb1eceb39cedc099979c150",
     "titulo": "POMO4 cai 40% em 12 meses: o que mudou na Marcopolo após lucro de R$ 271 milhões - arevista.com.br",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3Q1bnowdmxDcUM4OWo2NDNlTGhfNW0zS21ZR0hjZi11WGliajduM3A5bmNqUFhFd0JvVmdFSEhQTnN1c0NCcS04b250OUZJWUdJQXZwakdRUkh0b1c1RFpCcHdrNGo1R01ONW5obF9rYzB0eTJFTGwweWtkLWdpYUhQOHltV0M3QlZWRGVNd1BUNEVjeTZLU2FHS3I3czdGb2NUX2tfZlpkYUgx?oc=5",

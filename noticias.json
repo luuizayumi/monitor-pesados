@@ -1,5 +1,113 @@
 [
   {
+    "id": "246036c18fe6d3f2b14554f3d3051bad",
+    "titulo": "Relatório de Tendências 2026Coletânea dos relatórios das trilhas de conhecimento do #ABX26 — indústria, mobilidade,cidades, energia, varejo, tecnologia, frotas e agronegócio — consolidados em um únicovolum...",
+    "link": "https://automotivebusiness.com.br/estudos/relatorio-de-tendencias-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-05T22:21:29.330092"
+  },
+  {
+    "id": "550e56a36b0ee70c36ead89c2e5a1dae",
+    "titulo": "Zhongtong começa a produzir ônibus elétricos no Brasil em 2028",
+    "link": "https://www.autodata.com.br/noticias/2026/10/05/zhongtong-comeca-a-produzir-onibus-eletricos-no-brasil-em-2028/136998/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-05T22:21:31.753797"
+  },
+  {
+    "id": "8461a94fc4d04a3071fb01a3f8f6f0eb",
+    "titulo": "Vendas de caminhões reduzem ritmo de queda para 4% no ano",
+    "link": "https://www.autodata.com.br/noticias/2026/10/05/vendas-de-caminhoes-reduzem-ritmo-de-queda-para-4-no-ano/136941/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T22:21:31.753812"
+  },
+  {
+    "id": "5b89d6df21e8b3f252dbe70f3ec1bb93",
+    "titulo": "Veja o ranking dos caminhões mais vendidos até setembro",
+    "link": "https://www.autodata.com.br/mobility/2026/10/05/veja-o-ranking-dos-caminhoes-mais-vendidos-ate-setembro/136958/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T22:21:31.753815"
+  },
+  {
+    "id": "1dfa54b7ccbb33d0386d3117bd3446e7",
+    "titulo": "Pré-venda do GWM Haval H7 é aberta a clientes da marca",
+    "link": "https://www.autodata.com.br/mobility/2026/10/05/pre-venda-do-gwm-haval-h7-e-aberta-a-clientes-da-marca/136962/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T22:21:31.753818"
+  },
+  {
+    "id": "48b30215ee34db1b4c2a3056221e935d",
+    "titulo": "5.Os 10 caminhões pesados mais vendidos no primeiro semestre",
+    "link": "https://www.estadao.com.br/web-stories/jornal-do-carro/estradao/os-10-caminhoes-pesados-mais-vendidos-no-primeiro-semestre/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T22:21:34.535237"
+  },
+  {
+    "id": "b3a726f88f9a12a736edbcbbc2f7c590",
+    "titulo": "Eletrificados devem superar 70% das vendas de veículos leves até 2035",
+    "link": "https://www.balcaoautomotivo.com/2026/10/05/eletrificados-devem-superar-70-das-vendas-de-veiculos-leves-ate-2035/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T22:21:39.184521"
+  },
+  {
+    "id": "b33c33ee4c5b731635e677da9db02c73",
+    "titulo": "Veja os 50 carros a combustão mais vendidos em setembro de 2026 no Brasil - Webmotors",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTZobnlZUUFXRXFvakZoaHpiMUpaUzc5VmlIWFpnbEdudmdvOG16eVdlUkFvdWJxWlZZLXlkRG9ic2psVEJnUjNjLXAtMjd0R2ZKWUk5OVhrMkpPNW9OTERaZEh5bVN4cmlJbU5fZHBRWk9yd2lxanpOSFBBVERNdFlibUFONnBTT09yNnV3T0VYN29DSzhkb2JVTk5TVVk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-01T18:17:01+00:00"
+  },
+  {
+    "id": "5be7f8c65682341b552a87977c3d5d09",
+    "titulo": "Vendas de carros no Brasil sobem 20,1% até agosto de 2026; veja os números - Vrum",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmo1WnE3SjBoVVRzbnRxZ1FieHBvZWhtVHAxYWt3M2RmeTIweF9jVzNMWm1QeDZmYmVxUmhESXZVMVQzOVc3bjVzVHhfczVJTUhCeGhSR2JwQTR0TDg0c2hINzBSNkExTmhHMGJrZ3ROSkh2NVprejJfa1BvU2ZtX3FJLTBuY1ZlMGt3QWlpTkNkTW5YNHRwd2FJRUtTekdpTTFwTEx1N0Q1dlJxd2lNajNDRkYyc044WVAxc0lOSU9pZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T07:00:00+00:00"
+  },
+  {
     "id": "6b23ae4a16bd962d07615ceece959b01",
     "titulo": "Chinesa Zhongtong vende primeiro lote de ônibus no Brasil",
     "link": "https://www.autodata.com.br/noticias/2026/10/05/chinesa-zhongtong-vende-primeiro-lote-de-onibus-no-brasil/136933/",

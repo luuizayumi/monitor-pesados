@@ -1,5 +1,116 @@
 [
   {
+    "id": "14977ff78cc1bebf7bdb071e5f7983aa",
+    "titulo": "Chinesas escalam degraus e começam a movimentar o ranking de marcas",
+    "link": "https://www.autodata.com.br/noticias/2026/10/06/chinesas-escalam-degraus-e-comecam-a-movimentar-o-ranking-de-marcas/137014/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T16:09:13.545331"
+  },
+  {
+    "id": "df165c4052e67af8bf5708459b378b97",
+    "titulo": "Do caminhão faz-tudo à engenharia de precisão",
+    "link": "https://www.autodata.com.br/noticias/2026/10/06/do-caminhao-faz-tudo-a-engenharia-de-precisao/136134/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-06T16:09:13.545368"
+  },
+  {
+    "id": "00c4727baa8331881aa09ea4bb0ebd75",
+    "titulo": "Euro 5 e Euro 6: o caminhão mudou, a manutenção também",
+    "link": "https://frotanews.com.br/euro-5-e-euro-6-transformaram-os-caminhoes/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-06T16:09:14.961206"
+  },
+  {
+    "id": "61ac21fb52b82161213d2fea839af546",
+    "titulo": "Implementos rodoviários mantêm estabilidade nas vendas até setembro",
+    "link": "https://frotanews.com.br/implementos-rodoviarios-mercado/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T16:09:14.961215"
+  },
+  {
+    "id": "c161b4ec03ea8590fab7700ec6dceb57",
+    "titulo": "Vendas de caminhões reduzem ritmo de queda para 4% no ano - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0FvUGZuNGZQQlpBRGRFdHNjT2xGZFpKU3VaVC1ONVhzVklvcjRtLTNwQXZHT19BVXJuVW5rR3NzbXpIc0lGLVVCR1UtMWludlZVaWF0VmYwcUxYTnp5eW1fR3p0bHJwcEZvMzdYZV9FemNUZVJsSUxZQWhlVVhodHJMNEN2TmdfVlNBUWMzMzgtckpobkoxSVFKY0lEd0FOdG5NVEMwaGVIMHoyU1pKaEhR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T17:33:00+00:00"
+  },
+  {
+    "id": "7b390b9080fe9d97dfb6c9faf07c6d4b",
+    "titulo": "Vendas de veículos sobem 1,15% em setembro e batem recorde, diz Fenabrave - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXV0eXZTc2otWkRqRTloLVZ5SjBxenJmdWlNMDctLUlMOUxSNEJqTW1iOTZvZlVjZWE0VWhnQVFNXy1RWmhLdXZiWWRTUmVRWmZKOFZoNkJhWmo3NWcwQUxhVXBLMHRUMEFtOWdONlVaT01ILXNfY0NaVXVNTWlZNEUyTFRyeHplX3JZVmdjZDdKUnRtNUdTektkT1lkY1ltaHdsaWFjNUZ5NWY3WVHSAbMBQVVfeXFMTkxDQVpiVzdodHBYMmFSNEdyTlJLQ2Z6Q3BwclVsaURrSEx1RHNZTjFMbzB2RXhXdjY2aHhPazQyN1MxS1NuUUVqU2hUZjRlR0xCSGd6aWpTMzNIX0pRdWlNa2phVlBRTk5TQlJobmRYUU9yYWxZUF9LdVNxRHBxMjNCUUdDQkM0MnFCcEo2aHdXQUVDa1ptQmZPbk1DdHh6X25nQnV3czN0aUx6R2NiLWFwWEU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T19:26:14+00:00"
+  },
+  {
+    "id": "cff9c1fc7b76f3f559f9d30050cee2c9",
+    "titulo": "Emplacamentos passam de 500 mil e batem recorde em setembro; veja ranking dos veículos mais vendidos - iclnoticias.com.br",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qQjdIbzJmSEtJRWNsVkJ0OUpJOERBcmdVdGhiRmw3eW05Q3FwOVpCME1kYXNIMi1RME1uUS1lYmhOTkVIeDh5OGRQQnk1bHlReEotNW5uQzVuVEVKcTlEM3ZHeEpHVk9ZQ3AwS0NRWTZDWkZQZTUtUjFnNDFmaG8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T17:23:06+00:00"
+  },
+  {
+    "id": "2419b21f36d9d7e88d36e9e362fea698",
+    "titulo": "BYD estreia na Europa com caminhão de 1 mil cv e cinco estrelas no Euro NCap - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcnJlWnZIdXFvS3AxZ1Z0YWVXZHBzb2UzOFZteG5odEI5S2RqX3NIMUlYNHhsZVN5WTd5Uk1SWU9GTm1CSzhVNlZXZnRwNnJoYjRwdXJ3bWkyNWh6dGFPdElPSmJfZHVmdWZQaC1hX0MzT2JGMkd2MXcxVzZtT2VlT2NEemt3bG5sSUtINDNqUl84ZFo0Y3ZuMl9JaUw5ZlA0TlI4ZHpIZXFzekNhcGF4ZUt6ZXhWOUd5ZWFTVldYZG5xZjJZTEVGWFFnNGE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-22T13:00:00+00:00"
+  },
+  {
+    "id": "658ce69064680398a1fa479268d1232f",
+    "titulo": "Sprinter lidera três categorias em valorização - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2J2em5NbVRQLXYwYl94cHJjVkVMeExKT3JiQm8yLUc1SEhiTjJpUlNxU2dEdnV4OHhFX05MTUlqdTV3YXJ4T3pEVUFSU2U2NV90Ty01VFNBWG1Ja0toay0wZi1NRDRYdWNnVGhpWVVyUG1Vb2ExbDBxNjlnOTJEQVA5R2E5dm8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-09-28T07:00:00+00:00"
+  },
+  {
     "id": "f47f75b6f4523a02104af9dda495537e",
     "titulo": "Venda de caminhões novos cresce 2,5% em setembro - transportemoderno.com.br",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0pzWXotMVlpYlYzNDZtUnpMeXZTOTBuSUJoM0o3MC1vclduOTlXUkxVYTBvY1RuUlF6ZnFWa2pQa3d0bnk3ZGY5Y0kzbEFkd2hXT2NVRkd5SXpFWmZuOTBSUW5YRVdRdVRmcXlxektYSm12ejJLWmNEN1pkXzVrWTFpRDNYREFiMVplTVZ0WHVhZDNwSGc?oc=5",

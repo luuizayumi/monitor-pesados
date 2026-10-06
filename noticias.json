@@ -1,5 +1,81 @@
 [
   {
+    "id": "cf2494e4696f7cc6d375a099969cfc39",
+    "titulo": "Vendas de implementos rodoviários cai 1,5%, reduzindo ritmo da queda",
+    "link": "https://www.autodata.com.br/noticias/2026/10/06/vendas-de-implementos-rodoviarios-cai-15-reduzindo-ritmo-da-queda/137058/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T21:08:11.826276"
+  },
+  {
+    "id": "ee12ca1690522e8fbfb9f6cd24610c67",
+    "titulo": "“Tememos (políticas de) Bruxelas, não os chineses”, diz CEO mundial da Scania e TRATON Group",
+    "link": "https://frotanews.com.br/christian-levin-ceo-scania-tememos-bruxelas-nao-os-chineses/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-06T21:08:13.467060"
+  },
+  {
+    "id": "c75cc904080f55a9c566e5af30340bfa",
+    "titulo": "Como a Unidas reduz tempo médio de parada da frota em 26,8%?",
+    "link": "https://frotanews.com.br/ultimas-noticias-logistica-urbana-gestao-frotas-unidas/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-06T21:08:13.467074"
+  },
+  {
+    "id": "bdfc5077f1cada1c9a4d3e1c97f4ea34",
+    "titulo": "Emplacamentos de veículos superam 500 mil e batem recorde - Portal Piauí Hoje",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2ZKeDlmVmt2TFNLOHhscFRvZU1hMVV5dzEzdEJzbWNBMURlVVdqXzVyeG5LNHZZUnJWNlVFekdzVTVDaVdCRTlNMUJHZXhsQk9Zem84Y0tULWJqRlZZOU9hQlBiZm5wRm5YODdHVlVqZEQ4WHdvbXBiX1dvV0U0UTBra25SdmQ2ZDVmbVRYaXNpdzN5U1EwVFFYWjJiQkRfUTVYUWNfLTloVnI5X1HSAbMBQVVfeXFMTkJUbVItRHdhOFdSbk1xVV9fZUFQaHhXZC16U3pvenFrQUhEQ3dfU0dRX3dzYzN4WWhGSlcwaG91QnE1YVNaZUpqVDdad0FJZ1ljVjdZaTQ1MU0tZ1hKMnprVnNnazZsU0dGOWxseTV0UTE2YmJTSVdpNzJrTVdpbnlxQnBxcmF0SnNHQUZmREtmT2tVcll2MzdsazAzRm9lOEt5VmV3WGhYZlpVLTItamR5clE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T03:47:00+00:00"
+  },
+  {
+    "id": "16697f05acb0c9164001dd8d168daf61",
+    "titulo": "Setembro registra o melhor desempenho do ano em vendas de veículos - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkpjNkdiSVNMUUhmUFhudmNRZ2dGU0tsTlo4UjU2SGpaOVFYWWR2OEYyU1JXTTg0YlE2NnBmNnYyS29HU05ybHZJb0lSNWsxM2NxMGVMamtaVkpUNGZhN19FWTRRZ2dpU1dmdnBoMVp1UjRNS2NsU0hpeXpYVnBoTmh1QzhLV1JsOUltR3pxVXMwU0NGQ0JRLTJyYTlnZjZfODNyblNheVFoWmtLWEEwTC01S1IyOXlXUWtNYWFBQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T13:02:00+00:00"
+  },
+  {
+    "id": "f13a505798e00c5d3315fb488b723bfb",
+    "titulo": "Enquanto vendas de elétricos patinam, Mercedes-Benz lança caminhão com autonomia de até 500 km - www.abcmais.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObE84Y1lrT2NoV0NSSG1yYkQ2VUMwd3psT2dZaEZwSFRkOEJvcWlVMEhyZVA4OU9DcFdGbWtKTXZIcVFGb09oNURFVWhYb3JvbWxPcnJXOWRWNWViYzVkTVhEWjBCNmNTbm1FQjItY3RjRjZVSW5rX0dQQ2hxVnNBdWNyZjRFZHNJQjVFMzd4Ul9oZEtKQWpVcnVMZVNxeTFPaEQyOWNfb2hjOGY3V3pMYmpTemV1WUJaLXRTMU52azJIOGs?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-19T07:00:00+00:00"
+  },
+  {
     "id": "14977ff78cc1bebf7bdb071e5f7983aa",
     "titulo": "Chinesas escalam degraus e começam a movimentar o ranking de marcas",
     "link": "https://www.autodata.com.br/noticias/2026/10/06/chinesas-escalam-degraus-e-comecam-a-movimentar-o-ranking-de-marcas/137014/",

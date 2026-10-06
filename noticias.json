@@ -1,5 +1,386 @@
 [
   {
+    "id": "c1d45c9aba27abfc298c28e54e749de7",
+    "titulo": "GWM abre pré-venda do Haval H7",
+    "link": "https://automotivebusiness.com.br/lancamentos/gwm-abre-pre-venda-haval-h7",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T02:25:21.421972"
+  },
+  {
+    "id": "87ceb6b78f7a18119b91c5c69b045dce",
+    "titulo": "Silvio Renan é o novo diretor de operações comerciais da Scania",
+    "link": "https://automotivebusiness.com.br/carreira/scania-anuncia-silvio-renan-como-diretor-de-operacoes-comerciais-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-06T02:25:21.421985"
+  },
+  {
+    "id": "21b7ebe6b444ccc082597e40b5e40f3a",
+    "titulo": "Frota de ônibus elétricos em São Paulo soma 2 mil veículos",
+    "link": "https://automotivebusiness.com.br/mobilidade/frota-de-onibus-eletricos-em-sao-paulo-soma-2-mil-veiculos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-06T02:25:21.421989"
+  },
+  {
+    "id": "487f96ac791433cfa0271c56a024563d",
+    "titulo": "gwmGWM abre pré-venda do Haval H705/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/gwm-abre-pre-venda-haval-h7",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T02:25:21.421991"
+  },
+  {
+    "id": "d02c0971e625b5037e46d8888da4b1fa",
+    "titulo": "scaniaSilvio Renan é o novo diretor de operações comerciais da Scania05/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-anuncia-silvio-renan-como-diretor-de-operacoes-comerciais-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-06T02:25:21.421998"
+  },
+  {
+    "id": "90fb5d75e25acfc121ce61b05f00dbea",
+    "titulo": "transporte públicoFrota de ônibus elétricos em São Paulo soma 2 mil veículos05/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/frota-de-onibus-eletricos-em-sao-paulo-soma-2-mil-veiculos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-06T02:25:21.422001"
+  },
+  {
+    "id": "3e8793cc0a01c10594cc42d4f9f6b942",
+    "titulo": "gwmGWM abre pré-venda do Haval H705 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/gwm-abre-pre-venda-haval-h7",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T02:25:21.422003"
+  },
+  {
+    "id": "2f41bc3ee8a28c1871b7959ea3f51498",
+    "titulo": "scaniaSilvio Renan é o novo diretor de operações comerciais da Scania05 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-anuncia-silvio-renan-como-diretor-de-operacoes-comerciais-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-06T02:25:21.422006"
+  },
+  {
+    "id": "35965c36fbd3d262ee52dce767cf734d",
+    "titulo": "transporte públicoFrota de ônibus elétricos em São Paulo soma 2 mil veículos05 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/frota-de-onibus-eletricos-em-sao-paulo-soma-2-mil-veiculos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-06T02:25:21.422008"
+  },
+  {
+    "id": "34bfaf5899f4ce6c26b3bc9e65c838c8",
+    "titulo": "Vendas de caminhões reduzem ritmo de queda para 4% no ano - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0FvUGZuNGZQQlpBRGRFdHNjT2xGZFpKU3VaVC1ONVhzVklvcjRtLTNwQXZHT19BVXJuVW5rR3NzbXpIc0lGLVVCR1UtMWludlZVaWF0VmYwcUxYTnp5eW1fR3p0bHJwcEZvMzdYZV9FemNUZVJsSUxZQWhlVVhodHJMNEN2TmdfVlNBUWMzMzgtckpobkoxSVFKY0lEd0FOdG5NVEMwaGVIMHoyU1pKaEhR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T17:33:00+00:00"
+  },
+  {
+    "id": "f39d6b457d4422a033373125316089a4",
+    "titulo": "Venda de caminhões novos cresce 2,5% em setembro - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0pzWXotMVlpYlYzNDZtUnpMeXZTOTBuSUJoM0o3MC1vclduOTlXUkxVYTBvY1RuUlF6ZnFWa2pQa3d0bnk3ZGY5Y0kzbEFkd2hXT2NVRkd5SXpFWmZuOTBSUW5YRVdRdVRmcXlxektYSm12ejJLWmNEN1pkXzVrWTFpRDNYREFiMVplTVZ0WHVhZDNwSGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T14:02:25+00:00"
+  },
+  {
+    "id": "57b2b5dbdc1e71eb521b6b6b4643ea20",
+    "titulo": "Fenabrave: emplacamentos passam de 500 mil e batem recorde em setembro - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3pTcHZhYXZ4MnVVVE9VVmU2QUxKUHVaNFE1clpsMUpxaEdWNV9rTjJ1eDZsUkxmcXMxREtlZm55d0tTS3ZLem1jamhNQkFPTUhJWWxTMFdyLU9WOHFVMXhkZXNHQ3JscEYyOFdiM1JwVU4tVlFaMDAxblZ2MzcwOHRiTWxXdi1ZRTdmdFNPVTdPYjB2aldlVGpjSjhmbERJelg0dFlNQ3A1MTRLSVUyd0RtbmxpX0RnYWZFSFBjaG0yS19XRlE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T16:47:00+00:00"
+  },
+  {
+    "id": "47beea755b0c0d4197a1d7b3898e9373",
+    "titulo": "Venda de caminhões anota crescimento em setembro - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnlhV2JVaTFXZnR2Y0dkSFNJNkhaa0dlUllaajZJRGExd2hFc3ZaOUtLT2lITm15RDVjb2dpZE5YQWsxa0prN2JGbGFPckthMVJMS1FmblNSa3h2ckRwQkZjdjB1RF9MNE9iZmsxdEk0SGJzMXQ2YjNHZWZuRERLaWNvOGRpNU1WMFVlSUtnMzhaWERRT2ZCUDZYR3ZJd9IBngFBVV95cUxQNnlhV2JVaTFXZnR2Y0dkSFNJNkhaa0dlUllaajZJRGExd2hFc3ZaOUtLT2lITm15RDVjb2dpZE5YQWsxa0prN2JGbGFPckthMVJMS1FmblNSa3h2ckRwQkZjdjB1RF9MNE9iZmsxdEk0SGJzMXQ2YjNHZWZuRERLaWNvOGRpNU1WMFVlSUtnMzhaWERRT2ZCUDZYR3ZJdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T15:54:34+00:00"
+  },
+  {
+    "id": "20104773d029e81f2955f81874488085",
+    "titulo": "Silvio Renan assume direção de Vendas de Soluções da Scania - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTW1HUTduSVFkOEhvbWhsM3l5NlZQQUtGb0w1V0FnYktHUkFUcXF2RVZCZEZZOTdjb0hRWjY4MU9HOVFNcjZJQWVfdndfQ2hQSzFjNHh1Skk1UzhTcFVkbUZPTWs4TzZUN3Bnb3Z6YmhEM1ZzMFpYUGdwZDBuV0N5MEF0U3ZnVnFHMWswT0k4aGwzVkk1UFE5Tg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T12:32:50+00:00"
+  },
+  {
+    "id": "ce0c9a57159c6a0967dcd7c53cbaea95",
+    "titulo": "Volkswagen 11.180 volta à liderança entre os caminhões mais emplacados em setembro - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSERON2RqMUFrMVdRb0lqWmNjbThuQ0kyS0NoVWx4T19pclNpcHNXcnlGbVRvalVjU1pDMmZZalpjb1BNdC1zeTB4NHZKbUVzY1RnRXBwcTgxSF9OM1hxRU1CTEM1T0M1aDY0OWxyNlZBVVJIX0pmMHlhdUJHSWJpanltUjJWYTZTUjc1SFB3ajlNOWx4aWVxSnZ2RUNSQXdlMktzc0Fkd0pONE9DeUdZUEprdTByLUJrM0QxZ2lOWQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-05T15:08:01+00:00"
+  },
+  {
+    "id": "6bd9ae3362e6fe8e955eae76649cccd9",
+    "titulo": "Emplacamentos passam de 500 mil e batem recorde em setembro; veja ranking dos veículos mais vendidos - ICL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qQjdIbzJmSEtJRWNsVkJ0OUpJOERBcmdVdGhiRmw3eW05Q3FwOVpCME1kYXNIMi1RME1uUS1lYmhOTkVIeDh5OGRQQnk1bHlReEotNW5uQzVuVEVKcTlEM3ZHeEpHVk9ZQ3AwS0NRWTZDWkZQZTUtUjFnNDFmaG8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T17:23:06+00:00"
+  },
+  {
+    "id": "3c0f110df4a6fd84c7644ee406a7f05c",
+    "titulo": "Vendas de veículos novos têm o melhor setembro da série história, diz Fenabrave - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTS02SW5Lb0FUMkUyU1NvdFJVTnprS1E4TUwxQ25Fd0FybFd0ZkVhNUhRSlNISURrTUZoVGZNNVhvVG54OGdnUmxFaDBxZnhiWWEtdTdlZ2pFdGNmT0hNYU5EUVBFc2dSaWxlOTlvTnk2eVBBMG11Y2Q4Vl9HOXVqbE9fYXZCVWxUbVRRV3dWaFphUENiSFZiMEZOcnpJV3FKdUgxNlBDc1dDR2lvZk96aUpHN0ZIcklNV3R5LUZyd9IBzgFBVV95cUxQMkpYemVKQmR5M0lYYXJQWFB6NFdwckMxWEZaeXVNSzlwdHBFX3pBNEZWZXBNbUlTaUdsZ3p0bS1sOG5SUnVlbkRwTENjLXlVbjlsRlB3UmJxdlpmcmRpUlpYR1hBbzJjeGppVTZ6QTE2VGFZa09FaGJKZzBiRkVBQ1lvSE82MktFYVRjMnNJMUg2eV93NlMxT1JBcjlxeEhId3U3VzVaNzd4OTh2ZVpOYThRZ2trOS1TOFFLc2M5QkFWbDkySUdTRlU0Ry1idw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T16:15:47+00:00"
+  },
+  {
+    "id": "57244a0a3872631250a9ac910db5aa05",
+    "titulo": "Vendas de veículos novos batem recorde em setembro, diz Fenabrave - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1ZILVIwNXNZLUlWLW5wSlFQOUIzWnVQWmtVSmhLNkswanRfbFMtVzFKYlRRUFFWU2VWNWtpMDhfbjJlaXdYOUlJbE9XS0VGZkhxaThHOUJnNHRYWGVKRlVDbmw4SzFrYlNZX0NSYmdDRVBjUG5rWldnMG1uT3NjUlpZLU03VGZCUGNrM2RELXNLSG1KZkh0bTNnajN3Z3lzT0xac01WZkQwaFhtSjlQSGNlcVZZd2NBYWVHN2F4RVQzUDA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T14:30:37+00:00"
+  },
+  {
+    "id": "0253c492e11fcb5b504068e7aef0d5f9",
+    "titulo": "Vendas de veículos crescem 14,4% no ano e somam 4,2 milhões de unidades, diz Fenabrave - ABC Agora",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLczVaX0hUMmRFdU5iMXhPd2szV0pHc2tGbXhQNjhRMEtKc3lXTmpwZm5vSnZ6RHNhMDNqTjhCUF9FaldtRDFMTElIZk5raUhXR2Z0M1ZBV29lVVFNOU5ZVUUwdk5yUnBNb09ERzd6Tk1Hdmw1TXp2RzZRM1R1UQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T18:05:20+00:00"
+  },
+  {
+    "id": "672be0084e51ec4e1260153915b52477",
+    "titulo": "Vendas de veículos sobem 1,15% em setembro e batem recorde, diz Fenabrave - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjRVRHJ2anVTdG42MzhlVGgwS2hoNnVQb3JLSkZBaGhxejVxelhBSUpUeHV4MGNrSHVQMERNWXdmbzJLT0hhODZpRktOLUVhbVlCZmhuSTZsS1h5REVqQ2hLOEU4RkYtM2JKclh5N3g2Vl9IM0dQRVVUSi1PanpnM2UzNnJLNnBpeWpjMWcyOEpOb1JkZXdKZ1REalgtTDZKcG5EMzBiQ0FnZndsbDM2SjNNWdIBswFBVV95cUxOQjRVRHJ2anVTdG42MzhlVGgwS2hoNnVQb3JLSkZBaGhxejVxelhBSUpUeHV4MGNrSHVQMERNWXdmbzJLT0hhODZpRktOLUVhbVlCZmhuSTZsS1h5REVqQ2hLOEU4RkYtM2JKclh5N3g2Vl9IM0dQRVVUSi1PanpnM2UzNnJLNnBpeWpjMWcyOEpOb1JkZXdKZ1REalgtTDZKcG5EMzBiQ0FnZndsbDM2SjNNWQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T19:26:14+00:00"
+  },
+  {
+    "id": "fe12dbbf3dba846c6db1c1b84ee6b66c",
+    "titulo": "Venda de veículos novos bate recorde em setembro, diz Fenabrave - BOL",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0ZNcTJqTnI3YkJDalRTXzVBV1pnWElQSjBGcjZjVEJQRENBUzZrR29GckJtSUVWTjZ3S2Z5YXlBMDdTQm16ajRKSlk5Y3pTb1RQbW1MNzZlbmJWSmZOZTFBXzctZ1VnNlRTMzhneXJzd3lMUDRTbXo5ZHBmREZmeHdYY3F4Slo0TW9acm9ZYU9kaElXY1ZHdFVkT0hCd3YwYkwzNVV6NG9jcHRMMUJ3bERnSWc4R1hxbjNxb21fNDVwdnJxOXU2aWVoOTk2OUE2MXpWbThGUUtiM1haSXVEc3NB0gHiAUFVX3lxTFA3Rk1xMmpOcjdiQkNqVFNfNUFXWmdYSVBKMEZyNmNUQlBEQ0FTNmtHb0ZyQm1JRVZONndLZnlheUEwN1NCbXpqNEpKWTljelNvVFBtbUw3NmVuYlZKZk5lMUFfNy1nVWc2VFMzOGd5cnN3eUxQNFNtejlkcGZERmZ4d1hjcXhKWjRNb1pyb1lhT2RoSVdjVkd0VWRPSEJ3djBiTDM1VXo0b2NwdEwxQndsRGdJZzhHWHFuM3FvbV80NXB2cnE5dTZpZWg5OTY5QTYxelZtOEZRS2IzWFpJdURzc0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T14:17:58+00:00"
+  },
+  {
+    "id": "988ae4e478671fa82beca2f44039767d",
+    "titulo": "Vendas de veículos novos batem recorde em setembro com alta de 1,15% sobre agosto, diz Fenabrave - Terra",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSGJFbGRtamZVX3ZyYm4xYjhwTjBoVlBHYmEtMDg3M3hWV3JkTzhQbkwtLTA2ZHFjRWZ4cXh5SzFfYWpEYmppclVHQl9DWXFOanhmZFlyMU5HZGJJWEFyZWgyVWVKM0hHM05wQ0VGR0kxM2dXLWdNNmQtOWlNZEhQeExRTG1VeTFMLXA1SE84N2VVZTdXb2lzbmFFUXUxSy1FOWM3QXUwSW15RVFIX05rbExLeU9tb2R0V2Y4NEh1ek12bkhjSTNJa2ZCNDB1dWwwdU1YZ2h1dUhnSm9EQVV3ZjFLLTUxYUdFZUhmSzdETkw0NUN2amlad2ZhZzg4WjNTeGpv?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T14:20:00+00:00"
+  },
+  {
+    "id": "36c57b404de87015f405891469cf75b9",
+    "titulo": "Fenabrave: emplacamentos superam 509 mil e batem recorde em setembro - Ubiratã Online Notícias",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFdHUmtVSWE5bEhfTUtRbmdnWjAyRE5XMkhJWXZ4UHZhb19ndUdjV1F5VU96amhuVktSVXA4a3NHdzJwTVVhT00wNl8xNG1pQ1VqNGl3X2ZuSTFfU2MtZURBYjF3QkRfQUN5eWVrNHRhTE4xdjNEUzNCQlRqWExuSkpVSk1oMDRRNnB0SHNPcDJwM0stSEEwV1ZwWnlJdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-14T07:00:00+00:00"
+  },
+  {
+    "id": "319905370e2d586e2cb22c0183e7a6bb",
+    "titulo": "Setembro registra o melhor desempenho do ano em vendas de veículos - autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkpjNkdiSVNMUUhmUFhudmNRZ2dGU0tsTlo4UjU2SGpaOVFYWWR2OEYyU1JXTTg0YlE2NnBmNnYyS29HU05ybHZJb0lSNWsxM2NxMGVMamtaVkpUNGZhN19FWTRRZ2dpU1dmdnBoMVp1UjRNS2NsU0hpeXpYVnBoTmh1QzhLV1JsOUltR3pxVXMwU0NGQ0JRLTJyYTlnZjZfODNyblNheVFoWmtLWEEwTC01S1IyOXlXUWtNYWFBQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T13:02:00+00:00"
+  },
+  {
+    "id": "ce7ddace01ce43d8648d8a04fbfb6ed6",
+    "titulo": "Totvs conclui venda da RJ Participações para a Distribusion por R$ 39 milhões - IT Forum",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzI4LUpRU0hRY3NPOU1UU0c2eUpGSE9EVHIzdXppS1Nodzg3RlotM01ZTlZLc2Fvc0hTc3M5NG1vcXZMS2FPaEphLU1ZZjdhbFZhY0JHYTk0MWdrampBMy1OSVRxU1pTUjJIa1dJWjI2OThqWGxNM0Z2QXlPX1czRHhmMTNPYVR3N0hxUkZhcExTTzZ4b0Z3MUt0a9IBoAFBVV95cUxQUjRseEdaalJNWm9HNDh6d0tIZ1E3dS1fdEtOX2ZaN2haNFVRRmp6bTlYVEt2SHZEcTJoeE9nbDJaNzlKYlllMXJrLU81cXZ6NF9XUWxjZ1hNRXFra3FPWl94djNVZzF3WXNySGxxM0c0MDMzUTY5SHhvU2I0dzIyMlRJek9td0xvWFhfQVdHb0JzaUZTX084eHRwVDRMVERB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T23:03:28+00:00"
+  },
+  {
+    "id": "b4a49ce76bb27c88f59bb71a02710bc0",
+    "titulo": "Vendas de veículos novos em setembro batem recorde; veja o ranking - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zemhOX2FnSzhyVFNaeWhDRGFPbGFMLUE1Sy1hajRIY2h3WktjM3NTWnB2dkk3X0x5eXp3WFJpVVhmZVUtaThad1BrTk9PMWxMUDFZREQ1SjU3NVp3N0xqVzJxZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T19:00:00+00:00"
+  },
+  {
+    "id": "c6be7609c34ed595d5ae0e06222f7590",
+    "titulo": "Vendas de veículos sobem 1,15% em setembro e batem recorde, diz Fenabrave - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODFJQnp5ZTUyOXhERDRUYnJHRVI0MUZBMjRGVEtFdGtlZVI3eG1jekh2NXpXc3NTRkVOTHVDQmxudEJLMDk0WXZaYkEwR0J5eXhRMkpsUFJXWU9GSGM1RDkwR0lmOGJnMjBQZDFkS05WOFZtcC1JZmtUZWNHX05EMDU0Q3JHQVpJRy1EN3BqNFVHMjVrMWRaRk0waVNGSC14djdXVUNKd1VUOHViX2fSAbMBQVVfeXFMTkxDQVpiVzdodHBYMmFSNEdyTlJLQ2Z6Q3BwclVsaURrSEx1RHNZTjFMbzB2RXhXdjY2aHhPazQyN1MxS1NuUUVqU2hUZjRlR0xCSGd6aWpTMzNIX0pRdWlNa2phVlBRTk5TQlJobmRYUU9yYWxZUF9LdVNxRHBxMjNCUUdDQkM0MnFCcEo2aHdXQUVDa1ptQmZPbk1DdHh6X25nQnV3czN0aUx6R2NiLWFwWEU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T19:26:14+00:00"
+  },
+  {
+    "id": "a2f857ee5acae3b88da30c8563400dca",
+    "titulo": "Vendas de carros no Brasil batem recorde com mais de 500 mil emplacamentos em setembro - bra1.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHdTUUdmVHpCUFF1cFJxTlNUOE9VWW9sWGgtaU8wOUhFTUVOc2VXVGcxLVIxbEdtRkZUcGU3VG9tVGlNdzJNR0FVYVpONnpxNVNKT2RrNnJ6ZmNudlE4VmNpckoybVhnZGVFUFdqYnV1R0dsV2I4ZWJQQWxDR2JucGNWcWhEbmlWN3U1eG9kbTk5bGlYNUE0MmFveGduZ1NYdU5tRzJCZHRLa2NBQW1JMlQ2UUtKZjNCdnpiN08wZi15eGhyMGNMZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T18:12:00+00:00"
+  },
+  {
+    "id": "708e7a7007a39e6812beb5746b404363",
+    "titulo": "Vendas de veículos novos batem recorde em setembro no Brasil; veja ranking - GZH",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd2xCTDJCTUtwT2U1LUJrYXgxSkJiQ0xrRG0wbkRKaE9FaW0tX3QxZXl0Qm1NdE9rd1E4TngtVzh0dXZuWWpCZFJNeHVURTRyUlI5dE5aWG51bTRiMkd4Wm90VmVVN1g1WmtIV3B2YUNTal82eHlhQWdRclJ2MFNzbEtrOUl6Q1VzX24zc2ZOWUVUNjZXcjc5ekNzc2d3akFjQmlFVC02NnhhMHkyMUZ0cmItMkc1eGYzU1pKV09FRFJRRkFKNU1zMjRtdXdWSkhBS0Z2QnRENGpUU0FFT1drdkV2cVNob21NcVZBYW5qRQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T21:30:47+00:00"
+  },
+  {
+    "id": "a32ce84196824e9f3acbb0f1f2f06ad2",
+    "titulo": "Venda de caminhões anota crescimento em setembro - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzhHbjdfTy1ocE5za0tqdkYtdk1ja0Z1WHZtNlZUelM2Zlo1OThZYnYySTFWYVFsREtzeFd4dl9LZFUzQjZWX3V2SVY0RVdYMUxOZlFnZDlwNWJwUlFoNmNfZzNtLV9KVnhTZmh5NDVsc1Q2eEFYbzNFaWswVTByb1NOeWhadEhRSnZYazNQV1VOaVlTcy1fNtIBngFBVV95cUxQNnlhV2JVaTFXZnR2Y0dkSFNJNkhaa0dlUllaajZJRGExd2hFc3ZaOUtLT2lITm15RDVjb2dpZE5YQWsxa0prN2JGbGFPckthMVJMS1FmblNSa3h2ckRwQkZjdjB1RF9MNE9iZmsxdEk0SGJzMXQ2YjNHZWZuRERLaWNvOGRpNU1WMFVlSUtnMzhaWERRT2ZCUDZYR3ZJdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T15:39:00+00:00"
+  },
+  {
     "id": "246036c18fe6d3f2b14554f3d3051bad",
     "titulo": "Relatório de Tendências 2026Coletânea dos relatórios das trilhas de conhecimento do #ABX26 — indústria, mobilidade,cidades, energia, varejo, tecnologia, frotas e agronegócio — consolidados em um únicovolum...",
     "link": "https://automotivebusiness.com.br/estudos/relatorio-de-tendencias-2026",

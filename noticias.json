@@ -1,5 +1,78 @@
 [
   {
+    "id": "51320e884c63642a69241339e2219bfb",
+    "titulo": "Novo ônibus off-road da Marcopolo tem foco no agro",
+    "link": "https://automotivebusiness.com.br/lancamentos/novo-onibus-marcopolo-off-road-agro",
+    "fonte": "Automotive Business",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-07T14:39:32.031912"
+  },
+  {
+    "id": "d1b4e1a4517234d05cdf0de42a106d57",
+    "titulo": "Venda de implementos rodoviários cai 1,5%, reduzindo ritmo da queda",
+    "link": "https://www.autodata.com.br/noticias/2026/10/06/vendas-de-implementos-rodoviarios-cai-15-reduzindo-ritmo-da-queda/137058/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T14:39:34.820207"
+  },
+  {
+    "id": "ea8676e5856a980f3fa6462ccdda63e0",
+    "titulo": "Gigante chinesa dos ônibus elétricos quer 15% do mercado brasileiroEmpresa será representada por grupo brasileiro e tem planos para fábrica e produção local a partir do ano que vem",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/gigante-chinesa-dos-onibus-eletricos-quer-15-do-mercado-brasileiro/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-07T14:39:38.359091"
+  },
+  {
+    "id": "d7da882db9410c8411c299e5f06dafaf",
+    "titulo": "2.Gigante chinesa dos ônibus elétricos quer 15% do mercado brasileiro",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/gigante-chinesa-dos-onibus-eletricos-quer-15-do-mercado-brasileiro/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-07T14:39:38.359106"
+  },
+  {
+    "id": "1385d0d95a9a2dd839fdf1f28919e8ec",
+    "titulo": "BYD coloca pela primeira vez um carro elétrico entre os três mais vendidos do Brasil - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVpqYlVqOXg1WmYxZUMtQ2NhNUdUVVFuNHFNbjYyQXlTdXFRQ2FwN2FhVEdPNzdmVGZuMW5MVlgyZUkzdUpiWWZEa0d0SHV2eUlfNF93UWpFeUxReVFqYldfUWlXX0l3ZWFKN19ER0JNR3JYUEl2VkVick9jU0Q5c0syaFJib2NnSWV3TTZzZFM3VDdlRVZCRkgxSkFHT3hKcWFkNzY2YlJ4VWhTTmxYcUJabFN5Z1NQdmQ4b3FONDI4VjA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-03T19:03:57+00:00"
+  },
+  {
+    "id": "12e99ff164de89bd42313588d6ecb238",
+    "titulo": "Vendas de caminhões zero km crescem apenas 2,5% em setembro - Portal Caminhões e Carretas",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1NIWFgwc2F2T0h4MWY0akdZWHNrYnRWNEx5SjJCZTFIRHhrRjJBT1EtTzRrQ3JxbFZKWkI5eG53Nzc3S1N4MnBaSGhocXIyQmFlaWVYWHRhOWNOZnREeTdrYnRVLXRZc2oxNm5HRjktZ2o3TXlUQTJ3Mm9zR0FHdmo0ZEFxZGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-29T10:03:00+00:00"
+  },
+  {
     "id": "99007a08d7af5905b67b7dc58deac6fd",
     "titulo": "Gigante chinesa Zhongtong chega ao Brasil, prepara fábrica de até R$ 100 milhões para ônibus elétricos e aposta em montagem local antes de avançar para produção em maior escala - CPG Click Petróleo e Gás",
     "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOakRxaWwzcWw0d0hJZ1hSX25yc3BaS0NMazRfWGt5T2I2cWpCOHdQWkM5SDZYaDktbGFZSl83eGxVYWxHdXFBbnNjMW16NmdfNVlvZjFzLWoyamxFTnBOcDliLVMtU1RYajhKZzNKSF9uRTI1UmQ4ZG0tTGhpbjRHMWVmcFZpd3RQZDRFNVBRa3hrdnQ5RTdZbTU0X1pLS3d4VE9jRFBMTl9zMy1SOHpvd2otSi02VldSQ2IxdnJHUDZsQjFGNFRJSUNEVWc0OWJLNExZUUYtY1JRblY1dW84a016aUo2N2hzeVBRWjhBUzZaZURFaUNxc0MzTkpNcnRYc2pJM0laZTl6Ri1hWnRfYWlWNDVnU1l5QVkzY1ROSGloLTYxRlNSYmhoWTBOSjRnMVNIOHpuZDk?oc=5",

@@ -1,5 +1,55 @@
 [
   {
+    "id": "b86b5d9a9e360685b90bfba8a95f0ade",
+    "titulo": "Anfavea revisa para cima projeções de produção e vendas",
+    "link": "https://www.autodata.com.br/noticias/2026/10/07/anfavea-revisa-para-cima-projecoes-de-producao-e-vendas/137209/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T20:27:58.329322"
+  },
+  {
+    "id": "39689ec4b037908468f21aa06f26bd11",
+    "titulo": "3.Gigante chinesa dos ônibus elétricos quer 15% do mercado brasileiro",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/gigante-chinesa-dos-onibus-eletricos-quer-15-do-mercado-brasileiro/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-07T20:28:01.410677"
+  },
+  {
+    "id": "0404c1154a2b84193dbe8f163a13699d",
+    "titulo": "Marketing &#038; Soul apresenta nova newsletter semanal no Linkedin",
+    "link": "https://www.balcaoautomotivo.com/2026/10/07/marketing-soul-apresenta-nova-newsletter-semanal-no-linkedin/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-07T20:28:07.154651"
+  },
+  {
+    "id": "5d3db11f994f1313e9ba0a6702bdca0e",
+    "titulo": "Fabricante chinesa domina venda de ônibus elétricos no Brasil, e São Paulo autoriza R$ 3 bilhões em crédito para ampliar frota - Gazeta SP",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1DUDk2R2JWaXVDOF9zNnE3V1pocm9tQ3NpMGZaUU53UnB5Tkt6bTh6bVY0b1JWTGZnYXJsdl9jd0hVanI3WEtUZWJ3TDYxU2IwRE1RckFIS2otZXo3VHpENzdJT1lKd3hoSkZ1VWE4cWNPcktzaGhXSzJWZGVXTzNFbjlJcXVmSUNFTXQ4NVRUR04tbE5vZzM3am5ycVlhbzQ4TkprMFJndUZyLXowai0zRzdLcW1LNmJuWk0yUWZMSm5vT0tkRm1pYVFaQVRJSWlEUU1NUmFTd2tLTHp3U3lZY1Z3aXVEWVFObVAwMFNLdTM2Skl3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-15T07:00:00+00:00"
+  },
+  {
     "id": "51320e884c63642a69241339e2219bfb",
     "titulo": "Novo ônibus off-road da Marcopolo tem foco no agro",
     "link": "https://automotivebusiness.com.br/lancamentos/novo-onibus-marcopolo-off-road-agro",

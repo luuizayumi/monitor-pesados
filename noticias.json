@@ -1,5 +1,89 @@
 [
   {
+    "id": "e950ebc4cf88287d9cab39e990bc0abd",
+    "titulo": "Venda de eletrificados avança 126% até setembro",
+    "link": "https://www.autodata.com.br/noticias/2026/10/08/venda-de-eletrificados-avanca-126-ate-setembro/137294/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-08T20:02:17.633196"
+  },
+  {
+    "id": "511ecf6d691b19b7fd808600658a5e70",
+    "titulo": "Vendas de caminhões e ônibus devem cair 6,5% em 2026, prevê AnfaveaEntidade reduz projeção para veículos pesados, apesar da recuperação das vendas em setembro; produção também deve recuar",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/vendas-de-caminhoes-e-onibus-devem-cair-65-em-2026-preve-anfavea/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-08T20:02:20.725486"
+  },
+  {
+    "id": "7cb3c1c6c3d5ece1495495f6552d06e6",
+    "titulo": "Gigante chinesa dos ônibus elétricos quer 15% do mercado brasileiro",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/gigante-chinesa-dos-onibus-eletricos-quer-15-do-mercado-brasileiro/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-08T20:02:20.725498"
+  },
+  {
+    "id": "92c5fea375a1bf78abcdb5998d1a2692",
+    "titulo": "MANN-FILTER amplia portfólio para veículos de fabricantes chineses",
+    "link": "https://www.balcaoautomotivo.com/2026/10/08/mann-filter-amplia-portfolio-para-veiculos-de-fabricantes-chineses/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-08T20:02:29.034786"
+  },
+  {
+    "id": "daf61eba68a1a6fd1ecf28fde3dc4793",
+    "titulo": "Nova plataforma de telemetria da Bosch auxilia gestão de frotas",
+    "link": "https://www.balcaoautomotivo.com/2026/10/08/nova-plataforma-de-telemetria-da-bosch-auxilia-gestao-de-frotas/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-08T20:02:29.034799"
+  },
+  {
+    "id": "d1379b2f03e7636549ac18d2a0bbb119",
+    "titulo": "Vendas diretas da BYD disparam quase 500% em um ano - BYD",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOSW4wczJLOHlib096RHp5SjJZM3BONFg1YTlCdi1EcDU4ZThYb2Vsem52MnVjYVJfVWNWQUh2UW4wQzhBekRxV3l6dHZ5OGFRVjFKVFFRcmRNenlacy1SdDFEcWZOMVZZZzUtM3VHbUFXUGVl?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-02T07:00:00+00:00"
+  },
+  {
+    "id": "d3a595acdabc49e8afd855d5e25b6490",
+    "titulo": "Vendas de veículos crescem 1,15% em setembro e alcançam recorde, aponta Fenabrave - Business Moment",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnVyaVlqZkRkb0FsT2x6VFR2NGlyWVFrUEo5anBWNjhnQ1hRUjFfWVJEekMwYktRWmxCYVFEZVJNUmwzY2JiZW5FaENSZ2JLOF9rMFJoTDB0Ul9YTzYxcTBfWW1xS2c1WDhMV3Z2aHYwVU82NEZvRU5hSnhOSUphMklRZzBRV1lxcGdCTUYwYUFNa2djWGlYT3lSb1RCNTN5eE1vVWpKREtxZ3Q0N1HSAbYBQVVfeXFMTzN2aVN3QUIzNEdhSGZRUEdWakhpeUtvUnllSDNDZTQxSm5VaFlENnM3TDhuTTdOZGRVNTZwRWhZb0FwYmlob21SMjk0eEk3RENteVB5NXhPTjBjY1dEb3VGNkxHbWRmdDdQSmJDX3BrTFcxYW9XNjdWZzlIdTVqMHhHM0paMmZvM01fTER0X3FYanRKQXdrYXNuSXZ1d1hLdUN3UnpjeFg3MWQtUXBFcDNUTnlYdmc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T12:26:52+00:00"
+  },
+  {
     "id": "e6c63ce3d24a9733889aa229b0a761fa",
     "titulo": "Volvo FH 500 ou Scania 500 R Super: gigantes de 500 cv 6&#215;2, duelam nas 58,5 t.",
     "link": "https://www.autodata.com.br/mobility/2026/10/08/volvo-fh-500-ou-scania-500-r-super-gigantes-de-500-cv-6x2-duelam-nas-585-t/137186/",

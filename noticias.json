@@ -1,5 +1,189 @@
 [
   {
+    "id": "e14217fb53f745ec2f926fec5283a1bd",
+    "titulo": "Produção de veículos cresce 8% até setembro, com recuo em caminhões e ônibus",
+    "link": "https://automotivebusiness.com.br/balanco/producao-de-veiculos-cresce-8-ate-setembro-com-recuo-em-caminhoes-e-onibus",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-08T00:21:29.115385"
+  },
+  {
+    "id": "06281283ec3fd1035653e4c5cc4b2130",
+    "titulo": "anfaveaProdução de veículos cresce 8% até setembro, com recuo em caminhões e ônibus",
+    "link": "https://automotivebusiness.com.br/noticias/producao-de-veiculos-cresce-8-ate-setembro-com-recuo-em-caminhoes-e-onibus",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-08T00:21:29.115404"
+  },
+  {
+    "id": "2bf8322172d4369dba0d547a41c4e890",
+    "titulo": "Vendas de veículos são as maiores desde 2014 com forte participação de importados",
+    "link": "https://www.autodata.com.br/noticias/2026/10/07/vendas-de-veiculos-sao-as-maiores-desde-2014-com-forte-participacao-de-importados/137258/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-08T00:21:31.775465"
+  },
+  {
+    "id": "71a49497d304e36d2ad0d9c989c0e6bf",
+    "titulo": "Scania apresenta novo ônibus Touring com mudanças em design, cabine e motorização",
+    "link": "https://frotanews.com.br/lancamento-onibus-scania-touring/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-08T00:21:33.522924"
+  },
+  {
+    "id": "3547166d7184e092f60a4b26162a8ad7",
+    "titulo": "GWM inicia vendas do Haval H7 no Brasil",
+    "link": "https://frotanews.com.br/lancamento-gwm-haval-h7/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-08T00:21:33.522938"
+  },
+  {
+    "id": "b85b881479b784a9cdd9afb267e40ebc",
+    "titulo": "Francovig adquire seis micro-ônibus Volare para atuar na Região Metropolitana de Curitiba",
+    "link": "https://frotanews.com.br/francovig-adquire-seis-micro-onibus-volare/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-08T00:21:33.522941"
+  },
+  {
+    "id": "0e0463966c2b39083e3059474f2d80a1",
+    "titulo": "SETEMBRO: Volkswagen Delivery 11.180 segue no topo da lista de caminhões mais vendidos do Brasil - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnVfVmhtREVOSGg2Mm1tMGV2NkNIRHQxbDJkcGVtcm5DeG0yS2RuYVJoRHRpbUFkV1psa21jUFpqV2plRS12R09pS2NCd01PZXZ5WTIyY2NzT3VwWXFUXzgzX2JEbFRtbDhtaVNoQjBZNmJEUjlwM21mTVJCQWJaRU5ib2otcjdFdTd4X1BhZ0pEenVfSmRvamp5X00ySld1NmJJajlKd3ExcjdiZlVCZldQa3NaWjl0V2ZTeU5rSFZXQjNFTkNnZmFtN3BONGdVZThlWG5R?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T14:58:02+00:00"
+  },
+  {
+    "id": "9aed8dbc0eab85d6bb843a54d20d317f",
+    "titulo": "Vendas de veículos são as maiores desde 2014 com forte participação de importados - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdW5IRDZfVWdHbmwtRDY2dGowdndIbmFhZEI3MmlwelBuSkxFdV9iSWV3cENUa1NHNUFDbWh2Wm1STFNwajFYQWFCVzhobGU0SEVSeVFxUzZ4SHdnYzlkTnBnRVduLTRhQ3FWZ0pyLW9keW5HTC1rTHVwdVBXTGNGRUJrc3h5QXBnazZucVRkYm5lRFVsV3N5dmVVMU9iX1lSdUpobmx3R3dTQ0ZudjE2RVlLQzJ6dWFvM3MtSzVtN1E3MVFZQmxtWmlrVHFqdi1DT080?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T22:09:00+00:00"
+  },
+  {
+    "id": "944fdeea109f8c1cf7a60a4af3772ad7",
+    "titulo": "Anfavea prevê que mercado brasileiro voltará a passar de 3 milhões de veículos em 2026 - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWlJLcy05WDdqeGtJb1ZUVHIyZTlidnVsZVdWdVpMLVY3RDZOczRQRmd3RFl2NXdNTVEyTTd3eE5KQ29GcUI1TDc5WUFWd21IbHVMT2x6U3VXRVlaVkhDTXhta2lPWHROTl9ZblZDTjY2UDZaQUdBOVdRQkR6aXpQbm5haHVsT011ekIwM21faGozLUE0ODRMUEVQajFsaTcxWjN3bkpaSGlwN2szWnF6M1ZzT3RWNGpSN0dCOFI3WEdldVl1cWxuY1FESzQ4Rk0yRkpyWVBOekRVTTgtUmoxUHozZjZZc0pEYWgw0gHrAUFVX3lxTE1aUktzLTlYN2p4a0lvVlRUcjJlOWJ2dWxlV1Z1WkwtVjdENk5zNFBGZ3dEWXY1d01NUTJNN3d4TkpDb0ZxQjVMNzlZQVZ3bUhsdUxPbHpTdVdFWVpWSENNeG1raU9YdE5OX1luVkNONjZQNlpBR0E5V1FCRHppelBubmFodWxPTXV6QjAzbV9oajMtQTQ4NExQRVBqMWxpNzFaM3duSlpIaXA3azNacXozVnNPdFY0alI3R0I4UjdYR2V1WXVxbG5jUURLNDhGTTJGSnJZUE56RFVNOC1SajFQejNmNllzSkRhaDA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T21:28:44+00:00"
+  },
+  {
+    "id": "ca5695102be932775beb965934b64c04",
+    "titulo": "Vendas de veículos devem chegar a 3,1 milhões em 2026, diz Anfavea - Band",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQTRac21FYTVVQjNXb3FNNUxsUUIycUttZmFEYi1zaEN3Rk5iSk84eXZzVnJSRjZtMjNRZXNGamM2cGRlLXh2eUJxM3JvajJoS01RWDd5QUVzVTRwand5MlFKdnY4cUlOdEJZV3ZBbDlGOERORkd6N3NrWmtiS2tZLWxoR0dad3V0NF93eGdQZ294c0haQ2tUbnVzbTJIcG8?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T20:12:00+00:00"
+  },
+  {
+    "id": "5e36b58a6a28dfe2b4c8c0054a0f5402",
+    "titulo": "Produção de veículos sobe 10,2% em setembro e vendas têm maior volume em 12 anos, diz Anfavea - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOamxMS0RXZWdMM0dHV3llZndyN3ljU1A5YlVRUW45SUVBNG5kc3A0N1VJVWdWcjYwUmpjd1VsX0s5MU02aE9HLVFOb05kOV9LS2NMclgzSWhTRi1TODBicVNoRTgxVzVpNHl2bE5yb2xBVXZTVm92VGlVZC0ySVRTTzJiWWRZNWpETDhzZjgzVW8zZEx1ZGJWd09lNG8zd1Y2WEdvTjVPcTlOYlFDeFVLenN0d3JVaW9vUXdTOEpCVzZPSnFVTkMzUzlPZ0NXRldpU2laVUJDSFI3amotU3lmSTBoWERxX2ZLTVJOU3JTRWo?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T18:35:00+00:00"
+  },
+  {
+    "id": "bf955dc0d1e7e8991fed937f30a9603a",
+    "titulo": "Produção de veículos cresce 10,2% em setembro e vendas atingem maior nível em 12 anos, aponta Anfavea - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVRRT3A5RG1uYUxNR0tEbkRlU3dTWFdFbVp5a1dwNVVRTlpPOVB1amtDbl84V2c4cVZOYzVpbUpCZzhZaTlJV0Q5VnF6cE5lcjJ1OGlLbkpBRWt5Vms0Y1UwWTczTTBoa2xid0JVTkhmV2psSmdzVWJDU3hZYTNvVHdiaUhrLV9xNTlOOHlVMGJMb2R4RTNVWmpqcDBFaElvRno2c1dwaTNHMEpKOW4zS0RITmI3SVVCc2ZTZGs2TmlZVXIyOXZjdWRGNW9qaEZuUWZwZTMzR0pING1MX0tYbUJRLUxESDEt?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T19:06:00+00:00"
+  },
+  {
+    "id": "7e53c4c86fee37335af76a1b564217d8",
+    "titulo": "Anfavea eleva projeções de produção e vendas de veículos em 2026, corta exportações - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeTdSX09GUHJkcUlXSE4wZzh6SHJ5cFJqakx4OG9vSXRrek5JTVJXNVdZZFhERG1GMlV0emlFY1V4NzNmVmN4X3BVQmtHa3pqSU1falRmR3BjcEEzaDNZSUN0RUc3RXJ2Z2kzSDVub2pkZEZ1X05EU1ZJalQzT3Utamc1N0JKYUlmd1lIbFotSGx0bkNGcEllZHBGVTIwQ1Jhem90QWk2blhlVF9SZVZneTFXeTh6QVdsakoxdUdQWkxLNTk1b0FIYlA0R25QOXJIbFh5VzNIMDM3dTFBOTR6YkZyczJ3d01XOGlDVkthNkRsWXBw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T19:00:00+00:00"
+  },
+  {
+    "id": "0acd8783cbf346713a0a04dc8e1acbec",
+    "titulo": "Produção de veículos cai e vendas sobem em setembro ante agosto - Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMHVnRDh4MEdQM3U1bllROXBGcXo0RWRtM3F6RE1OWjJ4aHIwQnF4M2lpWUhqNXJwamJsTUJXRS1LV3VKejVnT1lpS2NpTkROSU51NGFuTHBpV2RwWnM5LVNVbFZNb3hSSGROSEdXc2UyT0doeF8xSHc4NXVWN09MVWtheVEydXh0UlBsNkRsaGctcWNUcWlibTBxVmZXdEZWeXhnazNuVXoxaUJoSzVhTGtqdDJWMlJfb05BWG0wS0E5eDlhQ1RQNEEyTWI0amx4dlJxWGdhS3hVSFHSAdsBQVVfeXFMTTB1Z0Q4eDBHUDN1NW5ZUTlwRnF6NEVkbTNxekRNTloyeGhyMEJxeDNpaVlIajVycGpibE1CV0UtS1d1Sno1Z09ZaUtjaU5ETklOdTRhbkxwaVdkcFpzOS1TVWxWTW94UkhkTkhHV3NlMk9HaHhfMUh3ODV1VjdPTFVrYXlRMnV4dFJQbDZEbGhnLXFjVHFpYm0wcVZmV3RGVnl4Z2szblV6MWlCaEs1YUxranQyVjJSX29OQVhtMEtBOXg5YUNUUDRBMk1iNGpseHZScVhnYUt4VUhR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T18:10:01+00:00"
+  },
+  {
+    "id": "fc8abe60b1f91f2d2178faac6e434ede",
+    "titulo": "Anfavea revisa para cima projeções de produção e vendas - www.autodata.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHZfRUJCZXZCNVBuRVI0eE9hbjBfTDcyWUJnT0tvckxWVHhfb1c1T2dqZWhmYlZmeTdjS3VfNnhJY2NwVUtBMGNwS0ZiZ3JCcXptV1lTbXBRbFVoM2NVbWJDQ3RjazBRTG9MSnhwMjAyanh3UXBxd1c2TFBSNjgyYnltSHlMaVFHOVJrOFQtR1F6czUzRjVaR3Z4cDhabko0cUZIT1J1ekwtVDRCRXJFSA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T18:52:00+00:00"
+  },
+  {
     "id": "b86b5d9a9e360685b90bfba8a95f0ade",
     "titulo": "Anfavea revisa para cima projeções de produção e vendas",
     "link": "https://www.autodata.com.br/noticias/2026/10/07/anfavea-revisa-para-cima-projecoes-de-producao-e-vendas/137209/",

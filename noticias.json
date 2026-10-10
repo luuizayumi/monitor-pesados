@@ -1,5 +1,42 @@
 [
   {
+    "id": "39f25017a71ba0ce1516a2843dd3183c",
+    "titulo": "4.Motorhome de Gusttavo Lima em Barretos tem tamanho de apartamento de dois quartos; veja detalhes",
+    "link": "https://www.estadao.com.br/jornal-do-carro/cultura-automotiva/motorhome-de-gusttavo-lima-em-barretos-tem-tamanho-de-apartamento-de-dois-quartos-veja-detalhes/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-10T00:13:17.026425"
+  },
+  {
+    "id": "6195277686aaf8a372a83e3f208c92b8",
+    "titulo": "São José e Taubaté aumentam venda de veículos novos em setembro - G1",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVUNDUWlOSTRLbUd1WjRzZG9VTzRZR0t0em1yeElxcmt3S1RqWm5QblR3NkhFVmthRVZxcVFiU2E1TG1TM1l4cllpTnVncE9nY0l6YUk4R3NGOHRMVUxPT2hGUHBNdEFOUTI1cFROdHpXZ0dEZnZoX1d3dm4wVTlIckN5SzJLUkgtb1NWOXlpd2lDTEgzbU0ya3JSY3hfYzFNejJYOVdKUFVYR1d1aTNudHhLY1BIZ1lrbTRaTnlhbUxNUHBpczB5VGVIa0s5SVl60gHfAUFVX3lxTFB1b3lVdDlZOURDYl96bEt1TS1fQXJibWZLYk1CMDJVWnQ2SGNNcWt0cW9GNVRLeXpBMk9Yc0owQVRROGlaN3NYZFBwTXMxajRwSkFqVnZvTWdZS0VoRVpFczcyN1duczBRdVNpeG5oMGNKQll3RG9vcnZxcTBoVExOWGZlU1BVbXFLZHFaSFhDb0Etb0xsQ3hxM0U3MGh6TlBrQmFTQVI2QnFUcUtTemlMal9XblBteklOQXRiT0JGUlZNdXVVN3dzVWR0dXo1VHljQUhrWV9Sa1FhdExYX0E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T14:36:25+00:00"
+  },
+  {
+    "id": "49010a105fd08d1e776e7f3594c617ae",
+    "titulo": "TCU não admite recurso da Volkswagen em disputa sobre dois mil ônibus do Caminho da Escola e nega ingresso da montadora e da Iveco no processo - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOelNJdXg2NERERFEwamY1TGdOR29TMkFKbG1qN1d4aG56RVQ1b3Y4czcwel9PMFBnYUMzbUpVblRnLWRITVFKVUZFNDR5S3F5MUZlNmxRYXVvOWcyTmV1OHdBbV9pOTZsNGx2VmhLcFdQRlBfbFl0VndtbHRaeWxpQTEtay1uQmFGT0ZTdWlXRmpUZExNWlBUVl9UVDZQdHVNRjNjVU5qanpHV1hSbzRrQWRpYlVmWVFQN20tc3FuRzRtNUxPVDdXdC1BMEJ5aW9vOU5kelh2RWFqZGNMWDZRSFg0OF9LU3pMRV9LZ0gxSlF0TlhMdFJCNndyVFZQN1h3WHUtYjIzVFk4Zjh5cjBZYld3TjFhNlYxbW1qQtIBnAJBVV95cUxOelNJdXg2NERERFEwamY1TGdOR29TMkFKbG1qN1d4aG56RVQ1b3Y4czcwel9PMFBnYUMzbUpVblRnLWRITVFKVUZFNDR5S3F5MUZlNmxRYXVvOWcyTmV1OHdBbV9pOTZsNGx2VmhLcFdQRlBfbFl0VndtbHRaeWxpQTEtay1uQmFGT0ZTdWlXRmpUZExNWlBUVl9UVDZQdHVNRjNjVU5qanpHV1hSbzRrQWRpYlVmWVFQN20tc3FuRzRtNUxPVDdXdC1BMEJ5aW9vOU5kelh2RWFqZGNMWDZRSFg0OF9LU3pMRV9LZ0gxSlF0TlhMdFJCNndyVFZQN1h3WHUtYjIzVFk4Zjh5cjBZYld3TjFhNlYxbW1qQg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-09T09:31:10+00:00"
+  },
+  {
     "id": "7c3744d5ff64c7796a4190c0bd40d60f",
     "titulo": "Vendas de caminhões sobem 2,5% em setembro mesmo com Move Brasil esgotado - Brasil do Trecho",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3l3SXJ2WUpBZTNDeUdJTm5La1NuYUlYbnBMSFRHeHdjMUpzaE81TEhEMTZwbDRlenVaUjVxNWJYN2xaUm9tai1lY0MwUHJhcG9Ob2duTDhjdE4yUU95NzhLVExfNHpGb0lUei1ZUmo4eTBhMnJqSTAtQVRScmpNaG1CS1hCMERlVTFjNmNOTQ?oc=5",

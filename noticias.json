@@ -1,5 +1,56 @@
 [
   {
+    "id": "a9063912b1dc8a88adae0d338c5629e7",
+    "titulo": "Do Waze ao GPS de caminhão: as tecnologias para usar nas estradas e cidades",
+    "link": "https://frotanews.com.br/gps-para-caminhao/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-10T21:18:17.241388"
+  },
+  {
+    "id": "981c47d8ad7cd5f1d80299ae20ac3e7b",
+    "titulo": "5.GWM Haval H7 ameaça tirar vendas do H6 com valentia no off-road e preço agressivo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gwm-haval-h7-ameaca-tirar-vendas-do-h6-com-valentia-no-off-road-e-preco-agressivo/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T21:18:18.834117"
+  },
+  {
+    "id": "569c92801e01fd8e69d48e27150aa8a6",
+    "titulo": "Caminhão elétrico de R$ 240 mil leva 1,7 tonelada e pode ser dirigido com CNH B - garagem 360",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWDh2dXlaaGZTdDFKWTNIYzhWY2VjRkNRS2hWczM0dlRIcGN6YVJfZ0lGdE5MMlpORGNOclVmZExWUjFBREgyVHQzZ2szMFAxU3lzY1dVOENUQWlIdkdaekxPVktiRXFYeWJTNFFuYnZOYi1DcnMzQXRjSjBLR0UxUjA1ZWxCd0ZvV3hiaV9ha3J6eGRUT3B1YXlXZDBHVEFadm5fTHNlZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-02T02:21:26+00:00"
+  },
+  {
+    "id": "2bbce81fd5cb16c8526eb47c922cc95a",
+    "titulo": "BYD Dolphin Mini dispara na liderança e é o carro elétrico mais vendido do Brasil; veja o top 10 - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakp6c083bW9nS0did2I0ZWVveUNRQ0JFY1ZTVF9RTlplelRMVmdDblV2cjE0TGhXNkFZWjVIdUo3WGh0TFo3dVFmVzZCUUVod21lMDhHdWdzY0gwRXViZ2pXZzdlQTEyeDAzV0xXeUVZN0pYQWpIeGNZeUNWOHZINXNwVFdtcnI5aVBDRTY5eEVydTJiY0RQN1lZQVZfNEcyRnpVNGdHbFA2SDExUEItdmFBSHM0SGF3cmQwU09VcjZLVF9SQVhaZGt2Zlo5TkF2cXlFeFhNc3Y?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-06T17:39:50+00:00"
+  },
+  {
     "id": "ac0bf1e4f93e1493f88b99ddebb33a84",
     "titulo": "Ranking 2026: quatro fabricantes brasileiras de implementos entre as 20 maiores do mundo",
     "link": "https://frotanews.com.br/top-20-implementos-randon-facchini-guerra-librelato/",

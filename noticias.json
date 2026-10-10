@@ -1,5 +1,41 @@
 [
   {
+    "id": "ac0bf1e4f93e1493f88b99ddebb33a84",
+    "titulo": "Ranking 2026: quatro fabricantes brasileiras de implementos entre as 20 maiores do mundo",
+    "link": "https://frotanews.com.br/top-20-implementos-randon-facchini-guerra-librelato/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T17:40:42.336307"
+  },
+  {
+    "id": "c3c72af0e85c64d2fa26a2d0a5c51787",
+    "titulo": "Quem é vivo sempre aparece: chinesa Sinotruk volta ao Brasil com caminhões pesadosFabricante chinesa apresentará quatro versões do Sitrak C7H na Fenatran 2026, em novembro; preços e início das vendas ainda não foram divulgados",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quem-e-vivo-sempre-aparece-chinesa-sinotruk-volta-ao-brasil-com-caminhoes-pesados/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T17:40:44.121916"
+  },
+  {
+    "id": "52a2c526aeea15a79c569bacf6331be3",
+    "titulo": "Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-ou-volvo-veja-os-20-caminhoes-mais-vendidos-do-brasil-em-2026/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T17:40:44.121922"
+  },
+  {
     "id": "8d686040a300ef95a2a366ca7e563fa6",
     "titulo": "Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026Ambos lideram os emplacamentos até setembro; mercado de caminhões acumula queda de 3,9% no ano",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-ou-volvo-veja-os-20-caminhoes-mais-vendidos-do-brasil-em-2026/",

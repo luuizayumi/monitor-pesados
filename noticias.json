@@ -1,5 +1,67 @@
 [
   {
+    "id": "8d686040a300ef95a2a366ca7e563fa6",
+    "titulo": "Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026Ambos lideram os emplacamentos até setembro; mercado de caminhões acumula queda de 3,9% no ano",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-ou-volvo-veja-os-20-caminhoes-mais-vendidos-do-brasil-em-2026/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T12:54:00.514710"
+  },
+  {
+    "id": "c04c4c685740cd23daade383900d16ac",
+    "titulo": "Vendas de caminhões e ônibus devem cair 6,5% em 2026, prevê Anfavea",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/vendas-de-caminhoes-e-onibus-devem-cair-65-em-2026-preve-anfavea/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T12:54:00.514724"
+  },
+  {
+    "id": "4985c1a5c0b63685a0879820da718752",
+    "titulo": "1.GWM Haval H7 ameaça tirar vendas do H6 com valentia no off-road e preço agressivo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gwm-haval-h7-ameaca-tirar-vendas-do-h6-com-valentia-no-off-road-e-preco-agressivo/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T12:54:00.514740"
+  },
+  {
+    "id": "335b49120b833b78138c90b0ecb0e9a9",
+    "titulo": "4.Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-ou-volvo-veja-os-20-caminhoes-mais-vendidos-do-brasil-em-2026/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T12:54:00.514742"
+  },
+  {
+    "id": "c5843965bd01d108f66d382d33c5e89a",
+    "titulo": "Frota de ônibus elétricos em São Paulo soma 2 mil veículos - Automotive Business",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYm41WEliLV9UMVJ5cVhBQ2oxdzN6eUFsbW5lQjFSRGJramxOd3RGZnBMLVNWbTJ4SHJjNTBMZXI3Q2NMRXptd0ZpMGY4bHZGd3RJTVhSRFB6TXd5Yk5sV3FGazYxOUdGZkh3RXdqWm56LUV3LXlWVHNCby1uZm43Y2E1X2dTUDFSYXhONUxUYWR3Zm9XUGotTDY3UjMzVF9zcHJ1Uk9UUnM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-06T03:23:34+00:00"
+  },
+  {
     "id": "39f25017a71ba0ce1516a2843dd3183c",
     "titulo": "4.Motorhome de Gusttavo Lima em Barretos tem tamanho de apartamento de dois quartos; veja detalhes",
     "link": "https://www.estadao.com.br/jornal-do-carro/cultura-automotiva/motorhome-de-gusttavo-lima-em-barretos-tem-tamanho-de-apartamento-de-dois-quartos-veja-detalhes/",

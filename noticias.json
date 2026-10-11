@@ -1,5 +1,30 @@
 [
   {
+    "id": "b6284fe07c6b4f5cb8503f00e3472407",
+    "titulo": "1.Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-ou-volvo-veja-os-20-caminhoes-mais-vendidos-do-brasil-em-2026/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-11T06:12:42.468037"
+  },
+  {
+    "id": "c1ece26e5449c33f8f95039be23243d9",
+    "titulo": "23 milhões de carros elétricos devem ser emplacados em 2026 - Canal VE",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGJzTnJxczlkX2UxNF83ZE9pNHFvT0czUGZSeEJfVU51VUFoZ1JFWFhWejJCM2U0WWxaTTBtWWNrSVc0Uy1TbzBSWlVveGJ6V1VHR3R4ckt2RVJYQ1p1blFnTktDQS1Dd0FCTlJ2cjJ3MHpBT0xEd3h6Z3Rkcm1VZkVoVQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-07T11:14:25+00:00"
+  },
+  {
     "id": "cb7bfb1c0eaeae810de0af56eb4705ce",
     "titulo": "Mercedes-Benz Trucks cresce 12% nos nove meses de 2026 e reforça papel na Daimler Truck",
     "link": "https://frotanews.com.br/mercado-mercedes-benz-trucks/",

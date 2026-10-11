@@ -1,5 +1,103 @@
 [
   {
+    "id": "cb7bfb1c0eaeae810de0af56eb4705ce",
+    "titulo": "Mercedes-Benz Trucks cresce 12% nos nove meses de 2026 e reforça papel na Daimler Truck",
+    "link": "https://frotanews.com.br/mercado-mercedes-benz-trucks/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-11T00:20:59.655155"
+  },
+  {
+    "id": "17e73d51a6245dcfd5f6ae97ab3f6e17",
+    "titulo": "2.GWM Haval H7 ameaça tirar vendas do H6 com valentia no off-road e preço agressivo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gwm-haval-h7-ameaca-tirar-vendas-do-h6-com-valentia-no-off-road-e-preco-agressivo/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-11T00:21:01.206542"
+  },
+  {
+    "id": "760605960b3d6ace8e25c86010fbb301",
+    "titulo": "Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRVVRSGJIVlAyYm56aFVybzBCRG1ITno3U21iZ2pqSHVUTG1RVUk1UUtsTUwtSjNkajI3T00wVEpBWkVISTVYaGw5OE5SczFfTk1McXNMSEItTTVSbFZCcVN3Y3U5QmRnV1dxNlBERkRkNEJHNF8tMkRwa2EwdkVRU3l0Y2pmOXl3YlR6eHVvNVdzXzZELXc1U2FSQkdFYmdJa2ttOWJIZEVaY1hLNm5sYnVJSkpSdjZINHlOc0czMlpUaDBXdWI2VtIByAFBVV95cUxQRVVRSGJIVlAyYm56aFVybzBCRG1ITno3U21iZ2pqSHVUTG1RVUk1UUtsTUwtSjNkajI3T00wVEpBWkVISTVYaGw5OE5SczFfTk1McXNMSEItTTVSbFZCcVN3Y3U5QmRnV1dxNlBERkRkNEJHNF8tMkRwa2EwdkVRU3l0Y2pmOXl3YlR6eHVvNVdzXzZELXc1U2FSQkdFYmdJa2ttOWJIZEVaY1hLNm5sYnVJSkpSdjZINHlOc0czMlpUaDBXdWI2Vg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T10:00:00+00:00"
+  },
+  {
+    "id": "e26b0c23f3ac6d02e73626d56138db89",
+    "titulo": "Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026 - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXR0OS1yTlYtN19xLTJNbUJMdUY4aUNTUmIwVkVOQ053OFp5d3B5RTVUdG02NEotUWRTTmt2bWdqcmVxOXVNWC1rVEhJMkVnUUxqU3VsVW4yM05DcFRNaVRUZGlROTZDcG84YW9xTU1MdU5RQmFGTTVlbWxRRUhLdWlVMy10RncwSmw0cEdpajZOak8tTVYtLXRWdUJtS0ZCYzNTMGJRWnYtRE9kM1p3S0dzSkJ2Yi1qVFFpN3lwdWgwM2RoaElwMHdmWmRjeFBXbGxGMmdmeV9VWEJPaWp5ZjZlTkhjN1U?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T10:10:00+00:00"
+  },
+  {
+    "id": "939450bc0004f0d66e4bf7345800ba9f",
+    "titulo": "Vendas de caminhões e ônibus devem cair 6,5% em 2026, prevê Anfavea - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzFqNFNXdldyX0dnaWE5SVJ1aVo2cVd3WUE2Z0VsRDVnd1lxaU5yaHYzSHRocndmc0JMeFE1Z1ppN1U2ckdEemg4dW5kQ2ZVenhVS1F4QlNTdjlHYmkxVGpuZmlOOG54ZzMxblkzTGR3UTFhZ05POWpwYnlob2lnTy1FM0lvblhfWllKalozQjlaVlFUNmlSV2R4ZnRLbDAwbWpTTG1uWkpZM2xMaVI1Yl94UlFjemVN0gG-AUFVX3lxTE8taEwyWlRqd0htLW5KNXZ5bVAyR1ltRmROMW5ZbWM1eE4yRlBjSExuRWh5bDB0S01FeGlYckZPSHFGNUdjbXRQODQtU3YtVzBXdzR5aTF3YzRBOW1vSGRTa2N0eDJWd0NrSFRKbUVLMXdfZXZna3hNcWIxVzBTWTJOM2FOTUVzQnhwNm0wdjlEanQtU0VjWXE4TXk3MDZ3NEtOQVpMejlLMXhPLW5qc0U3MGlZb0ZTRmdnb1doMlE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-08T19:33:59+00:00"
+  },
+  {
+    "id": "d0063553d0751ea82bc7c04ec940fdb3",
+    "titulo": "Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMW5vT1hXU0pHQ2NNVlNFbGJMeGZFanFuSGNibWJIdlprX3dNNnhaaHlpN0tnUUIzd0tlNDJ6N2doak12YWJqdzYzMzhuLVpxS0VYWnhMZzEydXd6aUlDVUJHMkpMNjduQjRZMnp5elhuVkpLMzMyM0JBM1k0M3NVbXA3VE1zSG9SRmxQYTl5bjEtTV9vanFtbVdTOVR0ZjVHVHUtMkpSSG9FYzA1Wlh2ZjlMc0pqZS1ISnY3S0ozNlU2bG9raVZ2R04xd29YZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T10:11:25+00:00"
+  },
+  {
+    "id": "ae141a9744a78badb0e5e6af0223e49a",
+    "titulo": "Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTjc3M2JBOTNoWnZhLTl5ZHJQd3otS3o4UDNsVmRjNkNBZllCUnFMU0JjOGlMWlN1NjZ0dk12b1VJQzRYbU9oX2RYTmUwd2RBMUdIQnJ6N01wV09tSmFaV0FoZC1xdjZVUTVrd3NyeDRCTVpfT0RwbjZxNm1BOG9EX2d5TkZLNGh1UEFEU1ZZeW5BWm1veXM3blFqOFIzNm9SR0RlR3R6amhJU1VJeWFDRWxYcmFqVXN4bEloNFBZT2dXcjTSAcgBQVVfeXFMUEVVUUhiSFZQMmJuemhVcm8wQkRtSE56N1NtYmdqakh1VExtUVVJNVFLbE1MLUozZGoyN09NMFRKQVpFSEk1WGhsOThOUnMxX05NTHFzTEhCLU01UmxWQnFTd2N1OUJkZ1dXcTZQREZEZDRCRzRfLTJEcGthMHZFUVN5dGNqZjl5d2JUenh1bzVXc182RC13NVNhUkJHRWJnSWtrbTliSGRFWmNYSzZubGJ1SUpKUnY2SDR5TnNHMzJaVGgwV3ViNlY?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-10T10:00:00+00:00"
+  },
+  {
+    "id": "dca9550e12e6846118e4dc5db430f197",
+    "titulo": "Venda de carros novos bate recorde em setembro, com 509 mil emplacamentos - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnJWSU1kR3RMV0NQeDhodVl4TldQdUVxb043cnpDbHFUYWVKRzJMaGxuUzYwX3h3dUV0WmhDZlZlSGI1UjZJVDdBcEF4QmRhV2w5UDNEcVpFdEs3ZXU2ME14YWRqSzNzY3otMGxGZkY5ay01SjBMNHpzVFYtdTZ3emhyZEJNM0hzZzBLOXFaUG1USUtnQVZtS3VNMHZLVlBENGlkZWtvX3l1MlZLMVJhTFNvLVNXcjVhWm1zLTlxd3h5dHYyWWxZZS1Fd9IB2gFBVV95cUxPc0REbG5MWk1EaUphUWgxVDRGNHNMaG5oblhnVFktbFA1cG51blhYX3NaWXE0UUgyNWF3SkVfbDBoUkVvaWV2NkQ2NHBfbG5ObmkxeE5RSUtEeUtqWDdTM1d6eE9NcGEzOXpwRDQ0cnNkc3ppUktZLWxaM3luWWo4RWpzYjlTNGNOMWtGY3NNRFRFRU1xbUFuN1hnZ09pU2NwWDNldXBfVDQtU3hzZzZTdHFWZndsY19fUEdHUkg2ekJiMzZiRFlTenJSQkNpUHhqLV9qMnlSMnVYUQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T12:28:35+00:00"
+  },
+  {
     "id": "a9063912b1dc8a88adae0d338c5629e7",
     "titulo": "Do Waze ao GPS de caminhão: as tecnologias para usar nas estradas e cidades",
     "link": "https://frotanews.com.br/gps-para-caminhao/",

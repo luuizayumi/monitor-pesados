@@ -1,5 +1,43 @@
 [
   {
+    "id": "7eda7d6eb502974e71094b35c753fbbc",
+    "titulo": "Frotas privadas de caminhões: gigantes operam frotas próprias nos Estados Unidos e terceirizadas no Brasil",
+    "link": "https://frotanews.com.br/frotas-privadas-caminhoes/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-11T22:18:02.007466"
+  },
+  {
+    "id": "f171d29490db2b4543ccaef43507cfd6",
+    "titulo": "Vendas de veículos chegam a 281,3 mil em setembro, maior volume desde 2014 - garagem 360",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFJVQTFCXzItLTYyaFdjTnFuR0tadTkxS1M5ZVpuVXp0X0xxdFU4RS1HallweTMwd1dQUDExbEFjRnIzTVF0SFlsemFhTVJxMGlHTUpmblo0VlRtZ1pBRHgwRXprQnJwcVRtX2xQZHlMbkxMa3hvZEdReEx1YTZ3MnZXR29pSzVmdS0yY25DLVUzcVVYdXVyeVhjenpLbm9X?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-08T20:10:52+00:00"
+  },
+  {
+    "id": "1b6d994835bc1c0e163214551dc89b38",
+    "titulo": "A dança das cadeiras no ranking das marcas de elétricos e híbridos - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVJDLVV2TUlNSnoxZms0RXdVWERjUHBwNTVsTTg4bHhpM1VSWkh6OTVDT1dHbXFZaDBXZ1JjbG9YSmVrQ3d3WFdnbWxlNHhUeVBfSGFEUkw0UXd6YWdHbDExaklncWNOSEY3WFpTUlFWbHgxVWlDR0RXWmVybVVtOXdyaTdFdkdLbmxrTFpoeVIzY3BPWkhrOVJ5dy1lZzcyUFJtNnlLSHdtdU5uam14TdIBtgFBVV95cUxQX0p3N1RRWFhrZjNPOEJRX2hhMzZBb3liUXZnZGlUcE9EVW5PSVJPTXpGeV94bXp0RzRuWFZYY0Y2NGlKYVNROC1ybXB3SUR3ei1HN3Fra3FabnoxaWE2NWkwWTlEUUhscDZLUGNvdi1leFlZdGpMVElBOFJPV2FOdEdVMnItMmVMaUsyYmJOcWVkcHpuNVloQ1lmOXJxX3JGUHZiNVJPVVlzRHVhcnRLc1JWT3BYZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-05T18:27:00+00:00"
+  },
+  {
     "id": "3a7c3ba30d1f68bc41b294dfa05d7213",
     "titulo": "Shell mantém liderança global no mercado de lubrificantes pelo 20º ano consecutivo",
     "link": "https://frotanews.com.br/shell-mantem-lideranca-global-no-mercado-de-lubrificantes/",

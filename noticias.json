@@ -1,5 +1,54 @@
 [
   {
+    "id": "487191e46be58b64a333de91646e8bbc",
+    "titulo": "Toyota apresenta nova geração do ônibus Sora movido a hidrogênio",
+    "link": "https://frotanews.com.br/onibus-toyota-sora-hidrogenio/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-11T13:17:42.126401"
+  },
+  {
+    "id": "1a9d62d2d04e37024f7cde3165c52f3c",
+    "titulo": "Custo ainda é ‘pedra no sapato’ para renovar frota, dizem executivosEm painel no ABX, Iveco, VWCO, Farizon e Scania apontam preço dos veículos, juros e diesel como entraves e cobram do próximo governo uma política de renovação de frota",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/custo-ainda-e-pedra-no-sapato-para-renovar-frota-dizem-executivos/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-11T13:17:43.704116"
+  },
+  {
+    "id": "bfa177d7fff0fb22f76ff9a6cc04ab31",
+    "titulo": "Quem é vivo sempre aparece: chinesa Sinotruk volta ao Brasil com caminhões pesados",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quem-e-vivo-sempre-aparece-chinesa-sinotruk-volta-ao-brasil-com-caminhoes-pesados/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-11T13:17:43.704129"
+  },
+  {
+    "id": "9315d26b98d93e5ad65a874b67dd9a39",
+    "titulo": "4.GWM Haval H7 ameaça tirar vendas do H6 com valentia no off-road e preço agressivo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/gwm-haval-h7-ameaca-tirar-vendas-do-h6-com-valentia-no-off-road-e-preco-agressivo/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-11T13:17:43.704133"
+  },
+  {
     "id": "b6284fe07c6b4f5cb8503f00e3472407",
     "titulo": "1.Volkswagen ou Volvo? Veja os 20 caminhões mais vendidos do Brasil em 2026",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-ou-volvo-veja-os-20-caminhoes-mais-vendidos-do-brasil-em-2026/",

@@ -1,5 +1,114 @@
 [
   {
+    "id": "3cea67ad92158f68fd1b17405112359c",
+    "titulo": "Alex Nucci é o novo diretor de vendas de caminhões da Mercedes-Benz",
+    "link": "https://www.autodata.com.br/noticias/2026/10/13/alex-nucci-e-o-novo-diretor-de-vendas-de-caminhoes-da-mercedes-benz/137428/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T21:25:20.124401"
+  },
+  {
+    "id": "fb36a65b0465c84be541cf61d004ec23",
+    "titulo": "Abraciclo revisa para cima projeções de produção, vendas e exportações de motocicletas",
+    "link": "https://www.autodata.com.br/noticias/2026/10/13/abraciclo-revisa-para-cima-projecoes-de-producao-vendas-e-exportacoes-de-motocicletas/137442/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T21:25:20.124416"
+  },
+  {
+    "id": "ba1d2db5d22f246d241cbc582f910da9",
+    "titulo": "Seca em Manaus pode elevar custos da indústria de motocicletas",
+    "link": "https://www.autodata.com.br/noticias/2026/10/13/seca-em-manaus-pode-elevar-custos-da-industria-de-motocicletas/137504/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-13T21:25:20.124435"
+  },
+  {
+    "id": "c0118c54a9d89aafa5689e3ef7424b6f",
+    "titulo": "Vukašin Jovanović é o novo diretor de crédito do Banco Mercedes-Benz",
+    "link": "https://www.autodata.com.br/noticias/2026/10/13/vukasin-jovanovic-e-o-novo-diretor-de-credito-do-banco-mercedes-benz/137460/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-13T21:25:20.124440"
+  },
+  {
+    "id": "853b5b413e32838f4ee924a5fb8fa2e7",
+    "titulo": "Volvo exporta transmissões I-Shift para a Índia",
+    "link": "https://www.autodata.com.br/noticias/2026/10/13/volvo-exporta-transmissoes-i-shift-para-a-india/137487/",
+    "fonte": "AutoData",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-13T21:25:20.124445"
+  },
+  {
+    "id": "0410b61cd7ad18a0a1b70bf42b363e91",
+    "titulo": "DAF confirma presença na Fenatran 2026 com sete caminhões e três lançamentos",
+    "link": "https://frotanews.com.br/fenatran-daf-lancamentos/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-13T21:25:21.956218"
+  },
+  {
+    "id": "7593c8c480e0c7b3fae5373e7ad57a60",
+    "titulo": "2.Omoda 4 aparece em Paris e já é homologado no Brasil; vendas começam no segundo semestre de 2027",
+    "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/omoda-4-aparece-em-paris-e-ja-e-homologado-no-brasil-vendas-comecam-no-segundo-semestre-de-2027/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T21:25:23.888863"
+  },
+  {
+    "id": "5d1df689c91f0d1927045eb8ed4676b2",
+    "titulo": "3.Por que a ultrapassagem é a manobra mais perigosa na estrada — e como fazer com segurança",
+    "link": "https://www.estadao.com.br/jornal-do-carro/servicos-automotivos/ultrapassagem-na-estrada-veja-como-fazer-a-manobra-com-seguranca/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-13T21:25:23.888877"
+  },
+  {
+    "id": "9622683810ee97f942a02bda72adf9eb",
+    "titulo": "5.Ranking: confira lista das 10 motos mais vendidas no Brasil em 2024",
+    "link": "https://www.estadao.com.br/jornal-do-carro/motos/ranking-confira-lista-das-10-motos-mais-vendidas-no-brasil-em-2024/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T21:25:23.888880"
+  },
+  {
     "id": "cd32c3396c7098d0bff934f7c5e385a7",
     "titulo": "Qual é o caminhão pesado mais vendido do Japão? Conheça o gigante que domina as estradas do país",
     "link": "https://frotanews.com.br/caminhao-pesado-mais-vendido-japao-isuzu-giga/",

@@ -1,5 +1,184 @@
 [
   {
+    "id": "a3bb350db42360ba551507189f7b07fb",
+    "titulo": "Banco Mercedes-Benz nomeia Vukašin Jovanović para a Diretoria de Crédito",
+    "link": "https://frotanews.com.br/banco-mercedes-benz-vukasin-jovanovic-diretor-credito/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T00:29:36.789394"
+  },
+  {
+    "id": "7ac78b8461d3a79fbc4f3a4ada53ecbd",
+    "titulo": "3.Omoda 4 aparece em Paris e já é homologado no Brasil; vendas começam no segundo semestre de 2027",
+    "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/omoda-4-aparece-em-paris-e-ja-e-homologado-no-brasil-vendas-comecam-no-segundo-semestre-de-2027/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-14T00:29:38.677624"
+  },
+  {
+    "id": "adc0ae767ef749f87ae51429f6b722dc",
+    "titulo": "4.Por que a ultrapassagem é a manobra mais perigosa na estrada — e como fazer com segurança",
+    "link": "https://www.estadao.com.br/jornal-do-carro/servicos-automotivos/ultrapassagem-na-estrada-veja-como-fazer-a-manobra-com-seguranca/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T00:29:38.677638"
+  },
+  {
+    "id": "2d1edee41336db7eef1bb23adece785d",
+    "titulo": "Alex Nucci assume diretoria de vendas de caminhões da Mercedes-Benz - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFMwWnNCMzNoOXFuSUR5bVdpbjlxNHl5QWJ4cTBxaW5KRXl0NDlsWnhKWVJHWFVIOFVKZkRKd0JlN0lCemZCeWJ4TlRoTUFjdWd3bnBlYW11bUdZZEZNREhkT2p0LVhMT2tEZkJ1dFd0SHktY2s0QzVkcEpaQnF5cnViNFVWS29aNTIxbm00Y2pzSXdhV3FsYkZPUl9QWndYcU4zd2M2MjZLcEpxVGdTd0FVaU1iQXPSAbcBQVVfeXFMT0hTMFpzQjMzaDlxbklEeW1XaW45cTR5eUFieHEwcWluSkV5dDQ5bFp4SllSR1hVSDhVSmZESndCZTdJQnpmQnlieE5UaE1BY3Vnd25wZWFtdW1HWWRGTURIZE9qdC1YTE9rRGZCdXRXdEh5LWNrNEM1ZHBKWkJxeXJ1YjRVVktvWjUyMW5tNGNqc0l3YVdxbGJGT1JfUFp3WHFOM3djNjI2S3BKcVRnU3dBVWlNYkFz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T18:01:43+00:00"
+  },
+  {
+    "id": "8daa23a2be19f41e7774cffb26ff2f37",
+    "titulo": "Mercado de caminhões elétricos encolhe no Brasil, mas chinesas abocanham 80% das vendas - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcm9nNThPUWZ6ZmN4dTc3OFFWUkFVaTMyZ0IyTnhjam1aYWIyempfWkUtUHR1Rl92REZFdlR2dEF5d1c3U19OSUtIblpKTUVhWG1XTXIteEVGZkdxTEpkSjBrZTFiYkZTbjZXTjZyWjV1Q0NxV3ByTTNkVm1ZMWUwNUl1Qi0zbkNRRVFHQ2xVODFOaEZPNWoyQ3hNX0wxd09sNjFMYkljSTVKUEw5RmNLU2dJZ1FnNnBzUDJNN05CeVBTQ2VrcVdiZERTVGp5SGwyVWxTdVVzd0E2d9IB2gFBVV95cUxQcm9nNThPUWZ6ZmN4dTc3OFFWUkFVaTMyZ0IyTnhjam1aYWIyempfWkUtUHR1Rl92REZFdlR2dEF5d1c3U19OSUtIblpKTUVhWG1XTXIteEVGZkdxTEpkSjBrZTFiYkZTbjZXTjZyWjV1Q0NxV3ByTTNkVm1ZMWUwNUl1Qi0zbkNRRVFHQ2xVODFOaEZPNWoyQ3hNX0wxd09sNjFMYkljSTVKUEw5RmNLU2dJZ1FnNnBzUDJNN05CeVBTQ2VrcVdiZERTVGp5SGwyVWxTdVVzd0E2dw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-13T08:30:00+00:00"
+  },
+  {
+    "id": "63479608a10a0aaf1ee1a3ecb7aea3ff",
+    "titulo": "Foton conquista Selo de Maior Valor de Revenda entre caminhões elétricos - Balcão Automotivo",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlgzemc5SUQxbnAwVi1CcWdEMXlnS18zSmkwLVNSOV9CSHNGZm5LdkNuc1BrU2UxbFZWcm1YOVRZcHdwWXVNMWM1Y3R1enI4SmM5TmljWHhBUmVITXRwbWZiVm8yRy1HV040RlhwXy1uZDVoajUxc1Z0YnpRMnNFb1pBZ055VndEX3A4WW5ydkhjT0docUJ4am16QmlXM1loX0tHYzFVN1VmaHJuay0yb2JiRnFBRGg0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-13T15:40:15+00:00"
+  },
+  {
+    "id": "d38e3e1bccd04dde5434978383e6fddc",
+    "titulo": "Alex Nucci é o novo diretor de vendas de caminhões da Mercedes-Benz - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeG9DTUhvNk8xRDd1bzkyMU5TOEpaLU5sX0pGSHljanA4S0ZIM3RHeWM2aHRxQlhxTlJjTzFyQmpDYTl2RDZBcFRFZHEwaGFLOHRxYWJzV2pNRVhHWllpNEdqV0FoT0RFOGl3YnMyaFBlZUxqZy1OeThqTE1KUW5qb3B2cnk2WDhGWllCUGZlNjdnMjVvOV9POTh4MFB3bFd3VTN3U000RTFkUElQMkNMNGhnbGM1OVRUUEZCVXZFTng?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T16:39:00+00:00"
+  },
+  {
+    "id": "088247b804a173a8f1c49b5ee266175d",
+    "titulo": "Alex Nucci é o novo diretor de vendas de caminhões da Mercedes-Benz - Frota&amp;Cia",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFcwTjlWM2YxbG1XbmNJdWpaT21abVlCZXRyOGR0WDZmeVdiU1BUQ1dyMTRjTDdLV1Vqdk5faDdoQ3dKYUVnd1VRS1VxalJQRFZSUGlpcDBkMV9HX2VEMlJldVo4UURkZmJ3eDBRNE0zLWpUaW8waEpQV3JSTVhqbXVQdUlzendGZkVNZjgyT1EzVk9iMXVv?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T14:37:15+00:00"
+  },
+  {
+    "id": "718ce647e269005dc48bb0b50ae6b501",
+    "titulo": "Mercedes-Benz nomeia Alex Nucci para a diretoria de vendas de extrapesados - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlFmZ1pxclRKZ3NhLXNPVEFRWThHa3kyZnRKbHJRUTZUY3FZZTExbVZSQ2h5SHlPUHVVMlZWdjJUYmFXbWNuMHhENWl1QTQ4SWV1UGwtZ1lNbzQ5OGpnSEhWUDk4dlZsVDNXZ2VCaGRoNkpaYzVjTkRZMklDajFNZEZ5NEZVZFhUQlkzYlRqTDFkNzlDNzdoMzF5bHVWQThFUk5IMmVLVGFtMVh4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T22:56:19+00:00"
+  },
+  {
+    "id": "62480833054a15cbd80415207f746735",
+    "titulo": "Alex Nucci é o novo diretor de Vendas Caminhões &amp; Extrapesados da Mercedes-Benz do Brasil - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzNyRGl6QnllQ0EzaUVibmJiQmFzV1hVZEdlRlJieDRKQUd5UWduT3N3U1k1Z3ZRajl0RmE2TFk0Z0M1YTdhMEZKQ3ZwUHYyNFpZWWpocEJqb0IwQnI4NFk0QUpoZGFBVHN0MFhLZzNYd080UDhFWVkybzdnVC1YdXNtYnJuZmZwNmZBOHhKcC1EUEFTcXBOR3N3eDVDclVBMzg1cTBUVGpwWUFzc0ZLTTdKajM1Q1dlVkxQNk13TDB3T05QMXR0OXBOYzc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T14:00:00+00:00"
+  },
+  {
+    "id": "9c89a207530a1724c1f0ad515ba3030d",
+    "titulo": "Alex Nucci assume diretoria de vendas de caminhões da Mercedes-Benz - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjNfam9CTkNPbkZuTm5XVV9FVXFMbzBuWUhPd1c1NG9lNGFvYklCcGtTaWJvanlVbm1Zb1dReGZTbF8wMGdZYkJIZ0dfX0JmNGVMS21LMzBzXzZKd1pKWTNsVWpZd2hyX3RqcjhxTlAxTnBJRkx1MHBFeXNwM09BQm1VaDdHRTZZSjhmcHFxT1Z3dC1vVHlfSmNjSDlqVVBQUFVkUVZmNDJIR2ZmSHNNcTV30gG3AUFVX3lxTE9IUzBac0IzM2g5cW5JRHltV2luOXE0eXlBYnhxMHFpbkpFeXQ0OWxaeEpZUkdYVUg4VUpmREp3QmU3SUJ6ZkJ5YnhOVGhNQWN1Z3ducGVhbXVtR1lkRk1ESGRPanQtWExPa0RmQnV0V3RIeS1jazRDNWRwSlpCcXlydWI0VVZLb1o1MjFubTRjanNJd2FXcWxiRk9SX1Bad1hxTjN3YzYyNktwSnFUZ1N3QVVpTWJBcw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T17:53:00+00:00"
+  },
+  {
+    "id": "cdeefb9f3f11087826f860d5bd517d9c",
+    "titulo": "Alex Nucci é o novo diretor de Vendas Caminhões e Extrapesados no Brasil da Mercedes-Benz - Portal O Carreteiro",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LYThrTUZKcmcwVG1PVWlFZEJNWVBDb1FRRlhoQ01CV19GaW5SYW0wUlNCa1ZRbmhTckdrQ2hvaGpsYkJRd1pLSVAwYzFIVnpReXB0VkQ4NTk4TVU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T22:47:50+00:00"
+  },
+  {
+    "id": "656d9ae4b3b20bb91d3694e1dc746441",
+    "titulo": "Com 400 caminhões, Iveco faz venda recorde na Espanha para três grupos de transporte - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmhpeW5QemJsaHJOakRJeUZkS1ZqT2U4QTRyVElZbUNTTVBvSDN5SzVvdWhrVk9pbGxsdndUZjBKZExMTC1nQXFZVlJ2dmNYVWxiMWJRbkc1RFAyQUlDc3locmF5bGtSYlRoQVd2aXlYRGt5YTkzOWdFbWZwQWZ6WUc2bVdBMmlzRHBLcEU4TU5rSjROOHJDcUlkU0E0T0ZZdWVJVnpUNkhfY1R5UnFtcVRqeHZlNkVXOUg1ZTZ2cnQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T13:28:20+00:00"
+  },
+  {
+    "id": "f7f36db219f1267bc92595c7e64449c4",
+    "titulo": "Mercado de caminhões elétricos encolhe no Brasil, mas chinesas abocanham 80% das vendas - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcmYzZEZLNVdBNzk0TkJmLTNpVXBJNHNvVUttMWtOWHBzckU1cGhLLWZCd3cwYm1uMnB0N2t0ZlkwLXB4Qnc5NnZJM2ZjVHRzcjNscFV3TDJORzd5NG0wRklwLU5wNkk5RTMzdm1jVy1SUlgtd2ExMzRrVndhTGl3X2dfbjRyMHZTVTZOZUcwYUlsYmRIU2FtMFpXWTFSTTNoSW5UQ1U4WmxtVlFHaDQ2b1FyMjlVb2UzVm93RFFkT1hkM2djd01HbERGeHBBUVNveEhuX0pLSW5telQ0dUhr?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-13T08:30:45+00:00"
+  },
+  {
     "id": "3cea67ad92158f68fd1b17405112359c",
     "titulo": "Alex Nucci é o novo diretor de vendas de caminhões da Mercedes-Benz",
     "link": "https://www.autodata.com.br/noticias/2026/10/13/alex-nucci-e-o-novo-diretor-de-vendas-de-caminhoes-da-mercedes-benz/137428/",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "71bb34667b3dd8ab1d7e02dd929054c6",
+    "titulo": "Toyota nomeia Diana Sabino para comandar Lexus e Gazoo Racing",
+    "link": "https://www.autodata.com.br/noticias/2026/10/14/toyota-nomeia-diana-sabino-para-comandar-lexus-e-gazoo-racing/137566/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T23:02:19.906573"
+  },
+  {
+    "id": "532d5c8cfb6c35ca95ce65c51c7a7a91",
+    "titulo": "Volvo Trucks apresenta o novo Volvo VNX para operações pesadas",
+    "link": "https://frotanews.com.br/volvo-trucks-apresenta-novo-volvo-vnx/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T23:02:21.266316"
+  },
+  {
     "id": "e2022ddce12ca4e54e096588d1fdb8ac",
     "titulo": "Pesquisa do IQA indica que motoristas decidem manutenção veicular pela confiança",
     "link": "https://www.autodata.com.br/noticias/2026/10/14/pesquisa-do-iqa-indica-que-motoristas-decidem-manutencao-veicular-pela-confianca/137551/",

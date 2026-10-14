@@ -1,5 +1,66 @@
 [
   {
+    "id": "e2022ddce12ca4e54e096588d1fdb8ac",
+    "titulo": "Pesquisa do IQA indica que motoristas decidem manutenção veicular pela confiança",
+    "link": "https://www.autodata.com.br/noticias/2026/10/14/pesquisa-do-iqa-indica-que-motoristas-decidem-manutencao-veicular-pela-confianca/137551/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T19:36:04.948365"
+  },
+  {
+    "id": "1b3073057d1de72ce67e902ce0d32b65",
+    "titulo": "Caminhão na oficina: por que ouvir o motorista é fundamental para um bom diagnóstico",
+    "link": "https://frotanews.com.br/por-que-ouvir-o-motorista-e-fundamental-para-um/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T19:36:06.474616"
+  },
+  {
+    "id": "9057c46db1d1c4ab9b456001ea88de8b",
+    "titulo": "2.Porsche 718 Cayman GTS deixa saudade antes mesmo da despedida",
+    "link": "https://www.estadao.com.br/jornal-do-carro/porsche-718-cayman-gts-deixa-saudade-antes-mesmo-da-despedida/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T19:36:08.073670"
+  },
+  {
+    "id": "43eeef25d79bc76c902e133e775acf6a",
+    "titulo": "Amortecedor de cabine influencia na segurança de caminhões e ônibus",
+    "link": "https://www.balcaoautomotivo.com/2026/10/14/amortecedor-de-cabine-influencia-na-seguranca-de-caminhoes-e-onibus/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T19:36:13.093809"
+  },
+  {
+    "id": "013552c9d991e91c605ce7c5d8b44a57",
+    "titulo": "Mercado de caminhões elétricos encolhe no Brasil, mas chinesas abocanham 80% das vendas - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmZVazh6XzFhMU5qUVNLaGNxYndrSExyeGc1TVJtemN3dUsxYlM0cVpUMjJHeGRTUmVJRW92OUhrc2J4Wm9rUlZSclhZNEt0ZVk5dF9uNy0wZU9GcmVnRzlxbDFsbkotLTFsb2NFN2czekJ2LUE3UGc2R2Utbm4zRVR6SXk3V3AxX3I3WjR2OHRuMmxFMEllUWcyMTVqNDR1bDRMQkFnemo0U2VNREN6Y0t4UGEwV2VPTE0tX19zWllrd3J3ZmtNTl9DZkw0OEhMS0xSS9IB2gFBVV95cUxQcm9nNThPUWZ6ZmN4dTc3OFFWUkFVaTMyZ0IyTnhjam1aYWIyempfWkUtUHR1Rl92REZFdlR2dEF5d1c3U19OSUtIblpKTUVhWG1XTXIteEVGZkdxTEpkSjBrZTFiYkZTbjZXTjZyWjV1Q0NxV3ByTTNkVm1ZMWUwNUl1Qi0zbkNRRVFHQ2xVODFOaEZPNWoyQ3hNX0wxd09sNjFMYkljSTVKUEw5RmNLU2dJZ1FnNnBzUDJNN05CeVBTQ2VrcVdiZERTVGp5SGwyVWxTdVVzd0E2dw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-13T08:30:00+00:00"
+  },
+  {
     "id": "ddcdb64afe13c1ac0cc3f0868dc83321",
     "titulo": "Alexandre Dupont assume vendas e marketing da Megadealer",
     "link": "https://automotivebusiness.com.br/carreira/megadealer-anuncia-alexandre-dupont-como-novo-lider-de-negocios",

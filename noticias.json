@@ -1,5 +1,115 @@
 [
   {
+    "id": "ddcdb64afe13c1ac0cc3f0868dc83321",
+    "titulo": "Alexandre Dupont assume vendas e marketing da Megadealer",
+    "link": "https://automotivebusiness.com.br/carreira/megadealer-anuncia-alexandre-dupont-como-novo-lider-de-negocios",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-14T15:23:49.740899"
+  },
+  {
+    "id": "c971eb9045b504aa466ab27655e027bd",
+    "titulo": "Volvo exportará caixas de câmbio para a Índia",
+    "link": "https://automotivebusiness.com.br/industria/volvo-do-brasil-exporta-1-200-caixas-de-cambio-i-shift-para-a-india",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T15:23:49.740909"
+  },
+  {
+    "id": "5ac32ec56f0f88cb828f93bdeebdfd28",
+    "titulo": "negóciosAlexandre Dupont assume vendas e marketing da Megadealer14/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/megadealer-anuncia-alexandre-dupont-como-novo-lider-de-negocios",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-14T15:23:49.740916"
+  },
+  {
+    "id": "043bfdf2c953211dc2070a9d6f61b4f4",
+    "titulo": "autopeçasVolvo exportará caixas de câmbio para a Índia14/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-do-brasil-exporta-1-200-caixas-de-cambio-i-shift-para-a-india",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T15:23:49.740923"
+  },
+  {
+    "id": "55d297e8194375646cf35318858504f7",
+    "titulo": "negóciosAlexandre Dupont assume vendas e marketing da Megadealer14 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/megadealer-anuncia-alexandre-dupont-como-novo-lider-de-negocios",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-14T15:23:49.740927"
+  },
+  {
+    "id": "28ea773cbada6c8a632a02fcd18fde06",
+    "titulo": "autopeçasVolvo exportará caixas de câmbio para a Índia14 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-do-brasil-exporta-1-200-caixas-de-cambio-i-shift-para-a-india",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T15:23:49.740930"
+  },
+  {
+    "id": "7f39329d85eaf1181cf1bd9161606c87",
+    "titulo": "Foton Aumark S 315 AMT aposta no conforto e na facilidade de condução",
+    "link": "https://www.autodata.com.br/mobility/2026/10/14/foton-aumark-s-315-amt-aposta-no-conforto-e-na-facilidade-de-conducao/137418/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T15:23:52.174845"
+  },
+  {
+    "id": "f71eefb0d022e327d89f5fdb5ba84b3e",
+    "titulo": "3.Porsche 718 Cayman GTS deixa saudade antes mesmo da despedida",
+    "link": "https://www.estadao.com.br/jornal-do-carro/porsche-718-cayman-gts-deixa-saudade-antes-mesmo-da-despedida/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T15:23:54.859895"
+  },
+  {
+    "id": "1a469ebb69e7f6b4fa52777a8517b597",
+    "titulo": "BNDES aprova R$ 329 milhões para o Rio de Janeiro criar primeira PPP de ônibus elétricos do país - Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQkJZUTNtVU93ODNCeW5BVXBOa0pjU3hIWGpIR1g3LTNYeEJLWlJNQUllWTNrUS1CODZEME5oSGJxbjdzU3hHWGpBOGVod0VfZWNqa0hpMjZsQmk3M2RlYmRKdnVYOEZpaWJ2b0J5cU94eGh5MHpfREU0RW9kWDFDUGNWcDVkc0NmN3hBamlER3JHWmFic0piM1RsakNXM1ZJVTBDendaemt3bDR4aHZhWFFDcFJBUHhaVmZsYmR1WUUzcXpiVUx3cDNTVy1HNjJSMG5LaDJ1QlQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-25T07:00:00+00:00"
+  },
+  {
     "id": "74bb24ef65730bb6f483d960b94fbc20",
     "titulo": "5.Porsche 718 Cayman GTS deixa saudade antes mesmo da despedida",
     "link": "https://www.estadao.com.br/jornal-do-carro/porsche-718-cayman-gts-deixa-saudade-antes-mesmo-da-despedida/",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "74bb24ef65730bb6f483d960b94fbc20",
+    "titulo": "5.Porsche 718 Cayman GTS deixa saudade antes mesmo da despedida",
+    "link": "https://www.estadao.com.br/jornal-do-carro/porsche-718-cayman-gts-deixa-saudade-antes-mesmo-da-despedida/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-14T10:28:06.855513"
+  },
+  {
+    "id": "c53e979731f55bf81aa61d0209199489",
+    "titulo": "Volvo exportará 1,2 mil transmissões I-Shift fabricadas no Brasil para a Índia - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0ppSTI5cWxNc1FzOU1zbTQzWkNXTHRpTjJmbk9uMnBJQm1hVHFhOGpEQ1p1QkZYNzJzMWZHeG5RNHY4QUFjRkNjRjZJNTlUU0NiZXE2eHVrbmQxWktnVmFGS0thMHhfWXpKbU5zNVdLUGFZWVVlc1ZSRVBuN0gycUEtZkFhcWJHSTlyWHdHQTBkT1JKeEVPTUVYTXNWdWFNNnp5eHB0Vm4td051RTZIVXBIcUJ2aVZfZ3JzWVRlZ0bSAcYBQVVfeXFMTVQ3cTF2eDBTMWtnekhVSFo2dno4b0pKZmZGS3dWaGM1NmhOdVZpckd6dm55aEJTdENtd0p1eWJlTG5aNnpaR2NNdU40ZndHWjYtZ3luRW1XU1N3N0xlQVk0eU9FNFJncFEwZkg5NF9PSFplNVhOUi15S2NwOUtYRjY0YnR0Y0puSkttbkVLSzVZeGhkQm9VdlNMaThET0pFOXVEcDFoM3laOWJCbW84ZDNPUE53c0pDS2pTNnJSR3VMcV9lVnBn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-13T14:48:24+00:00"
+  },
+  {
     "id": "f8883b4419784089451122667402a665",
     "titulo": "Reforma Tributária e Zona Franca de Manaus: o que muda para a cadeia automotiva",
     "link": "https://automotivebusiness.com.br/industria/reforma-tributaria-e-zona-franca-de-manaus-o-que-muda-para-a-cadeia-automotiva",

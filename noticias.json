@@ -1,5 +1,54 @@
 [
   {
+    "id": "0246c8be74aed555aaa1c585ff4ba843",
+    "titulo": "Scania amplia linha Super com motor de 11 litros",
+    "link": "https://automotivebusiness.com.br/lancamentos/scania-amplia-linha-super-com-motor-de-11-litros",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-15T23:45:08.165408"
+  },
+  {
+    "id": "14cdd111496a2ab9d81b4f475839507b",
+    "titulo": "LançamentosScania amplia linha Super com motor de 11 litros15 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-amplia-linha-super-com-motor-de-11-litros",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-15T23:45:08.165424"
+  },
+  {
+    "id": "6555d6d0013d630ed9276023650013f2",
+    "titulo": "2.Micro-ônibus de luxo: Volare relança modelo Limousine",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/micro-onibus-de-luxo-volare-relanca-modelo-limousine/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-15T23:45:14.036185"
+  },
+  {
+    "id": "8670577112e56feb74599fd81c08cc1c",
+    "titulo": "VW Caminhões e Ônibus soma 200 mil veículos exportados em 45 anos - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFdzZHoya0hlSF9IR1BYLWxTc0ZQZF9naE40MnhKX3RzSkF3SWhCWmN0eDNJLVhTcUFWYy1QQUVVV2M5WnkxYk9zUGZGWG80RURYakNHYV9TT0tIM0dSRHJLUXpxS1FubzZ4OTdGRjdCNWp2QlhoeHRSeU9aUGJURjJYV0xWQTBneEV1NHBCVHg3ZGFtUElQSFJBdVBMdVZPWklWZGJITFFyUUNpRGhLR2ptRXVjcW5naWdxMlhn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-09-23T07:00:00+00:00"
+  },
+  {
     "id": "03cac5aa51c98571bf447b2349ca206f",
     "titulo": "Scania projeta vender ao menos 3 mil caminhões na Fenatran",
     "link": "https://www.autodata.com.br/noticias/2026/10/15/scania-projeta-vender-ao-menos-3-mil-caminhoes-na-fenatran/137624/",

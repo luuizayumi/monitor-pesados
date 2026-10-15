@@ -1,5 +1,54 @@
 [
   {
+    "id": "03cac5aa51c98571bf447b2349ca206f",
+    "titulo": "Scania projeta vender ao menos 3 mil caminhões na Fenatran",
+    "link": "https://www.autodata.com.br/noticias/2026/10/15/scania-projeta-vender-ao-menos-3-mil-caminhoes-na-fenatran/137624/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-15T21:02:56.356323"
+  },
+  {
+    "id": "967d0dc619699f44c9005c168127fcd2",
+    "titulo": "KTM inaugura fábrica em Manaus e prepara ampliação da linha de motos no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/10/15/ktm-inaugura-fabrica-em-manaus-e-prepara-ampliacao-da-linha-de-motos-no-brasil/137603/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-15T21:02:56.356338"
+  },
+  {
+    "id": "3ebb0e1ecdedec4688093b98c571a6d8",
+    "titulo": "2.Por que a ultrapassagem é a manobra mais perigosa na estrada — e como fazer com segurança",
+    "link": "https://www.estadao.com.br/jornal-do-carro/servicos-automotivos/ultrapassagem-na-estrada-veja-como-fazer-a-manobra-com-seguranca/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-15T21:02:59.589621"
+  },
+  {
+    "id": "339034d850f184697b9cd79f56f92941",
+    "titulo": "Caminhão-cegonha com 11 carros da BYD tomba na BR-101 e prejuízo passa de R$ 1,5 milhão - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWdJenFVZWp6MjRfQXVnUU1xa2lYQUxYSngzQjduakJhbFNPejRqMXF1RzUzTUl0akVwUXFyUXFQVHFPanJvM2dJczdqdVdIdXR3aVd1cVhiTEtEcVpTVXRfTUh2M3VSOFpVemNYQzUzUV9OQTZqLXFlckUtbUNHa2ZMTGdxemdkamdNUw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-14T21:44:17+00:00"
+  },
+  {
     "id": "6faecd7412f55b73e72b44db006d3e8c",
     "titulo": "5.Omoda 4 aparece em Paris e já é homologado no Brasil; vendas começam no segundo semestre de 2027",
     "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/omoda-4-aparece-em-paris-e-ja-e-homologado-no-brasil-vendas-comecam-no-segundo-semestre-de-2027/",

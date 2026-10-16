@@ -1,5 +1,79 @@
 [
   {
+    "id": "adc10716a024c751b9c91a13b4ad1c17",
+    "titulo": "Scania investe R$ 100 milhões para expandir rede de atendimento",
+    "link": "https://www.autodata.com.br/noticias/2026/10/16/scania-investe-r-100-milhoes-para-expandir-rede-de-atendimento/137661/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-16T17:50:40.643100"
+  },
+  {
+    "id": "941403084d0b34836678fd8b2ae48d89",
+    "titulo": "Frota News e Best Sound anunciam parceria para produção de conteúdo audiovisual sobre logística",
+    "link": "https://frotanews.com.br/conteudo-audiovisual-logistica-frota-news-best-sound/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-16T17:50:42.177528"
+  },
+  {
+    "id": "ecd942fbaed751c45fe337d0cf055a76",
+    "titulo": "Frota Summit 2026 reúne gestores para discutir estratégia e tecnologia na gestão de frotas",
+    "link": "https://frotanews.com.br/frota-summit-2026-reune-gestores-para-discutir-estrategia-e-tecnologia-na-gestao-de-frotas/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-16T17:50:42.177541"
+  },
+  {
+    "id": "98b561cc6b1728023d85aa01aebab74b",
+    "titulo": "Tracbel realiza primeira venda de máquinas elétricas SDLG no Brasil para o Grupo Base",
+    "link": "https://frotanews.com.br/tracbel-vende-primeiras-maquinas-eletricas-sdlg-brasil/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-16T17:50:42.177543"
+  },
+  {
+    "id": "24e22668d2e34ee9ca370773d7c2854e",
+    "titulo": "Caminhões Mercedes-Benz para construção: o que a Europa tem a ensinar ao Brasil?",
+    "link": "https://frotanews.com.br/caminhoes-mercedes-benz-para-construcao-o-que-a-europa-tem-a-ensinar-ao-brasil/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-16T17:50:42.177545"
+  },
+  {
+    "id": "8ce456880e3569026a4aec0f357c4df5",
+    "titulo": "A Tesla começou a produção em larga escala de seu caminhão elétrico Semi em uma planta dedicada em Sparks, Nevada. A fábrica ocupa 167 mil metros quadrados e foi projetada para fabricar 50 mil caminhões por ano, cerca de mil unidades por semana - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mOFFISHpERDBGN2FDZWw5c2JrbW9QSGtab3R3VGlYc1hzTnhfeFM2b2xjOF9lSXJYZFBZOC1mVGxiZEtfOTh2eUkyR3BNeVNGSkt2djZn?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-28T07:00:00+00:00"
+  },
+  {
     "id": "240f19164aff4912ce38a3b8d8ebd0e5",
     "titulo": "Scania amplia linha Super com motor de 11 litros e apresenta novos modelos para a Fenatran 2026",
     "link": "https://frotanews.com.br/scania-motor-11-litros-linha-super-fenatran-2026/",

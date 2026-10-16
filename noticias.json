@@ -1,5 +1,65 @@
 [
   {
+    "id": "03aad5cc9603c8d1c04b26c5738a134b",
+    "titulo": "KTM inaugura fábrica em Manaus com capacidade para 20 mil motos por ano",
+    "link": "https://automotivebusiness.com.br/duas-rodas/ktm-inaugura-fabrica-em-manaus-com-capacidade-para-20-mil-motos-por-ano",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-16T23:17:55.498152"
+  },
+  {
+    "id": "ad584152277d9cc381d4736d2500444f",
+    "titulo": "ktmKTM inaugura fábrica em Manaus com capacidade para 20 mil motos por ano16 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/ktm-inaugura-fabrica-em-manaus-com-capacidade-para-20-mil-motos-por-ano",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-16T23:17:55.498175"
+  },
+  {
+    "id": "e0539e2d6467185990b316d8f6881a29",
+    "titulo": "Bajaj chega a 80 concessionárias e mantém plano de expansão no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/10/16/bajaj-chega-a-80-concessionarias-e-mantem-plano-de-expansao-no-brasil/137718/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-16T23:17:58.459131"
+  },
+  {
+    "id": "4cbc4dc49b9622925dae1b48825d88d0",
+    "titulo": "Marcopolo fornece 52 ônibus para renovação e ampliação da frota da Rouxinol em Minas Gerais",
+    "link": "https://frotanews.com.br/marcopolo-fornece-52-onibus-para-renovacao-e-ampliacao-da-frota-da-rouxinol-em-minas-gerais/",
+    "fonte": "Frota News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-16T23:17:59.700505"
+  },
+  {
+    "id": "a1f9279a07525ce451040a6e8b62a9b7",
+    "titulo": "A remanufatura tende a ganhar cada vez mais espaço no mercado",
+    "link": "https://www.balcaoautomotivo.com/2026/10/16/a-remanufatura-tende-a-ganhar-cada-vez-mais-espaco-no-mercado/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-16T23:18:06.911505"
+  },
+  {
     "id": "39e409cb6da66676d6f5e21f6c3af5a3",
     "titulo": "Lideranças Diversas #35: como a trajetória internacional de Luciana Herrmann transformou a diversidade em propósito na Nissan",
     "link": "https://automotivebusiness.com.br/diversidade/liderancas-diversas-podcast-35-luciana-hermann-nissan",

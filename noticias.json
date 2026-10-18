@@ -1,5 +1,30 @@
 [
   {
+    "id": "5da4b9c4c45eafeb609375b187be26c6",
+    "titulo": "2.Novo Hyundai HB20S entra em pré-venda e chega neste mês às lojas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/novo-hyundai-hb20s-entra-em-pre-venda-e-chega-neste-mes-as-lojas/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-18T08:59:35.350691"
+  },
+  {
+    "id": "e0effa91e4fef287e4159a2a033782a6",
+    "titulo": "3.Vendas de veículos caminham para fechar 2026 no maior patamar em 12 anos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/vendas-de-veiculos-caminham-para-fechar-2026-no-maior-patamar-em-12-anos/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-18T08:59:35.350706"
+  },
+  {
     "id": "7642d06326de72205f9363f2bf554770",
     "titulo": "5.Volvo inicia produção do caminhão articulado A45G no Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volvo-inicia-producao-do-caminhao-articulado-a45g-no-brasil/",

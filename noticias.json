@@ -1,5 +1,78 @@
 [
   {
+    "id": "4ef351c3c87f8430756c78164179e192",
+    "titulo": "vendasEmplacamentos de veículos caem 5% na quinzena de outubro20/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/emplacamentos-de-veiculos-caem-5-na-quinzena-de-outubro",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-20T19:53:21.020557"
+  },
+  {
+    "id": "5684c53e8dd9409d7c7c5de5d8a9f090",
+    "titulo": "vendasEmplacamentos de veículos caem 5% na quinzena de outubro20 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/emplacamentos-de-veiculos-caem-5-na-quinzena-de-outubro",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-20T19:53:21.020572"
+  },
+  {
+    "id": "35cb1e6d0495aa097cc9a439747b2edb",
+    "titulo": "ABVE prevê que eletrificados alcancem 30% das vendas de veículos leves em 2027",
+    "link": "https://www.autodata.com.br/noticias/2026/10/20/abve-preve-que-eletrificados-alcancem-30-das-vendas-de-veiculos-leves-em-2027/138063/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-20T19:53:24.229101"
+  },
+  {
+    "id": "b2f35df45413c99ba14b2b2c579335dd",
+    "titulo": "Volvo Group cria unidade dedicada para o setor de mineração",
+    "link": "https://frotanews.com.br/volvo-group-cria-unidade-mineracao/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-20T19:53:26.235480"
+  },
+  {
+    "id": "9ab3e269703e49a4407c6b6c5bbe231f",
+    "titulo": "Volksbus anuncia painel digital para toda a linha de ônibus a partir de 2027",
+    "link": "https://frotanews.com.br/volksbus-anuncia-painel-digital-para-toda-a-linha-de-onibus/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-20T19:53:26.235493"
+  },
+  {
+    "id": "2e6bdbad9a7fba106d077d24957f3990",
+    "titulo": "Cofap lança bandejas de suspensão para Mercedes-Benz Sprinter",
+    "link": "https://www.balcaoautomotivo.com/2026/10/20/cofap-lanca-bandejas-de-suspensao-para-mercedes-benz-sprinter/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-20T19:53:34.874038"
+  },
+  {
     "id": "6bec2c77a812e4dee53eeb2b212f2333",
     "titulo": "Volvo apresenta tecnologia Parada Controlada para caso do motorista ficar desacordado",
     "link": "https://frotanews.com.br/volvo-parada-controlada-fenatran-2026/",

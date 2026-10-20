@@ -1,5 +1,44 @@
 [
   {
+    "id": "49eb9885717565b6dc1592f53a7c5917",
+    "titulo": "Scania adianta lançamento de sua linha 2027 de caminhõesFabricante estreou a gama de motores Super de 11 litros no Brasil dando origem a novos modelos pesados e semipesados",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-adianta-lancamento-de-sua-linha-2027-de-caminhoes/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-20T11:05:49.315938"
+  },
+  {
+    "id": "31fca1fe18380180f9e849e0aa9d3519",
+    "titulo": "2.Scania adianta lançamento de sua linha 2027 de caminhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-adianta-lancamento-de-sua-linha-2027-de-caminhoes/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-20T11:05:49.315952"
+  },
+  {
+    "id": "9571404ab6924b652b45d75459e7e687",
+    "titulo": "5.Venda de motos cresce e brasileiro dá preferência para modelos de alta cilindrada",
+    "link": "https://www.estadao.com.br/jornal-do-carro/motos/venda-de-motos-cresce-e-brasileiro-da-preferencia-para-modelos-de-alta-cilindrada/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-20T11:05:49.315956"
+  },
+  {
     "id": "4a4b25275f1cc59d931b36d581dc6019",
     "titulo": "Prêmio AutoData 2026 elege Evandro Maggio Personalidade do Ano e Volvo Empresa do Ano",
     "link": "https://www.autodata.com.br/noticias/2026/10/19/premio-autodata-2026-elege-evandro-maggio-personalidade-do-ano-e-volvo-empresa-do-ano/138028/",

@@ -1,5 +1,54 @@
 [
   {
+    "id": "6bec2c77a812e4dee53eeb2b212f2333",
+    "titulo": "Volvo apresenta tecnologia Parada Controlada para caso do motorista ficar desacordado",
+    "link": "https://frotanews.com.br/volvo-parada-controlada-fenatran-2026/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-20T15:46:09.665753"
+  },
+  {
+    "id": "68ff593b15127a7c86dec1f6d47e3a57",
+    "titulo": "Scania inaugura campo de provas para desenvolvimento e validação de tecnologias de transporte",
+    "link": "https://frotanews.com.br/scania-inaugura-campo-de-provas-pesquisa-desenvolvimento/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-20T15:46:09.665767"
+  },
+  {
+    "id": "8b8053e00ca21114c815f4c75916d3f0",
+    "titulo": "Cofap lança bandejas de suspensão para mercedes-benz sprinter",
+    "link": "https://www.balcaoautomotivo.com/2026/10/20/cofap-lanca-bandejas-de-suspensao-para-mercedes-benz-sprinter/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-20T15:46:17.011692"
+  },
+  {
+    "id": "4400375baee8c055eb5ba8e65d5103da",
+    "titulo": "Primeiro carro 100% elétrico da Volkswagen começa a ser vendido no Brasil nesta quinta - G1",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSXEtSUtIVmhLRjFQbnFrS2ZpeUVjdzFqQzNYZ2FxSGdpUXJlemZpWFFkVEp2bFNYNGlEZFB0Y0dPaml4OVVEUmtvZjRYTExfc1Frc05Rc0o3MHd1TkFVX0tlT2VCbDBQNmpQSDZMVGJFVXRUTmlsbVcySjNOLTlmeWNmd1RKZEJWSHdUUlVzLWRKamgybDdqSHpZMEgzVS1jY1RWZGlKWFVDSHo4UExCbDltdEpfQndnUVk1d3FtVER2TGhxdlMyaWw4aVgwSVY4a3dSSzBvaXYwTkVQYWdSNXRNalNRZ1VaTEdFeXR30gH8AUFVX3lxTE85YS1XX3N3STA0UjRONmhXblk0M1Foc0N4SVhkOENYRWlJbldWa21pTjB2SEt4NlRqOEZmUF9oU3lWUVhNWWhZNjF5bHJvSUEyLUhjYWd4RGxVeF9WV0VKV2RiSmJYa3JOSHdManJVQzNXMnE1Sm5nRmJ0WVJ3WEhvOVBpaXJyQVFQNEtzZzMtd3NlcFhqcDB2Ui1zT01EUTkzcmJuMFFUcC1wcWFGTVRwTUdpdUZscTZHVWVLYzY0dkp6ZkhyUTJBOHBBMXJPZ3haQ1NCNFlhR2syUEJaTHRSd3ZTdVNtSm5BUlRrd25yLVFwZnZ3SzloQkRuVA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-14T20:37:48+00:00"
+  },
+  {
     "id": "49eb9885717565b6dc1592f53a7c5917",
     "titulo": "Scania adianta lançamento de sua linha 2027 de caminhõesFabricante estreou a gama de motores Super de 11 litros no Brasil dando origem a novos modelos pesados e semipesados",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-adianta-lancamento-de-sua-linha-2027-de-caminhoes/",

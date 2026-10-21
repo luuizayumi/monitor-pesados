@@ -1,5 +1,81 @@
 [
   {
+    "id": "671cb428533418018b79c98320bb12c5",
+    "titulo": "Importações de máquinas agrícolas crescem 42% e vendas caem 15,8%",
+    "link": "https://www.autodata.com.br/noticias/2026/10/21/importacoes-de-maquinas-agricolas-crescem-42-e-vendas-caem-158/138231/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-21T21:23:26.672082"
+  },
+  {
+    "id": "65f1b3068101f003aa7f34f5075c99b6",
+    "titulo": "Os 9 caminhões e 1 ônibus autônomos da Lume Robotics que já operam em portos e indústrias brasileiras",
+    "link": "https://frotanews.com.br/empresas-brasileiras-testam-veiculos-autonomos/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-21T21:23:28.426337"
+  },
+  {
+    "id": "d60d35bb42b358b359950a8328ff2d97",
+    "titulo": "Frotas &#038; Fretes Verdes realiza XV Summit 2026 em São Paulo",
+    "link": "https://frotanews.com.br/frotas-fretes-verdes-xv-summit-2026/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-21T21:23:28.426350"
+  },
+  {
+    "id": "e2917b1a9f9e23a4d889aed91e81da29",
+    "titulo": "Recarga lenta? Na China, caminhão elétrico já troca de bateria no tempo de encher o tanque de dieselTecnologia combina bateria removível com reserva de energia para reduzir paradas nas estradas; empresa promete economia de mais de US$ 68,7 mil em três anos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/recarga-lenta-na-china-caminhao-eletrico-ja-troca-de-bateria-no-tempo-de-encher-o-tanque-de-diesel/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-21T21:23:30.339465"
+  },
+  {
+    "id": "3ccbb18fedd99ec59a4b429c84750af7",
+    "titulo": "Scania adianta lançamento de sua linha 2027 de caminhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-adianta-lancamento-de-sua-linha-2027-de-caminhoes/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-21T21:23:30.339478"
+  },
+  {
+    "id": "adbcf28dc1ab10604549318802df34d1",
+    "titulo": "3.Recarga lenta? Na China, caminhão elétrico já troca de bateria no tempo de encher o tanque de diesel",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/recarga-lenta-na-china-caminhao-eletrico-ja-troca-de-bateria-no-tempo-de-encher-o-tanque-de-diesel/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-21T21:23:30.339481"
+  },
+  {
     "id": "b0b3c9f51e4ebc8fb8ebc02a560157ca",
     "titulo": "Mercedes-Benz amplia centro de restauração de veículos clássicos na Alemanha",
     "link": "https://www.autodata.com.br/mobility/2026/10/21/mercedes-benz-amplia-centro-de-restauracao-de-veiculos-classicos-na-alemanha/138186/",

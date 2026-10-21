@@ -1,5 +1,65 @@
 [
   {
+    "id": "b0b3c9f51e4ebc8fb8ebc02a560157ca",
+    "titulo": "Mercedes-Benz amplia centro de restauração de veículos clássicos na Alemanha",
+    "link": "https://www.autodata.com.br/mobility/2026/10/21/mercedes-benz-amplia-centro-de-restauracao-de-veiculos-classicos-na-alemanha/138186/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-21T17:33:37.514713"
+  },
+  {
+    "id": "52e63475560c2d0873a6c746da47d55d",
+    "titulo": "Veja onde vai trabalhar o motor Scania Super de 11 litros",
+    "link": "https://www.autodata.com.br/mobility/2026/10/21/veja-onde-vai-trabalhar-o-motor-scania-super-de-11-litros/138002/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-21T17:33:37.514727"
+  },
+  {
+    "id": "33a903c099ec7238013df4c157458ecd",
+    "titulo": "MAHLE destaca a importância da manutenção preventiva do ar-condicionado",
+    "link": "https://www.balcaoautomotivo.com/2026/10/21/mahle-destaca-a-importancia-da-manutencao-preventiva-do-ar-condicionado/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-21T17:33:46.161492"
+  },
+  {
+    "id": "5559a3e318ed1c0db0164b85f6b7624d",
+    "titulo": "Marcopolo abre avenida na Europa após vendas desacelerarem no Brasil - Exame",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVW5UVzU3UHFBVnJ3bGhjR2s3T1NQREZDNTBWU2F2ZzBWbE1pVFR1X2VENU4xWmNOeDNVMmp3bW5HbEY2MTBOblRLUTBKRmdpOXB5VUphemdVRHRxelJaZWdzeHF4a2lCcFB3MmhkY2pweEtFTG1pejVxdHJCZUI3UjU5S01GbGRaS1FJQ0lzcjl4WE1lZ3ViUXh1aEhPNjhHZmZGSG5abEZWY1ZnVkdHYU55UnBjeU51VHc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-20T10:02:21+00:00"
+  },
+  {
+    "id": "9a677ed716b5bba6e3237ef6483db149",
+    "titulo": "Os 20 SUVs mais vendidos do Brasil em setembro; confira o ranking - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzg5ZFdKNkRIam9wR2M0anUyVXZKMlBPMG5saFNaMjRQTHZCRFA2STFWNXhLLU4xYzcwa2l5Z0xzcmZPWm81ZUJzVkhCbFhLMjAwR3RNUWtUa1RhWW1VTlZZc3RIMDRELXBpWUV6bzVFbnBrMTNidlRhWmFJRTN6TnFvQllIdllsY3VrUTVvMUxqRWFXYXVOY0d2NElrc09F?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-11T07:00:00+00:00"
+  },
+  {
     "id": "7989aaa58e1a36607ed26625e35b09f0",
     "titulo": "Mercedes-Benz e Marcopolo desenvolvem ônibus para operações fora de estrada",
     "link": "https://www.autodata.com.br/mobility/2026/10/21/mercedes-benz-e-marcopolo-desenvolvem-onibus-para-operacoes-fora-de-estrada/137926/",

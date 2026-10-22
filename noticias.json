@@ -1,5 +1,79 @@
 [
   {
+    "id": "e198be24d6a831a36e1a210c3202b27e",
+    "titulo": "Mercedes-Benz projeta Fenatran 10% menor que edição anterior",
+    "link": "https://www.autodata.com.br/noticias/2026/10/22/mercedes-benz-projeta-fenatran-10-menor-que-edicao-anterior/138337/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T23:01:53.606338"
+  },
+  {
+    "id": "aa8eef5320c2c50450de2e502931077d",
+    "titulo": "Mercedes-Benz vê limitações técnicas e econômicas para caminhões a biometano",
+    "link": "https://www.autodata.com.br/noticias/2026/10/22/mercedes-benz-ve-limitacoes-tecnicas-e-economicas-para-caminhoes-a-biometano/138329/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T23:01:53.606351"
+  },
+  {
+    "id": "388030de9b54200ace5accab267a71b6",
+    "titulo": "Fim da 6x1 vai exigir mais caminhoneiros, mas setor de transportes já não encontra quem contratarNova regra garante dois dias de folga por semana, mas aplicação aos motoristas profissionais ainda exige esclarecimentos; empresas temem aumento de custos e falta de mão de obra",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/fim-da-6x1-vai-exigir-mais-caminhoneiros-mas-setor-de-transportes-ja-nao-encontra-quem-contratar/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T23:01:57.253083"
+  },
+  {
+    "id": "04e0e19c452cc675a553cbad8fc12815",
+    "titulo": "Recarga lenta? Na China, caminhão elétrico já troca de bateria no tempo de encher o tanque de diesel",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/recarga-lenta-na-china-caminhao-eletrico-ja-troca-de-bateria-no-tempo-de-encher-o-tanque-de-diesel/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-22T23:01:57.253097"
+  },
+  {
+    "id": "ea6a69f8ddc4be6df8b830141d506f1e",
+    "titulo": "Vendas de veículos caminham para fechar 2026 no maior patamar em 12 anos - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORWQyd3FqXzg0cWdkX1piVkUyRWNrQ0V3dUxzVGNwdzdsWnFxM0RKejNSVTFOTzh6Q2J4RjZqSUZ3dVF6amhYVm80YWZWc1JkZDFKU2xkcllOQkh5ZzlNcm5DcV9qeTVsZ1Z2ZHBhYUVxQTNkYkotUHhXUjdYVjRoQUp3MzJMMkpEM2EyRXd2S1dZTmkwdGVEQ0N4bUE4anVPNkU3R3RYNEV6akdXTkFzbl85a3FVUDRJdHdobklpV1gwSWIxVEV6UjJoWTB4Tm1JN3lYa25Rd1JIMm1BbUdwMlVfNlVUN1E?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-11T07:00:00+00:00"
+  },
+  {
+    "id": "3aeee5380896e5df4cc7b5af07de4368",
+    "titulo": "São Paulo chega a 2 mil ônibus elétricos, mas ainda não cumpre a meta de 2024 - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3JkOGZOTjRkSW9WNW1VMnJqMWotekVUeFZJeXFXaV9aSW1ES2Z2TmoycHhGZ2dDV0RSMmlZVmRBeFVRUzU3cVY4dWowME5vd1Q1bkVOakRLZ05FeU51WjdBU3JtOEZZTVlkQzZVMk1xcHdqRmk1eTdpcVR4ZjF1cXdFNkxiR1VydWVXY0EzVzNzSG5NdkRSZ1VTMTFpRFJvREQxVkc4alVBS3BOUnVBdmVNOGQzT19idTA4dE1aRmF0aHdBOW52ZU9tQ0c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-30T07:00:00+00:00"
+  },
+  {
     "id": "19f2fac2ede2a71b51fd2950e22c5a8d",
     "titulo": "5.KTM inaugura fábrica própria em Manaus e adianta lançamentos para 2027",
     "link": "https://www.estadao.com.br/jornal-do-carro/ktm-inaugura-fabrica-propria-em-manaus-e-adianta-lancamentos-para-2027/",

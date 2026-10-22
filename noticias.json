@@ -1,5 +1,42 @@
 [
   {
+    "id": "19f2fac2ede2a71b51fd2950e22c5a8d",
+    "titulo": "5.KTM inaugura fábrica própria em Manaus e adianta lançamentos para 2027",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ktm-inaugura-fabrica-propria-em-manaus-e-adianta-lancamentos-para-2027/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T19:48:34.706902"
+  },
+  {
+    "id": "739783c201800b2ad3f4c84e02f4adac",
+    "titulo": "NGK alerta para manutenção preventiva de automóveis com +10 anos",
+    "link": "https://www.balcaoautomotivo.com/2026/10/22/ngk-alerta-para-manutencao-preventiva-de-automoveis-com-10-anos/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T19:48:40.045182"
+  },
+  {
+    "id": "36f5876c3aa3ca9875fccf90f3500cb5",
+    "titulo": "Grupo Veloci nomeia Ingo Hoffmann como embaixador da Academia Stock Car",
+    "link": "https://www.balcaoautomotivo.com/2026/10/22/grupo-veloci-nomeia-ingo-hoffmann-como-embaixador-da-academia-stock-car/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T19:48:40.045193"
+  },
+  {
     "id": "012cb432fdc6d5d3958b8732b8f9e2eb",
     "titulo": "Unidas Pesados testa caminhões híbridos para operações de mineração inéditas no País",
     "link": "https://www.autodata.com.br/mobility/2026/10/22/unidas-pesados-testa-caminhoes-hibridos-para-operacoes-de-mineracao-ineditas-no-pais/137947/",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "012cb432fdc6d5d3958b8732b8f9e2eb",
+    "titulo": "Unidas Pesados testa caminhões híbridos para operações de mineração inéditas no País",
+    "link": "https://www.autodata.com.br/mobility/2026/10/22/unidas-pesados-testa-caminhoes-hibridos-para-operacoes-de-mineracao-ineditas-no-pais/137947/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T15:32:07.304238"
+  },
+  {
+    "id": "497e60bd5582f430a935d85b22a4d37a",
+    "titulo": "3.KTM inaugura fábrica própria em Manaus e adianta lançamentos para 2027",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ktm-inaugura-fabrica-propria-em-manaus-e-adianta-lancamentos-para-2027/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-22T15:32:10.653044"
+  },
+  {
     "id": "717cfaa83b4f418770fb0ead16ba70f3",
     "titulo": "5.Recarga lenta? Na China, caminhão elétrico já troca de bateria no tempo de encher o tanque de diesel",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/recarga-lenta-na-china-caminhao-eletrico-ja-troca-de-bateria-no-tempo-de-encher-o-tanque-de-diesel/",

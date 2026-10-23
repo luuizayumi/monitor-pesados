@@ -1,5 +1,42 @@
 [
   {
+    "id": "068381aa6143eb5a7fe55ff409a34fde",
+    "titulo": "Kia inicia a venda da versão topo de linha da Tasman",
+    "link": "https://www.autodata.com.br/noticias/2026/10/23/kia-inicia-a-venda-da-versao-topo-de-linha-tasman-pgl/138388/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T17:45:43.062024"
+  },
+  {
+    "id": "b1a753f1074a8b9f617aa7b8991d2540",
+    "titulo": "3.Arcfox T1 entre em pré-venda para ser o “Dolphin” da Baic e pode custar R$ 130 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/arcfox-t1-entre-em-pre-venda-para-ser-o-dolphin-da-baic-e-pode-custar-r-130-mil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T17:45:46.416363"
+  },
+  {
+    "id": "b2e7e3a204ff0610d4cc6faeca8de877",
+    "titulo": "Como dados de vendas podem orientar desenvolvimento de novas autopeças",
+    "link": "https://www.balcaoautomotivo.com/2026/10/23/como-dados-de-vendas-podem-orientar-desenvolvimento-de-novas-autopecas/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T17:45:51.481031"
+  },
+  {
     "id": "3658eb40af1a061c07d5d9b4a49aaa4f",
     "titulo": "Mercedes-Benz Accelo, Atego, Axor, Arocs e Actros chegam com novidades na Fenatran",
     "link": "https://www.autodata.com.br/mobility/2026/10/23/mercedes-benz-accelo-atego-axor-arocs-e-actros-chegam-com-novidades-na-fenatran/138299/",

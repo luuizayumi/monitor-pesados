@@ -1,5 +1,55 @@
 [
   {
+    "id": "2ee91f097c3c74c64ed91b9c967cd603",
+    "titulo": "Mercedes-Benz projeta Fenatran 10% menor do que edição anterior",
+    "link": "https://www.autodata.com.br/noticias/2026/10/22/mercedes-benz-projeta-fenatran-10-menor-que-edicao-anterior/138337/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-23T01:45:46.113197"
+  },
+  {
+    "id": "242caf7c41c933eefa63e3d4c4547c99",
+    "titulo": "Volume de vendas da indústria gaúcha registra crescimento em 2026 - Portal do Estado do Rio Grande do Sul",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDVwb0NpcElKYUEyZlFoUFlsRzJBaXBIUGU5MWVucFNWVFo0bDlpQnFoTVl0NUNoTTlCSTNnbHRkQk1sZHYxSG1KdDFqS045Y0V6cXNEcHhaRWozSHlFYlVvbEFIMzBUTWpPNFBTZDFnc1RXUTZPbnZvZlRobG1LQ3pWN3lqMUpQMC1HY0dwd2RoOG9m?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-22T21:03:06+00:00"
+  },
+  {
+    "id": "9d365d9f94ba1a1dac84d93325aeefdd",
+    "titulo": "Iveco muda comando financeiro global em meio à aquisição pela Tata Motors e plano de R$ 150 milhões para ônibus no Brasil - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQemZvU2VBREFmQnJtSUVUTXo3NDhrN3dwQTNTT2t2UnVPelZUcUFCQlNyNkZwcExXN2VRWVhkMXpSY1daSHFoNHppSlliTVVoQVl0NUVJYlNmSVUzWXV1eDRhYUFtblZHRVlTSjFIeXpsaUdzNVNVaS1CRm14ejhhMkxTbEhjZmQxRzBWcEptb2RJT3loWFo4ZkhKM2ZmX2t5RWt5SVE4Q2NVT2Z0U0VGeFJ3VGdSLXMyN1ZmbzJsc0dsQ2hCS0ZNeTg3dFBreVp3VnRCYlBzajdoOXl5b09IMTg3RTYzY2xCWnFNNzh6SGU3R0tPSHpiejdB0gH_AUFVX3lxTE1RUURvbUplM2ZnNzA1UU1aOTJOODU1MDY5QjNrZEptRkRyaXNpOGlIR3E5WklkOVhFSVpYMC1ZbzExNXBnTFVESkZadFc3X0ZhZ1ZBVTBhQ3RlaG8zZjRwV1JsLXZoU1paU1FVSXJpRHNENnBLM0NVRW9tdDBtdTgyQWdMZkFJa2JLTmZlUllJT01XekRTN1ZKT1JkSHljdU5INXVJMnp6WFpkVDBYNUI5dndMaXlNQjYwLWpsR1FZT251M0lxM1RNaHVaWnAxcWZmc3Jiejhrc24yZ0JaT3NDZVI1VzVIOFNDY0hFWTFpc1JXcy1iZi1NYWN4ZlMwcw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-22T19:36:49+00:00"
+  },
+  {
+    "id": "af021475f7591b78eb7550fc8ccc4188",
+    "titulo": "Honda ZR-V mostra atributos além dos números de vendas - Portal Piauí Hoje",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3RpU0lmaHBqaE41c1ktMTVZaUNHQlVGWkczdzZ6clY4aTFVMms3eHdncnRnZGl4SzBSWVBEZ3pMZ09GY2dDVmc5Wk9Mel9rZmktSnNqVHRXRXVZalZIN0FscFgzQnBjbVR0ZXFlU01kcUhSa3NQc1diQVBQb24wU29iRGJ4N3NjWVgxNnhJSHV0UmNyT24xTHhYOUhfbW91SkhaZ0hOUmJIM004UFdpckg5blLSAboBQVVfeXFMT0Qzb0s4N2k3Z0ZJQXhvUmpyWWY0YXYtLUN3X01fVGZ1U1ZVZHdKTVlJNFlaM2tnREFHZmhSZl9qM3J1RFVMUTBheEJtSXJSTlRNWmxhMHZkSzBzdmRJbTQwQ2cwcTNwU3ZBOW56LUZ4NlRNMzd0NnlGZDU1QkxpTzNROVFoZVliQkdpQ3lQTjF3Q0NCVk12VkdQU0lDVHY2ZDM0aUp3cXdISnhBaFdKc21yZ1NaSFA2MEFn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-22T08:54:38+00:00"
+  },
+  {
     "id": "e198be24d6a831a36e1a210c3202b27e",
     "titulo": "Mercedes-Benz projeta Fenatran 10% menor que edição anterior",
     "link": "https://www.autodata.com.br/noticias/2026/10/22/mercedes-benz-projeta-fenatran-10-menor-que-edicao-anterior/138337/",

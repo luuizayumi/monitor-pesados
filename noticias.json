@@ -1,5 +1,53 @@
 [
   {
+    "id": "3658eb40af1a061c07d5d9b4a49aaa4f",
+    "titulo": "Mercedes-Benz Accelo, Atego, Axor, Arocs e Actros chegam com novidades na Fenatran",
+    "link": "https://www.autodata.com.br/mobility/2026/10/23/mercedes-benz-accelo-atego-axor-arocs-e-actros-chegam-com-novidades-na-fenatran/138299/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-23T12:45:41.564081"
+  },
+  {
+    "id": "618d2ba0c7dc231ebfa49a1bac3941fc",
+    "titulo": "Bosch e Sem Parar Empresas se unem para digitalizar a manutenção de frotas leves",
+    "link": "https://www.autodata.com.br/noticias/2026/10/22/bosch-e-sem-parar-empresas-se-unem-para-digitalizar-a-manutencao-de-frotas-leves/138330/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-23T12:45:41.564124"
+  },
+  {
+    "id": "1a14eb54eac9bcf3fddd5fe1deacdbe0",
+    "titulo": "Ringfeder patrocina cobertura do Frota News na Fenatran 2026",
+    "link": "https://frotanews.com.br/noticias-ringfeder-fenatran/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-23T12:45:42.941558"
+  },
+  {
+    "id": "22927043dc492d55909a04d13c443907",
+    "titulo": "1.Arcfox T1 entre em pré-venda para ser o “Dolphin” da Baic e pode custar R$ 130 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/arcfox-t1-entre-em-pre-venda-para-ser-o-dolphin-da-baic-e-pode-custar-r-130-mil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T12:45:44.553877"
+  },
+  {
     "id": "ef8c1c99b5383fde3a9cb60b6634644f",
     "titulo": "2.KTM inaugura fábrica própria em Manaus e adianta lançamentos para 2027",
     "link": "https://www.estadao.com.br/jornal-do-carro/ktm-inaugura-fabrica-propria-em-manaus-e-adianta-lancamentos-para-2027/",

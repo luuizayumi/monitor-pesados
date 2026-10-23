@@ -1,5 +1,66 @@
 [
   {
+    "id": "9ec4de7b3c020e09d15f40414a6ac9eb",
+    "titulo": "Volvo leva novos sistemas de segurança à Fenatran 2026",
+    "link": "https://automotivebusiness.com.br/mercado/volvo-leva-novos-sistemas-de-seguranca-a-fenatran-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-23T23:55:15.736799"
+  },
+  {
+    "id": "6bd51836abc158f21832c022dab51226",
+    "titulo": "fenatranVolvo leva novos sistemas de segurança à Fenatran 202623/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-leva-novos-sistemas-de-seguranca-a-fenatran-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-23T23:55:15.736820"
+  },
+  {
+    "id": "90cec30e7d940661691b197246122f65",
+    "titulo": "fenatranVolvo leva novos sistemas de segurança à Fenatran 202623 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-leva-novos-sistemas-de-seguranca-a-fenatran-2026",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-23T23:55:15.736823"
+  },
+  {
+    "id": "5b550fd45518c31aedd4f6a72e5fa1fe",
+    "titulo": "4.Arcfox T1 entre em pré-venda para ser o “Dolphin” da Baic e pode custar R$ 130 mil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/arcfox-t1-entre-em-pre-venda-para-ser-o-dolphin-da-baic-e-pode-custar-r-130-mil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T23:55:22.014697"
+  },
+  {
+    "id": "a341d81313d7d211ee0f3f6f65154016",
+    "titulo": "FENABRAVE: EMPLACAMENTOS PASSAM DE 500 MIL E BATEM RECORDE EM SETEMBRO - Bahia Econômica",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmpQNU1wbGtRTmoxZldJZXUtdDVORTNxNHVURFZWczRodTNZdXdtTTdCdWxXRzhZaWFSRlFWb0swRks1Wl9tSzZYNXZhSHlKeUJOZ3hRRkRHNzloWjNrRVVfSTFOLXBjNktQWUFfZWdNOVRZWVdrcVNqNFVYUE15U1lhQmRnY09qMVpDVnJ6aXpEOFNmWUMxR1lfbW5FYmE5SW5NWUFHaUJiTWRlaEhz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-05T07:00:00+00:00"
+  },
+  {
     "id": "f85629fb563a48b589bb830606bb1e68",
     "titulo": "Volvo Cars demitirá 2,5 mil funcionários até o fim de 2027",
     "link": "https://www.autodata.com.br/noticias/2026/10/23/volvo-cars-demitira-25-mil-funcionarios-ate-o-fim-de-2027/138411/",

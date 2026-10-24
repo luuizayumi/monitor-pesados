@@ -1,5 +1,80 @@
 [
   {
+    "id": "52a83c19eac5105a17bf3485a7ce1a90",
+    "titulo": "Compradores de ônibus: Manfredi recebe 12 micro-ônibus Volare",
+    "link": "https://frotanews.com.br/compradores-de-onibus/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-24T21:45:53.887468"
+  },
+  {
+    "id": "91051ed8ad15403c5457a6be1f3f61c1",
+    "titulo": "Ônibus no 2º turno: o que a Justiça Eleitoral exige do transporteEm São Paulo, Prefeitura colocou 40% mais coletivos nas ruas no 1º turno; regra do TSE exige transporte gratuito e frequência compatível com a de dias úteis em 25 de outubro",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/onibus-no-2-turno-o-que-a-justica-eleitoral-exige-do-transporte/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-24T21:45:55.443563"
+  },
+  {
+    "id": "f05009bbc602b3cdc44c15b8235cbccf",
+    "titulo": "4.KTM inaugura fábrica própria em Manaus e adianta lançamentos para 2027",
+    "link": "https://www.estadao.com.br/jornal-do-carro/ktm-inaugura-fabrica-propria-em-manaus-e-adianta-lancamentos-para-2027/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-24T21:45:55.443577"
+  },
+  {
+    "id": "fdbf490d57a9a146c1922273088da4de",
+    "titulo": "All Green Group investirá R$ 300 milhões em caminhões elétricos - Canal VE",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hbDdfYS1qU3daTnVxUjhkVVdqdnN1WlRMejlQeUxOWW5rbjNXNXh5Z0JadER3OU45b1VEeXZMV2FhMFRwa1VGSVJmV2JhWUhMYzhjNzBhczJmamtuX3Y5M1FUck0tM2t6NGs3c1RTVVN4WVVuZnBWSmRNbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-20T17:00:54+00:00"
+  },
+  {
+    "id": "f153383a2b13fbbeeacf6435c8fd2981",
+    "titulo": "Prefeitura atinge marco histórico de 2 mil ônibus elétricos na frota de São Paulo com entrega de mais 250 veículos - Prefeitura",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPemNjaHZUNVpQQUpENXFMM1Fja0hPTWhjMkcxQUt5T0tpYkx4ODJJVkxDdjdINnJxTFYzZmdkV1UzZk9FOXV2dGt4dkM3bUR6VWlyNGQ5dGszODhTV0d5SkhaY0ZNZER6RlZaS0dsY0F0bXhDOWNMU2ZpUnBRclFaSlVnbzJQRktnbU9kZXhkVXJBdC0tTFZQSGpGbWkyNEYyVkhuU29LY2VSVlFJVUphU3A3SHJGX1R5d1Vna19pcEFuM2tRSUVUemR6WWJUUHRFY25pakttbDh4V3RZTEl3NTFFeThuVmFvQUlxV18zeVd3MjJvMHJHc2pxTUVhajlFVmVWR3R3Vml6Z1ZFUm9MaEZZaw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-09-30T07:00:00+00:00"
+  },
+  {
+    "id": "00242c14d5a9461e53d80ba0e1545b5a",
+    "titulo": "Lucratividade da Volvo aumenta com a continuidade do crescimento nas vendas de caminhões - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTG9OeTNwQ3d1d2dfalQwb0E3anc0MnZBc1QwOUdtVDViNW16eEpWLWZQWGdmbnRxRDV4MWQ0bGNpVzhXZ01zMnpHYnVKYm5NTDhKdWxOTWdiNnBiRjZkbW5BTC1vQU81VnN4akxfdHg1S1FhX1htN3RKcG5fS0ZCTmpWXzJaS1F4NUdTY0JPMkJBNzNGQVdlR3lwekpUbVJuZnJzMFppTHhRMTBGM3FJeDBybVRXbld6UW1GV3lnd1U1VGs2TWR6WVp4Vy1VNHdHMWNYYXdhRDV0WTlPY2fSAewBQVVfeXFMUFVmMVBEVnBSUkdYRTYxWlE4NmNLczYtdFhsX3Q1bkxuX29UU1pKVzRLSWtDYnRFOUloVmJocHpXcndHdWFvT2VIcDEyclk1RTMtczNrNENyMkdJclR6Mk5nQjdYbDgtLTAxaUo1ek9wajFud1k1UHM5MHdPeC1ON2w3TTk5V2NOQTZDRXpBWmpCejRuZk1zSEU0eVN6Qlh6bmFoZDFJc0tqV0VBVlNJNDAtblE0cllwYUgwU0NHVjRxSDFZU2F4WkZsYUFueGdnV3ppYXRUY1RfUmVuamFqd2tRQ1RXQXd4WmZGZDc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T11:34:26+00:00"
+  },
+  {
     "id": "05f2a99b32fd009c815869e698f4ed56",
     "titulo": "Caminhão conectado: como a telemetria pode proteger o resultado da transportadora",
     "link": "https://frotanews.com.br/telemetria-caminhao-reduzir-custos-transportadora/",

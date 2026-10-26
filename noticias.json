@@ -1,5 +1,103 @@
 [
   {
+    "id": "a29ceb839caaa90394597fa052e1db79",
+    "titulo": "Frota Summit 2026 chega à segunda edição com programação construída a partir dos problemas reais da operação",
+    "link": "https://frotanews.com.br/agenda-frota-summit-2026/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T14:55:57.700544"
+  },
+  {
+    "id": "6cd1adda918f3709742339afda807ee9",
+    "titulo": "DAF XDC 8&#215;4 é eleito Caminhão de Construção do Ano 2027",
+    "link": "https://frotanews.com.br/caminhoes-daf/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T14:55:57.700557"
+  },
+  {
+    "id": "4c51704250da9e1b7a65f21920448705",
+    "titulo": "Sono ao volante? Conheça sistema da Volvo que freia caminhão sozinhoTecnologia estreia na Fenatran 2026 e promete evitar acidentes ao detectar sinais de sonolência; dados da PRF mostram 818 acidentes com caminhões causados por condutor dormindo em 2025",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/sono-ao-volante-conheca-sistema-da-volvo-que-freia-caminhao-sozinho/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T14:55:59.249840"
+  },
+  {
+    "id": "c3cbe318c53b05b4e5b1cc45f66fdb4d",
+    "titulo": "Ônibus no 2º turno: o que a Justiça Eleitoral exige do transporte",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/onibus-no-2-turno-o-que-a-justica-eleitoral-exige-do-transporte/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T14:55:59.249853"
+  },
+  {
+    "id": "47168dd1a14ece2f9be97c96d9639ab7",
+    "titulo": "Venda de veículos fecha 1ª quinzena de outubro com queda de 5,7%",
+    "link": "https://www.balcaoautomotivo.com/2026/10/23/venda-de-veiculos-fecha-1a-quinzena-de-outubro-com-queda-de-57/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-26T14:56:04.775776"
+  },
+  {
+    "id": "ea53041f5cf416febe3094b720e31836",
+    "titulo": "Segunda maior fabricante de ônibus da China mira até R$ 100 milhões em nova fábrica no Brasil em 2027 - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlFZbmtxd0hJWXVuV3VLc1d5MHgtMElIX0syMTVYbm5RVkFGU2pCQWNLT0lZTkNCZ2hvbzloLWt6eG5WLUd3UzhkR3RsWVZUMHZVRUt3UGVMU2hMMkIwcy1iTS04bjdMZ1F2TXhTUFJHbnJTMlRIYm53WFFZeXZZc2JPdzRfRWFNVU1TdTNIRzNIQlhFdTVzUF92MA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T07:00:00+00:00"
+  },
+  {
+    "id": "f6a5bd2537d2ff6ec850fe21523d3264",
+    "titulo": "Policial militar é preso acusado de venda de voto no estado do Rio - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY05fUWpGV3cyOTdkZVJzNUpNWXh6elNnT2FGTWhDNHNXWmxDLW1CZFU0NUFaSzB4RG16YmJRT1RSN0lWazAza3BjbHdvbE1teXJZMnJoSXNwZnBxVkt1VlZvSHAwekQ5R3BPZnhaR0NKSW41NGU5WVVnUEctZzljUnJJTXhrb2lNUks2ajZuTEYtRU9MNzcyTzljNTREZjFuXzhLN056VTZKaXNNVFNCZVliZnNuVGplQmhUb2FpdmU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-25T20:28:00+00:00"
+  },
+  {
+    "id": "d21e08bd7814aa13bee657127e0b08ca",
+    "titulo": "Volvo monta unidade voltada a oferecer veículos e serviços para setor de mineração - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnBCTUE5dFVFZGRnaEVVSlJ2LU1hbDNCRHpmcm1XbkxGY1k5Rm5EenlZRnlwOEg1WVpZbGd4NnNQR2V4VnpWRzA4cjE1OUV5MWQ1dERWR0p1LUd4UGkyVElSNjc4WXk1Q1NfZENQcWh4SUVRQ1lNS3h0aVJlbzRrQjlwY05jemNmbHh5M2NUQUUyM1BuZUo5OEMyd3VVdDYxVjAzLWZGd0JWZ1QxcjhmOEhqS3U0V3EwTWx1M25HazhEZjdNRlJncXphNllObk5NUWfSAeABQVVfeXFMTy1PVTZoQWc3ejB6MzhQd0Fla1VnTmw0a2JUNWRoTlVVRkYwOS03YkxqOERqTXk4M2xIR0s4Z1RfbG1oXzVxUGJ3WTJCNmFpOVhWR0I3WExmNFVTZE5iRUo4cEwzYnNGa0FFcF9BTXpvRktMcVVTU1JISVZUejk2Z3hzamNKZWhIUkpqSnFqd1BWVnY0MDdiQTlmUXMzYzlsdF9SSG1fNGNBV1dHM3hOM0dmd0pTNHhSSm1iMHFCUE1zQkYyRVZWdWVwaHhpdXVCdlhTYnBFWjVMdGRBTmhzTUo?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-19T11:35:07+00:00"
+  },
+  {
     "id": "397f752c71fab5920ccc541deaa11059",
     "titulo": "Policial militar prende acusado de venda de voto no estado do Rio - Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY05fUWpGV3cyOTdkZVJzNUpNWXh6elNnT2FGTWhDNHNXWmxDLW1CZFU0NUFaSzB4RG16YmJRT1RSN0lWazAza3BjbHdvbE1teXJZMnJoSXNwZnBxVkt1VlZvSHAwekQ5R3BPZnhaR0NKSW41NGU5WVVnUEctZzljUnJJTXhrb2lNUks2ajZuTEYtRU9MNzcyTzljNTREZjFuXzhLN056VTZKaXNNVFNCZVliZnNuVGplQmhUb2FpdmU?oc=5",

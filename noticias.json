@@ -1,5 +1,66 @@
 [
   {
+    "id": "879ed7d69a08f4f4658eae362e61d36b",
+    "titulo": "Nova plataforma de Telemetria da Bosch amplia controle sobre custos e operação de frotas",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/nova-plataforma-de-telemetria-da-bosch-amplia-controle-sobre-custos-e-operacao-de-frotas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T20:21:23.056163"
+  },
+  {
+    "id": "cd0a4ed40a03ab9c9b8ddf799f223ca8",
+    "titulo": "Conteúdo de marcaNova plataforma de Telemetria da Bosch amplia controle sobre custos e operação de frotasNova plataforma integra dados de veículos, rotas, consumo de combustível e comportamento dos moto...",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/nova-plataforma-de-telemetria-da-bosch-amplia-controle-sobre-custos-e-operacao-de-frotas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T20:21:23.056195"
+  },
+  {
+    "id": "ac50c1cc053b0bcf79ffeac349a5c49d",
+    "titulo": "Cummins mantém conversas com montadoras chinesas para ampliar parcerias no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/10/26/cummins-mantem-conversas-com-montadoras-chinesas-para-ampliar-parcerias-no-brasil/138481/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T20:21:25.501691"
+  },
+  {
+    "id": "c2c940cbeb571e92c8a2f81c1d6f5065",
+    "titulo": "Sono ao volante? Conheça sistema da Volvo que freia caminhão sozinho",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/sono-ao-volante-conheca-sistema-da-volvo-que-freia-caminhao-sozinho/",
+    "fonte": "Estradão",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T20:21:28.294933"
+  },
+  {
+    "id": "8da158956b90605da0e7efaaf9ad1005",
+    "titulo": "Volume de vendas da indústria gaúcha registra crescimento em 2026 - Portal do Estado do Rio Grande do Sul",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWEya2I0Smh3ZzJPY0d4bWNOR2hZemJWUldwcHN5M3NGMWJGSHdueGZfaDVHU0pGdXctOGtOMGM0MGlqU0VRdEdaT0kwZzBKNnB3bURjWEpYQzRCYS1qbnp2YU5Kai1CMlVhUWNma1pYU19nUkdJMEVNTkxpWUxOVG4zY2FqbDdZUjlrWlI4Y3Q4RHhzTkRad3pR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-22T21:03:06+00:00"
+  },
+  {
     "id": "a29ceb839caaa90394597fa052e1db79",
     "titulo": "Frota Summit 2026 chega à segunda edição com programação construída a partir dos problemas reais da operação",
     "link": "https://frotanews.com.br/agenda-frota-summit-2026/",

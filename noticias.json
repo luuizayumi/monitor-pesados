@@ -1,5 +1,31 @@
 [
   {
+    "id": "984a0e94a592bcf2402ea70ff242dee2",
+    "titulo": "Traton Group amplia vendas para 230,4 mil veículos nos nove primeiros meses de 2026",
+    "link": "https://frotanews.com.br/traton-group-resultados-da-vw-caminhoes-scania-man-e-international/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-27T10:15:12.138076"
+  },
+  {
+    "id": "d2bd8d323e78fa4aa854137c2a721578",
+    "titulo": "5.Scania adianta lançamento de sua linha 2027 de caminhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-adianta-lancamento-de-sua-linha-2027-de-caminhoes/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-27T10:15:13.812756"
+  },
+  {
     "id": "1631e0406b016f2555c176484279326f",
     "titulo": "Mercedes-Benz abre pré-venda da nova geração do CLA 200 no Brasil",
     "link": "https://www.autodata.com.br/mobility/2026/10/26/mercedes-benz-abre-pre-venda-da-nova-geracao-do-cla-no-brasil/138529/",

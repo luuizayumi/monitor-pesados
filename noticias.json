@@ -1,5 +1,29 @@
 [
   {
+    "id": "1631e0406b016f2555c176484279326f",
+    "titulo": "Mercedes-Benz abre pré-venda da nova geração do CLA 200 no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/10/26/mercedes-benz-abre-pre-venda-da-nova-geracao-do-cla-no-brasil/138529/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-26T23:59:45.411698"
+  },
+  {
+    "id": "2eb966c1e09c8dc8311c2f065233117f",
+    "titulo": "VWCO integra conectividade, inteligência artificial e serviços para gestão de frotas",
+    "link": "https://frotanews.com.br/vwco-pessoas-pos-vendas/",
+    "fonte": "Frota News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-26T23:59:46.718578"
+  },
+  {
     "id": "879ed7d69a08f4f4658eae362e61d36b",
     "titulo": "Nova plataforma de Telemetria da Bosch amplia controle sobre custos e operação de frotas",
     "link": "https://automotivebusiness.com.br/conteudo-de-marca/nova-plataforma-de-telemetria-da-bosch-amplia-controle-sobre-custos-e-operacao-de-frotas",

@@ -1,5 +1,67 @@
 [
   {
+    "id": "2e5862920f8045ffa7ae2c6bdaf220fc",
+    "titulo": "Mercedes-Benz reduz projeção de lucro após queda na China",
+    "link": "https://www.autodata.com.br/noticias/2026/10/27/mercedes-benz-reduz-projecao-de-lucro-apos-queda-na-china/138637/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-28T13:22:27.137363"
+  },
+  {
+    "id": "44878da4c8860b6c8bc1d88be6926675",
+    "titulo": "Librelato avança a produção com crescimento nas vendas externas",
+    "link": "https://www.autodata.com.br/noticias/2026/10/28/librelato-avanca-na-producao-com-crescimento-nas-vendas-externas/138673/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-28T13:22:27.137377"
+  },
+  {
+    "id": "bdcf8b89a61b8317f4cb1aa8dc9afb9d",
+    "titulo": "Entenda por que a Iveco celebra os 101 anos do transporte coletivo",
+    "link": "https://frotanews.com.br/entenda-por-que-a-iveco-celebra-os-101-anos-do-transporte-coletivo/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-28T13:22:28.464727"
+  },
+  {
+    "id": "cb78690e558dc8f45bfcd50ee2750228",
+    "titulo": "CBTour amplia frota com 33 novos Iveco Daily Minibus",
+    "link": "https://frotanews.com.br/fretamento-iveco-cbtour/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-28T13:22:28.464736"
+  },
+  {
+    "id": "088bd1970591b79c89a6789d7d43c12e",
+    "titulo": "1.Com chinesas, venda de elétricos cresce 20 vezes em 4 anos; o que fica para o Brasil?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/com-chinesas-venda-de-eletricos-cresce-20-vezes-em-4-anos-o-que-fica-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-28T13:22:30.608065"
+  },
+  {
     "id": "660ee18206161fce81cd39360e7661c9",
     "titulo": "Recorde de Market Share: Carros eletrificados respondem por 21% das vendas de veículos leves em julho - Gazeta da Semana",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR3Y0ZDFnVjl5aUVuNUV1QjU1blBaRkJBVG93bkJJUWpzR1B3TU9uZi1aOVVBNU56QVBiVTdEemw4bU1WQm9xUlVKQ3RLNkpMZl9FMTZGYTFRYy1adWs4el9GN3d6WmtaSVlsUXZNZUp1aC1LYlRfSlhpX2tOQWQ4QndKZEpueGltQWhtdi1sQnIwMHZCbXNvaGtESWcwNUNLcHRFdFlkTUVwVE5ZVkxSRmpWUlo3RWZJYXFBei1EaUJjNHl6bThQSDdyMVBXWnBIVk1iZURfZEpZcDF5?oc=5",

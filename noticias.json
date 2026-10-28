@@ -1,5 +1,43 @@
 [
   {
+    "id": "12b5156a3b79aae01961ba322f0561ee",
+    "titulo": "Locadoras elevam compras em 35% e frota de veículos avança 5%",
+    "link": "https://www.autodata.com.br/noticias/2026/10/28/locadoras-elevam-compras-em-35-e-frota-de-veiculos-avanca-5/138764/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-28T23:06:15.281918"
+  },
+  {
+    "id": "db0920ef8dcad4c2e1c7cfaeff5cf033",
+    "titulo": "Vendas de ônibus puxam mercado europeu de veículos comerciais",
+    "link": "https://www.autodata.com.br/noticias/2026/10/28/vendas-de-onibus-puxa-mercado-europeu-de-veiculos-comerciais/138717/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-28T23:06:15.281948"
+  },
+  {
+    "id": "0c1510555d99652d26f52cf3afccd29d",
+    "titulo": "5.Com chinesas, venda de elétricos cresce 20 vezes em 4 anos; o que fica para o Brasil?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/com-chinesas-venda-de-eletricos-cresce-20-vezes-em-4-anos-o-que-fica-para-o-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-28T23:06:19.450529"
+  },
+  {
     "id": "c7ccfc7c27de457b60138b5ed232273b",
     "titulo": "Mercedes-Benz e rede autorizada: legados que se encontram",
     "link": "https://www.autodata.com.br/workstudio-autodata/2026/10/28/mercedes-benz-e-rede-autorizada-legados-que-se-encontram/138692/",

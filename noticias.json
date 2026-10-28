@@ -1,5 +1,30 @@
 [
   {
+    "id": "c7ccfc7c27de457b60138b5ed232273b",
+    "titulo": "Mercedes-Benz e rede autorizada: legados que se encontram",
+    "link": "https://www.autodata.com.br/workstudio-autodata/2026/10/28/mercedes-benz-e-rede-autorizada-legados-que-se-encontram/138692/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-28T18:59:20.919290"
+  },
+  {
+    "id": "1bf219ad9ca110b0a6c622c9ddc9b085",
+    "titulo": "Renault amplia participação nas vendas diretas e mantém 7ª posição no mercado total até setembro de 2026",
+    "link": "https://frotanews.com.br/renault-amplia-participacao-vendas-diretas/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-28T18:59:22.421936"
+  },
+  {
     "id": "2e5862920f8045ffa7ae2c6bdaf220fc",
     "titulo": "Mercedes-Benz reduz projeção de lucro após queda na China",
     "link": "https://www.autodata.com.br/noticias/2026/10/27/mercedes-benz-reduz-projecao-de-lucro-apos-queda-na-china/138637/",

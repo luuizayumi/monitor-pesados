@@ -1,5 +1,91 @@
 [
   {
+    "id": "ad6b4b75605e0b79e0910445688b7338",
+    "titulo": "China e Alemanha derrubam as vendas da Toyota no acumulado do ano",
+    "link": "https://automotivebusiness.com.br/balanco/china-e-alemanha-derrubam-as-vendas-da-toyota-no-acumulado-do-ano",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-30T19:59:39.396813"
+  },
+  {
+    "id": "e04677b6af966f3e9059d90fe76977a5",
+    "titulo": "frotasLocadoras compraram 570 mil veículos até setembro30/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/locadoras-compraram-570-mil-veiculos-ate-setembro",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-30T19:59:39.396828"
+  },
+  {
+    "id": "6169478fe8250c4939b76115e91fcaeb",
+    "titulo": "frotasLocadoras compraram 570 mil veículos até setembro30 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/locadoras-compraram-570-mil-veiculos-ate-setembro",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-30T19:59:39.396832"
+  },
+  {
+    "id": "10c9e7170fe326464f39a639d945f996",
+    "titulo": "MercadoChina e Alemanha derrubam as vendas da Toyota no acumulado do ano30 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/china-e-alemanha-derrubam-as-vendas-da-toyota-no-acumulado-do-ano",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-30T19:59:39.396840"
+  },
+  {
+    "id": "481ff43769ae08a26878c268cf7cbe2f",
+    "titulo": "Volkswagen Caminhões e Ônibus: 30 anos de Resende como ponto de virada",
+    "link": "https://frotanews.com.br/vw-caminhoes-e-onibus-29-anos-resende/",
+    "fonte": "Frota News",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-30T19:59:43.216628"
+  },
+  {
+    "id": "a17ec8cf88418ffd920a29a071e84855",
+    "titulo": "MANN+HUMMEL anuncia Raul Cavalaro como Diretor de Vendas de Reposição",
+    "link": "https://www.balcaoautomotivo.com/2026/10/30/mannhummel-anuncia-raul-cavalaro-como-diretor-de-vendas-de-reposicao/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-30T19:59:49.477583"
+  },
+  {
+    "id": "cdecb937fb9270b883ef843ed10a5638",
+    "titulo": "Volume de vendas das indústrias de transformação gaúchas registra crescimento - radiocaicara.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXEzamM2cVR3NU5Jd01VLUczVVdFWlh6dnJzSjFkRDRiY1VLSEIyd194Q25MQ21KS0l1cVRGRmlVYWlvc1ZOTV8tUUFRQXFBOGxkOWlCOEFhcFhKcVVfZGU2MUhYMTQ3anRMVXpNMTY2SDlBajlSUnJLUEUyWmNqU2JCMXk4MXhjejNPdUVwcFpVQW9fMXpoMXE5aEduWHlaOWE0T2lBd3dVNUtUTjE0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T10:33:31+00:00"
+  },
+  {
     "id": "3fc606b364ee85cad04edc14b1c56738",
     "titulo": "China e Alemanha derrubaram produção da Toyota em setembro",
     "link": "https://automotivebusiness.com.br/balanco/china-e-alemanha-derrubaram-producao-da-toyota-em-setembro",

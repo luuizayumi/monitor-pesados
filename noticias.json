@@ -1,5 +1,102 @@
 [
   {
+    "id": "3fc606b364ee85cad04edc14b1c56738",
+    "titulo": "China e Alemanha derrubaram produção da Toyota em setembro",
+    "link": "https://automotivebusiness.com.br/balanco/china-e-alemanha-derrubaram-producao-da-toyota-em-setembro",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-30T15:11:25.440800"
+  },
+  {
+    "id": "17bbe1354e152f64442ca97f4fb3e31f",
+    "titulo": "MercadoChina e Alemanha derrubaram produção da Toyota em setembro30/10/2026",
+    "link": "https://automotivebusiness.com.br/noticias/china-e-alemanha-derrubaram-producao-da-toyota-em-setembro",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-30T15:11:25.440814"
+  },
+  {
+    "id": "f48aa09f881baa4ca5a5b2ad7c89ea7b",
+    "titulo": "MercadoChina e Alemanha derrubaram produção da Toyota em setembro30 out 2026",
+    "link": "https://automotivebusiness.com.br/noticias/china-e-alemanha-derrubaram-producao-da-toyota-em-setembro",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-30T15:11:25.440818"
+  },
+  {
+    "id": "9230714caae3043e4e69cdc0bacbbf19",
+    "titulo": "Jetour completa os seis lançamentos prometidos e comemora boas vendas",
+    "link": "https://www.autodata.com.br/noticias/2026/10/30/jetour-completa-os-seis-lancamentos-prometidos-e-comemora-boas-vendas/138973/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-30T15:11:27.827155"
+  },
+  {
+    "id": "2cd87c24f223d82a7c6024a7d9ae0b18",
+    "titulo": "Vendas do Grupo Renault crescem 4% no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/10/30/vendas-do-grupo-renault-crescem-4-no-brasil/138878/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-30T15:11:27.827185"
+  },
+  {
+    "id": "89e6595b77ddd841201acdea76437843",
+    "titulo": "DAF amplia formação de mecânicos com DAF Academy e Projeto Horizonte",
+    "link": "https://frotanews.com.br/daf-amplia-formacao-de-mecanicos-com-academy/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-30T15:11:29.172105"
+  },
+  {
+    "id": "bf94fd98e5df6c2af7b4038f08f99f7d",
+    "titulo": "Trabalhador rural que tinha seu rosto ferido no transporte incentiva a criação de ônibus especial",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/trabalhador-rural-que-tinha-seu-rosto-ferido-no-transporte-incentiva-a-criacao-de-onibus-especial/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-10-30T15:11:30.788818"
+  },
+  {
+    "id": "06cba608150c37279b6057de33ebd0b4",
+    "titulo": "LISTA: veja quais dos 10 carros mais vendidos do Brasil gastam menos combustível - G1",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQWR4dkprSjBwa0JwdTAxbjZEa0NjRm41TldfYUE4N3BNTmFBaFF4X2UwYlhIRHFocE40M0lyTnNtLXBWVmZPVDg5SVJhS3M4cEpHNVgwOGJadDJMeFVfTTViNnFmZlZ3eTZtQ0FrT3JkT1JkMFB6d2xhLUdfQUo2SWEtUDJtQXdvRnBxRzBkV3lITDR6LXp4c0lkWnNNMDRpYVB4QXJvUDM1TWVEVEdFQjRhd1RONlBvSVRCTllnSjhVLW9qbXFyc1U0TzfSAdsBQVVfeXFMTU1YWC1hNzJNZzVwOUdPVlhIMllZVDUwRHFDMzM0Z3duU1FIMnRWdndEdUx4M0JJa2gySjk4UG5TTU0zUTdqWGstYVRyZnB5MEQ5aXNjWm5uam5vNmlUbERGQ19EVFdIQjZZU254b3RjVkg0TEthUTloZTNDYVBDc1B0a1RYMmN0aGtHeUUya1ZraW9HdWdJbVVLby1ta0h3SWRZR21GUVFjU0VhOTZQc1FxNDJWbEYxVjVPME50b1hWbjNZM21DQVQxaU5nM1ZwVHFrRmRUNFVzNHpj?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-29T06:00:00+00:00"
+  },
+  {
     "id": "4f948cf84a1b2472d0e7af419b325a28",
     "titulo": "Fenabrave: emplacamentos superam 500 mil e batem recorde em setembro - Correio do Povo",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWZTd2htNWJnMWtDam5hTlo4a3hiZ2Z6czItV2NZdXZnbzJWVlhGMnpPUUdKMVNmS3dFVGxFTzgzcVotWHBXNDl1dGJNX3VvZlJHUEZFYlhQUFh0dGlGRFQ3UFdWeW1YVmczRjc4OFM3ZGhRSWpPR2JOTHBmSlNNXzgtdDZ5ekpUR0tGRW9NWnI1UDVwbjd3ZlhtaDE1SFRqQThzMUZudVN4OVBoX0RaTVlfQVR6MDhUX1QzdmVXZU9sWkx2Z0xFVGhEc202dw?oc=5",

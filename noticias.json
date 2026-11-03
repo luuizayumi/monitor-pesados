@@ -1,5 +1,78 @@
 [
   {
+    "id": "2e8580210808d4faad084d458a335e7e",
+    "titulo": "Aquisição concluída: Tata e Iveco formam nova fabricante global de veículos comerciais",
+    "link": "https://frotanews.com.br/iveco-tata-motors/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-03T14:53:24.189765"
+  },
+  {
+    "id": "6eeb4e16333addc981db2619826a2083",
+    "titulo": "O gestor de manutenção precisa conhecer o negócio da empresa",
+    "link": "https://frotanews.com.br/gestor-de-manutencao-precisa-conhecer-a-empresa/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-03T14:53:24.189793"
+  },
+  {
+    "id": "977a710893af7cca52b40d53dc748c5f",
+    "titulo": "Viação Gato Preto adquire 20 ônibus elétricos Volvo para renovação da frota em São Paulo",
+    "link": "https://frotanews.com.br/gato-preto-renova-frota-com-20-onibus-eletricos-volvo/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-03T14:53:24.189796"
+  },
+  {
+    "id": "e5242ae938c8c9e0cd32a948f23e1a24",
+    "titulo": "1.Honda City 2027 mantém a mesma dinâmica, tem consumo de híbrido, mas racionalidade ‘pode incomodar’",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/honda-city-2027-mantem-a-mesma-dinamica-tem-consumo-de-hibrido-mas-racionalidade-pode-incomodar/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-03T14:53:26.037681"
+  },
+  {
+    "id": "233003839a6a6d889378c12f2e9243dc",
+    "titulo": "Com uma ano da fábrica em Camaçari, BYD mais que dobra vendas no Brasil",
+    "link": "https://www.balcaoautomotivo.com/2026/11/03/com-uma-ano-da-fabrica-em-camacari-byd-mais-que-dobra-vendas-no-brasil/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T14:53:32.977968"
+  },
+  {
+    "id": "92f53d493d4ab03d4e537b72f22b14fd",
+    "titulo": "Vendas de automóveis na UE sobem 5,7% até setembro para 8,5 milhões de unidades - Dinheiro Vivo",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3V1Y1EtNGtYaHpQeHNnTTMwc0U1QVhOR1VhSENZSTRpMTQwWnBhay1PQjVnS2drTE9hS09VeWtPcUxHUGxxNDdUeGpWVVZoUGlBNzhoOXJDSTE1U0F5bXlid1ZUcVBfUjJBSE14THdZS25ldVJwSENLN0pMT0NDVTluWDNJdFU4YTRCWFk4YUU2aVFITEVTdFBiX1MyNnBzLW1ENVAzcmlWNnM2?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-22T07:00:00+00:00"
+  },
+  {
     "id": "2edf27aad2a5d030aa251bc283453617",
     "titulo": "BYD Dolphin Mini da nova geração entra em pré-venda na China; saiba preços e quando chega - AUTOO",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMk9YRzB0YmtZTGZKZW5ESHN6SloxMzZJaW1oSk1VUGlZNU55QWlBdUJkb2VucldaQm1yM0hxX2hweGU4c0w3ZXRoM09OVE5Qdnl2V0h0TXJBTmo0WWxFWk9aQ3ZtTFVyQVRlNEJPa2RER0tKeF9tRWpsTWZuY0o2SmhzTnYtSDJQQmlXV3lIdlJ6MUtxMEtYRkdmWlAyNGF5Mzk1d1lidlVDV0hJZHdsTGF6WQ?oc=5",

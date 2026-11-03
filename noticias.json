@@ -1,5 +1,101 @@
 [
   {
+    "id": "d499a98bf3ebd8e618c0c4ba0d356b30",
+    "titulo": "Strada lidera vendas em outubro e abre vantagem sobre HB20",
+    "link": "https://automotivebusiness.com.br/mercado/strada-lidera-vendas-em-outubro-e-abre-vantagem-sobre-hb20",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T20:48:28.921646"
+  },
+  {
+    "id": "aedf2c38210dbb391ebdfd7fc511e093",
+    "titulo": "vendasStrada lidera vendas em outubro e abre vantagem sobre HB2003/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/strada-lidera-vendas-em-outubro-e-abre-vantagem-sobre-hb20",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T20:48:28.921665"
+  },
+  {
+    "id": "26d04136a921a93486ac53358e4e620f",
+    "titulo": "vendasStrada lidera vendas em outubro e abre vantagem sobre HB2003 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/strada-lidera-vendas-em-outubro-e-abre-vantagem-sobre-hb20",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T20:48:28.921673"
+  },
+  {
+    "id": "9a0197b412e7262e2987f2d737370c60",
+    "titulo": "Vendas de veículos crescem 2% em outubro",
+    "link": "https://www.autodata.com.br/noticias/2026/11/03/vendas-de-veiculos-crescem-2-em-outubro/139103/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T20:48:31.170266"
+  },
+  {
+    "id": "f2e5795dffd1cc07eb1b7138281310d2",
+    "titulo": "Toyota Yaris Cross entra no Top 10 de vendas em outubro",
+    "link": "https://www.autodata.com.br/noticias/2026/11/03/toyota-yaris-cross-entra-no-top-10-de-vendas-em-outubro/139140/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T20:48:31.170280"
+  },
+  {
+    "id": "f0b221e5d8d264fc2c234a729adda656",
+    "titulo": "Tata Motors assume o controle do Grupo Iveco",
+    "link": "https://www.autodata.com.br/noticias/2026/11/03/tata-motors-assume-o-controle-do-grupo-iveco/139050/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-03T20:48:31.170283"
+  },
+  {
+    "id": "70b56c2c598bd4399c3e39df5e212837",
+    "titulo": "Revista Frota News | Edição 58: Especial Fenatran destaca as transformações que estão redesenhando o transporte rodoviário",
+    "link": "https://frotanews.com.br/revista-frota-news-edicao-58/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-03T20:48:32.491022"
+  },
+  {
+    "id": "6787f986b5519767eb6bebbd7a06319d",
+    "titulo": "2.Honda City 2027 mantém a mesma dinâmica, tem consumo de híbrido, mas racionalidade ‘pode incomodar’",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/honda-city-2027-mantem-a-mesma-dinamica-tem-consumo-de-hibrido-mas-racionalidade-pode-incomodar/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-03T20:48:33.957963"
+  },
+  {
     "id": "2e8580210808d4faad084d458a335e7e",
     "titulo": "Aquisição concluída: Tata e Iveco formam nova fabricante global de veículos comerciais",
     "link": "https://frotanews.com.br/iveco-tata-motors/",

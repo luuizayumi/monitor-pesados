@@ -1,5 +1,56 @@
 [
   {
+    "id": "1b52781e4b68d180eb0da2ee15ab668a",
+    "titulo": "Omoda Jaecoo expande operação no Brasil com nova área de venda direta",
+    "link": "https://www.autodata.com.br/noticias/2026/11/04/omoda-jaecoo-expanda-operacao-no-brasil-com-nova-area-de-venda-direta/139242/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T22:03:30.102703"
+  },
+  {
+    "id": "d54292c7f80841f78acab96abbdcd681",
+    "titulo": "Lexus inicia venda do sedã elétrico ES 500e",
+    "link": "https://www.autodata.com.br/mobility/2026/11/04/lexus-inicia-venda-do-seda-eletrico-es-500e/139332/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-04T22:03:30.102724"
+  },
+  {
+    "id": "92e25f462e05250d070c95ade7579629",
+    "titulo": "Geely supera a marca de 1 milhão de EX2 vendidos no mundo",
+    "link": "https://www.autodata.com.br/noticias/2026/11/04/geely-supera-a-marca-de-1-milhao-de-ex2-vendidos-no-mundo/139237/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T22:03:30.102737"
+  },
+  {
+    "id": "1269ff91763e50ebdcc36289f4c7661a",
+    "titulo": "JAC Motors lança caminhão elétrico EJT 9.5 ER com maior capacidade de carga",
+    "link": "https://frotanews.com.br/jac-motors-lanca-caminhao-eletrico-ejt-95-er/",
+    "fonte": "Frota News",
+    "montadora": "JAC",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-04T22:03:31.518004"
+  },
+  {
     "id": "bee84d3d7c8f850be50800b6606c5b1d",
     "titulo": "VW Caminhões e Ônibus abre 20 novos pontos de atendimento para ampliar pós-vendas",
     "link": "https://www.autodata.com.br/mobility/2026/11/04/vw-caminhoes-e-onibus-abre-20-novos-pontos-de-atendimento-para-ampliar-pos-vendas/139079/",

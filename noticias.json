@@ -1,5 +1,120 @@
 [
   {
+    "id": "da1a094c7013e226df26ce38ee158b4d",
+    "titulo": "GWM inicia pré-venda do Tank 400",
+    "link": "https://automotivebusiness.com.br/lancamentos/gwm-inicia-pre-venda-do-tank-400",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T01:05:19.866982"
+  },
+  {
+    "id": "f2adb48947c85e82d3d5fa745bdb7d3b",
+    "titulo": "Volvo vende 20 ônibus elétricos para Viação Gato Preto",
+    "link": "https://automotivebusiness.com.br/mercado/volvo-vende-20-onibus-eletricos-para-viacao-gato-preto",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-04T01:05:19.866997"
+  },
+  {
+    "id": "65a2644af2769d273f6bfb783008e3cc",
+    "titulo": "ônibus elétricosVolvo vende 20 ônibus elétricos para Viação Gato Preto03/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-vende-20-onibus-eletricos-para-viacao-gato-preto",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-04T01:05:19.867008"
+  },
+  {
+    "id": "295d303b3fc9c540bc8b615981f885cf",
+    "titulo": "ônibus elétricosVolvo vende 20 ônibus elétricos para Viação Gato Preto03 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volvo-vende-20-onibus-eletricos-para-viacao-gato-preto",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-04T01:05:19.867011"
+  },
+  {
+    "id": "9e661f133c9ca2dfb36d440756d2eca6",
+    "titulo": "Mercado de caminhões usados cai 4,6% em outubro; Volvo FH lidera ranking de vendas - Jornal Portuário",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHIyaHkyTWFlTjR0WkxmUVJCN2h5emNPWUp1YnEyb0NtUjRuck85YTRIYzZuNWEzNGtRbkQ5eVpnVnFRcVhZald0R1pVb1h1TGdnbjdaTTBnNkMwZkdSRlhzd2xLbHpuMmdZOVdCbGxsMGZsaGlubm40SjF1TkR2V1k1ZllnOUktQVZUdGtpdTZMaWpEb3pVSDBtbkxEd2hhQmsyYll1QjFfbWFYbGIwZFh4ak5nSkxOemFZ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T19:12:53+00:00"
+  },
+  {
+    "id": "22e6bc1047e4619a17caca076b76f82a",
+    "titulo": "Mercado de caminhões usados cai 4,6% em outubro; Volvo FH lidera ranking de vendas - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkpoWFZuakV6V2RSMndoMnVBMVF2YXRuUHZfVUZsQzFWV2QzUnlESVJuWjA4NzBJaXF0amxYLUFpc3JFNU1tdGtzc0dxUTdhNkc0RnF1QUJpbDJmaEVpaENFb1FUTVNBRHI1LWRkM25HYXZHX25MUnVSUWw0Y2ZhV3ZKRzhtdFJxWTFnRXhfSkVpVE5neWNlRnZ4YmRrckp6cmtzNWJzQXRzQ19PMlo1eGlqUlE1Tm10ZVFwcnRkeHdudw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T18:24:38+00:00"
+  },
+  {
+    "id": "2b0324474d5690107d9142c2bd76475a",
+    "titulo": "Marcopolo (POMO4) vê lucro cair 43,4% no 3º trimestre, para R$ 186,5 milhões - BPMoney",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3AwMWYxOVNEeEdDel9uUURld0hQUUVNbm10a19KVGpFOWstWlRRNkZZNVNQRVIzWUd2VV9LTmYxajk1TkpxUXYydERnNUVRamJ6ZDVMRnRmM1ZCbm9ramUwQ3RRRmNoZW1GeHdYS3ZQdVpmbVJlWGgxejBvVHA4UTNUNUNqQ0c2Y21wd2w4Y3ItYld1cWM1MU1pZWd2NG1fRExMYS1R?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T23:08:33+00:00"
+  },
+  {
+    "id": "8de454618d8354f3b524d190e2aa36fa",
+    "titulo": "Em parceria com o SENAI, DAF prevê capacitar 1,5 mil mecânicos em 2026 - Diário dos Campos",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTQtNFNjeGdQbTJmb25aaW13Y3BnQ1liYjVWdm9nTjBPVVlxY25JUnR4eERVamYwSTJtVjlBLVZuSXhodndHSktuXzVXVWlCajNoSXRpYUQ4UUdJb0tnVG5wNEF4eHVrQnJIRFNMMFBOWUd2bzZCY3hZbndvd3ZBSVRMam82ZVdENWtuWUVxVzB4M2ZLa3dHUV9oLUQwWmJQQUlOcWVaY9IBrAFBVV95cUxOUlBlTGJCQzNfRXJxRVFuQ2dTU1RBcERuZEJmUE9rcHpmd2h4YXloVFVzU3FDZ2lrODNZMVEzaHp1WE1fYUtic0d3eXBOYm5TS0NlS1A5V29MTW4yaW9pWVB4WUN0S0VtRWtPeWI1Tm9ZdEVjYU00YTRLVXlhcTRlSHlIZWJ2SDA0QmNodlViNlRSWkJoMlFsODc5OXZ3TDNlU3Vla3JYZUFsSVQt?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T13:44:00+00:00"
+  },
+  {
+    "id": "067ffa780517d4bb071c02b992e234f7",
+    "titulo": "China vende caminhões elétricos pesados em 50% das vendas e derruba demanda por diesel - Engenharia Hoje",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkFUXzZqd1UyV3FsdmNhem9vVkVNNGZQY2xDWU84dHRBSEtrNUQzRFFhclhCaE5FbFFNRmNaZjgzanF4UEIzM1R4VUU4QTlzb0Z0VWM3bUVIWU15UUYxallCcXl4TDJRV1k1QXFHZ0c4N0hGcU9zNGRVb29CRGlaazF0dVpQazRIV0V4US1LMmlWMVU?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-03T17:31:20+00:00"
+  },
+  {
     "id": "d499a98bf3ebd8e618c0c4ba0d356b30",
     "titulo": "Strada lidera vendas em outubro e abre vantagem sobre HB20",
     "link": "https://automotivebusiness.com.br/mercado/strada-lidera-vendas-em-outubro-e-abre-vantagem-sobre-hb20",

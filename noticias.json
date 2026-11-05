@@ -1,5 +1,80 @@
 [
   {
+    "id": "821b17b4cdddf2b05e96353135b520c2",
+    "titulo": "Honda faz 50 anos em Manaus com produção diária de 7 mil motos",
+    "link": "https://automotivebusiness.com.br/duas-rodas/honda-completa-50-anos-com-producao-de-7-200-motos-por-dia",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T23:46:33.129436"
+  },
+  {
+    "id": "4cfd07e4b5f0339af48023af011360e1",
+    "titulo": "indústriaDe olho no delivery, Honda investe R$ 3 bilhões na fábrica de Manaus",
+    "link": "https://automotivebusiness.com.br/noticias/honda-investe-3-bilhoes-ampliar-producao-de-motos",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T23:46:33.129460"
+  },
+  {
+    "id": "b70d9aafdd519e92968d9c6ccfc19c48",
+    "titulo": "indústriaHonda faz 50 anos em Manaus com produção diária de 7 mil motos05/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/honda-completa-50-anos-com-producao-de-7-200-motos-por-dia",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T23:46:33.129465"
+  },
+  {
+    "id": "28266b0a845c0d5ba4dabfaacf5829ce",
+    "titulo": "indústriaHonda faz 50 anos em Manaus com produção diária de 7 mil motos05 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/honda-completa-50-anos-com-producao-de-7-200-motos-por-dia",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T23:46:33.129468"
+  },
+  {
+    "id": "3846c93c96985e6fb217af1af5cca018",
+    "titulo": "Luiz Carlos Moraes assume novas funções e Adriano Barros chega à Mercedes-Benz",
+    "link": "https://www.autodata.com.br/noticias/2026/11/05/luiz-carlos-moraes-assume-nova-funcoes-e-adriano-barros-chega-a-mercedes-benz/139494/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T23:46:36.119041"
+  },
+  {
+    "id": "cfcf56f9f55057a35e60f9b00e2847c9",
+    "titulo": "1.Zezé di Camargo escolhe Mercedes GLE de R$ 800 mil para presentear a mulher; conheça os luxos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/cultura-automotiva/zeze-di-camargo-escolhe-mercedes-gle-de-r-800-mil-para-presentear-a-mulher-conheca-os-luxos/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T23:46:40.908885"
+  },
+  {
     "id": "791d3bf50ef16f294ed47e8fedfb8a51",
     "titulo": "De olho no delivery, Honda investe R$ 3 bilhões na fábrica de Manaus",
     "link": "https://automotivebusiness.com.br/duas-rodas/honda-investe-3-bilhoes-ampliar-producao-de-motos",

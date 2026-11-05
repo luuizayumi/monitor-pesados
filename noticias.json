@@ -1,5 +1,188 @@
 [
   {
+    "id": "791d3bf50ef16f294ed47e8fedfb8a51",
+    "titulo": "De olho no delivery, Honda investe R$ 3 bilhões na fábrica de Manaus",
+    "link": "https://automotivebusiness.com.br/duas-rodas/honda-investe-3-bilhoes-ampliar-producao-de-motos",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T18:13:19.662262"
+  },
+  {
+    "id": "cc409688d9452c2008c62f370a187f0f",
+    "titulo": "indústriaDe olho no delivery, Honda investe R$ 3 bilhões na fábrica de Manaus05/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/honda-investe-3-bilhoes-ampliar-producao-de-motos",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T18:13:19.662287"
+  },
+  {
+    "id": "35e71185c274c13ba695671b6248b8f1",
+    "titulo": "indústriaDe olho no delivery, Honda investe R$ 3 bilhões na fábrica de Manaus05 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/honda-investe-3-bilhoes-ampliar-producao-de-motos",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T18:13:19.662292"
+  },
+  {
+    "id": "c13de0ac64892312cfa3721bde6711c6",
+    "titulo": "Fenabrave revisa para cima, mais uma vez, projeção de vendas de veículos",
+    "link": "https://www.autodata.com.br/noticias/2026/11/05/fenabrave-revisa-para-cima-mais-uma-vez-projecao-de-vendas-de-veiculos/139380/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T18:13:22.586175"
+  },
+  {
+    "id": "0bfae6c5ca83098ced221015a537d28f",
+    "titulo": "Caminhões e ônibus ensaiam recuperação gradual após Move Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/11/05/caminhoes-e-onibus-ensaiam-recuperacao-gradual-apos-move-brasil/139366/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T18:13:22.586189"
+  },
+  {
+    "id": "2ac7c252475e5939e8ca8558e5f7db02",
+    "titulo": "BYD acredita subir ao pódio do ranking nacional já em 2027",
+    "link": "https://www.autodata.com.br/noticias/2026/11/05/byd-acredita-subir-ao-podio-do-ranking-nacional-ja-em-2027/139291/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T18:13:22.586192"
+  },
+  {
+    "id": "8891f6e8321a60cf2f7d9c5b8c775fab",
+    "titulo": "Honda inaugura museu de motos para celebrar 50 anos de produção em Manaus",
+    "link": "https://www.autodata.com.br/mobility/2026/11/05/honda-inaugura-museu-de-motos-para-celebrar-50-anos-de-producao-em-manaus/139364/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T18:13:22.586195"
+  },
+  {
+    "id": "a91179540b13f69e52110b8c5cf5c113",
+    "titulo": "XCMG apresenta caminhão elétrico Hanjing na Fenatran",
+    "link": "https://frotanews.com.br/xcmg-apresenta-caminhao-eletrico-hanjing/",
+    "fonte": "Frota News",
+    "montadora": "XCMG",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-05T18:13:23.959320"
+  },
+  {
+    "id": "f287c5da4dc10ceb1278a87706d1f334",
+    "titulo": "JAC Motors lança caminhão elétrico EJT 9.5 ER por R$ 469.900",
+    "link": "https://frotanews.com.br/jac-motors-lanca-caminhao-eletrico-ejt-95-er/",
+    "fonte": "Frota News",
+    "montadora": "JAC",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-05T18:13:23.959333"
+  },
+  {
+    "id": "771a71e1a915af9ee11a47edc8400c55",
+    "titulo": "Seis marcas de caminhão que deram adeus ao Brasil — e a que prepara o retornoDe fabricantes históricas a gigantes internacionais, conheça as marcas que encerraram a produção ou interromperam as vendas de caminhões no País e os motivos por trás dessas decisões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/seis-marcas-de-caminhao-que-deram-adeus-ao-brasil-e-a-que-prepara-o-retorno/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T18:13:25.484292"
+  },
+  {
+    "id": "07140aa96518b05ff73d1f2899be5712",
+    "titulo": "Anfavea eleva projeções de produção e vendas de veículos em 2026, corta exportações - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWnFRblVfV1VpMFp5ZEVZb0E0S3VIVTYzZHF1eElsLXRvVVBTUlhvaVdpWXJXUDYyUkk0Z3JuNF9GTjdDYnpQaUZaQk5IcHprbVExcGNiZ2VJOExjallPa1k0Tm4zaTRmdVVFYXpHVzdZbVduTTdDdVB2c3l3VUozVXB0MFlYRFhQX0hJYWptTC1KNmdCMEtWVXE4blRDTGlRaGNDa3dkUU41U1IxWUNWa3RsMDVuS1RtelZvNWs0OTRnR0MxLTR1OWZiNXVZYUFrazFnU3B1MzNwNGZwcTdZRFYwUHNaZHU2Z0ZKWVZ0S2RzeUlu?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-07T07:00:00+00:00"
+  },
+  {
+    "id": "ee4144c7da9c827b917ec33f83e2e3dc",
+    "titulo": "Fenabrave eleva previsão de vendas de veículos em 2026 para 12,8% - sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVJGSVR2c3gzOTEyQlJPbVJlVXNDbTdqaWNneTAyNlVrSGlkaVFzN3ZROTNNa2Q0SEktbUFzWjZCR1VCV0dNeWt2bXNNRG1BMnFsSGtITEJFd3luc3k1U09RaWtkNndSUm9KYXJRLXpwVXI0X2VvQkZKWXBwZGd6T0FOcmF4NVZYY2Z5SjkyUXhOa2dSUFhNdnBUd19lVTdyYU00a1UyR19ZLUhCMXNvYll0YzNGSkVXd21aV3NtRW9Qdmp4bGFhZA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T23:15:10+00:00"
+  },
+  {
+    "id": "22ea273d64403415a75da7e48ee35131",
+    "titulo": "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026… - Gazeta News Guarulhos",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjByaGtvOG1oalZlTmtUVXU3LTIzTlNUQ05RbWh2a2dGY1JtSXBvR0ZnNDNuRG5NMEN4SzduQWV2ZVItRWJMZ0dQMEY1eWZZdlFEMHRMdlVUVENRSWJsZnUwYmFrNjFMNWttZ2FQZzhUTEdNcWJDV0xjUkFEYTVZN1RiMnUzUjF0Q00wS0c1SVZ3MGp2WG4wRm5rMURBdGJxdHZUMg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T02:35:51+00:00"
+  },
+  {
+    "id": "23073c7bb5760a79713f3ede10c8c0aa",
+    "titulo": "Venda de caminhões tem queda de 4,49% no fechamento de outubro - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3JXZjVVbFQ1WmNJalZZS2F5SmhPbjFERjQ4Tk9tLTREdHZPWlJZVlVTWHVQd2FUbmk0YmVfX3g5cklGMmdacHpuZURTbUdwaDhMU2ZJb09XVTZsTUU5YUJxNmQyYnphMFVXanZZVVBCNFZ3djR4ZHlQTDN2QXhuVVNlaHltR3gySHZpOVJSbml6Nk9sOWpfdjRlQ2FXM21mVEE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T14:37:52+00:00"
+  },
+  {
+    "id": "de5f0d3fd85bd5b613cce8dcb5512873",
+    "titulo": "Marcopolo supera marca de 200 ônibus G8 TEC vendidos em menos de três meses após lançamento - Blog do Caminhoneiro",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR3ZNbmZJVUhRakgtTGNMUjNFVXZudm5tSm9aT0ZabUZUQzlxeEQzRG1hQXl1dHpHNmlYLUNjeGZuSHE0Tkw0VUozTEpxTDVsdFptaVhhXzBWb1FTVHNvQXo3X2llYzVHamZxQWZqbmZBaHY3ZTdSd0RPQmRRbXVxZ3Jaa3E2RXhaNUJ5TnVCQndpZnF4VGxkUW9zMDM4Z3pQLUhkbWpNWGVqdzhZTWNSSEN5cmVZekhqcXZOQVI4UmpzZU11bUZhMHlIYw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T13:45:02+00:00"
+  },
+  {
     "id": "fe4a67219c77a918c4a39eaf77e79a47",
     "titulo": "Eletrificados já são 20% das vendas de veículos leves, diz Anfavea - Band",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2FWbDlwaS1sWG1SaC1lLUZmSS1CRHZwOG82blAzUVJxU1hacnJRdE1pd2NtUkctUzhPaUVVVnZpWlVKVW9pdWRRcG1feE4xMzh6WEt6QzNUVm04T0hZR3NIc1J0MktGdjVpN1NJOGxIZnpmZ0JPYV9kTlBDVWF1X0phZk4yUWx2cGdENW4xVFM0UjN1MUVJdHdVa0Q2c1U?oc=5",

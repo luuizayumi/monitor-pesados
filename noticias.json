@@ -1,5 +1,223 @@
 [
   {
+    "id": "8cef596f975f7da76676c927eab2f4c2",
+    "titulo": "Tata Motors assume controle da Iveco",
+    "link": "https://automotivebusiness.com.br/negocios/tata-motors-assume-controle-iveco-e-cria-gigante-global-veiculos-comerciais",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T02:40:32.020744"
+  },
+  {
+    "id": "d1551e23c2953b5e70f9f61847a7550e",
+    "titulo": "MontadorasTata Motors assume controle da Iveco04/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/tata-motors-assume-controle-iveco-e-cria-gigante-global-veiculos-comerciais",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T02:40:32.020765"
+  },
+  {
+    "id": "2632791c1f0789f5aafb55777fef762b",
+    "titulo": "MontadorasTata Motors assume controle da Iveco04 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/tata-motors-assume-controle-iveco-e-cria-gigante-global-veiculos-comerciais",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T02:40:32.020768"
+  },
+  {
+    "id": "10426bb7c1e6bf5895a5427e68f07e5c",
+    "titulo": "2.Mercedes-Benz Classe S Maybach estará no Salão de Genebra",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-benz-classe-s-maybach-estara-no-salao-de-genebra/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T02:40:38.100298"
+  },
+  {
+    "id": "60ec093fc2daac56d5e02e837ec76805",
+    "titulo": "VW Caminhões e Ônibus abre 20 novos pontos de atendimento para ampliar pós-vendas - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGpKdjZVb1pRZndBYl9fb1dnWnpmaTE2aDlpSnpxalFLaEpCMGpYS0dkYlhiUFFuT05EdEw4bGM5V2ZRamp6RUtyaUdLVVpYYkRmMXFIckNhMVpOSjB2ZmNzXzRaclR3a2JXYmxoenJsWTBBb3JnME4xX01Yb2xqZ3lYQUhLcDFLN3dUQUR6RWd1QmpqanlPekt0a2dSSl9YeG4wbGVxRy1JUG5NY2RhTWxGLWFKelFqWHYwSi0xSlhwQ0g5NzNwRDgxNjNrTnVxSi1j?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T13:00:00+00:00"
+  },
+  {
+    "id": "6d340b755be6ccf320a38668653c8ee3",
+    "titulo": "Anfavea projeta 3,1 milhões de autoveículos emplacados em 2026 e eleva previsão de alta de 2,7% para 15,2%, uma revisão de 12,5 pontos percentuais desde janeiro - garagem 360",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXEyckYzVktsRENVdjlkY3dkVmNObjRkdEQzWlJKU0VjQzJxZkVhZEx0MXU1Y1FhWHNfaDRacDh5VGFWMDcyTVJlVHk2RWVzb1ZxQjlneGgyNGxDZVZKUFJNUS10MC1HeVNRNWxwUDUyLXJTWHFTZVotMHRkT0RxVE9ZV0NzVWFKWE5HNzBEY3VqQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-15T07:00:00+00:00"
+  },
+  {
+    "id": "74e9cf863a39f49a9a70b8ca8ebe7550",
+    "titulo": "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026 - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTmt5cDdUeWJNaTZ2bTRYYnBtRF9nZnFMQVVsS2xkLTc2a3dNU0NBb0lRXzNmMU1BaTExUTVGV2t0T0VGajZQeXB6dVplNnJVWmxnenVmMVR6NzFMMExFYmVRbzlvUlRseXNuSi05QnY5VTA1RHdCTWl2VlY3amJ1VE1pc1RrUTRmeEo3MTdWa0VsUWhzaWlWdFExZklmWTNtaGV5aTV2RlBENm5ReEozSmtfT3JaUDVCOE9zbUp1cjM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T22:11:00+00:00"
+  },
+  {
+    "id": "5a2ef7c3af9c8695dfd176519f04d4a0",
+    "titulo": "Fenabrave eleva previsão de vendas de veículos em 2026 para 12,8% - sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVM3M2R3QlY5YXE5djZXWHpab2xKY2hWN2xJR2phR2JsaWdDZF8yd18wNEdEUUMzV092anRya2RldU53Sko2T1RsY0F4SW1hZktabUVTbVRaeVU5dW1xaU5nb045YklQdDVKY2ZKVUxYMVpfUS1tZEVIcmlPb2RuVzFCcFAzZUNSUVdjb3BhNndWSVE3aUVTTG5iNHdmaHdFblByYVhaRFR1TXl6aTRWelA3QnNOQ2hrMk1NbEJ1TndKbTA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T23:15:10+00:00"
+  },
+  {
+    "id": "fb91f6618e9357f8abc825955485ee11",
+    "titulo": "Mercado Fenabrave: emplacamentos passam de 500 mil e batem recorde em setembro - NOVO Notícias",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTZRcXBnckhxOFRnNmpteEl1TV9URnZMbG9OUnQ2ZkNFdjFOYTRQNHlldGppeVVkVW9aVmx0eEYwOEFBVFNmX3MyMjRDYVhvbWo0SHY1Nnp0Z21icTdzQkwxUDI3MElaRUk5SGNiZFk5cHJzTUhtaFdRM181bXBKU19WWWd2UHJFTmxlbUtySlc3RlBVZTBnT0lOME4zWkU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-06T07:00:00+00:00"
+  },
+  {
+    "id": "040930cd88ffefd0a600aba516f88fdd",
+    "titulo": "Fenabrave projeta alta de 12,8% nas vendas de veículos novos em 2026 - SB24HORAS",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzQyZjNrSml2ak1ieUpnYm5BUlR0NVhaSVdILUg5NklocHBwMTdVbHcwMGxuSUxOMzhKaWhTVEtJUTc4bTYxUTEzSUszcUw1UUhXSVU2cWJuZ1B5UXJpOVMzRGxGbldCT2RjelhhWlhFbEQ3U1VHSkJRc3ppZDNIbHZiWGVLMTlSMWZRS1BiVnltVU5JbWFz?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T22:23:29+00:00"
+  },
+  {
+    "id": "317a32c7bbd136f710013e99ba5e4409",
+    "titulo": "Fenabrave eleva para 12,8% a previsão de venda de veículos novos em 2026 - CenárioMT",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNazZIUmR5MFdqLXhnbFk5SktZOWFtV2pUWG5FZm0zSUFVb25YODdCelpUZk54aGVpRkY1eXVtNTlCbC1VbVdTZVNkei00MXVRSERoeEo5Q09uOEotT0M1NzJpSFU3Vk80U3JncVluTkh1cTVIRS1DeWFTVWxGekhfN2tUaGc1UWFIemh0c1RpNExQY050UzEtWVd3ZjlqU1U1T3ZyblF1S1c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T22:36:49+00:00"
+  },
+  {
+    "id": "c6bfdf8d4f3aafcb6b674ff584e097e0",
+    "titulo": "VW Caminhões e Ônibus reestrutura o pós-venda para atender segmento de vans e furgões - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWDc3NHlLNU5RTW1ueGtUaHVRNTlNcWNmOXNzbnUzN1FFUnVDMm5PZmU2Rnk0TlpxZVFCbVFhVC0zSjhIdWdhZGlEbTJUOXpYZlJvTnc4YjNER3Q2ME1MdEE1cC04VHZlLXR0YnZ3dlVZc19NajVybUQ4cHN4eG9QenpWTWpKd3QtLXpLN0hjVmRlSlRIcFhUNjcwMURDQk81dTg2QktQZ1RncS1xNkFlSzNEX3QyYWhsNE4yVWZHck01N0hWVHBLVGdLM1puS0VDRjd5ak5fYWQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T12:55:00+00:00"
+  },
+  {
+    "id": "d18fb9b870b37749b8c414d647d8b1ee",
+    "titulo": "Fenabrave revisa de 7,9% para 15,3% a previsão de crescimento das vendas de veículos em 2026 - Tribuna do Sertão",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTVucG04ZW5jdmF6UlFETzR0bHVYckh5OXdfX01ZNWlwenRwR3Q3c1E5c3FlaENYUW12VlpIM1ZPb29zZ1RXVHZDZU0xd1NDTE1Ua3R5b2hpQ3J6VkU2MEVTdHFFcmdMVm14dTliMThKcXhaa1ZrS2JLeU9BdXBlY2FVQ3g1dlhfSlNKN1g0QndWcXdRSF9TOTNUa2w0czNsaXlEMDVxZDA2TlNmNWMtZXpBRS1KSThmUDNDUU5FY0hiUUhhRHRGbnJtbXhOX1VPanZRQ3BNX1UtWHpaVGNUZzRn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T21:36:00+00:00"
+  },
+  {
+    "id": "6bf2e822ae9c4b5dc0846aae390420eb",
+    "titulo": "Marcopolo supera marca de 200 ônibus G8 TEC vendidos em menos de três meses após lançamento na Lat.Bus 2026 - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX2FUUGRRdEVaMGd3a1NNNW9hRVU1MmxDU2dIOHV3TmFCbTJ1bmd6RUpBV3FsMGNvX0lmc3oxaDVhMUVHVHJsSE9Cd3ZXMGJFdm5jWnA5WUlsY1p3dTdwd3k3VVhHQ1BSdEE0X21adnUxdURERFBBSnlvY1pXbVpxc3c0ckpfS3FyRkc5a3pMTjltVEFHVktTT3NDbG56Rm9xeVc2RUFDa01HdS1UTlpXMUxhbUp6YkdaU3c0RWtMVE41ek5jaC1uZ0QxTVk4aTdvMmZnQUNpdC1zR2c?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T13:52:35+00:00"
+  },
+  {
+    "id": "aeb2d29c638ce900e5677bfc5021cb5b",
+    "titulo": "Marcopolo supera marca de 200 ônibus G8 TEC vendidos em menos de três meses após lançamento - Rádio Caxias",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnZFbno3dGFaU3BiOU5jUWNabW5ua2JoLWhzTmNBaUJpR3NEWHRsYVAxSkM0NkJIN1prdmZJckRxYUhlNmM1RGEtblpKRklaaExHdjZKcHNtRUVnNUVUa2JiTldkOE10Qm00Q09qUFNIQkhXaE9QNGZJc3BKX095UUtxMUl3ZGFabF91ODdYY1AxNDlra0RaOHZvbFVUV09PdjU0a2FoZlFLc0RyNmxfN0J4Zng0cnJwMnZTNnNxaHE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T14:42:26+00:00"
+  },
+  {
+    "id": "28a49a8989e7f0e44e9df65ee9531486",
+    "titulo": "Eletra oficializa vendas de mais de 700 ônibus elétricos para diferentes cidades, cresce 87% e avança na fabricação própria de chassis. Veja no vídeo como é a produção - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOcVRvV3pDYkUzRlVFQkktMkpmTzktRVhvS3J2S19GcF9FUElnUkg3Q3VSTGNTTm9zN3ZacU5PYkluOHVDUGlWVHVjRVVTTFE3aWh3NmU3aWNFN2h3RVZuOFJqVDQ2M3JRNTdabWhUNm9CTTZoeVo2WTRqUTJ5XzZ3R09sSFc3Y09PMllsMUZhRHVLWEFON1pNaTF2M1N1LUxuOV9EWndZTTY0MEpHNDhtbjQ0VElDZmZfbFVTbzJDaDdfLUtPZTJZdU5zb2RQLWNMVTRxbXlLYVdlVHZsb0hhbjBfYkRYNWdhUGFEZGNmbXJERGJUeE5pbEJuZ2haRF82d3o5cGZCQWl1ZHZzVFhGNnYxOWFhVC1sREVra0dMSUtodmZlRjUwaGd0Y0cwbmJacTljetIBugJBVV95cUxOalpjU0xwN0pWYXJhdEJhMFpZZGFTS1hPV2NlOXdSY2c4UDlrdmZIdDB6N1ByOG5TRkdXMUJjckhTVTQ1OUdSRWZVcnpvVXV6aGViWjZ1OTN2anIxVFh1c2tZbFBSaFhvcWhheVUtaFdBbGdIejhUem1ic3hoREtoRkdlcnZjOFhkWnk1eGlWbzI0Ny1WWDNTa1A1UGtGTGE2d0V0RXpyOW9mb0FTb2VmdWxadk4ySnQ0dE54UzBIaFRxanlPZFR3ZjREVFhyc25UMkNfNVdyZTI1RXMxdVFtUFJRRGpmc0pGOHVBZFEzaW5PU1VfUzhDMEZPeUlNV0JVaFdBbURraS1DNGlKY04yLVYwYURFaE5UMlhVenFLMkFRWmd5Q1JoX2xveTh6ZlRKUjQ4MWotUlVLZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Eletra",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-04T08:13:55+00:00"
+  },
+  {
+    "id": "a8f3cccda4dec154dddff2daccfa3b83",
+    "titulo": "Marcopolo supera 200 ônibus G8 TEC vendidos em menos de três meses; Viação Santa Cruz compra 33 unidades Scania e nova geração promete economia de combustível - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNaVRCLV9OdmRhem9Mby11ejZYMjVHbEsyR291dVpfbEVyaWxSd211R0pBR01nSEFCN3BEalBCR3RDanBQcDRlY1dYUnlPb2pZR2Q0b2ROQ2tvUW41VXc4RmFZRjEtTVBDWUZCWWZINjFOTERuODVsQ1p1Nk0zTEZpczAxZHV4TDkxN1JsRm13MEZqdXdVQk1kVEJVNXctZkp1QnNLdU1RQTlOeEMteGsyYnprdGtIWjA4WWJNM3NBel90dTFscm9YVGtpMlhaWFJ1MXNZWUl3aHdRNWVTY3BUa2JIOS00NGZWUWo5dWxMdXJKbTd4Z2xpeE5idm1lNjhaOWtEQnAxQ3U1UzM3T0hyeWhHWVBFRElBRXZMdHN1dVJERWNMR1J6eE50c9IBsAJBVV95cUxNU3NaS0NBaGNWTERPbF9GaHdmdEJnbGt0WEVHQ0xHMEF4NWdUaDAtajZGSTFlcDNaSE9ZeWsyN3BLUWVBT19tSFNZNlR0ZkIySnlJYnRuQUZiTFFfSDB0Mms3SVhhMEVjNXBRNEY1QndUZ09kbVdzU1JUa0xMWUFMU09Wd0dDenFVN1lScFRrZm1EaVNCXzlGc2VEbmY4UUhDUGdGNUFLX05GUkQtM2FLSW5SWEJ5UnpvX0tHQTdaNk9zZkpjaU9KM2FYV1NDTVJNMzVNckxXZnFpX24yb2NnSWZDV3R2VWpOVE9kNnNrZ3hWMXVOZUNKWXE1aW1SSWNKdDBnMURlRUcwMXEzY2ZxTWFSYzl4M1hjNjlaLXl2RXh4SmFUa0lsUEdVSUUtcmhP?oc=5",
+    "fonte": "Google News",
+    "montadora": "Scania",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T14:13:46+00:00"
+  },
+  {
     "id": "1b52781e4b68d180eb0da2ee15ab668a",
     "titulo": "Omoda Jaecoo expande operação no Brasil com nova área de venda direta",
     "link": "https://www.autodata.com.br/noticias/2026/11/04/omoda-jaecoo-expanda-operacao-no-brasil-com-nova-area-de-venda-direta/139242/",

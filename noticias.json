@@ -1,5 +1,133 @@
 [
   {
+    "id": "582141de3927e64587c1ff79d3822aae",
+    "titulo": "São José dos Campos terá 400 novos ônibus elétricos",
+    "link": "https://automotivebusiness.com.br/mobilidade/sao-jose-dos-campos-tera-400-novos-onibus-eletricos",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-06T20:16:58.057583"
+  },
+  {
+    "id": "dcc2c532290c5c911af7073fa386dd34",
+    "titulo": "eletraSão José dos Campos terá 400 novos ônibus elétricos06/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/sao-jose-dos-campos-tera-400-novos-onibus-eletricos",
+    "fonte": "Automotive Business",
+    "montadora": "Eletra",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-06T20:16:58.057608"
+  },
+  {
+    "id": "fd89c07c4a86d481474bb41e5ead63bb",
+    "titulo": "eletraSão José dos Campos terá 400 novos ônibus elétricos06 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/sao-jose-dos-campos-tera-400-novos-onibus-eletricos",
+    "fonte": "Automotive Business",
+    "montadora": "Eletra",
+    "temas": [
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-06T20:16:58.057612"
+  },
+  {
+    "id": "b2eef3919b0a088b4c66f3b89bed0daf",
+    "titulo": "Caminhão elétrico já se paga e pode transformar a logística no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/11/06/caminhao-eletrico-ja-se-paga-e-pode-transformar-a-logistica-no-brasil/139503/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-06T20:17:00.405999"
+  },
+  {
+    "id": "b4df17561df63b17c746f2500f378414",
+    "titulo": "8 dicas da Volvo Trucks para evitar paradas não previstas na oficina",
+    "link": "https://frotanews.com.br/8-dicas-da-volvo-para-evitar-paradas-nao-previstas/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-06T20:17:01.720889"
+  },
+  {
+    "id": "9ac78877202798136d71950d8e3c670b",
+    "titulo": "Polo cai e HB20 surpreende: veja os 50 carros mais vendidos nos primeiros 15 dias de outubro de 2026 - Webmotors",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTER2UlhKa0E4LWRZZGRBbzBMY1pIZDBxMVJVMWFTaUpyQXJwVFAyYmE2ZXNTUmsyUkVKWF9FdG83c0lzZjhXczFTWEhJb0xhQ3JRd01qb3NwUlVJdjRjZDQxZzJxU0ZQR2FibjYxajhVWFhKUHpRa24zZ3FPNFFkMXpNZEdEd015ZkZ3MThiUjVxcXJTWVBvMG5zTHU?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-16T07:00:00+00:00"
+  },
+  {
+    "id": "26916e670bce03ddb7129d671b37470e",
+    "titulo": "Eletra com Caio lidera emplacamentos de ônibus elétricos em 2026, seguida por BYD e Mercedes-Benz; mercado cresce 75,04%, aponta Fenabrave - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZ2hPWldtVDZIM3ZaclM3czhHekFMQmRHNldWSG01MDNnQWlDWkt1R045TzNfVkpFYUlSRkNGWlhEcnFDeVRmZ2NFTVFWb0dOX19va2hTNXNQdU1aZ1Q3ZGJDYUg2d00tNjl0cWhPVEV5UmE2SVJ4R3A1ZFJTdC1VTTJhTm9PZnctMDF5ZWt2dUZ2c0xyREpCWlMzRWExeEo5YlNVMDlOaGxtTEt1bkRsdWppb0hVODlzVXkxN05FZk8xVTBpTUUyaG1hVnRzTFdCMnRKLU1RNjJsTWZXMnhOWENKbERvQ3VZRWRmTk10OGw0TkpXcEF6NUpvSVJ5ZERDMFRwci1qb1ZlNWPSAZACQVVfeXFMTTVKUHhvcDd3cnFFMkcwaDlhdk4yOWJTRHJrWEZfcDJacy1QSGMteTZxMWVlenhCcWhKY1NlNWtrMDRsTU9MaC1fVjYyTXFvWFNsNzNmRmJJV3R0VlhRZDhKVldob19GME5MZGpHQmFrZ1Rzd0ktODR2Mkt4cnYzTWR0N3d2SU1mMEFIcnZId2hZTEZwM1JaVjdJMWJMdEZKUlNlUzVHU1JocWVlTjJwdnVEUXFqcmxQSzU2cUpDRWljQmlNSTFJSVQwMzQ2RU90UENsLXFTSEl0OW4ya0xlR01JS1FfTkE4a0ZnWWpnQ3lZT054TjRocW4zc1c4ZmZsQjRRc0pCU1E0YWVUeUZmamw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-05T12:39:09+00:00"
+  },
+  {
+    "id": "cfe053e21d13d8c323041c96f8a400fd",
+    "titulo": "Eletra oficializa vendas de mais de 700 ônibus elétricos para diferentes cidades, cresce 87% e avança na fabricação própria de chassis. Veja no vídeo como é a produção - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOalpjU0xwN0pWYXJhdEJhMFpZZGFTS1hPV2NlOXdSY2c4UDlrdmZIdDB6N1ByOG5TRkdXMUJjckhTVTQ1OUdSRWZVcnpvVXV6aGViWjZ1OTN2anIxVFh1c2tZbFBSaFhvcWhheVUtaFdBbGdIejhUem1ic3hoREtoRkdlcnZjOFhkWnk1eGlWbzI0Ny1WWDNTa1A1UGtGTGE2d0V0RXpyOW9mb0FTb2VmdWxadk4ySnQ0dE54UzBIaFRxanlPZFR3ZjREVFhyc25UMkNfNVdyZTI1RXMxdVFtUFJRRGpmc0pGOHVBZFEzaW5PU1VfUzhDMEZPeUlNV0JVaFdBbURraS1DNGlKY04yLVYwYURFaE5UMlhVenFLMkFRWmd5Q1JoX2xveTh6ZlRKUjQ4MWotUlVLZ9IBugJBVV95cUxOalpjU0xwN0pWYXJhdEJhMFpZZGFTS1hPV2NlOXdSY2c4UDlrdmZIdDB6N1ByOG5TRkdXMUJjckhTVTQ1OUdSRWZVcnpvVXV6aGViWjZ1OTN2anIxVFh1c2tZbFBSaFhvcWhheVUtaFdBbGdIejhUem1ic3hoREtoRkdlcnZjOFhkWnk1eGlWbzI0Ny1WWDNTa1A1UGtGTGE2d0V0RXpyOW9mb0FTb2VmdWxadk4ySnQ0dE54UzBIaFRxanlPZFR3ZjREVFhyc25UMkNfNVdyZTI1RXMxdVFtUFJRRGpmc0pGOHVBZFEzaW5PU1VfUzhDMEZPeUlNV0JVaFdBbURraS1DNGlKY04yLVYwYURFaE5UMlhVenFLMkFRWmd5Q1JoX2xveTh6ZlRKUjQ4MWotUlVLZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Eletra",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-04T08:00:08+00:00"
+  },
+  {
+    "id": "b54d7b59e50e2a2297b98b6d45de5f80",
+    "titulo": "Geely, SUV, híbrido, China, vendas, BYD, GWM - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcjltbjF4bllJbGVPTXdYR1Z3eWU4S0pMcFlrcEV1Q1NZLU01UFptMk55eW9FLTVvcUtaaDJZbzcwMGJabElXcnFsUkt3WnFxOS1CLTd2MUlCdTRMM3hVeWtOUGF5UGxzOHo4a2lEMHF1blJ1OXg3SGlwMm5XX0FZQmJvU1Z1ZEJUQWZEOVdGYmpVdU5jdmxST0VRSkRNa2VQODdSZFlEcW83YWM3U21OeDdWYjQydXp6cHVGQWtrbjNuay1FZFB5ekRUVU9fZHpoUktGYWRlX0dkZWticGo0cThB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-11T07:00:00+00:00"
+  },
+  {
+    "id": "cf2c81b076c9cc65bf43ae320695824e",
+    "titulo": "Foton estreia na Fenatran com alta de 100% nas vendas - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkRvcExQNzRQRTJ5cVVEOFhwNzJtM1FzUzhkb0puWWtFZVhUdnV2YjR6MEk1ZnAwV0phOUF3TlhHaW5UemtFY3JEc3lkOUNnS2YwdXFSM3pJNkNPWnIwVHgxR0F4V3p1M2pqYWp4NUdwUHRuWlRHaDc3UEMycEVfUHQxRVJRdmVXcHE4NEtXbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T21:53:51+00:00"
+  },
+  {
     "id": "20ab96204d7b0ba1123d3b049e1d0b07",
     "titulo": "Carros mais vendidos do Brasil: ranking diário de outubro - dia 9 - motorvicio.com",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmczSDFlbUt2UE5FTG1vSFFOUU1DQTFXTUlWM0lzU2owRnc4V3kya1dxWklHZk5jZmJMaVc2TVhMWDg2dHlrVHplenhoWlN4RGt5ZHE1Y0ZRY0pBV1U2c1dnc24wZDRkc2ZaNzFYa3MxeTZXM1BsNFhrd0Y2ek5mc2gzbS1OallFdHc?oc=5",

@@ -1,5 +1,218 @@
 [
   {
+    "id": "a3f3e483ed8624b88023e655b779e12b",
+    "titulo": "3.Honda City 2027 mantém a mesma dinâmica, tem consumo de híbrido, mas racionalidade ‘pode incomodar’",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/honda-city-2027-mantem-a-mesma-dinamica-tem-consumo-de-hibrido-mas-racionalidade-pode-incomodar/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-06T05:39:26.474726"
+  },
+  {
+    "id": "5dcdf24496923d87e970d8efe1432720",
+    "titulo": "Foton estreia na Fenatran 2026 com alta nas vendas de caminhões no Brasil - Tribuna do Paraná",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNODdZSm1PZ1JBeHlJM3BJdmdzNWRQdnRmWFlPMG05ajZqZG8wSlZYZEsxZUc4N0txOE8wNTFsR0dwa0h5bnhqYm1vRW51VzZiWkN6aHhiRkF0bUNqU1pjSlNxczBFNUJJTW9VRWJuWWFFc3FyMEppZHFTdTVzZUQ5aTB6X3VxU3kwNmM1Y1M4dFJFNzRtb3fSAZsBQVVfeXFMTi01aDNNTkZCeGNxWFhuMjA4Y19QQzUzOWxYZTU3dTBpOEFVMFE2bWNtS2E0ckg5MldreE43aFRMRll3MWhZMlB0b3B2NVFVMzg0cWJoMW9hakQ2LW1acnNOMFlNc2FEU3A0ZnVoLUhZYjIzR2NEczF1ekNOQmNuelpPRDlyMXFUQ0FlcDlET2ZKb2tqT2dIWHVHT28?oc=5",
+    "fonte": "Google News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T17:44:00+00:00"
+  },
+  {
+    "id": "4b88181d45b4792140ec0e6bea29f535",
+    "titulo": "Venda de caminhões cai 9,2% em outubro e mercado chega à Fenatran sob pressão - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVYzVGM1UXVNNzdpMEtSSWtkczNETElBajhUTUlYX3lYWFZpSnZsQmp3SU1aNzBPdDhueGdicXdKMkFJZ0xIT2ZaZ0U4SS1ZUHd0R0ZCaTFEc1pCWF8xN0hRbnJ0aEdiMVF2T1NNNzU5dXdYTy1vZzU1UEZJTldKdFZET2xRaGdwQ0xCdTdYbVl6WWlEUm9zM0dCU1dpRzRFejgtUDZ2TzY4Nk5ZSHBMU2NjWl9JUkEzeHBPZg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T12:07:33+00:00"
+  },
+  {
+    "id": "52933b4dd1e497e2d07de1c5a09cc3a6",
+    "titulo": "Fenabrave revisa para cima, mais uma vez, projeção de vendas de veículos - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGhGYlNIVFlBMTZtNGNQb2RxVGJDVTZLUHozemFFaDJTSFRWRmhkYWhPNHA4UnJ6eXc0MkJDWGVILXpXNEVjMk9pcGxtVS1Iek5JdDJRYzlzWnhqM21rQU9GTTYxbjFpb0RFUzVjRnl2NXZhTDVmVDhOdFkyYlNzYV9FWmdGNnBoN3ZyQ3BiOE5Pck1YWkZjaTc1NE1zOUppTTRFbnh5Qm1fVENlVWpXclAxcXhtUGhIS1hPWnFWbU1oMlJr?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T13:40:00+00:00"
+  },
+  {
+    "id": "1dc14e57c7d74a4a68a3406ea0c3203a",
+    "titulo": "Fenabrave eleva previsão de vendas de veículos novos no Brasil para 12,8% em 2026 - OpiniãoCE",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcW9YSXk2Zklmd0J4U3hEeXFDZml0LUNTZWc5QXZNNk1tRmdMU1RkS3E0OXRuOVpubTFsRmZaNXFOeWZuYk5MZXN5QXhDMUstN3dyOVlRLUJmUEZQNVJ5WXQwZFJ5bGQtcGU0Y1BpV0hlX2kxM01jS2Jqdk1wWjVOVFl5NGtWZmYxY01OVnRqMk1qUllHYkdnbHZjVnBjNHpRaFVjWVd4Q2NfYnBIM2YtcmU4THBPbW5QUEl3RXNCV1pTVUJpbU5EZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T16:38:58+00:00"
+  },
+  {
+    "id": "6151e5254b0d618805ad1794779963bc",
+    "titulo": "JP1: Fenabrave eleva previsão de vendas de veículos em 2026 para 12,8% - sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkRySVhGb2hOMlU2ZkRmM0dhZjdBNWd4YURkV0dzMWR6aTFLdGtiVzBYZXhXem9iaWFkaVppRFhSaDZua0pVMEY5UEk5S2VSc3h3OGdHTkpaNEMyMDJYejhCaEpfVmFsbHg4Y3RjcFN6emJmaHdCbGE1eElvTWZrZFdpOE1ZT3YxUUowY25qbzlwNG9Qd2lBY0ZWc3h0dUNJQkZzWjl1WHdnaFViVWVHSEFVUTUxYU5BcGtYdGwyOWNUUXVKVXc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T23:15:10+00:00"
+  },
+  {
+    "id": "7b0187bee727bba35e4e154ae5d2eaa2",
+    "titulo": "Fenabrave eleva previsão de vendas de veículos novos para 2026 - PlanetaOsasco.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ19zZ21uSnpsbUh6QlBqU3lTQWtfR1BjMUdqOFRLLXhIZ3locnlUdWYzT3RPRktVVWlCWFNqM0RSSTdKdUV3TWZ3dFhDLUxucjY3dHhReDgzWDlST3JNV2ZvbWw2dG5GTk93NEp5UnNncHE3QlU1SHhzaFhlczNfUnI4cXN2VGZLVHJvMWlodzNLSlZGVmtGZVFSbkx1S2lpNWE4bUZrMA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T13:17:34+00:00"
+  },
+  {
+    "id": "6fcd024b7287399edcaaaa1a06a001cc",
+    "titulo": "Venda de veículos deve crescer 12,8% em 2026, prevê Fenabrave - melhorinvestimento.net",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44N2k2cjhPRzVRV291MTFqMXhLbktmRDdEZzRpUWZJUFJVMUdXTVR4TGFBTVZLX3EwZUYya3lCelZPem5Dc1l4cS1SakpYdm5TV3lnZ003U1hvdmJ3N1AwcWdYTGsyQzE3LU5FbmR0U1lMYTdHM1pvUm9jdlQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T16:04:41+00:00"
+  },
+  {
+    "id": "37d81986c7242c18f68ef5e14430f8b1",
+    "titulo": "Venda de veículos novos deve crescer 12,8% no Brasil em 2026, prevê Fenabrave - ClicRDC",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0pVd2paNUg2WWRJRnY4WlRnWkV3bG9mdUFzT0Vhd1VObXhJTkx4blN4SEVYQ1NaZjZNTkZVeXJKNGR6VHlRTzFHMGs2RTBuajM2bEJ6eXkyVklqaDlBRGNTUDI1QWNYM09wR25NSkdKeExjVTM4S3FobWN2OTYtWXJ6WDNocXRXanRlb3FDNUw4c0ZPYl9EVk5TeXlKNEhlUW9zanZYam9sX28?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T10:02:38+00:00"
+  },
+  {
+    "id": "9204b797a50d254acbba77071e088de0",
+    "titulo": "VW Caminhões e Ônibus reestrutura o pós-venda para atender segmento de vans e furgões - Sincopeças-SP",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQODk5TDVsXzlxcFVENFBLSDRxMURyME4zdlNsM3NQenpMUDRNcXRQYWt2Y1ZVTWVnRU0yWHlPWmhxRzNMYjFYbUVNQXJHZzh0WU40bHV5ekZyNmtRRFFMNm03RzZ4cDRuam5MeGNXci1QMnJYRjdhQVBoR185NHRiQXBtZ1hKWUduajBYX2QzWlJjMnBMMXo1Mk9FdU5ZN1J2ODZKY3VrNTVwTXRQRmp0VFpoR083Q0cxSVVNdzlmcVdVdVpRUnp1UjYzMnRjdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T13:33:53+00:00"
+  },
+  {
+    "id": "46dfe14562b35cef8c397d70db3b10e0",
+    "titulo": "Eletra com Caio lidera emplacamentos de ônibus elétricos em 2026, seguida por BYD e Mercedes-Benz; mercado cresce 75,04%, aponta Fenabrave - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNUpQeG9wN3dycUUyRzBoOWF2TjI5YlNEcmtYRl9wMlpzLVBIYy15NnExZWV6eEJxaEpjU2U1a2swNGxNT0xoLV9WNjJNcW9YU2w3M2ZGYklXdHRWWFFkOEpWV2hvX0YwTkxkakdCYWtnVHN3SS04NHYyS3hydjNNZHQ3d3ZJTWYwQUhydkh3aFlMRnAzUlpWN0kxYkx0RkpSU2VTNUdTUmhxZWVOMnB2dURRcWpybFBLNTZxSkNFaWNCaU1JMUlJVDAzNDZFT3RQQ2wtcVNISXQ5bjJrTGVHTUlLUV9OQThrRmdZamdDeVlPTnhONGhxbjNzVzhmZmxCNFFzSkJTUTRhZVR5RmZqbNIBkAJBVV95cUxNNUpQeG9wN3dycUUyRzBoOWF2TjI5YlNEcmtYRl9wMlpzLVBIYy15NnExZWV6eEJxaEpjU2U1a2swNGxNT0xoLV9WNjJNcW9YU2w3M2ZGYklXdHRWWFFkOEpWV2hvX0YwTkxkakdCYWtnVHN3SS04NHYyS3hydjNNZHQ3d3ZJTWYwQUhydkh3aFlMRnAzUlpWN0kxYkx0RkpSU2VTNUdTUmhxZWVOMnB2dURRcWpybFBLNTZxSkNFaWNCaU1JMUlJVDAzNDZFT3RQQ2wtcVNISXQ5bjJrTGVHTUlLUV9OQThrRmdZamdDeVlPTnhONGhxbjNzVzhmZmxCNFFzSkJTUTRhZVR5RmZqbA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-05T12:31:30+00:00"
+  },
+  {
+    "id": "c3458d7d266341329cf827d534f99478",
+    "titulo": "Demanda externa da Yutong Bus acelera com ganho de participação dos modelos de nova energia nas exportações - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU40WVZsOV9aZjVnYnBSaksxYm5xSm5ZVlFFQjM0ME11akpGekJiUVVET2h3SzV3SERXcWJrSFgyT0VHZUdvZUJNVmpxdlhiaDhHQnctTFdFUlJzLVl2TWFCakZGQUZjTl9RdHlENUVlUU9LVVI4QTlaLU90NzM3d3R2VEhBbkZyLXBoY3MwS2JsUXFPNWZPNWNjZHFUeTA2bDRCWVNVbFNaQ2dfczBLa0ZGVQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-05T11:24:26+00:00"
+  },
+  {
+    "id": "991d594d63fda5ad44c7892965c5d17d",
+    "titulo": "Caminhão elétrico para entregas urbanas: a conta fecha? JAC aposta em economia de até R$ 46 mil por ano - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeUZsYk5PUnRLT1R1bDRrYUZUY2tKYS1xYVQ3ZVdNZnZQYmFja2ViV3B3blBndFdqTkxvM1NLUmlqMWpEWkNsWEZOXzBPYllka21UZFg2bHZKOWpJcHVjSVA3YkpRWTZzNVR1LVd1MjVhclZ0RzluaEQ2UTVUeFVVOHhIeFBmNjJZSXp3NmtIalJWZnRfQ1BqUVU1dGhXLVg4YmIzbUZFTm5NMTJoNjNNckNxcXZPdlRVN3F0YkxzZjhLS2ZRcDlMbjd2Y0RlS3N0aXVKUDVB?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-06T01:48:01+00:00"
+  },
+  {
+    "id": "8687c7946776a9fbd4c51a7b6316aec0",
+    "titulo": "Carro por assinatura: BYD Dolphin Mini lidera buscas e elétricos ganham destaque - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTluQkdicHByWC1NaDBRU0VyMjFWeHNPWENNOUtBT2pqOWRvSDZGZEFaQXJXTTZpX1A0b2xkbWVRZXhTcnowdFRNaWhCWm5RYi1OZjJUbzFtYmE1TjBqOVhINDlYRzhCLUFNZkFIbU1BbVVWR0xJS1VEa3BWNHp0Z3dXLWVnOXFPOVRFRi12R3RuS2h4M2lJaV9TcHN0VEQzVGlkbThDSU8ybzNUaEg2OU9jRDY3T1ctLUE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-10-23T07:00:00+00:00"
+  },
+  {
+    "id": "c33f89030101f267caca73c0b92ac275",
+    "titulo": "Mercedes-Benz apresenta novidades para Fenatran 2026 e celebra 70 anos no Brasil - AutoRanking",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzJSLWFEWmdTTU9vSjJSeXBzMm4tblhKTmtpTkFrc0gzLVpmWEdLa1hjQ1c4X1Q5WnZqVXk5VmJ2emstTXJ6NmQ4Zm5VYlBYT0FwM2xyMlc0RmYtbDhBckItSFlJTlBjU3RwUWhQOEduQ0xXcGZuY2pVbTBtcjFNMzJQZXRWNHlkam84MllKUWpnRGliVFlRbTVCSFoweE1GekhpVUY4VXVuQkVB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-22T07:00:00+00:00"
+  },
+  {
+    "id": "ea331ab7fadfc7e2fd7860865d6d561b",
+    "titulo": "Iveco-Bus inicia vendas do Daily Minibus com câmbio automático - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0xOank0eUJrRXZvZjctZ295YzUyeXFvUmFpZVhQYkRybkFCcy1qZG43OWRsVzZiVjJPUFlxMk5UeURJb3RqMU84VC1QNmdBRFZCX1d3ZzljMkc0OHo2dS00OHUtanF2NXdWVDdGR1NrWmJtQnE3SXFTeWVEN1BPb1dLR2hQTm9pTTZuMklnSDZjYlpXc1NWRFRaZEk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T21:16:30+00:00"
+  },
+  {
+    "id": "d8d52a26d48f3d2245a364749d9cf57e",
+    "titulo": "Iveco Bus inicia as vendas do Daily Minibus Hi-Matic - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR0tnbUVBNWs3LV9VeTFBamZjcTRCa2dISGZCWVBWSXR6TXlGTU41WEQzVE1aaUs1M1pFbnExYUV5YUJrV1pQSzZKdnhiQkxqTWFiZjJJaFNDNFhZQ3gwd3g5MWtURmR6dDVjOElLUFF6dFZxZDVXLVhlZ3FyNEZLSjlfQXFJY0x2cC15Nmg0bG5aZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T20:27:51+00:00"
+  },
+  {
     "id": "821b17b4cdddf2b05e96353135b520c2",
     "titulo": "Honda faz 50 anos em Manaus com produção diária de 7 mil motos",
     "link": "https://automotivebusiness.com.br/duas-rodas/honda-completa-50-anos-com-producao-de-7-200-motos-por-dia",

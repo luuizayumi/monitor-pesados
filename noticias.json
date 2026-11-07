@@ -1,5 +1,44 @@
 [
   {
+    "id": "17d0c3ccc7706541b67e41e0b33b6c04",
+    "titulo": "Venda de veículos novos cresce 12,8% no Brasil em 2026 - Tribuna do Paraná",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkFMMnd0Q21Xc3hzUjZTOXV2STYwUjhEUF9HYUJ5TUZZSnVTczBIYWI1bS1xMlB3SFR4aTNjTmRKVHNhWVpfblQ3eDVjWTJaZFNxNGhlZnBycGNFZkZZdkZjUGRXYzBmTF94THA4UVd2b0JuWm9zRXlmdUZTSVFibERXcWlRZERWT2ZUUDVKeXRnUk82Y0FuUHBSODBUS0doeGduSTJjc0VHQdIBrwFBVV95cUxOQ2lDV01rOG9pbEUxdXEwRXBvRVFveEJjVG9KTlpQVFNpamdLd01NdklINW1oTk5ocmxyY1NqN1NxenU5ZjNEdWZaTFBrS05lNE1kaVJrZk1tYXNPYmk0VUcydzgyNUlEZTZCRk5oSURMVG9jRkxRYnM3S2ZaRzJnMk1hOE5QODJaenBhZUZfYTNmb3FmSVpxRVhBMUFjWWFJMnlUODBvLUV5dU5MVEFZ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T23:07:00+00:00"
+  },
+  {
+    "id": "d7286866f01ea8ce82cec154b0fed95d",
+    "titulo": "Fenabrave eleva para 12,8% a previsão de vendas de veículos em 2026; outubro cai 0,85% - soubrasilia.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTgyLUZPLURkbGhFWWNzNlpKT3hfZVpPV1g0LVYtdHFtMmlITXNWQlJsdGdpdXd3SktOUUoya04wR0Y3NThpaF9rZnREc3Zmc0EtaUZuYU14VEVteFlCbms2X0lDelN5QWVpdmJJYkNUX29Fc1lIWjBxMTYtMmtfVFVySmEtNXdjV2k2MVNjS1lSbnZOOTZZbg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T10:02:04+00:00"
+  },
+  {
+    "id": "6845db96684f51a4ad1da0636ac6c4e4",
+    "titulo": "BNDES aprova R$ 879,4 milhões para aquisição de 400 ônibus elétricos em S. José dos Campos - technibus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9LZmx0Nng5Y2RiZEU2VnJoZDVweTJ0cmpobUdBUHBuMmQwV0dxN3dTS01ObWhIdXVCTFZtQkp3ZzJSeXcxNGJrZUpVSmxiWDVMUWpyTkNTWWU3TXlmRnJCNEc2QXN1MkFpckt6Y1gxQnk3WllfNFpKOGpXVWp6TXRWMXJWTnRPS1RNc1NlNWVEdXFJUk5BQ1JlenRMZGFUZWYyV2dVNWQ4WnVpaXpRWWttYTIwbmZEbVJfWTJ1ZW9xdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-30T18:11:38+00:00"
+  },
+  {
     "id": "7fea74e4b310aec104b213f8cd4f395f",
     "titulo": "4.MAN apresenta nova família Delivery",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/man-apresenta-nova-familia-delivery/",

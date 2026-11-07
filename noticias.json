@@ -1,5 +1,54 @@
 [
   {
+    "id": "7fea74e4b310aec104b213f8cd4f395f",
+    "titulo": "4.MAN apresenta nova família Delivery",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/man-apresenta-nova-familia-delivery/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-07T06:25:14.944336"
+  },
+  {
+    "id": "08e9d868b3bc5305c6f8bc02f4d81dde",
+    "titulo": "5.Caminhões e Ônibus da Scania terão painel digital a partir de 2024",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoes-e-onibus-da-scania-terao-painel-digital-a-partir-de-2024/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-07T06:25:14.944351"
+  },
+  {
+    "id": "9352339c2e9677fbfcfccfd8a987a49b",
+    "titulo": "Fenabrave eleva previsão de vendas de veículos em 2026 para 12,8% - sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZG9QNHFjVXlPczUxaDhhdTE5SmhieTRsZnI0ay1weWFtZDctWTNEZDhfVXlEaXhRazRrZ3hPX0QycG5UR1Nva2NwWFRwY2hUVzY1aFhQUWk1UDJESUg1UzhEVXZXczk5NllySDdnWkdzNzdrMVJrUTMwOWhkUTEzemZSdWlGZV9Qd2hzODk0WFRHcnV3dlpkR0xIenJTNDNSTjlyZG41VWh2djBnclNDU1lqTWJFQ2hmQUs5ckQ1UDJSQzlreUlaTnA2SQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T23:15:10+00:00"
+  },
+  {
+    "id": "e491df03c01d5ae93e967cac5755946f",
+    "titulo": "Lucro da Marcopolo despenca 43,4%, produção cai 25% e fabricante não prevê recuperação nas vendas de ônibus no curto prazo; mercado depende de financiamento e equilíbrio das tarifas - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQVzlqQ2ZXRkFmOE41dXdCeEY3cnVQU01tOC1Xc3pxUTJvWlZGTE5XNlNNUmhrb0pfUTdON3oxNEtMT21HWGk2aHR4OFRQZmJnc1NNOXVZOHI3TkxNSEJJZUJmVUZTVXNkNXJ5N09OWkdTSVIwS0tmSE9TeEU5SG9POUg1YmhGSFVHVVlXYkFmeFBqVGRyVHJXZTJnWElCdWRyNnBfdFp2eS1kZTBLUklTb2lfSUZlTElEM2kwRVJ4R0MyRHJCMHZELWY3N0NpNkpMQXdyYmZ5MWxyaWxXZ1RyaUFCd0U1Z3JlSUdWXzRGTXpTMU5tN3hTeUt5NmdZYmZMNXRJWUE4dHJBUmZkeGlHUEVoN2ZZUnJhWjBlQ2E3LU9Fa0FISXF0cFF2am1OQ1FadE9YM19FVlNTOVRkMENnRi05RE3SAcoCQVVfeXFMTTdRN1BySnVWTVhrM1dtd3lBU2RzbkNUdzNickJjX3JLYlo5WTUxdGdGVlYwbENfOHR3Szh5Qno2bkszV0NoZmc1cXZmMWJ1LTAzSTdXc1BVei16VEdpcDZUUHEza2R5VDlZV3FIQXQzUGpLMkdEMnpKeG00OXo1LVhGTlhxN3dNNlZLdEhVRkY4OTNydXMzaWRZSlF0WldUU1ZhUHVZRG04RjcycWZNRWV5WC1QdldydXVzMHNDVHNmN3hFdUFaci1JdlgyemRPQUNWeHlkNXBZV1N4R19BY1hWMmNCcmRHV2F3WjBWMUM0djJfeFdwV0s0NDBtS21QSFpPdTFJRktDX1VibUIyWjNxVjFibWxPSGtyTXNkYlFEMmtyaFlYaHgtSXZXV1lPenZxOVFxWGtSN0FTUnQzdjNNNTlPLVBGTUNR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Marcopolo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T22:43:55+00:00"
+  },
+  {
     "id": "50234f07d9b790ab777951d533085512",
     "titulo": "Volkswagen lidera mercado com Delivery 11.180 como campeão de vendas - Blog do Caminhoneiro",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZEsxVHRvVzh4X3R4ZTJ1QVI1NFBGVEZMVnZqVk5qczEwZHhoWGktdHo4MkhNRmZKem1IN3JGU1JMWGRaakJ2OTVmcmlaYU54cHE4VWZZUDZYUW9HRC1WdkNwUVRRWmtXRVByWVNiZWMtV2h5NUNub2tjYU5LQnJzVW95b1ZMelUta3VJZm1qMFNqOFpfQ0d3X1R6cW5BZ2U3aVotSU41bC12dUFR?oc=5",

@@ -1,5 +1,92 @@
 [
   {
+    "id": "400cacde20c5ce365f6479ce0669b661",
+    "titulo": "3.Motorhome feito no Brasil tem preço de R$ 3,5 milhões e base de Mercedes Actros",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/motorhome-feito-brasil-preco-de-r-35-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-08T01:42:54.978914"
+  },
+  {
+    "id": "5f504d769031d47efc4d5181666d079b",
+    "titulo": "4.Mercedes-Benz lança novo Classe A no Brasil em versão única; veja o preço",
+    "link": "https://www.estadao.com.br/jornal-do-carro/mercedes-benz-lanca-novo-classe-a-no-brasil-em-versao-unica-veja-o-preco/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-08T01:42:54.978931"
+  },
+  {
+    "id": "daa499c3419f6a918a61a00a0191d495",
+    "titulo": "Ritmo do crescimento de vendas de veículos perdeu força no mês de outubro - Webmotors",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0Vwa2lPMjItMVRmNGs1RzR3bXVuV1ptei00QkVraWxQVkFNTmlLSHJFUTlRZ2dac1gxSFd3SkQtRHdmQ0RrZS1oaWZfdFlYNjlNR3hIUmVJNXNScFpuRzZyMGxfYTNVckwtU2tEcV92dmhHWWhkVzY3WWNqTzVsNy1XejliZ2hBaVNMU2FQNTJnaXkyTWQ0a1BMbTZ3UFNPMENpcmpyOWtWYy02QXRGR2c1Zw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-07T13:00:00+00:00"
+  },
+  {
+    "id": "4fb3f1a0fd55bfac1ee8a9ccfdd3128c",
+    "titulo": "Venda de carros novos cresce 12,91% em Campo Grande em 2026 - Campo Grande News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObW9xYnl2OU81SW1jckFUYXctbUJwd1pfVkdiSG9ITVJLbmN6ME9lekkzQUlEaUNaMF9OUUtDVlhGRXYzU1dqNTgtdDlOeDJjVnB6cElQbHA2Y1pCSGJsNTQ4MURacWgtVU50eXVMZV9DV0hIWXhNZ0JlRVh2VTBWd3FZQko5Ynlrak1rd3ZZVjIxc1hYSUhVVWJWSllUcl9jMHNrVlN5MXVpMDNQb3lpZUxRN0hoaHdW0gG4AUFVX3lxTE5adkdFdWU3RW9paFF5NFNTSjlSRVNkQzloTF9DTG1OaGVQeV8zT2txM2lkeW9URkhWRTJzTVJaU0ZIMmxyb2R3di14NHE0RmtaeDFsQUtmeE1BV0xZVkNwcjZfTDN6bFhOc1NsNU1laFl0RWRxVmNmckFaRzVjbks0RnROdXdod041RHQ3cDFKd3ktUHo0T0k1c0NMU3paTktjLU9aTURQR2lmWUtIanpOWG5veHVRZHA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-07T02:06:00+00:00"
+  },
+  {
+    "id": "b3607d3aa17ebfd07fceb22b2effa4fc",
+    "titulo": "Mercado de caminhões elétricos encolhe no Brasil, mas chinesas abocanham 80% das vendas - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmZVazh6XzFhMU5qUVNLaGNxYndrSExyeGc1TVJtemN3dUsxYlM0cVpUMjJHeGRTUmVJRW92OUhrc2J4Wm9rUlZSclhZNEt0ZVk5dF9uNy0wZU9GcmVnRzlxbDFsbkotLTFsb2NFN2czekJ2LUE3UGc2R2Utbm4zRVR6SXk3V3AxX3I3WjR2OHRuMmxFMEllUWcyMTVqNDR1bDRMQkFnemo0U2VNREN6Y0t4UGEwV2VPTE0tX19zWllrd3J3ZmtNTl9DZkw0OEhMS0xSSw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-13T07:00:00+00:00"
+  },
+  {
+    "id": "fa85f354c18092c6186fb68a7ce29779",
+    "titulo": "Carros mais vendidos: ranking sem locadora tem elétrico chinês na liderança - UOL",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVpySmNjdzQ2SG5CSk9FcFlndFhaWTkxYzJBRjI4X1o0bnN6RlZCcTdLTzNxZWw0RTJHcHFpRlp1cGNyWlZhYnNZaVJEMU1qTS1Fb004WGRyRTdGcHdCQzNEelU3UHJkaTAtX2hqWHhoU0lYWGFxSXEtZ296dDUwRHpMTW5rT1p0TGxDYlIySHFEWDlaVUJqMTdjWTNwel91WG1vbFhWaVVoRjV2VVl4dHQwZHUwZ0stbEJYUmJqUE9lbjg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-07T13:30:00+00:00"
+  },
+  {
+    "id": "5cec75b6112e24e413702416e0ff1ba7",
+    "titulo": "Honda ZR-V mostra atributos além dos números de vendas - AgoraVale",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzBQN3RsSDFPRkczQWNUU2tiTFBfT0xoNjVVVkxwUmpXa3c5a2Z1a1FxQTVZQXZxM1p2MFgzRXNjdjdDZ0E0Vl9vLXVpMDlTNVU0bEpTeVJlUk5ab0tKUVl2cEdfTnMtQk1WcWYzQkRDZHBQdWZLaW80Y19ERTJjYkcxUHluYlJWZlpsOGpiQWpMNG8wRkxaQkY4VEk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-26T14:38:58+00:00"
+  },
+  {
     "id": "43bcfeb09786e6e854a817c6c054bfe7",
     "titulo": "Fenabrave eleva previsão de vendas de veículos novos para 12,8% em 2026 - Hoje Diário",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1NqLVplb1ZaUG91QlhHN2dxVVN0UkZsakFDTlVDQ2FKc2kwcFNROURQbHBmd1pacnZZVEl2cVdIRjBwa3I4Rjd6TktBZWhpU0djeTV0WGE5dWd2YVdPVFNuV09iZFNtRTBSWXc5TFZSc3Y2eGgzbkFTOTg0d0V2TE54OEZxZXQxOUVmLWF5MmdDUHgydjZ2emY2ZE40dEd6LTJaUEp1UQ?oc=5",

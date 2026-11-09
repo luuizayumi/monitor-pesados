@@ -1,5 +1,355 @@
 [
   {
+    "id": "964cd6d829c9174d5ecbfb0fcf1adf90",
+    "titulo": "Scania lança caminhão elétrico 30P nas configurações 6&amp;#215;2 e 6&amp;#215;4",
+    "link": "https://automotivebusiness.com.br/montadoras/scania-lanca-caminhao-eletrico-30p-nas-configuracoes-6x2-e-6x4",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-09T23:30:15.204562"
+  },
+  {
+    "id": "19226714150597774417615c2e0189fe",
+    "titulo": "Elétrico, Mercedes-Benz eActros desembarca no Brasil",
+    "link": "https://automotivebusiness.com.br/montadoras/mercedes-benz-apresenta-o-pesado-eactros-eletrico-e-caminhoes-fora-de-estrada",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-09T23:30:15.204576"
+  },
+  {
+    "id": "3c5c4eba0c8a841d241acebe7c3958f3",
+    "titulo": "Com aquisição da Iveco, Tata finca bandeira no Brasil",
+    "link": "https://automotivebusiness.com.br/montadoras/com-aquisicao-da-iveco-tata-finca-bandeira-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:15.204580"
+  },
+  {
+    "id": "37d6c3324f8668eca8c31e88b3630ce7",
+    "titulo": "DAF estuda caminhão mais leve no próximo ciclo de investimento",
+    "link": "https://automotivebusiness.com.br/montadoras/daf-estuda-caminhao-mais-leve-na-proximo-ciclo-de-investimento",
+    "fonte": "Automotive Business",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:15.204583"
+  },
+  {
+    "id": "ec728c13f962ccf446214f3cb13b459a",
+    "titulo": "Quase centenária, Volvo atualiza caminhões FH e VM",
+    "link": "https://automotivebusiness.com.br/montadoras/grupo-volvo-celebra-100-anos-na-fenatran-com-lancamentos-e-serie-especial-do-fh",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:15.204585"
+  },
+  {
+    "id": "6c9a06ed8ef520531428432bcbe9da10",
+    "titulo": "fenatran 2026Scania lança caminhão elétrico 30P nas configurações 6&#215;2 e 6&#215;409/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-lanca-caminhao-eletrico-30p-nas-configuracoes-6x2-e-6x4",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-09T23:30:15.204599"
+  },
+  {
+    "id": "cda431099c4579c25e3463f89d5030d3",
+    "titulo": "fenatran 2026Scania lança caminhão elétrico 30P nas configurações 6&#215;2 e 6&#215;409 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-lanca-caminhao-eletrico-30p-nas-configuracoes-6x2-e-6x4",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-09T23:30:15.204603"
+  },
+  {
+    "id": "f6b3063cfb119a1be10edc42f6f03106",
+    "titulo": "fenatran 2026Elétrico, Mercedes-Benz eActros desembarca no Brasil09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-apresenta-o-pesado-eactros-eletrico-e-caminhoes-fora-de-estrada",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-09T23:30:15.204605"
+  },
+  {
+    "id": "da2c87d337d954e18c744f819bb8defa",
+    "titulo": "fenatran 2026Com aquisição da Iveco, Tata finca bandeira no Brasil09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/com-aquisicao-da-iveco-tata-finca-bandeira-no-brasil",
+    "fonte": "Automotive Business",
+    "montadora": "Iveco",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:15.204608"
+  },
+  {
+    "id": "125206ab4122cc3cf650f5b8b00a30e4",
+    "titulo": "fenatran 2026DAF estuda caminhão mais leve no próximo ciclo de investimento09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/daf-estuda-caminhao-mais-leve-na-proximo-ciclo-de-investimento",
+    "fonte": "Automotive Business",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:15.204611"
+  },
+  {
+    "id": "c2499d252786f4b876bd4fa4a1ae35b9",
+    "titulo": "fenatran 2026Quase centenária, Volvo atualiza caminhões FH e VM09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/grupo-volvo-celebra-100-anos-na-fenatran-com-lancamentos-e-serie-especial-do-fh",
+    "fonte": "Automotive Business",
+    "montadora": "Volvo",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:15.204613"
+  },
+  {
+    "id": "d9261c80c3f7b081b1b7b74e18ef8905",
+    "titulo": "Scania amplia gama de elétricos com cavalos e rígidos 6&#215;2 e 6&#215;4",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/scania-amplia-gama-de-eletricos-com-cavalos-e-rigidos-6x2-e-6x4/139676/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-09T23:30:17.569056"
+  },
+  {
+    "id": "ecdc2729a19e5a3e0c20614d4fa23ada",
+    "titulo": "VW Caminhões e Ônibus inicia as vendas do Tempest na Fenatran",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/vw-caminhoes-e-onibus-inicia-as-vendas-do-tempest-na-fenatran/139630/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T23:30:17.569069"
+  },
+  {
+    "id": "e12368ebaac871564c8e5119b0b86386",
+    "titulo": "Tata abre espaço para Iveco ampliar portfólio na América Latina",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/tata-abre-espaco-para-iveco-ampliar-portfolio-na-america-latina/139640/",
+    "fonte": "AutoData",
+    "montadora": "Iveco",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:17.569072"
+  },
+  {
+    "id": "f12ab90044879e67296023f060ac6aca",
+    "titulo": "DAF mira 15% de participação no mercado de extrapesados em até cinco anos",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/daf-mira-15-de-participacao-no-mercado-de-extrapesados-em-ate-cinco-anos/139626/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:17.569075"
+  },
+  {
+    "id": "a188793d3a397243db75d0b9dd6e9c0c",
+    "titulo": "Mercedes-Benz aposta no e-Actros 600 e em linha fora-de-estrada na Fenatran",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/mercedes-benz-aposta-no-e-actros-600-e-em-linha-fora-de-estrada-na-fenatran/139674/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:17.569078"
+  },
+  {
+    "id": "7cc5bf9b2845f00ef37b8aafbf4c6604",
+    "titulo": "Ford abre pré-venda da Transit City por R$ 237,5 mil",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/ford-abre-pre-venda-da-transit-city-por-r-2375-mil/139711/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T23:30:17.569080"
+  },
+  {
+    "id": "35a4223c60229efd0b7b855fec2e47fa",
+    "titulo": "Scania aposta em pneu Super Single para reduzir custos na coleta de resíduos",
+    "link": "https://www.autodata.com.br/mobility/2026/11/09/scania-aposta-em-pneu-super-single-para-reduzir-custos-na-coleta-de-residuos/139514/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:17.569083"
+  },
+  {
+    "id": "47cbe7c4ffb537d97f5b745dc9ae5517",
+    "titulo": "Volvo apresenta FH 100 Anos e VM B100 Flex na Fenatran 2026",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/volvo-apresenta-fh-100-anos-e-vm-b100-flex-na-fenatran-2026/139614/",
+    "fonte": "AutoData",
+    "montadora": "Volvo",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:17.569096"
+  },
+  {
+    "id": "2433c9b54f7a235f05518692271caa48",
+    "titulo": "Ford Pro inicia venda da Transit City e apresenta Ranger Super Duty",
+    "link": "https://frotanews.com.br/ford-transit-city-e-ranger-super-duty/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T23:30:20.130366"
+  },
+  {
+    "id": "ad4c661ce9df3c23175a732ca813c103",
+    "titulo": "DAF apresenta programa DAF EXPERT e amplia portfólio para operações vocacionais e rodoviárias",
+    "link": "https://frotanews.com.br/daf-apresenta-programa-daf-expert-e-amplia-portfolio/",
+    "fonte": "Frota News",
+    "montadora": "DAF",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:20.130379"
+  },
+  {
+    "id": "47f1eaa74d5caa245e59abd6e80066ee",
+    "titulo": "Foton lança versão a combustão do Wonder durante a Fenatran 2026",
+    "link": "https://frotanews.com.br/foton-wonder-combustao-fenatran-2026/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:20.130382"
+  },
+  {
+    "id": "bb9d6c31ec53a51b61b33ce2db24102d",
+    "titulo": "Volvo lança série especial FH 100 Anos no Brasil durante a Fenatran 2026",
+    "link": "https://frotanews.com.br/volvo-lanca-fh-100-anos-no-brasil/",
+    "fonte": "Frota News",
+    "montadora": "Volvo",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:20.130385"
+  },
+  {
+    "id": "9cffe679485a0e708b57a7eb8162be17",
+    "titulo": "Mercedes-Benz elétrico eActros chega ao Brasil por R$ 2,5 milhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-eletrico-eactros-chega-ao-brasil-por-r-25-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T23:30:21.699482"
+  },
+  {
+    "id": "1c727009713a5921b2168463ca413299",
+    "titulo": "Seis marcas de caminhão que deram adeus ao Brasil — e a que prepara o retorno",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/seis-marcas-de-caminhao-que-deram-adeus-ao-brasil-e-a-que-prepara-o-retorno/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T23:30:21.699497"
+  },
+  {
+    "id": "e925b44fda09d3bbbe1f320db50efbe3",
+    "titulo": "5.Mercedes-Benz elétrico eActros chega ao Brasil por R$ 2,5 milhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-eletrico-eactros-chega-ao-brasil-por-r-25-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T23:30:21.699501"
+  },
+  {
+    "id": "2af603b6288c3eb9dda20ca67ebf2483",
+    "titulo": "Com um ano da fábrica em Camaçari, BYD mais que dobra vendas no Brasil",
+    "link": "https://www.balcaoautomotivo.com/2026/11/03/com-um-ano-da-fabrica-em-camacari-byd-mais-que-dobra-vendas-no-brasil/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T23:30:27.163106"
+  },
+  {
+    "id": "37f013b17937780dd927081f4bfaf1b8",
+    "titulo": "JAC, caminhão elétrico, JAC E-JT3.5, JAC EJT 9.5 ER, veículos comerciais elétricos, logística urbana, última milha, custo operacional, eletrificação – (39) - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOU1ZHUVNXOTFSMkdyaTBxWTZEQUR6RHJXYm44UTJGMVBkNzVFUzhMMmJLWnN2cXhvaTlDcG40Wk0tLXlGUEd3T2o2UTE4NUxDeXdOMnpBYkZwRkJVcnhHdmFHZzFRSjJDc1B3YmlRZHFQSlFGVUgxY0JwcHpnZF9DQ2ZsT2ZFSHJpTlMzak5tbjZMaFVXUzdLNmV2NDJ1SUJmOHhybGI3RS04V0NRVVZubzFlXzQ2MUtIVHRUXzU2Rk0zWDJhY3lFcEdhYmloZVR2SWZuZU5BX3A4a21rYzlVSkw1cjJZV19uN0pUblp2Z3I3UnF6X2toa2JNbldJLUpka20yWHlSREJvSWs4Si1CUFFneHBYQkU1M2UwUjg5Yzc1Znc5VmxCVms2OUg3MjRZdFM0bHZkN21oNlpzWEZLTmE5SEEwdVhNQ0FIN3BLNktQdy1nZy12U3ZsMXZzVDl3cFlzbE95OGRrcktHYU1OU1J0QWlrZ2EyY0FfMHUydVhrTjR5SzhlVVNRYjY5Z01GVkdUUUpn?oc=5",
+    "fonte": "Google News",
+    "montadora": "JAC",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-06T01:44:20+00:00"
+  },
+  {
     "id": "414b3a6c4480fd9631db4e50b88426a1",
     "titulo": "JAC, caminhão elétrico, JAC E-JT3.5, JAC EJT 9.5 ER, veículos comerciais elétricos, logística urbana, última milha, custo operacional, eletrificação – (15) - Mecânica Online",
     "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOb0QyVVc3ZnlmMjZ0Rkt1N21GNVA4MnMwbi02UXNEUWdPTzZvd0ZONnFKLW5fYUo4M0p3Z2FFU3BxNVk2bEg0d2dUNF9KM2E3cVJIYnRmSXd1TmRrOTB6OV9JcGs4OV9MbjdsOXBVZjY5YjF5cnY3aFpCZDQzdlg4YkpNZE9taUhnMmdZTWxuSDVjMS1YaU93ZnNobHpfLVVCQjF0dVc0eGVKVEhWNDZobVh6SmJQcnB4OWU1bHlubmZIa2drbUxGRkJyRFdLdDFUa2hhaDJRN2FOalR0XzU2djVyNFZUNS0wMDh3Ynlhcl9aOFRaOGozNDhqQi1EZlpyZ29jS3RTdkpkTC1mU2IxSkxzeWNEN2RtSUFqNGJXdEZ2T09SMUUzdU5IU2hZTWdFaDZjVFQyOUNFelFfb3o4WFRwODlQSm9xSjJ6djlBSDBnUV8tdzUxM1FpUnZrckVGWGtCWFpaSWVxREZHYzd2TC1vVVptYWs0S3F3UGdkdlMxcGllQ0cxaTdYRUtTTkgzSHdhbF9n?oc=5",

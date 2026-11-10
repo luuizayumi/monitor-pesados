@@ -1,5 +1,106 @@
 [
   {
+    "id": "81d8fca64b692d381b73741c8ee60c31",
+    "titulo": "Foton apresenta três lançamentos em sua primeira Fenatran",
+    "link": "https://www.autodata.com.br/noticias/2026/11/10/foton-apresenta-tres-lancamentos-em-sua-primeira-fenatran/139885/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-10T20:32:44.309053"
+  },
+  {
+    "id": "f6e36710ce832d010280ef99682135d1",
+    "titulo": "XCMG abre pré-venda do caminhão com autonomia de 460 km e anuncia montagem local",
+    "link": "https://www.autodata.com.br/mobility/2026/11/10/xcmg-abre-pre-venda-do-caminhao-com-autonomia-de-460-km-e-anuncia-montagem-local/139741/",
+    "fonte": "AutoData",
+    "montadora": "XCMG",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-10T20:32:44.309069"
+  },
+  {
+    "id": "9b4138a941cdfea01f6a5d46b724e00b",
+    "titulo": "Iveco lança novas versões da linha atual e avalia ampliar portfólio na América Latina após aquisição pela Tata Motors",
+    "link": "https://frotanews.com.br/iveco-fenatran-lancamentos/",
+    "fonte": "Frota News",
+    "montadora": "Iveco",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-10T20:32:45.796372"
+  },
+  {
+    "id": "44cf82616e3f50c7c1207c396454c706",
+    "titulo": "Mercedes-Benz destaca modelos para importação: eActros 600, Zetros e Unimog",
+    "link": "https://frotanews.com.br/lancamentos-mercedes-benz-eactros-zetros-unimog/",
+    "fonte": "Frota News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-10T20:32:45.796388"
+  },
+  {
+    "id": "7a34b9677e59123f8d16531a9e130ee5",
+    "titulo": "Foton anuncia novos caminhões e apresenta conceito elétrico na Fenatran 2026",
+    "link": "https://frotanews.com.br/foton-estreia-fenatran-2026-galaxus-wonder-emiler/",
+    "fonte": "Frota News",
+    "montadora": "Foton",
+    "temas": [
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-10T20:32:45.796392"
+  },
+  {
+    "id": "8423f6465cb60c2cc3f12c4651a3ad44",
+    "titulo": "Scania amplia linha de caminhões elétricos com 30 P 6&#215;2 e 6x",
+    "link": "https://frotanews.com.br/scania-lanca-scania-30-p-eletrico/",
+    "fonte": "Frota News",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-10T20:32:45.796396"
+  },
+  {
+    "id": "4e6fa228aa5ce9bf50adeaa8a2aa4e53",
+    "titulo": "Cobra Distribuidora faz 39 anos e realiza Reunião Nacional de Vendas",
+    "link": "https://www.balcaoautomotivo.com/2026/11/10/cobra-distribuidora-faz-39-anos-e-realiza-reuniao-nacional-de-vendas/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-10T20:32:52.444090"
+  },
+  {
+    "id": "394d4c2641d3d353ce10c34865afea15",
+    "titulo": "Recorde: GWM supera 10 mil veículos vendidos pela primeira vez no Brasil",
+    "link": "https://www.balcaoautomotivo.com/2026/11/10/recorde-gwm-supera-10-mil-veiculos-vendidos-pela-primeira-vez-no-brasil/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-10T20:32:52.444106"
+  },
+  {
     "id": "fe4581c6a9f448ceb829e216824f042b",
     "titulo": "Bosch e Suspensys nacionalizam eixos elétricos para caminhões e ônibus",
     "link": "https://www.autodata.com.br/noticias/2026/11/10/bosch-e-suspensys-nacionalizam-eixos-eletricos-para-caminhoes-e-onibus/139748/",

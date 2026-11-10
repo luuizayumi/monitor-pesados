@@ -1,5 +1,348 @@
 [
   {
+    "id": "30f64d4e790e103eaae0d1d8fd8e0108",
+    "titulo": "Foton: Wonder a gasolina e estreia no segmento dos pesados",
+    "link": "https://automotivebusiness.com.br/montadoras/foton-lanca-wonder-a-gasolina-e-antecipa-caminhao-pesado-na-fenatran",
+    "fonte": "Automotive Business",
+    "montadora": "Foton",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-10T04:46:08.540815"
+  },
+  {
+    "id": "f3c89d93868ca4a93ca8e2a961f994aa",
+    "titulo": "Scania traz caminhão elétrico 30P ao Brasil",
+    "link": "https://automotivebusiness.com.br/montadoras/scania-lanca-caminhao-eletrico-30p-nas-configuracoes-6x2-e-6x4",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-10T04:46:08.540830"
+  },
+  {
+    "id": "21f5203b5dd60aeb57bbda76c83181e7",
+    "titulo": "vendasGoverno prepara até R$ 14,5 bilhões para financiar caminhões09/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/governo-prepara-ate-r-145-bilhoes-para-financiar-caminhoes",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-10T04:46:08.540848"
+  },
+  {
+    "id": "ddc20c67dd18f12b82da1a9249189930",
+    "titulo": "vendasGoverno prepara até R$ 14,5 bilhões para financiar caminhões09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/governo-prepara-ate-r-145-bilhoes-para-financiar-caminhoes",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-10T04:46:08.540851"
+  },
+  {
+    "id": "c46588be4f873fdaf849de4d32df1c31",
+    "titulo": "fenatran 2026Foton: Wonder a gasolina e estreia no segmento dos pesados09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/foton-lanca-wonder-a-gasolina-e-antecipa-caminhao-pesado-na-fenatran",
+    "fonte": "Automotive Business",
+    "montadora": "Foton",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-10T04:46:08.540854"
+  },
+  {
+    "id": "1db179e588ebe2f5d340a1f0bf49587f",
+    "titulo": "fenatran 2026Scania traz caminhão elétrico 30P ao Brasil09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/scania-lanca-caminhao-eletrico-30p-nas-configuracoes-6x2-e-6x4",
+    "fonte": "Automotive Business",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-10T04:46:08.540857"
+  },
+  {
+    "id": "0e69e4af23ecd0f1af378ac8b87b5b71",
+    "titulo": "3.Nova Trailblazer da PRF, Venom é blindada e não está à venda em concessionárias",
+    "link": "https://www.estadao.com.br/jornal-do-carro/nova-trailblazer-da-prf-venom-e-blindada-e-nao-esta-a-venda-em-concessionarias/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-10T04:46:14.805594"
+  },
+  {
+    "id": "e82f94dd2133767c1942ac55c114edca",
+    "titulo": "PL prevê que caminhões elétricos representem 50% das vendas - MundoLogística",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmpHcm4zRlI4NmhuVzVvbjBKRHFxb1ZnWjlHdTdYb0l1UVRXa3VWT2Rjcmg1R2prZ183NWxtREhVN2l0b1dlbUFBM3pBT1Rvc2c5VkpfSXZsc1BVX2ozbFlTaElva29qd1ZINkIwMGU1VzVsT2NSN0pPUzhOcWl5SVlNOXBNWER2?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T14:53:52+00:00"
+  },
+  {
+    "id": "e367896023255a15162a5b8bf98ec4f0",
+    "titulo": "Foton dobra vendas de caminhões no Brasil e estreia na Fenatran - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2lDdXN5YnkwbmJYX2syZG1wanUzcW0wQVh3OG9KY3VQNmJIRWVzZDc4M3FRYUZISkRoQWliNGdNQklGc2JRZi1rSTQ1RGtoaEl5SmtYbkM0RTd1NjVMOERza0tlSTJ1OEdzcVV0eUMzbzNrdDRDRWswVVF1bmNHamJPcF80bkoyMktvRkFxQndxUGtZSjE2SlRNWmlicHRNbHhrcg?oc=5",
+    "fonte": "Google News",
+    "montadora": "Foton",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T14:30:00+00:00"
+  },
+  {
+    "id": "f575818a34bec64eb0b9244094f6f106",
+    "titulo": "Fenatran 2026: Volvo comemora a marca de 60 mil contratos de Planos de Serviço - Volvo Group",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWnQxRVFDMklqV0pRWWtLYjRUZklLdVY2dUpfX0h0SEk0dVU2eVdRV3d2MUJKUER5ZEsxNkhhX1lVQm9ZNGhnNGhFR0VPMjVrX3NjR3picThJZDNqVDZTYmMwOW5OWm1TdFBOYTBQNmNOU0VpREh2UlhJNXRPWUdUV25ZWFBkVUt0WThJLWFKOUhESFFhUk9zQUtzODRHRmZKOF9EUXNFNTZhVDNYTm41azJCZ19zVl9RM1pQdGdxbFl1Ylh1NElZ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T18:44:33+00:00"
+  },
+  {
+    "id": "67ff703ae98fe9fb7187736756ae8819",
+    "titulo": "Mercedes-Benz lança eActros 600 elétrico na Fenatran 2026 e fecha primeiras vendas no país - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbDlsMFYtaW96MzRJdWx2UFhsY3hWWnhFNklqNDdqZHpEUUZIY3d2a1BJVWdJblZTLUlVaXNGczlxX0NMR1JlVjR6U0tvME5TRGUxX1A4NWRhTlUtX05HbHBndkptX3dCQkVVZzZaU2tfVWEwRUw1QWd2QmRONWsyellvaU9sa3BqUG5ma1dvejY1d0tJRE1HNVZBcjJNTWN1NHUxaGZXMTVGSmZIYnBGX1FrdS1qYTR6b1U1X090NUNKUVJlMFhHQWRPS04wRWpN?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T18:14:35+00:00"
+  },
+  {
+    "id": "89f4f7c10e8469f265a7492f7b1252c3",
+    "titulo": "DAF mira 15% de participação no mercado de extrapesados em até cinco anos - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1BLYk9MNEVMYTlFSFBOcXFfZUZ5dG5OM3p4REpRZVM2UTU4eF9hSEpVdW9xZWtBWmNuVXRsNDhZMjNvTUdnOVU1c29idW5xQnVhYTdHNnJJcklaYlFqajByMDlfaFNRdUhrdEV3SzFDMllMZnVUQkRhbzdLZlBQeHRCaENFZU10VGFlMHRkV0dXZzVXdHYta3VBcDRjSG4zNXZ0Sm0tLUh1UXhWaVpqci1hSFV0ZS16UnRzT0xmbXlTTlJyN29J?oc=5",
+    "fonte": "Google News",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-09T15:10:00+00:00"
+  },
+  {
+    "id": "7c5d7529b2dc3a20b1bd44ed54defc17",
+    "titulo": "Volvo lança na Fenatran 2026 série especial do FH limitada a 100 unidades - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVlMZllTYzVhTkNIaG91RjdERUtNZy1Wc0s0VHdqYnBXQjN3c3RoREcwZTZRajB0QU9tNHQzVjh4bnNVRklyZDdTakdpZmpSNVpoTll4Yzgtb2FVWHhPT0stQWJOVkUzM2pFNm11OE90WTRzeXVhVFJVcnJ3X011M09EaFRLRVlnX2NFY0dYM2xGc204SEMtTm9YY2dQa1hLVG83RW1QQlRkVFcxOHZyYTRzWWJneTduNjVKa3EtWVk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T13:04:08+00:00"
+  },
+  {
+    "id": "2dddb0b49add7e3ca6443bbeb25e5593",
+    "titulo": "Volvo lança na Fenatran 2026 série especial do FH limitada a 100 unidades - Portal O Carreteiro",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SMTV5by1IYTFSQzEwQnAxcU04ME5tcmJlWW13MlJlR2tGcXdsampIZ1pBMEVfb2prTnluUlpzbWVKa2RhX2tsd1FXbDFpOXNaRmRaVGR5THA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T13:05:51+00:00"
+  },
+  {
+    "id": "da5cbdfebd130e3fd0c8d103344f2796",
+    "titulo": "Carros e marcas mais vendidos em novembro — dia 9 - CAR.BLOG.BR",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzlraldJejdGYy1fcURHT002aV9rZW05dUZCZFllOVhXUl80NGprdFdYNEMtX0pCUTY0NFhCRDcwbW1YSXB4OW4tZ2lUN1VFLWY2QWpIXzY4ZWpMc0ZpSkZ0LUtIdnRCUkU3OFNDXzZVSG0xRXJzUGxBYkZHdnRsWmNkQVdmdw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T09:02:00+00:00"
+  },
+  {
+    "id": "7ff5a2637570106cd24ca452c6e1d73e",
+    "titulo": "Eletra supera 1,8 mil ônibus elétricos vendidos no Brasil e amplia capacidade para 2,8 mil por ano - Folha do ABC",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEJ6Rm8zQTM2c3Z5SF9EOXkxcXd0TXdSUUVzZHV4Mk04NnFKQTRqNzd1Q3E4MTU4bVhfa3BVTTl4MzVhOTdFZG9SOU9VMXNYYjFYRWY3NkMxS0xkM2VINWM3eTd1TkROY2Y2YWJURzF3bUxZdUhuRHVsdC1VSXBpcXlVMk9vc053ZWZwc0FhWEV4SFRfTmN0MTMyU3hsQk1UelFvWUhwY3d4c0FmN2hEU1Z3Mjd3WDBBVTNCT0NZRi1CZ21aUk4tRG1Nbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Eletra",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T19:45:47+00:00"
+  },
+  {
+    "id": "0d1508bdef91f71467768d111dd2e950",
+    "titulo": "eActros 600, o caminhão elétrico da Mercedes-Benz já a venda no Brasil - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHZIUDVMRmpCQnJ6VUUwc1pYNjU1bzlCaGx5cGRxa3dHd1E3NWctZWtQd0ZyZmRMQjZZX1lsRzIyRVBOaVU5RmxFSHlPckFRSWU0OXNocHVPdEc5U3BzTVNfVlJ0bm9XTHlQR1p3b1FRRVNlYnBkUGlidVFaTThlZ0tZaGdlT2RzaE10YVZpckRRMFpqZTNGbkxjY2JYTE05UDNQUHdXYXhxN09VOEI2OXZQVWhLYkFnelHSAboBQVVfeXFMTVB2SFA1TEZqQkJyelVFMHNaWDY1NW85QmhseXBkcWt3R3dRNzVnLWVrUHdGcmZkTEI2WV9ZbEcyMkVQTmlVOUZsRUh5T3JBUUllNDlzaHB1T3RHOVNwc01TX1ZSdG5vV0x5UEdad29RUUVTZWJwZFBpYnVRWk04ZWdLWWhnZU9kc2hNdGFWaXJEUTBaamUzRm5MY2NiWExNOVAzUFB3V2F4cTdPVThCNjl2UFVoS2JBZ3pR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T21:29:14+00:00"
+  },
+  {
+    "id": "f72b1ec308189e5bf3f0d219f7d22384",
+    "titulo": "Mercedes-Benz elétrico eActros chega ao Brasil por R$ 2,5 milhões - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa3FzRUV3MEZBV1FRZ1BibEM2RmwwMi1rcElTS1RkT0lMZjRGX2d5WGVCT21MZXRFaTRrTE1XdzJlaXRuRHRFQldVU1BhSmgwaEZLMTk1U1ExYktaRHJCVFRtSjdQQ0FtM1BhSzE1VmV2MGw2R1VTRWMzRjhtQVNCeXd0YVJ0OVZGZ1VRelc0b185ZHhRWFhsNlBzX1NXTENWdks5Zm1tcFN1OElIVlY4aWZKWXY4QUtCejkwTzd3YTVaYmZfWkZ2MTNya2RwYUVJZVV2RFRTcmxmeGc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T17:24:00+00:00"
+  },
+  {
+    "id": "b3b64415a611eee4c8b5952447cbc3dd",
+    "titulo": "Mercedes-Benz inicia vendas do caminhão elétrico eActros 600 no Brasil - GazetaWeb",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWEJRTEhPaU5TclpvdlYySldRTUZocTZ5VGQ1SkM4U1d4a3BQNkJiMlpLd1QwLUNRZnk3ZG8tLXUxQVB2MDNzbmJEcmNTQjRfdWpmdjJuY1JwX1JRSHN1YWFvcTdsWFZKcXBEZmhvWmlmLUNDXzgzSjF2WmxseWc3X1lUdG5Bc0dNeC1FMUNmSV9Qd19RSGQ4b3VJdEtBRlpUdE1mMlpLZEJzQ0h4QU1lZTB3dVVwVVl6aUNpSy1DNzc4dnEtV3dodHZUb0luQdIBzgFBVV95cUxOWEJRTEhPaU5TclpvdlYySldRTUZocTZ5VGQ1SkM4U1d4a3BQNkJiMlpLd1QwLUNRZnk3ZG8tLXUxQVB2MDNzbmJEcmNTQjRfdWpmdjJuY1JwX1JRSHN1YWFvcTdsWFZKcXBEZmhvWmlmLUNDXzgzSjF2WmxseWc3X1lUdG5Bc0dNeC1FMUNmSV9Qd19RSGQ4b3VJdEtBRlpUdE1mMlpLZEJzQ0h4QU1lZTB3dVVwVVl6aUNpSy1DNzc4dnEtV3dodHZUb0luQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-10T01:27:48+00:00"
+  },
+  {
+    "id": "28e1a1a4d8154f1b3c0cf094f4856922",
+    "titulo": "Mercedes-Benz elétrico eActros chega ao Brasil por R$ 2,5 milhões - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHhoMjQwZUJVRHFaVWM4S0VuLS1WM1VhZDZJOTdxZ0loS1VMMlVNdGs2OEs0UXhPMHVNVW1GRjM1VXI4bDdseUoycS1TS3RUU2YzdnNyTWZ2WlF4YkwzRTJWOW5LbEY2MmFXQlBEQWpST3l1X1dXOS1hQmdpOUNTMzliSTV5Y0d6R2VlOGQ5aDF6Uk5RT08zaVprdzlFN1RTcl9ZZkZrXzZmUGJrN1FIOE9sR3NqbVltRlFWUNIBvAFBVV95cUxOeHhoMjQwZUJVRHFaVWM4S0VuLS1WM1VhZDZJOTdxZ0loS1VMMlVNdGs2OEs0UXhPMHVNVW1GRjM1VXI4bDdseUoycS1TS3RUU2YzdnNyTWZ2WlF4YkwzRTJWOW5LbEY2MmFXQlBEQWpST3l1X1dXOS1hQmdpOUNTMzliSTV5Y0d6R2VlOGQ5aDF6Uk5RT08zaVprdzlFN1RTcl9ZZkZrXzZmUGJrN1FIOE9sR3NqbVltRlFWUA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T17:14:00+00:00"
+  },
+  {
+    "id": "a7240e30dc56c35393ed5f86f128a628",
+    "titulo": "Carros elétricos e híbridos são 16% das vendas, mas avanço esbarra em infraestrutura - Exame",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMW8xc0pqS2V0NHZEaXlZQ2VHcUpPaFpLd19ndnQ1bDZWSE1aYkY2V0NPU3hjdGRCdzJYVVFPNklXbGtwSk56aDRVeVkwbmtnMXloRmhVby0ydWl0RF9JV2R1bmhMelFqMDhrTm5tVEZjcVF2aHFna05IXzhfWGNGZFM4Z3JzVm9ocFV3OGwyNENNTC14SVpHMkVIN0tkUUZVUXI1RzVPVTE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-11T07:00:00+00:00"
+  },
+  {
+    "id": "a548b9258115ccd9b028bad342cc0da5",
+    "titulo": "Carros elétricos crescem em vendas no Brasil; veja vantagens e desvantagens - viva.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmg5RkdXN1d1WkJUOUlFbDFoQTlvb01CbURNekV0ek1STUpLSEt0TUpHbVZKZUpTNUR1cGJVWllvWVNmY3ZYVG1JR1Z5N3FWZUNIMVM5TWZEY21pMzhjYjFxcks0RlNRd3pnOWM4M2hGUTc3aFZXUGlUeXhBMTdCYzdLbUx2MDBzZG5WX1l2bVJQeVVVSjdDWEUwaUNoZ2lvTDJwNGg0aHF4N0Q0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-10-17T07:00:00+00:00"
+  },
+  {
+    "id": "178bfdf682c1131d6a1c07b4029291b0",
+    "titulo": "Higer vende mais 250 ônibus elétricos no Chile e chega a 734 unidades em dois anos; avanço chinês amplia disputa com fabricantes brasileiros na América Latina - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPR2VKSTg4YVViNUNZZU9aUE13cWlPWTJ5WUdRWmVQV3R4RjM1TUU2T01Db2tUT3gzNDI1aGtIUGswdjhoSDNtcEZneU1mT1FRbllIXzJfZVdNWHUyRUJ3cnhNUXg5bnhDQWs2cUtLR1ZWSE4tZDFUSGF5UzA4bnZ5dVRsQWg5SlYwWkdVQzNybDR0UHBha3FMOXdwUlpQaHJHUDNCdGlCOEoxYzduZ1FqczZXR3luUHpKem9icmFBa2hDcllucVNqUE5yMGhLUjJISVBSa2FFVXRVQmNUMXRWeXRoUkF5TFJDLVZYbEE4VFNXZnQtVWx2X1IxQmdZRnRhT1loVjlha0g5dXVuZ2VwdXZaZmg3c290TmYycnplSmVaWld1NG0yMDNCMNIBsAJBVV95cUxOTEx6ZHk2SkJQZlpiVXkxc010QWtsek9sZzNFWVJ3cEZncVlkWlRYVkY3OEgwTWVfS0pBOXF6aUtPRjQ5cFZFQ0YwLWQ1MHI5WEtqRDM3N2xuUkZhZEVETkJsZFRwQi1HMnFBekFDR1poUzlFdkVWdDRpb251NHJ6MEZsM0gtbm4xUHZOZzdyUlR3ODlXRENpLWVBQ3FkVmFrQ2NSY0ZEeVlPSDhxRFZKVVBwbGxIdlREaU1yUnZPUzJtX01pY2YydjY4VVFqQmtQT1RLcjB5RF9mSjl2dTNjRXo2Y29BdlRCYWNFalRrS3VNVGpGa3poY25TTWNGc0pIQlJHYXpsbVV6VzNmRUtNbHJxZG1pRGRZS0Q3Qjdtd1dsRlNKQ21ITlVOLWNWLS01?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-03T16:09:06+00:00"
+  },
+  {
+    "id": "f952b6345984248d31c68dd9907585b7",
+    "titulo": "Volvo FH 100 Anos terá série limitada a 100 unidades no Brasil - Autos Segredos",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVhMcnlLN2lrUkRqOHU1UXdvNlgxeWNIemJITlFZWFZ6ZDJfWTZWYTVGWENiTGttS21sbklHWmN5VzdRZXN5VS1Ec3BoWDJfbEQ0NUViMkxnQW1jaGdTUF9QSGFaOWc5NEV6XzBqR19JNmVzSVBPbXZsZ1BDbzV3MTJMUlJDTjROYkkwVFRWSDA4YXhlQWfSAZsBQVVfeXFMT1J1VjNMQUFmNHRjSHRqZXRGZENjdVd1bjVfbk9lNGU5TFBwTC1XNWRnVkRFNDAtV2pzMlNwalJLSi00dGJOdFctWjhKU1JDa1JMcmJvQkdqbFZHcDQ3RFJiSVpodUczZC1OWjNqMHUtUWVadDJPNFZpS0tqYU5OWDl2X18yWFh2djN0dkF6cHN3X0w0T3BNREw0blk?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T14:09:37+00:00"
+  },
+  {
+    "id": "d786762e69231b3ca5742bb46cc891a1",
+    "titulo": "Tempest: nova van da VW chega com 174 cv, ADAS e 1.000 unidades já vendidas contra Fiat Ducato - Motor1.com Brasil",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RMkpJU05JYjQ4aVFtUlBqZm9Cc3pYM3RiRTZNTXdaOURaeko2eVhmWURaVVFpdGNHa0hpY2ppdzdKMkFKSHpiczVaajU4LWtOOF9zejJTbnAyMXV0MmtGRzRlaV9yNFhYODdicm9ibHI4cTY4dDNfRzVIWQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T17:00:00+00:00"
+  },
+  {
+    "id": "6856833e7fbde9984860b4f63d70f7a6",
+    "titulo": "VW Caminhões e Ônibus inicia as vendas do Tempest na Fenatran - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkV1QXlYaFo4ZnlHZWpTSFNZT1V6Y1JrSFF0VEhEQW16ZXA4NzNEbWhkbENCNngzQjBmdUZrOGxQMDlVX254eWtNYi1sZk1PcC1rblZ0Rmhna1JSRDdxRTJqQ0RHTXpLREpLOGo2NGRpQzlSTndWQjVjdm9XdEhLemFmS2w4Y2ZacmRXS0FNZnFTa2hXd0NHd2pGLVkyWHM4cGJzdXVXTENTcF9FbzM2Y3R4RThkeGlC?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-09T15:02:00+00:00"
+  },
+  {
     "id": "964cd6d829c9174d5ecbfb0fcf1adf90",
     "titulo": "Scania lança caminhão elétrico 30P nas configurações 6&amp;#215;2 e 6&amp;#215;4",
     "link": "https://automotivebusiness.com.br/montadoras/scania-lanca-caminhao-eletrico-30p-nas-configuracoes-6x2-e-6x4",

@@ -1,5 +1,93 @@
 [
   {
+    "id": "cdfd396dc94d3f1edee6dbaeed241ab5",
+    "titulo": "Produção de chassis de ônibus encolhe 13% até outubro",
+    "link": "https://www.autodata.com.br/noticias/2026/11/11/producao-de-chassis-de-onibus-encolhe-13-ate-outubro/139998/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-11T22:57:33.143610"
+  },
+  {
+    "id": "0a6f7fe7fb09166ad3ab2db7859b7022",
+    "titulo": "Mercedes-Benz aposta em baterias de longa duração para avançar com o e-Actros no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/11/11/mercedes-benz-aposta-em-baterias-de-longa-duracao-para-avancar-com-o-e-actros-no-brasil/139958/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-11T22:57:33.143621"
+  },
+  {
+    "id": "40dbc192d392301d0e6b7992af19a44b",
+    "titulo": "Avaliação: contra chineses Jeep Commander 2027 oferece muita experiência e novo sistema MHEV.",
+    "link": "https://www.autodata.com.br/mobility/2026/11/11/avaliacao-jeep-commander-2027/139790/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-11T22:57:33.143625"
+  },
+  {
+    "id": "0f770662e7ff61ff7dd1c626b70be5f0",
+    "titulo": "Fenatran 2026 bate recorde coloca caminhões chineses frente a frente com Volvo, Scania e MercedesFeira reúne mais de 700 marcas e mostra disputa entre caminhões elétricos, a gás e a diesel, com novidades de Volvo, Scania, Mercedes-Benz, Volkswagen, BYD, Foton e Sinotruk",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/fenatran-2026-bate-recorde-coloca-caminhoes-chineses-frente-a-frente-com-volvo-scania-e-mercedes/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-11T22:57:36.409128"
+  },
+  {
+    "id": "3a82b774a96673e303e9860d67517455",
+    "titulo": "2.Fenatran 2026 bate recorde coloca caminhões chineses frente a frente com Volvo, Scania e Mercedes",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/fenatran-2026-bate-recorde-coloca-caminhoes-chineses-frente-a-frente-com-volvo-scania-e-mercedes/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-11T22:57:36.409139"
+  },
+  {
+    "id": "7792914af2dcb1f523f1a7477b09fe5d",
+    "titulo": "Veja os 50 carros mais vendidos do Brasil em outubro de 2026 - Autoesporte",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWxwX256VGtBWTFNbW5ISW5oZXloZEgwZ005c2V2Y2N0bDVZWHBiWmdfdHpzTHc3emtwbXVBTWR6ZTZkQWkyOE1JVUtfMVRKRGxMMEV3azFKOGk2OUhlYzEtd21SWVBONVdFVW1vQjJWeEhfTlppNlY0bEdTSUhwTWM1bWRYc2RIV0R1VWg5T1k0RThPcC15blZmMExMMnVCU0ZlcGttRDVyVWFuVXk2V3NZZFBaVEFKM3FlLXVzOUp0N1BLOV8xcVc3VdIB2gFBVV95cUxNNVA0OVJ2QnVFLUNtT2NpTlZ0UlZhTWdsUm42X1BSeG15Y21hbEJzbDRGVHVYX3NZekgtbkVBb2x1b2V5QnFDNFhINS1lR21BUnBiWGtyekIzOXU0R2RqTmdnMzg0aFJhVGJRVUR0UEdvdlc4cFJhVW9WZHllbkd4UUw3cUVZMFZTazBTaWx1UlRoSUtYbC1VZENlVVRiZFc4R1k1TG1QbGk0a2RPNjNOYk1iVWgtcUFRVnFseWFpVjJLU1NsY1FoZWdSa3V5Yy1wZWFGX2RNTlgzQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T08:00:00+00:00"
+  },
+  {
+    "id": "0f9ac162d8e0126db9c3ef07df6b44ea",
+    "titulo": "Fenabrave eleva estimativa de venda de veículos novos para 12,8% em 2026 - Página 1 MT",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUNoQXROc1JVNy10SzRDZ1p2dkpaektaaDIyMDBpUkJ3TlJzMzl0aEYweXVrdG9DWTFwYTh0Zm05SmRXS0lnWXdxdTFjal9lZmV5YUZNYTZRUVZ3Q0taRnBNc1U5MU5QNmFEOW4tQ1NsUkl6WHRuNUk0bGZOV0pwbGRBSURrQ3FPYkJ0ZHJUOVFpaG5mZHJnM2FpTHBUNEJHbjRFWlJEaXNTQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T22:31:00+00:00"
+  },
+  {
     "id": "b32940abeae92f4ebc25350e32c00315",
     "titulo": "Caoa Chery reduz preços da linha Tiggo e busca superar 80 mil vendas em 2027",
     "link": "https://www.autodata.com.br/noticias/2026/11/11/caoa-chery-reduz-precos-da-linha-tiggo-e-busca-superar-80-mil-vendas-em-2027/139943/",

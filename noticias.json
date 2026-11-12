@@ -1,5 +1,191 @@
 [
   {
+    "id": "7ddab57ae998de5c39418c9a6c268dec",
+    "titulo": "EUA podem produzir 400 mil robôs humanoides até 2030",
+    "link": "https://automotivebusiness.com.br/noticias/producao-robos-humanoides-400-mil-unidades-2030",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-12T20:17:03.617855"
+  },
+  {
+    "id": "b3c0ebeb1910e1d1e7d8929923f1f2fb",
+    "titulo": "Pesados: governo sanciona lei para renovação de frota de caminhões",
+    "link": "https://automotivebusiness.com.br/legislacao/pesados-governo-sanciona-lei-para-renovacao-de-frota-de-caminhoes",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-12T20:17:03.617872"
+  },
+  {
+    "id": "2ab8b97fade9048eebeb2bd3f9f156e5",
+    "titulo": "financiamentoPesados: governo sanciona lei para renovação de frota de caminhões",
+    "link": "https://automotivebusiness.com.br/noticias/pesados-governo-sanciona-lei-para-renovacao-de-frota-de-caminhoes",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-12T20:17:03.617879"
+  },
+  {
+    "id": "713b29a23b07db784fb2c42494014ece",
+    "titulo": "robôs humanoidesEUA podem produzir 400 mil robôs humanoides até 203012/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/producao-robos-humanoides-400-mil-unidades-2030",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-12T20:17:03.617884"
+  },
+  {
+    "id": "892bb0e102bcf40b2b8aaa3dd591ddac",
+    "titulo": "robôs humanoidesEUA podem produzir 400 mil robôs humanoides até 203012 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/producao-robos-humanoides-400-mil-unidades-2030",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-12T20:17:03.617891"
+  },
+  {
+    "id": "92a63b3d6b9e80a52251cb20f5f28522",
+    "titulo": "BYD soma 200 mil veículos vendidos em 2026",
+    "link": "https://www.autodata.com.br/mobility/2026/11/12/byd-soma-200-mil-veiculos-vendidos-em-2026/140065/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-12T20:17:05.953530"
+  },
+  {
+    "id": "b07a88932e4100098ace3fa39c029c82",
+    "titulo": "Renault Niagara esgota primeiro lote de pré-venda em menos de 24 horas",
+    "link": "https://www.autodata.com.br/mobility/2026/11/12/renault-niagara-esgota-primeiro-lote-de-pre-venda-em-menos-de-24-horas/140089/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-12T20:17:05.953546"
+  },
+  {
+    "id": "b08b2268ea3116820d54c5bc6b799972",
+    "titulo": "Dormimos no caminhão da Mercedes-Benz no meio da maior feira de transportes da América LatinaActros Evolution 2653 tem cama de mais de dois metros de comprimento e ar-condicionado noturno para o conforto do motorista",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dormimos-no-caminhao-da-mercedes-benz-no-meio-da-maior-feira-de-transportes-da-america-latina/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-12T20:17:08.786766"
+  },
+  {
+    "id": "47a0dda7413a82f1a402fd12f56c30c8",
+    "titulo": "Fenatran 2026 bate recorde coloca caminhões chineses frente a frente com Volvo, Scania e Mercedes",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/fenatran-2026-bate-recorde-coloca-caminhoes-chineses-frente-a-frente-com-volvo-scania-e-mercedes/",
+    "fonte": "Estradão",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-12T20:17:08.786782"
+  },
+  {
+    "id": "71d73938037d102b92d5587a567cc04b",
+    "titulo": "5.Dormimos no caminhão da Mercedes-Benz no meio da maior feira de transportes da América Latina",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dormimos-no-caminhao-da-mercedes-benz-no-meio-da-maior-feira-de-transportes-da-america-latina/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-12T20:17:08.786786"
+  },
+  {
+    "id": "28792f93297d2bb21327c838d83a2442",
+    "titulo": "Projeto prevê que caminhões elétricos representem 50% das vendas até 2035 - Mundo Logística",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmpHcm4zRlI4NmhuVzVvbjBKRHFxb1ZnWjlHdTdYb0l1UVRXa3VWT2Rjcmg1R2prZ183NWxtREhVN2l0b1dlbUFBM3pBT1Rvc2c5VkpfSXZsc1BVX2ozbFlTaElva29qd1ZINkIwMGU1VzVsT2NSN0pPUzhOcWl5SVlNOXBNWER2?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T14:53:52+00:00"
+  },
+  {
+    "id": "f07f764fdd96897b0e5258b426d93e0a",
+    "titulo": "Produção de veículos supera 250 mil unidades em outubro, aponta Anfavea - Portal do Zacarias",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxpMGJ5ZHlqaVBVT09JTmxxWWNKczZmVzRJc0RSRGQ3VUR4QWtrZXk5V05kZEF2LTZRa09jdUw3ZThXZWxVbVQ2Q2NyM2J4b1FRNTlVSnVUdWwyRGJybFBMSWY4elFITmU2bDFYUkR0SmJ5NkRNVUl5ZFlPSWU1Tzlnd19MNWFrOEJVUVozc05xRTZNaXo0T2czeXFCd0Q4TEtldWN5dmpPY2xabGJaYXdxbXJraUdf?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-11T18:33:00+00:00"
+  },
+  {
+    "id": "6d0415c611b8bd0a2b517f688bcbf88f",
+    "titulo": "Fenabrave eleva para 12,8% a alta nas vendas de veículos em 2026 » - A Notícia do Ceará",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUdNLWJFWFVPRVd1RUdmUHFpSDJIZjVUQnhuNUpleHg4R2Q2cjN2Vk5oU3RYQ0lwVWF0S09XamxXMUFQRTNHbnhIQlc0dm5kZWJwNXVuM1FxVmZTYzVpUlVSLVlqeWhZVF9YQXBDcFZhdE9yaHpjRzIyRjJndkYxZlE4YXhtZnJhOVVYRzd6VnRVaDNuTjIzTUxR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-05T10:10:03+00:00"
+  },
+  {
+    "id": "90d7a2ddd91575d19ad4d4fa136b3ef6",
+    "titulo": "Mercedes-Benz inicia vendas do caminhão elétrico eActros 600 no Brasil - GazetaWeb",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQk81MDdva2pQYTR3WXZBbG81S0I3eHdKUlZkNkZNNFRHdzdpbGVRVHRjTFNYWE1OMm9aVlFhSWlWaExtNlQzZEhFS3FmSGhyb042bDQzX0VKS0VOYWZnTnB3VTFlRVl4bXZrcEc0ZjhBVWR1ZERnZ2hoeENucENJOVBvUnFJd2QtX3VBaDMzclNCMTh6YkJ4MzR1X04yd2xFOVNWRW9mSnc1LXhFMF85TmliOWFnVFdzN2VraEVMOHlBcnBGd0HSAc4BQVVfeXFMTlhCUUxIT2lOU3Jab3ZWMkpXUU1GaHE2eVRkNUpDOFNXeGtwUDZCYjJaS3dUMC1DUWZ5N2RvLS11MUFQdjAzc25iRHJjU0I0X3VqZnYybmNScF9SUUhzdWFhb3E3bFhWSnFwRGZob1ppZi1DQ184M0oxdlpsbHlnN19ZVHRuQXNHTXgtRTFDZklfUHdfUUhkOG91SXRLQUZaVHRNZjJaS2RCc0NIeEFNZWUwd3VVcFVZemlDaUstQzc3OHZxLVd3aHR2VG9JbkE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-10T01:27:48+00:00"
+  },
+  {
+    "id": "75a59805bb80db63c5a08367aefe9326",
+    "titulo": "BYD mais que dobra vendas no Brasil - Baguete",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Nks2Z3pDSFJURl81eWRHQmZPMUo3NngzTXBNZ0RDTzNZR1F5aWhlaXpvTDEwenhPNWtGc2o2bGVZdjJVU29tOGxqVTRORnB5QzgyZVFadDBqTUFxaVU1bjlIRVpHRGxiRkxHaldtOWtRR1NSVU14T0dFbw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T08:00:00+00:00"
+  },
+  {
     "id": "400491d00e9ec79e681f5e28e3036204",
     "titulo": "1.Cadillac Escalade será vendido no Brasil, garante vice-presidente da GM",
     "link": "https://www.estadao.com.br/jornal-do-carro/cadillac-escalade-sera-vendido-no-brasil-garante-vice-presidente-da-gm/",

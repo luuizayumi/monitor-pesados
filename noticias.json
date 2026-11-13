@@ -1,5 +1,168 @@
 [
   {
+    "id": "96dfba4a2f0d9723a54b13dd62dc227a",
+    "titulo": "Volkswagen suspende expansão de fábrica na Alemanha após queda nos lucros",
+    "link": "https://automotivebusiness.com.br/internacional/volkswagen-suspende-expansao-de-fabrica-na-alemanha-apos-queda-nos-lucros",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:48.080433"
+  },
+  {
+    "id": "cb14f818b9953a06df0f1a2cb8eb11c3",
+    "titulo": "Mercedes-Benz suspende investimentos e avalia fechar fábricas na Alemanha",
+    "link": "https://automotivebusiness.com.br/montadoras/mercedes-benz-suspende-investimentos-e-avalia-fechar-fabricas-na-alemanha",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:48.080446"
+  },
+  {
+    "id": "189ed6be0a539028cec39ed966cf4e22",
+    "titulo": "indústriaVolkswagen suspende expansão de fábrica na Alemanha após queda nos lucros13/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-suspende-expansao-de-fabrica-na-alemanha-apos-queda-nos-lucros",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:48.080454"
+  },
+  {
+    "id": "83413116d067c9ebcc1e94c6ab42e890",
+    "titulo": "indústriaVolkswagen suspende expansão de fábrica na Alemanha após queda nos lucros13 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-suspende-expansao-de-fabrica-na-alemanha-apos-queda-nos-lucros",
+    "fonte": "Automotive Business",
+    "montadora": "Volkswagen",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:48.080462"
+  },
+  {
+    "id": "51dbc2aa66e28a7a9a804f2d602e661d",
+    "titulo": "MercadoMercedes-Benz suspende investimentos e avalia fechar fábricas na Alemanha13 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-suspende-investimentos-e-avalia-fechar-fabricas-na-alemanha",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:48.080465"
+  },
+  {
+    "id": "52044813d0db0259d2c752b38dad7c49",
+    "titulo": "Mercedes-Benz suspende investimentos e considera fechar fábricas na Alemanha",
+    "link": "https://www.autodata.com.br/noticias/2026/11/13/mercedes-benz-suspende-investimentos-e-considera-fechar-fabricas-na-alemanha/140223/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:50.496591"
+  },
+  {
+    "id": "2eb6787ee3a8e2639d86358648d0cd44",
+    "titulo": "BNDES e Eletra anunciam R$ 1,1 bilhão para eletrificar frota de ônibus de São José dos Campos",
+    "link": "https://www.autodata.com.br/noticias/2026/11/13/bndes-e-eletra-anunciam-r-11-bilhao-para-eletrificar-frota-de-onibus-de-sao-jose-dos-campos/140135/",
+    "fonte": "AutoData",
+    "montadora": "Eletra",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:50.496603"
+  },
+  {
+    "id": "60675172387cf9910fd20cb17ddb1ed9",
+    "titulo": "Foton busca fornecedores para ampliar a nacionalização em Caxias do Sul",
+    "link": "https://www.autodata.com.br/noticias/2026/11/13/foton-busca-fornecedores-para-ampliar-a-nacionalizacao-em-caxias-do-sul/140208/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-13T22:29:50.496607"
+  },
+  {
+    "id": "b632b3046d8019688922d718f83e2000",
+    "titulo": "Pioneiro Combustíveis compra dois Scania elétricos e tem meta de eletrificar 40% da frota",
+    "link": "https://www.autodata.com.br/mobility/2026/11/13/pioneiro-combustiveis-compra-dois-scania-eletricos-e-tem-meta-de-eletrificar-40-da-frota/140165/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "eletrico",
+    "data_coleta": "2026-11-13T22:29:50.496611"
+  },
+  {
+    "id": "2539009da16204d40d806c143ef1cd39",
+    "titulo": "Caminhões elétricos superam metade dos pesados vendidos na China - O Cafezinho",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODkxMnJrbnR6OGU0Y3hCNDBWNXJGR3NPRmluX29Yb0ViQVNlc09hNjlIUTRoZWg1VUdXNUtUbUVDYWhueHRjUmx1YTVKMWhxdnpGdHN2RHZpRS16R29aRDYtNnNQTkFsUi1NSFZiajZlT2lIWUgwbC1ON3NoVV9OZGpSYVhJTkd6bU9rNFJueW40WnI2WVVVMTlDYkxUZFQwdHdZb1pB0gGrAUFVX3lxTE1mY0lXdnpYN3hQUkJjV0U3eEc3UnJjNW9BNV91TDF2MHpQV3RHRVphMncwemFfaXQ2cXBmUEZDRmM2U1dIUnJZS0FqeVdIZEllOXFKcElNZ002TXYzRXRRenNtYU1JdkdGR0R2ODBzaWMwX25CdjZrQzJHWHhlc0RwLWtiRk5KUHMtZ0Z0eF9xM1VtZ3hUeUp2RkJwTjc2TlZwSUhDUjNLLV83QQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-05T11:37:00+00:00"
+  },
+  {
+    "id": "e5a0f0ea48b7f1bfcd5da1232f46406d",
+    "titulo": "VW Caminhões e Ônibus reestrutura o pós-venda para atender segmento de vans e furgões - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3ZPa3VQdWtVeHhDSGY4aVY3ellGRUE2U3VfRHRFYllySy1QOGtyT2dTdk0xX1R4YkR0M19uVGJDbEFZVWl1MUI2N0dUQ25vLXBfNDN2TmhHSnVFWWJ1ZEdnUmhKek4xM0VqeXJ3VmNDVHJDbVFkZUFQY245SHV3dGsxamZJMEJpV3JpNG9zVG8yb29MeVd3NlhMMmtHLS1BV0VfVUZOb0FiNklKTDJYa2tlR1V4c1FfMThaazJKNVB1cmp6Zm5vbmQyNVhwZF8wSDVEaElfQnM?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T08:00:00+00:00"
+  },
+  {
+    "id": "6c7525e57554547fc2b82720576e3278",
+    "titulo": "XCMG projeta salto de 400% nas vendas de elétricos e prepara dois novos lançamentos em 2027 - Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS0ZwMzNnTTBuN19uejlfOXpFUmxsM1VNeE8zenhSN0xYT3VIaGM0VDR4TXZzUkRvZ1UtSnVQS1RXMUNzc1dNNHliNUh6eGt1Zlc4WGc5YklHOUU1dVlvVnBQQlpUazkxTC13NkdUNThmMU9NenlOSGR5c2xRUnZ3LUhFLWNfRnZsbWlrSzZFQzBWTk95MlowcVBBd0JhOVd0MDF5ZnVLRWRDNjNoc3U0dWUzbXVRY1YzdWdiWDh5NjhpdGd6WFFqaFdhcHFfWWFV?oc=5",
+    "fonte": "Google News",
+    "montadora": "XCMG",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-12T13:02:16+00:00"
+  },
+  {
+    "id": "759ae274d5da71adb8270d87aa9e5b9e",
+    "titulo": "Da última milha às 60 toneladas: BYD estreia na Fenatran com bateria Blade nos caminhões e aposta no transporte pesado - BYD",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRTRyNjNkYUJQUHFRVFRxUzA2MkU0aFJYNzlKaEhROVRESmRyZmFTcV9uTHloX1BJNE03YmxBQ2xtSmZsVExlT2RkLUpjSTRoUEhWY2J0YXF1U0Y0YUh5ZzJlVmhJd0J0OTR2eEtqYzVuWWlkQmNDeWY3eDRJOTg4azBPMFNtNUVleF9FUkx5V0dPZ0pqdWxBSHktcFZLakc0Z1BaR3drR01mQ1JmUEllN2pCaGtnOHRObWRjdWZsUENVaEJUZXRmMzRucWxfMEFqNnMxSHc1Yw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-13T07:48:00+00:00"
+  },
+  {
     "id": "1a6976bae65f47ec2f33556c271702e6",
     "titulo": "Vamos amplia locação de seminovos e alcança ocupação de 89% da frota",
     "link": "https://www.autodata.com.br/noticias/2026/11/13/vamos-amplia-locacao-de-seminovos-e-alcanca-ocupacao-de-89-da-frota/140161/",

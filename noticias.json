@@ -1,5 +1,133 @@
 [
   {
+    "id": "b20459c70fa89d0f8c2ee84f59d87c84",
+    "titulo": "Mercedes-Benz calcula mercado de 100 mil caminhões e estabilidade em 2027",
+    "link": "https://www.autodata.com.br/noticias/2026/11/12/mercedes-benz-calcula-mercado-de-100-mil-caminhoes-e-estabilidade-em-2027/140115/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-13T01:21:33.971775"
+  },
+  {
+    "id": "bbee708a7f976471c822d4be3071d65d",
+    "titulo": "eActros 600, o caminhão elétrico da Mercedes-Benz já à venda no Brasil - AutoIndústria",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUNlZmp1bWM2cWxiZHVNTWphVmxJemxfUk41X0taMnFoeU96QVlvMV9SS3dCYUNGTzlKU0tXNVZUQ0xGWHhHRVRkX214YjVwMV9DekVHdklISWZZU28wY09ZY0stOW5Ec2tpSkh3RGpIVzNMX3h4UG1VblhOYTV3WHNJVTgzREtGV2JyOWhfTlQ1THdBMDFXTGkxMVdRei0zeGhrN2hlaUdsS2ExN01UNnhQWHbSAboBQVVfeXFMTVB2SFA1TEZqQkJyelVFMHNaWDY1NW85QmhseXBkcWt3R3dRNzVnLWVrUHdGcmZkTEI2WV9ZbEcyMkVQTmlVOUZsRUh5T3JBUUllNDlzaHB1T3RHOVNwc01TX1ZSdG5vV0x5UEdad29RUUVTZWJwZFBpYnVRWk04ZWdLWWhnZU9kc2hNdGFWaXJEUTBaamUzRm5MY2NiWExNOVAzUFB3V2F4cTdPVThCNjl2UFVoS2JBZ3pR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T18:31:00+00:00"
+  },
+  {
+    "id": "b701f1281f3c8ffc680acfe301dd6ab7",
+    "titulo": "Mercedes-Benz calcula mercado de 100 mil caminhões e estabilidade em 2027 - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDg3eVpvQkFoN21YNkptY09sS0JpNC12SEZVckdQeEppeVBTUEJZSXVWc3c3MWlBa0IxcHlPQWZvZnh0RHNiTlM5R0JnRXhCSkJjZmNwQmF5YUItd0JqMzNlTHZkbU1QMWtIOTR4QkQtU3lNRXpWbXZIWlF1T0Uxcm1wemU5Z3JTZnJRXy10dEZhNWM0RlQ1UEJwclpDWjVhOGpndkZJbmxJTWQtLUxLOGxnYTBBSDVDVjI2bjd3YlBKTElLS0dEZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-12T20:35:00+00:00"
+  },
+  {
+    "id": "fe0f1913f80d744a19d13594b7187810",
+    "titulo": "Fenabrave revisa de 7,9% para 15,3% a previsão ao crescimento das vendas de veículos em 2026 - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTU1OcTJuZjhBbVBCZUE0WFpUeUpyUHJ2MFYyZERCWEotWWNXV1dBbXVEQzVJMk9LM2lqTG9Hd3hYa1FWODFmVGF2N1p4Zm1hNTdhWXBzRURMS2dRWTRqSjNxYk9TRlcxWWVSVm9ZdFNLTUFEamVFQWRuSnowTThTb19VSUx6TWlnenpFWTBfX1pnaThzSEdiWWhQVjB6VEdEN2JYZXk3NzNLYzN0cC1NbjdkMEZrMUJKWlR2TU1VakxObk43SzQtTU05RWw4Z2x1R1hyLVlmb29sTk9XY29GV1JWcFVweVdQYlZxODhn?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T21:36:00+00:00"
+  },
+  {
+    "id": "b609ce1f31366d06cf31fc3b50eaa62d",
+    "titulo": "Fenabrave eleva estimativa para a venda de veículos novos em 2026 - conexaoes.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXZHaTZicDUtcUc0bTdCdmstVHVSUk9LbTBXT0FDOWJXXzZVbDBYSVg4NGZjM0VxUXBIanpURmVObjBKbWtLVENDQ1BraG56YVNqZDB0LVlZTVJsWXhQT0V5LU9ra18zNHJGeW5KS2liaV9BNVRuUTZFSERqNFNlWFhaVGhKb0R5V1lMc0hsYkJwOUd6UHFQbUJzOGQxYndDNmFXMA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T22:28:00+00:00"
+  },
+  {
+    "id": "e16efdc386d25e75c3902d9586c48b7b",
+    "titulo": "A indústria automobilística brasileira produziu 254,5 mil veículos em outubro de 2026, entre automóveis, comerciais leves, ônibus e caminhões. O volume representa crescimento de 2,7% na comparação com outubro do ano passado. Em relação a setembro, - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXcGpYRi16ZUpDUU9jeGJHeHhVZlduOVgzVy1YbG5GNnd5aVFKeGJVZEVzcUJlUFRqWVU3eHJ0dGY5VEE1NExFc1R5SWp5YlRqR3BkWTlBNjhFLXQtN3h0OHRFS092U0R0SlBkd0tybw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-11T18:03:53+00:00"
+  },
+  {
+    "id": "785f3b7202e97e65500a06892d44cde0",
+    "titulo": "Produção de veículos ultrapassa 250 mil unidades em outubro - iG Carros",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYThNZ0kwSmw2TVVDWm9VZ1g5bmZvUXFMREZkajF5YUg0YjlVVVl1bFFDSG40MWhNVHhfMnZVaDNyLWlNQkxPRHZoWFdUdG5hVUF3WGk4aWtpaW53c1c3WWZGNF9ueXZadnBmYVFxY2tJZkZEZmhWNzlTQkJoZWhmenN6MF9TWVFud0dSb01YZ0FIR3FVaGJvT2wzREdqbm1DOWNlazFnRdIBpwFBVV95cUxNYThNZ0kwSmw2TVVDWm9VZ1g5bmZvUXFMREZkajF5YUg0YjlVVVl1bFFDSG40MWhNVHhfMnZVaDNyLWlNQkxPRHZoWFdUdG5hVUF3WGk4aWtpaW53c1c3WWZGNF9ueXZadnBmYVFxY2tJZkZEZmhWNzlTQkJoZWhmenN6MF9TWVFud0dSb01YZ0FIR3FVaGJvT2wzREdqbm1DOWNlazFnRQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-12T09:58:00+00:00"
+  },
+  {
+    "id": "832474ff7ce74bff900e261425f31273",
+    "titulo": "Os carros elétricos e híbridos mais vendidos do Brasil em outubro de 2026 - Autoesporte",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSWdPaUVtZy1ONGhKSHpsdmtVLVd2MkYwVDc5b0VxRG9ObTNYcUk3ZG1ybkFvUDJqeFUyOExDMFNmUmt1TjV0YTlLdlRYZUc3SmIwZVVvY2J2QXpKX2Zfb1I3d1RTaFp6M0duckFpelJmRnRSV1FfRTRUcnMxQl9XbmRyaHE1ZDl3cWJqQkphT2lhZHhBSVR2YUhTTDBBMU5JWkJVdUV0aWw4QWp6SHp0LXlvLUpkNG43S3YyY0JpTWd6dGlWVm03R2JVcUczVkxZbmRMU0Etcnhob0xWY3loa9IB7wFBVV95cUxQc2NSdF9rbWhxUHFQRjc1RlhDVm9zODhVbXlLMWpzN1dZRXU0MFpCZllEQk5fUlZ1bmZ2RWczbHVWQnI0eUVyb2F5TUJFVjdLRzZmVWhVVTd2OGJBVlRJTGQyRmUwUGxFTU9sNjZXV0Y4cHVpNlZmN2NOc05ETlVyRkw0UVlNZmp6ZHBEWUR5alJiRXhBdTBWTV9UanJRVzBoSjFCb084RDNvS2FUY2JvdzEyRzRBdG9kV2JsU0cyZ0hXWWRneDFfV0ZCN3pDZThjS09JcE1GdWNJTVowZ0VGXzNjTVRmOGotSWZLSHZmNA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T19:00:07+00:00"
+  },
+  {
+    "id": "988a84763e8e3d70f58e79945c12c902",
+    "titulo": "COP31: Turquia produz mais de 12 mil ônibus por ano, reúne gigantes mundiais e avança nos elétricos: conheça a indústria do país, as diferenças com o Brasil e as oportunidades para a Eletra - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTzBKRkt2dmpmMjZxYUs5Y0lQb2h3TEc1MElEWGRGTGhtdTBUS1Myc0RGX25vYUkyWEdrbTZRaWcyQzRQZmptMWtyWWZ5YmxCeExocEpoM0hOWjV3S3BUM1ZUVjhIWmhFM0pBRDhraGtDLUtMQVhYNEs1bWsxSDZKV19aeVJ2eVZhRjAwemRBU1RObnpFZWloSDM5MnZKZ0syNlN6enRtdTc0Tjdfa2N0aWZZTWNDX3N3MVhRaWZhdnpCNTV4aS1lMXcyYUw0dnpwQ1RBVWdTZjQwMjJQSGlaX2kyT2JSU2MydmxZZVZRNDJEb2dJeEtQXzdFV2xaamYxcFl3dTU3c1dpemlYYWpPcm1teFNhaWhIUkx3bU9VbzhIdUpybjllR2R2Yk5SRFc1c3JOY0g2LUE1MkJ3S3VON2tqdUhZQlMxWnVrNkRhUnjSAdYCQVVfeXFMTzRmRHdqWE5Ud252aFNHWEo0MDRVdGcyUV9VT0ZjbWMzVGxZLVRpVGJNZlhfSllkU0xxM19sdlVHLW9SODV1REVZcFk4bnA0aEJ6Mm9EYV8tQ1d1UnBkZzhoeUp5Y1d0UDRQcTFBeGJzQXo2Y2U3eDd2VDRtaFBETjRTUGRmdTlRT0lUQldHcm53ZG54bDl2WEhQNGdzZkFvMlBkRHUybEpqRlFPMzhwZ3hmdVZLaHdmaWpaamU5dzFuQVhVMDhlWDlXMmFEa2Jqb2xpMDhLS0t0RkF3aDdFXy00NnBON015NEZhRks2ZmM4Q1hlZUlPYVpEcHJzQ3dfU3VNQ05pb1JvZk9xd2ZmNTFybU1qOVBZWU1VdEt6X1VHdGF3NllHcFNhY2lrZUZUVHVxMVJlWmcwbm9sRDNrcTVKUmozN051SEdsbFkwcXhpeGREQ0x3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Eletra",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T01:49:17+00:00"
+  },
+  {
+    "id": "2e6a47420d73d7938e5c190e1f7512c7",
+    "titulo": "Mercedes-Benz prepara ofensiva na Fenatran 2026, mas prevê vendas menores - Mecânica Online",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjNRVFMwOWlDcFJ2bmEzUjJCaHplUU9fN2tjZmRBZnBlVjZZTWtua2ZVTFFtRFhYcFdGUEtmR0Zkc1MwbnZGeUJaR3pPUnEzV3N2d0IySW5EeXZhR0VjMTZqSWEzSVdNR0VFQmNvZUFnLUx0ZUlUcjd5OGczOGNpRmdYbF8xOGR0TG9aNDNHalFacUNUSEw2WXdfQkFUc2x4ZmlkUnZ3djRnMnYyNmhIYw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-23T07:00:00+00:00"
+  },
+  {
     "id": "7ddab57ae998de5c39418c9a6c268dec",
     "titulo": "EUA podem produzir 400 mil robôs humanoides até 2030",
     "link": "https://automotivebusiness.com.br/noticias/producao-robos-humanoides-400-mil-unidades-2030",

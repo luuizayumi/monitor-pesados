@@ -1,5 +1,44 @@
 [
   {
+    "id": "ef1e842f8ac1dd7d318d902073aa8e40",
+    "titulo": "2.Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/eletrificacao-chega-aos-caminhoes-pesados-mas-sera-que-vale-pagar-ate-r-25-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-16T00:49:41.808120"
+  },
+  {
+    "id": "099752d8d2f16ce88d5a02850b3f8ace",
+    "titulo": "Mercedes-Benz nomeia Alex Nucci diretor de Vendas de Caminhões e Extrapesados no Brasil - Tecnologística",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd1NDbHVic21SemdnalJ3RW5lMDM3LTJLRGZ6bnkzZWlSQmRqWUZOOUR3X1JFcWppXzZnVEIwZ3ZnY1FYaE1mVS1kdEZmNDM5aWZ6aHFIdjhfaHpQREk1cXU4WlRySk85NWNubEZRLUpNdE5VOVVjMjNHOUhaaVJhUEwzb0ZxWUlpNVRvdUpfWVh4ZGpmOV9Oc3hWdy1uRjhxUGN3SkZxeURYMGV2T2dPbVhFamtGSXdYRG9QVHZINlBRTlNMQzdPb0wwNk11RXdlR2NXX0lwOTdPUWtiVFF3dV9pa1JpRWdKVFE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-15T10:42:51+00:00"
+  },
+  {
+    "id": "5ef7a260b51284930616404015aad9ce",
+    "titulo": "eActros 600: Caminhão elétrico da Mercedes-Benz começa a ser vendido no Brasil - Diário da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVORVJlMDdUaHhmYzYwS1JjM2d3V3Y2aEJhaUFPT185ZmdhaVluejh0Q0lqQVJGLUJhNUNFVTNXWnVDODk2UFRTQ2o5dVF5cjRwb0NhbzBQS3QtQTFqWVQxZ1diN0pTdFNCZmd2ZjRsVjU0V2pJQzRmMERZTGlmZnBHQlpSNllIN1oyX1gwNnRDTXlJM0I1Q3JrN0JSYzMtaUJINkFrNS1Ycm1D?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-15T13:58:00+00:00"
+  },
+  {
     "id": "e5a26dffe34dc9ef84c59522a490a592",
     "titulo": "4.Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões?",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/eletrificacao-chega-aos-caminhoes-pesados-mas-sera-que-vale-pagar-ate-r-25-milhoes/",

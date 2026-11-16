@@ -1,5 +1,92 @@
 [
   {
+    "id": "6e3c266d3140ffc789a8992e35295399",
+    "titulo": "XCMG apresenta pesado elétrico Hanjing e começa pré-venda no Brasil",
+    "link": "https://frotanews.com.br/xcmg-apresenta-caminhao-eletrico-hanjing/",
+    "fonte": "Frota News",
+    "montadora": "XCMG",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-16T18:04:03.419396"
+  },
+  {
+    "id": "e167cecceb9a00e32b45b91a141ecb80",
+    "titulo": "Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/eletrificacao-chega-aos-caminhoes-pesados-mas-sera-que-vale-pagar-ate-r-25-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-16T18:04:04.718335"
+  },
+  {
+    "id": "a34ccf22d483f91caa87f9bb92dd96ee",
+    "titulo": "2.Free flow atrasado volta a dar multa de R$ 195 e 5 pontos na CNH a partir de amanhã",
+    "link": "https://www.estadao.com.br/jornal-do-carro/free-flow-atrasado-volta-a-dar-multa-de-r-195-e-5-pontos-na-cnh-a-partir-de-amanha/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-16T18:04:04.718350"
+  },
+  {
+    "id": "8de877fd99e092b61fd4564202d1ee72",
+    "titulo": "4.Se você não vê o motorista do caminhão, ele também não te enxerga; saiba como escapar do ponto cego",
+    "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/se-voce-nao-ve-o-motorista-do-caminhao-ele-tambem-nao-te-enxerga-saiba-como-escapar-do-ponto-cego/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-16T18:04:04.718352"
+  },
+  {
+    "id": "08558d66ea19c2691820cbb622850f67",
+    "titulo": "5.Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/eletrificacao-chega-aos-caminhoes-pesados-mas-sera-que-vale-pagar-ate-r-25-milhoes/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-16T18:04:04.718354"
+  },
+  {
+    "id": "8bf8b0ba254bd92b16439e842670cf9b",
+    "titulo": "Litens amplia uso de IA em sua estratégia global de manufatura",
+    "link": "https://www.balcaoautomotivo.com/2026/11/16/litens-amplia-uso-de-ia-em-sua-estrategia-global-de-manufatura/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-16T18:04:10.839003"
+  },
+  {
+    "id": "a483d6d836588664fb1f4d52fe1b3890",
+    "titulo": "Sem Move Brasil, Anfavea prevê vendas de caminhões em queda no próximo ano - Jornal Portuário",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWZtSXdfNkpRdUR1VTlKOG1sTEk5aVZfZ1NicEtOT3FQWEJaMzBjTlJVUzJLcXVWTEpoektOemx0V2Y1cVpMTEItUHgzNXlaU01Hd0Q1VWtsdW5zUnNQTU1qMm1XTFQtTW1SeU52VWVSalQ2ZlU2amNrU0JNeHN6V0VkcDlzcDAzOERrOERSb1l3SW8wamM0cjQyZzRsYU1PajhvcmJkUk9tVEpfcWx3UGJwSQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-10T13:29:47+00:00"
+  },
+  {
     "id": "ef1e842f8ac1dd7d318d902073aa8e40",
     "titulo": "2.Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões?",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/eletrificacao-chega-aos-caminhoes-pesados-mas-sera-que-vale-pagar-ate-r-25-milhoes/",

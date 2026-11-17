@@ -1,5 +1,107 @@
 [
   {
+    "id": "e1be11d909be9be6497859dadbec8f43",
+    "titulo": "Renault trabalha com perspectiva de estabilidade ou leve retração das vendas em 2027",
+    "link": "https://www.autodata.com.br/noticias/2026/11/16/renault-trabalha-com-perspectiva-de-estabilidade-ou-leve-retracao-das-vendas-em-2027/140331/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-17T01:57:26.923376"
+  },
+  {
+    "id": "04a7b7e7101320ca81315fce523f3898",
+    "titulo": "Vamos investe em frota a biometano, amplia locação de seminovos e mantém crescimento mesmo com retração do mercado",
+    "link": "https://frotanews.com.br/vamos-biometano-locacao-seminovos-crescimento/",
+    "fonte": "Frota News",
+    "montadora": "MAN",
+    "temas": [
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-17T01:57:28.449446"
+  },
+  {
+    "id": "db69ca9ac99f08106585ec972a33ddec",
+    "titulo": "1.Free flow atrasado volta a dar multa de R$ 195 e 5 pontos na CNH a partir de amanhã",
+    "link": "https://www.estadao.com.br/jornal-do-carro/free-flow-atrasado-volta-a-dar-multa-de-r-195-e-5-pontos-na-cnh-a-partir-de-amanha/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-17T01:57:30.429744"
+  },
+  {
+    "id": "8d0bb3ee78d0a673a641d252475768d3",
+    "titulo": "Custos elevados tornam difícil a renovação da frota brasileira",
+    "link": "https://www.balcaoautomotivo.com/2026/11/16/custos-elevados-tornam-dificil-a-renovacao-da-frota-brasileira/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-17T01:57:35.148823"
+  },
+  {
+    "id": "18f1c0fefa83a00cf5458f2db19ae29b",
+    "titulo": "VW Caminhões e Ônibus abre 20 novos pontos de atendimento para ampliar pós-vendas - AutoData Editora",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0lGLUpHSVB1dnFja09paGMySDhCQ0cteFREcW1TU3V2SkllUUNUT2puZXZqQVpIS2JtU1VJdWg0X1VTbmVkSV9xTzdXWXdQaEM2OU5GY1diR2pkdUk5TkNYVjFvNW9tZHo5TmRZV0pISEk1b1RuMGx1OUx4OEVzVTExNzBtazd5QjhJY0Izam9aeV9GQXFqclFVM2RfNElDNnRVRTFuZEFsZ3A1RVVfazI5elJIQWg4c1FrQWpqQ1d2dDlQVVd0N0R1NWZUVHZMWGQ0?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-04T08:00:00+00:00"
+  },
+  {
+    "id": "915fbf8da4bc7c894a8753e7f90ae3f4",
+    "titulo": "EmTech 2026: IA já participa de 15% das vendas da ClickBus, diz CEO Fernando Prado - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFJ5MkhYQzUxd190UUtCakh5QXFPcFQxb1BtRDNxekVCdGRoaHcxcFFWcUNtVWlOLUVQaEpkdExHamxhVndIeTlKV2MxdmVSX0hUZHB0YzJ0OHhieXNPb2dDX0EyVExDNnRSeURCbGc5MlFMQlRXV04wMDRFNUk4b2YxcGFjV25WeGZMSkFiOTVaRTcwWjl6bDdPUFV0cW5FVy1CYVk0bUJDTnREcFEwd3haZlE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-17T00:38:00+00:00"
+  },
+  {
+    "id": "7fc3c6b30a67df313ff8921144b677d3",
+    "titulo": "ClickBus projeta vender 100 milhões de passagens em 4 anos e investe R$ 40 milhões em IA - Panrotas",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU010SmpkOERXN3gtUTZ1cFdKODkzU0FYQkNCWWZmNl9UYlhDZ05EMXExbC04bFZjY3RwV29qSXhDTkdDeTRObDJWMTRXS1F0Y3JQUW1nUERKNFp0Z19VYjNQdmxic2Jmd05NamJkU2lMc3MyR01oUWxuZUtRTmtUMWZrZFlZUmxvRHhydGNCTV90U1JnNEZTeVl1U2xscVV5ZTNZeFl0b3gxaXJZWjd0RVhWYlM0a04tMDE3R0pUbGhVcEhOTkYxTWdMWmt4LVktYm5nLUxRTEd2ZXdaT1ZOOXVqNHlRNW9VcVE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-16T18:39:00+00:00"
+  },
+  {
+    "id": "8cbde2299c7826c2aa12c9e17817e5e9",
+    "titulo": "Brasil terá 9,7 milhões de carros elétricos e híbridos até 2036, diz estudo - Band",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEJyNTN6bTNVZ0ZFckQ0bmZuRDJLQXZtamZiNGh6eFZldjRoSThoeGdfNnlsRkI4aVhMMHlqVmhZUmNrdEJ3RExQWUY4azB5T2J2dlV0amJOYmwydzhwak9MVnR4WnlrOHQtTzd6Z2RrN1Y0RDJ0Y3RWUUlBbGxKRlBpS0QzVHd5aURyWTZWUGdqYVdBQi1Kd0NJV2hkSWU3TnNKWmdnR0QxcUE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-16T22:36:51+00:00"
+  },
+  {
     "id": "6e3c266d3140ffc789a8992e35295399",
     "titulo": "XCMG apresenta pesado elétrico Hanjing e começa pré-venda no Brasil",
     "link": "https://frotanews.com.br/xcmg-apresenta-caminhao-eletrico-hanjing/",

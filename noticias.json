@@ -1,5 +1,91 @@
 [
   {
+    "id": "3b469d692af40dc8cce4a9cd3dae6e6a",
+    "titulo": "Mercedes-Benz cobra definições para destravar investimentos",
+    "link": "https://www.autodata.com.br/noticias/2026/11/18/mercedes-benz-cobra-definicoes-para-destravar-investimentos/140519/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-18T18:42:14.470864"
+  },
+  {
+    "id": "1f2c5be48156545497aa7008b7f9cc12",
+    "titulo": "Cenário é de incerteza para 2027, analisa VW Caminhões e Ônibus",
+    "link": "https://www.autodata.com.br/noticias/2026/11/18/cenario-e-de-incerteza-para-2027-analisa-vw-caminhoes-e-onibus/140544/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-18T18:42:14.470880"
+  },
+  {
+    "id": "3348d601ca5eb27dcc8c4f8b07d728ce",
+    "titulo": "Scania vê ano desafiador e de muito trabalho",
+    "link": "https://www.autodata.com.br/noticias/2026/11/18/scania-ve-ano-desafiador-e-de-muito-trabalho/140586/",
+    "fonte": "AutoData",
+    "montadora": "Scania",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-18T18:42:14.470882"
+  },
+  {
+    "id": "e5f22b7e31b325fc82d53e7c316ddf16",
+    "titulo": "DAF pretende chegar a 15% do mercado de extrapesados nos próximos anos",
+    "link": "https://www.autodata.com.br/noticias/2026/11/18/daf-pretende-chegar-a-15-do-mercado-de-extrapesados-nos-proximos-anos/140605/",
+    "fonte": "AutoData",
+    "montadora": "DAF",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-18T18:42:14.470885"
+  },
+  {
+    "id": "ae10e55f22e415c57038ac86b76a081b",
+    "titulo": "Frota Brasil aposta em implementos de alumínio para reduzir peso no transporte",
+    "link": "https://www.autodata.com.br/mobility/2026/11/18/frota-brasil-aposta-em-implementos-de-aluminio-para-reduzir-peso-no-transporte/140386/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-18T18:42:14.470887"
+  },
+  {
+    "id": "e7800634ca581847f149d30278baa01a",
+    "titulo": "ClickBus projeta R$ 2,5 bilhões em vendas em 2026 e investe R$ 40 milhões em IA - Panrotas",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdUFxcFBYQ005akdDU0FoRmJ0YWlBWjdIRVFxNG04TTJuS1pNNWNzNlFCelBPUTI0cTBTMEdmY09GTU5KcHdmN1RYa2pqM09CTl9DeWVqMWRWVDRnVzc2X2RTLXRvT2hzQ1FfTXRjVlZwb19yNWhfMWNKdXJaWlhMMlNrTEJYRlJ5cGRJeGpvZzBhM2haVGhiblN4T1BSd0duU2NQa2NfaVBJRS1CMGxTbFRGZDhvMXZ6dmpsMzFjaUJianQ0XzhIWHc1VDlsejBKU0JaS3VtSG8xMlE?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-16T18:39:00+00:00"
+  },
+  {
+    "id": "e86486fc163c883bd575969d006f9925",
+    "titulo": "Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões? - Terra",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZF92Qy0tblcycWRMdEZLeW5KdmZYU1NRTUJmS3ZrbjVrT0g0QWk4NFp3MF9QWFRCMDJPcEhwd3FlM3AycHFaVTVuNWxtTDhMX19TeDExRXRLR1ZINm5kNGwtTEdkOEh0ZDZ5c3c5ekpWNkFfRE1LMlh0dmgwZEZZM3VldHVqQ0F0Mkx4SE02LWlyalhMVkFfQ05aTzFCbjYxS3hTQUdlNlFOdUdRdXB1M0dLakpHNURiai1uTzlzVVUyUFBtb2F0WGFmbENXbzd5TEZYdy1XalZiellVWDZsV08yTWhpcEJRVHNXd1FkRjVLaS1l?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-15T13:08:00+00:00"
+  },
+  {
     "id": "14193c064659a52d18a8f5a65e2d0d49",
     "titulo": "5.Volkswagen Delivery 11.180 tem quase metade do mercado de médios; veja o ranking",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-delivery-11-180-tem-quase-metade-do-mercado-de-medios-veja-o-ranking/",

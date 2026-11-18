@@ -1,5 +1,57 @@
 [
   {
+    "id": "a3e4813a802cab9b352f831bbbd316c1",
+    "titulo": "Mercedes-Benz lança eActros 600 elétrico na Fenatran 2026 e fecha primeiras vendas no país - Agência Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbDlsMFYtaW96MzRJdWx2UFhsY3hWWnhFNklqNDdqZHpEUUZIY3d2a1BJVWdJblZTLUlVaXNGczlxX0NMR1JlVjR6U0tvME5TRGUxX1A4NWRhTlUtX05HbHBndkptX3dCQkVVZzZaU2tfVWEwRUw1QWd2QmRONWsyellvaU9sa3BqUG5ma1dvejY1d0tJRE1HNVZBcjJNTWN1NHUxaGZXMTVGSmZIYnBGX1FrdS1qYTR6b1U1X090NUNKUVJlMFhHQWRPS04wRWpN?oc=5",
+    "fonte": "Google News",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Vendas",
+      "Elétricos",
+      "Lançamentos",
+      "Tecnologia"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-09T18:14:35+00:00"
+  },
+  {
+    "id": "d7005cb9b429468205913ceaed2a56b5",
+    "titulo": "Um em cada cinco carros vendidos no Brasil já é eletrificado, aponta Anfavea - Canal VE",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjU1SG5CMVdXNFQyTFdLR2k3Q1ZweEVuUXozdGJqeVNtUlVqek94NVBTY1U4SXZHWmlmdmlVM1ctQ01HeGVGeXFyeGVUbHhPWjVuSnZwenVwZ1RHVVBoenh3X2Z0X1FqVGVTVkhRbHBMc0ZWalAzc2c5ZzdIcVpRRFA4WEtFNHdiWFZpWEN3?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-17T19:47:08+00:00"
+  },
+  {
+    "id": "30f73abcc882dd147f98c1b3abd0e7af",
+    "titulo": "Brasil deve ter uma frota de 9,7 milhões de veículos eletrificados até 2036 - Mercado&amp;Consumo",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ04tYjQ2Qk5sOGZ5WVBBSkpmdjdia1RmSEp6V3dKSTlhWWY2ajctdXF2WkpPT19sUzIxNklGdG9oMTFuQXZRMjFzdEN4ZUQtR2MyYW5uSExqYm5ha2QwNlV6LW80SzFIV3NRUXliMTNtSFpZeVM0Q2toeHlvTzN3c2hqNE9sVTdDQm83cUc4OWpfOFo0bkVyN1BtUlB3bGh3aHVwMDJZVWlxWVBnTmJfSDRRUk90dC0tM3VZUzI0RkNnYW5H0gHKAUFVX3lxTE9Gbld2RE1PUzZxOElRNHpBcll0WGxIYjN1QVdtZ190UGhXOEI0TWFxcU1ZZTl1RWJUbVVQS0NnS2JLbV94UVVfRnVQajlFQnZVS0g5bDVFQUc2clZGQ3hsVjhFRW1iYi10OWhRNWctcUlLc3pUaHh2eEVGeC1rU2h5UEsycTJJTDh0UWlUaFRyMnFZUzVnWXhnbmh4UEZnMHNWb2dVM1hTd1BQTzhkbTRkRUJrSnFvcnNkY2tuUm5scHhXWXdJUVMyRmc?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-17T12:19:58+00:00"
+  },
+  {
+    "id": "d479e676044ccd3f18933141e31ce0b9",
+    "titulo": "Iveco vê oportunidades de expansão na América Latina com a Tata Motors - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlliZC1mVUR5MVF6MHB0a1dvTEJCeGRGV3IxX3NidDltUDIwb2sxclJTTmtFUDU0X01pZ0lHQ3JHbHN1TTVrRFlzUzVlSjFHdUhyQVZMSXFUTl9DWGlSdkFXTUMzb2t3bERJRU8yVU1fN3pOYVpJOE9NSmNXckNLMFNubTFUMGVXdkZWODlFQmlkTnItRDl1Y1p5MjRYNGR1SERGQkZjQQ?oc=5",
+    "fonte": "Google News",
+    "montadora": "Iveco",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-17T18:04:51+00:00"
+  },
+  {
     "id": "5dce17a72a45117de2a8bfc05923b077",
     "titulo": "Volvo movimenta R$ 3,5 bilhões em negócios na Fenatran 2026",
     "link": "https://automotivebusiness.com.br/negocios/volvo-movimenta-r-35-bilhoes-em-negocios-na-fenatran-2026",

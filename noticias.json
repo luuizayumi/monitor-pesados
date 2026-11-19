@@ -1,5 +1,113 @@
 [
   {
+    "id": "2a604e66d6ab8d97fec61914a310a25f",
+    "titulo": "Reposição: Stellantis registra alta nas vendas online de peças",
+    "link": "https://automotivebusiness.com.br/aftermarket/reposicao-stellantis-registra-alta-nas-vendas-online-de-pecas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-19T18:01:16.615081"
+  },
+  {
+    "id": "caf93e9f84472ea3ac7c31682a57afce",
+    "titulo": "autopeçasReposição: Stellantis registra alta nas vendas online de peças19/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/reposicao-stellantis-registra-alta-nas-vendas-online-de-pecas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-19T18:01:16.615098"
+  },
+  {
+    "id": "7c15bd16c3984f8ca45e7693cbe0b38c",
+    "titulo": "autopeçasReposição: Stellantis registra alta nas vendas online de peças19 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/reposicao-stellantis-registra-alta-nas-vendas-online-de-pecas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-19T18:01:16.615101"
+  },
+  {
+    "id": "45dd266a1b7e6375b6ebdf5093eb5721",
+    "titulo": "México prevê mais um recorde de vendas de veículos leves",
+    "link": "https://www.autodata.com.br/noticias/2026/11/19/mexico-preve-mais-um-recorde-de-vendas-de-veiculos-leves/140673/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-19T18:01:19.398300"
+  },
+  {
+    "id": "dd684296b3a81bff8e94bbada0b79bc8",
+    "titulo": "Paraguai deve fechar 2026 com recorde de vendas, mas prevê queda em 2027",
+    "link": "https://www.autodata.com.br/noticias/2026/11/19/paraguai-deve-fechar-2026-com-recorde-de-vendas-mas-preve-queda-em-2027/140645/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-19T18:01:19.398314"
+  },
+  {
+    "id": "1aa1b47925c1f908d91ce108f6b96084",
+    "titulo": "Mercado latino-americano deve manter crescimento moderado em 2027, prevê Aladda",
+    "link": "https://www.autodata.com.br/noticias/2026/11/19/mercado-latino-americano-deve-manter-crescimento-moderado-em-2027-preve-aladda/140682/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-19T18:01:19.398317"
+  },
+  {
+    "id": "3a466fecbbf975c37b816990e0deb4db",
+    "titulo": "SEST SENAT amplia frota para formação de motoristas e prevê alcançar 407 veículos até 2027",
+    "link": "https://frotanews.com.br/sest-senat-frota-para-formacao-de-motoristas/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-19T18:01:20.902721"
+  },
+  {
+    "id": "235e939e24e6848d6949c331b755f175",
+    "titulo": "Compagas começa a fornecer biometano para frota de caminhões e fábrica da Coca-Cola no Paraná",
+    "link": "https://frotanews.com.br/compagas-biometano-femsa-coca-cola/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-19T18:01:20.902733"
+  },
+  {
+    "id": "05b92fda4b197308a40f64744d7db273",
+    "titulo": "MANN+HUMMEL impulsiona empreendedorismo com programa Mission Makers",
+    "link": "https://www.balcaoautomotivo.com/2026/11/19/mannhummel-impulsiona-empreendedorismo-com-programa-mission-makers/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-19T18:01:28.769365"
+  },
+  {
     "id": "148507781de6b2c3f0fe667bf073b7a6",
     "titulo": "Mercedes-Benz, Fenatran 2026, Caminhões, Transporte de Cargas, Tecnologia, Pós-venda – (2) - Mecânica Online",
     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPLVlFZ2lXVkJEUWZvN1kyV0xSZHUxWUJpdGJMeEZYWVpRWDNsQlJlVktfQ3VqZU1tSFhqMVQ2SzRGX19qLXJ4Ni0waFVrM2ZzeTNWMVJSOTNuazAzTmhWV2drX1MyYjlyY0xPNHc4LV9sTGlFZV9DbWxaQld2LS0xTUhmTDczVFVLY0lGWHZ1N014WjNDeWJGRThEd3BQWnNoQTdicEM0M29tbkZmdkdydHRxMHFxU0EyS2pGYnR6NDItanNrd2Y2NG92dWU0eDBoaVRqWERNb29JMlItVDJ5VVN1WC1fNTBpY3RTNWdhMU5UcHlIZHNSZnI2czdHTm5uMGpuWjhGSk1FUWdKTUtMbjh1cldyRGg3aXBUcEpR?oc=5",

@@ -1,5 +1,54 @@
 [
   {
+    "id": "a7690b583d5a75e37648b2a0fc5ab26c",
+    "titulo": "vendasEmplacamentos caem 11,4% na primeira quinzena de novembro19/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/emplacamentos-caem-114-na-primeira-quinzena-de-novembro",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-20T00:48:25.825507"
+  },
+  {
+    "id": "4d160c17eecdb4db9c835c4e0b3c54e8",
+    "titulo": "vendasEmplacamentos caem 11,4% na primeira quinzena de novembro19 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/emplacamentos-caem-114-na-primeira-quinzena-de-novembro",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-20T00:48:25.825519"
+  },
+  {
+    "id": "086d377d56a62dcc9d74ac08b5768fb7",
+    "titulo": "Mercedes-Benz lança quatro modelos e abre ofensiva de portfólio no Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/11/19/mercedes-benz-lanca-quatro-modelos-e-abre-ofensiva-de-portfolio-no-brasil/140743/",
+    "fonte": "AutoData",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-20T00:48:28.858922"
+  },
+  {
+    "id": "482687bda565de14d545c917ea2582b4",
+    "titulo": "eActros 600 é vendido no Brasil com aprovação prévia da operação - Transporte Mundial",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3FBS1ZVZk5xem5fOXpfWWVNbld4eXRBNUNGejYzOWtSR3htQm93SVhFd0d0VU5lbWd1NzBDOFM1dUx2YTlYTE1vUDRBc2Zwakx4RW9SWnAzS3VFTXAzMk41SktjUWJNR2FWcnlTQTBHUm5RQTc4TEFERk1aSExEQXM4SVljZzV5a2c0S3NQenBvbnJQcmRMNlJLWDhDcDRsZjVR?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-19T21:55:40+00:00"
+  },
+  {
     "id": "2a604e66d6ab8d97fec61914a310a25f",
     "titulo": "Reposição: Stellantis registra alta nas vendas online de peças",
     "link": "https://automotivebusiness.com.br/aftermarket/reposicao-stellantis-registra-alta-nas-vendas-online-de-pecas",

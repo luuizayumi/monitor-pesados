@@ -1,5 +1,41 @@
 [
   {
+    "id": "f8907ea8b2a783cdc6b65156cd692e8d",
+    "titulo": "1.Fiat Pulse agora só tem versões híbridas com motor 1.0 turboflex e perde câmbio manual",
+    "link": "https://www.estadao.com.br/jornal-do-carro/fiat-pulse-agora-so-tem-versoes-hibridas-com-motor-10-turboflex-e-perde-cambio-manual/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-21T04:10:34.954919"
+  },
+  {
+    "id": "1563fca9c4d22c960f65a080c9d99aaf",
+    "titulo": "5.Vendas de implementos rodoviários caem 4,1% em junho",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/vendas-de-implementos-rodoviarios-caem-41-em-junho/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-21T04:10:34.954938"
+  },
+  {
+    "id": "8840f74ae8a01fb8523f8f179e9406e6",
+    "titulo": "Venda de caminhões cai 9,21% no Brasil, na contramão da alta de 6,88% dos automóveis - garagem 360",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2JRSkpoZ2FveVR6dFpsaVVrYVVaMkZDSWlvNDBrSTFpYkM1WERJUmJQSVpuakh4a3Zyc3AzZDEydWVwUG0zZk5FNzY4MVNZcVN1VGdxU2ZzUmNWcjBpWTF0aFRFM1B3bkpCS3B4Q3p1Y1RucGQzMGNManFRNkttcnYteWUzZmdPQXV6Uzg0VDZNQ2RvVktpSVM2VWw2cThGOWJsZ01tLWZWZw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-20T22:41:15+00:00"
+  },
+  {
     "id": "b2a56ae25862e6e01dc5a509df57d96d",
     "titulo": "Passagens de ônibus: ClickBus projeta acelerar vendas - Live MKT News",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByQkczWTRxbU9IdGlZTk8ycGZ0QjkzbXFCMERSQzBTa2tzUmJ6alRLWG0zUE9zbS10SThPU0dCaC1Gcm9lbk8tVVlJWGZJTUhUWnRERjZQc3AybDFOaHNPRVp6SHhia1pIV19YRjhMWQ?oc=5",

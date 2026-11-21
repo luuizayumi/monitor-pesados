@@ -1,5 +1,41 @@
 [
   {
+    "id": "fd78f74705c2ee28e960b821c1958626",
+    "titulo": "Lula sanciona lei que pereniza o Move Brasil com R$ 14,5 bi, mas recursos ficam fora do orçamentoLei sancionada em novembro transforma em política permanente o crédito para renovar caminhões, ônibus e implementos, mas não reserva dinheiro no Orçamento; montadoras e bancos não contam com os recursos",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/lula-sanciona-lei-que-pereniza-o-move-brasil-com-r-145-bi-mas-recursos-ficam-fora-do-orcamento/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-21T12:55:02.605892"
+  },
+  {
+    "id": "3c4bed0937e4b40ba0d8b3cdccea5186",
+    "titulo": "5.Preço do diesel trava recuperação de empresas de ônibus no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/preco-do-diesel-trava-recuperacao-de-empresas-de-onibus-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-21T12:55:02.605908"
+  },
+  {
+    "id": "59deeafa2eff26bc906afd95601df099",
+    "titulo": "TRE-BA exige frota total de ônibus em Salvador, sob multa de R$ 1 milhão por hora de descumprimento - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHdxWnN0UjhRRzdJUjlVelZTY3RTRnByV0FGNjRaSzQxb25iZldMTkxZOUlTYzlSWDBXMjFYTzhhR1Y4RVcxdC10UjdKZ1RubXVXNkxPMmV3YUQxUG4wTlp6akhSdmJLWVFkWkViYVpNM3FHbC1qNVoxc3lNc3hzaGEyQnJObGpfR3hvMnM3NUxxMjNDN0F0REJZOU9pU3Vva1cweGVnc0d5SHdadjUyRHhBbFhpbTNweGVwRVJzWXZ1OURKNUJ3UA?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-10-25T07:00:00+00:00"
+  },
+  {
     "id": "f8907ea8b2a783cdc6b65156cd692e8d",
     "titulo": "1.Fiat Pulse agora só tem versões híbridas com motor 1.0 turboflex e perde câmbio manual",
     "link": "https://www.estadao.com.br/jornal-do-carro/fiat-pulse-agora-so-tem-versoes-hibridas-com-motor-10-turboflex-e-perde-cambio-manual/",

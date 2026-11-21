@@ -1,5 +1,17 @@
 [
   {
+    "id": "7cc177aceaffb4ad4534fa4890a49919",
+    "titulo": "5.Mercedes-Benz celebra 140 anos com ofensiva de quatro lançamentos no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/mercedes-benz-celebra-140-anos-com-ofensiva-de-quatro-lancamentos-no-brasil/",
+    "fonte": "Estradão",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Lançamentos"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-21T19:58:39.309981"
+  },
+  {
     "id": "fd78f74705c2ee28e960b821c1958626",
     "titulo": "Lula sanciona lei que pereniza o Move Brasil com R$ 14,5 bi, mas recursos ficam fora do orçamentoLei sancionada em novembro transforma em política permanente o crédito para renovar caminhões, ônibus e implementos, mas não reserva dinheiro no Orçamento; montadoras e bancos não contam com os recursos",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/lula-sanciona-lei-que-pereniza-o-move-brasil-com-r-145-bi-mas-recursos-ficam-fora-do-orcamento/",

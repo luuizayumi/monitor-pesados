@@ -1,5 +1,163 @@
 [
   {
+    "id": "f881fa85e4ea581bda3a378cfb90d6a6",
+    "titulo": "Greve geral acende alerta nas montadoras da Alemanha",
+    "link": "https://automotivebusiness.com.br/industria/greve-geral-acende-alerta-nas-montadoras-da-alemanha",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:04.754117"
+  },
+  {
+    "id": "29333736c9fad7c364717bac7c811eab",
+    "titulo": "Mesmo com demanda, por que Brasil não consegue produzir chips?",
+    "link": "https://automotivebusiness.com.br/industria/mesmo-com-demanda-por-que-brasil-nao-consegue-produzir-chips",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:04.754131"
+  },
+  {
+    "id": "0c3bef47119958f39396d03f898cbaa5",
+    "titulo": "Pesquisa de Lideranças do Setor Automotivo entra na última semana de participação",
+    "link": "https://automotivebusiness.com.br/ab/pesquisa-de-liderancas-do-setor-automotivo-entra-na-ultima-semana-de-participacao",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:04.754135"
+  },
+  {
+    "id": "ea39b53111a3e67926967e9465e11e96",
+    "titulo": "tecnologiaMesmo com demanda, por que Brasil não consegue produzir chips?",
+    "link": "https://automotivebusiness.com.br/noticias/mesmo-com-demanda-por-que-brasil-nao-consegue-produzir-chips",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:04.754140"
+  },
+  {
+    "id": "0425a644bf75d1e29c9f5104e0466d07",
+    "titulo": "liderançasPesquisa de Lideranças do Setor Automotivo entra na última semana de participação",
+    "link": "https://automotivebusiness.com.br/noticias/pesquisa-de-liderancas-do-setor-automotivo-entra-na-ultima-semana-de-participacao",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:04.754143"
+  },
+  {
+    "id": "1a18b486939c8e846dd372808efd896f",
+    "titulo": "trabalhoGreve geral acende alerta nas montadoras da Alemanha23/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/greve-geral-acende-alerta-nas-montadoras-da-alemanha",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:04.754153"
+  },
+  {
+    "id": "822e776a3b62ab3a4acd8cd609ea3156",
+    "titulo": "trabalhoGreve geral acende alerta nas montadoras da Alemanha23 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/greve-geral-acende-alerta-nas-montadoras-da-alemanha",
+    "fonte": "Automotive Business",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:04.754156"
+  },
+  {
+    "id": "3483de51cc09206b3ebbe2c51fd8b234",
+    "titulo": "GM inicia venda do Chevrolet Captiva PHEV montado no Ceará",
+    "link": "https://www.autodata.com.br/mobility/2026/11/23/gm-inicia-venda-do-chevrolet-captiva-phev-montado-no-ceara/140776/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-23T22:51:07.703143"
+  },
+  {
+    "id": "fd2e462494a40a92acf865c0241b5f0e",
+    "titulo": "Stoneridge investirá US$ 4 milhões para ampliar produção de eletrônicos em Manaus",
+    "link": "https://www.autodata.com.br/noticias/2026/11/23/stoneridge-investira-us-4-milhoes-para-ampliar-producao-de-eletronicos-em-manaus/140134/",
+    "fonte": "AutoData",
+    "montadora": "MAN",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-23T22:51:07.703155"
+  },
+  {
+    "id": "30cdabcfb857e2e5621a4775ea711e9a",
+    "titulo": "Foton prepara grande salto no Brasil com o caminhão extrapesado Galaxus R9",
+    "link": "https://www.autodata.com.br/mobility/2026/11/23/foton-prepara-grande-salto-no-brasil-com-o-caminhao-extrapesado-galaxus-r9/140688/",
+    "fonte": "AutoData",
+    "montadora": "Foton",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:07.703160"
+  },
+  {
+    "id": "4532b671b4ccc77ad96af4ac7aae1076",
+    "titulo": "Frota Summit 2026 lota Espaço Center 3 e consolida encontro da gestão de frotas no Brasil",
+    "link": "https://frotanews.com.br/frota-summit-2026-consolida-encontro-de-gestao-de-frotas/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:09.092050"
+  },
+  {
+    "id": "0d56f32f482b6fd3b169bbc8aaa7ff90",
+    "titulo": "2.Viu o radar e pisou no freio? Essa manobra pode sair mais cara que a multa",
+    "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/viu-o-radar-e-pisou-no-freio-essa-manobra-pode-sair-mais-cara-que-a-multa/",
+    "fonte": "Estradão",
+    "montadora": "MAN",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-23T22:51:11.540106"
+  },
+  {
+    "id": "2a938b59af4418f613af6e44f8833de4",
+    "titulo": "Convenção Nacional de Vendas da ZM reúne representantes para integração",
+    "link": "https://www.balcaoautomotivo.com/2026/11/23/convencao-nacional-de-vendas-da-zm-reune-representantes-para-integracao/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-23T22:51:17.021998"
+  },
+  {
     "id": "5c283d44b8526d5bc53a83fdfdfcae8a",
     "titulo": "Fabricação de veículos recua 5,1% em outubro, e China lidera as importações - Agora RN",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVVjU2M4VHBUa0s4WlV3QWRORGl0RHpzcjhoOUY5S2NYSk5KekJRZzVGLWZGRWhlVGxPRUZUUElTNTI0ZF9SdTVxWWx4dHNycTBFZ2NKTWNSNnlYcWFwRmdDLXJDN0paTzhBSlBNU3l4SHl5YlhfaWduMl9rZzY5NUpGblptdGRzZHhTZ3NLVQ?oc=5",

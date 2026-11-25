@@ -1,5 +1,56 @@
 [
   {
+    "id": "b0a74833772a0f10123012e50aacd4fe",
+    "titulo": "Vendas na União Europeia crescem 5% até outubro",
+    "link": "https://www.autodata.com.br/noticias/2026/11/24/vendas-na-uniao-europeia-crescem-5-ate-outubro/140893/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-25T02:57:23.709403"
+  },
+  {
+    "id": "4ed223c70bdabcd9e4fd283bc5bf55aa",
+    "titulo": "Fiat Strada supera recorde anual de vendas com mais de 150 mil unidades",
+    "link": "https://www.autodata.com.br/mobility/2026/11/24/fiat-strada-supera-recorde-anual-de-vendas-com-mais-de-150-mil-unidades/140977/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-25T02:57:23.709419"
+  },
+  {
+    "id": "5dd92bdd7f1325d247c505573c9fa6dd",
+    "titulo": "BYD promove ação de vendas com bônus de até R$ 45 mil na linha Song",
+    "link": "https://www.autodata.com.br/mobility/2026/11/24/byd-promove-acao-de-vendas-com-bonus-de-ate-r-45-mil-na-linha-song/140966/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-25T02:57:23.709423"
+  },
+  {
+    "id": "2c7819d1d6c7fdd899cec52fe5c91cfe",
+    "titulo": "Em alta, produção de veículos ultrapassa 250 mil unidades em outubro - mundial.fm.br",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWhRNnVkem9wVWNCRDJab3l6WmpWS2V0MFFwb0VsLUVSVUg4Qmw3OE11SktsekZQR0YxQnQzTjVSNFdBZTE2SEFyV2VmdFlIdVM2SndkeE5vMUdqUlZIRW1PMHJ0NmQxVUYxeXVoNzYyYkYweC1KSUNJR1Y5Tmp1UGk4MnoxaFIza095elprN2cyN2RX?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-14T08:00:00+00:00"
+  },
+  {
     "id": "ab1d2eef41dc0747c5de079fb354605e",
     "titulo": "Como a Mercedes-Benz prospecta Zetros e Unimog para Brasil",
     "link": "https://www.autodata.com.br/mobility/2026/11/24/como-a-mercedes-benz-prospecta-zetros-e-unimog-para-brasil/140813/",

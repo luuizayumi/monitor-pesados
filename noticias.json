@@ -1,5 +1,79 @@
 [
   {
+    "id": "7a05f7248360af4ade27598ef46e3dd7",
+    "titulo": "Hiace no #ABX26: a van que a Toyota quer colocar na rotina das frotas",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/hiace-no-abx26-a-van-que-a-toyota-quer-colocar-na-rotina-das-frotas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-25T22:11:15.929545"
+  },
+  {
+    "id": "1dfe0146f0029382f207d796341e4f16",
+    "titulo": "veículos comerciaisHiace no #ABX26: a van que a Toyota quer colocar na rotina das frotas25 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/hiace-no-abx26-a-van-que-a-toyota-quer-colocar-na-rotina-das-frotas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-25T22:11:15.929560"
+  },
+  {
+    "id": "6dec0c1e3b9568ac416f28c955937ef8",
+    "titulo": "vendasAnef: financiamento de veículos recua em outubro25 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/anef-financiamento-de-veiculos-recua-em-outubro",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-25T22:11:15.929563"
+  },
+  {
+    "id": "af4b1feb0dfe187edf0beaf30b3aa95f",
+    "titulo": "Conteúdo de marcaHiace no #ABX26: a van que a Toyota quer colocar na rotina das frotasMontadora apresentou o modelo a gestores de frotas e operadores de transporte com foco em custo o...",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/hiace-no-abx26-a-van-que-a-toyota-quer-colocar-na-rotina-das-frotas",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-25T22:11:15.929574"
+  },
+  {
+    "id": "cbadcc6644ddccb941134897f720e2fa",
+    "titulo": "VW Caminhões e Ônibus inaugura centro de inspeção da linha Tempest em Resende",
+    "link": "https://www.autodata.com.br/noticias/2026/11/25/vw-caminhoes-e-onibus-inaugura-centro-de-inspecao-da-linha-tempest-em-resende/141119/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-25T22:11:19.191436"
+  },
+  {
+    "id": "5118b56b3892d790a7a0c94de646c5f3",
+    "titulo": "Mercado de caminhões usados cai 4,6% em outubro; Volvo FH lidera ranking de vendas - Agência Transporte Moderno",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkpoWFZuakV6V2RSMndoMnVBMVF2YXRuUHZfVUZsQzFWV2QzUnlESVJuWjA4NzBJaXF0amxYLUFpc3JFNU1tdGtzc0dxUTdhNkc0RnF1QUJpbDJmaEVpaENFb1FUTVNBRHI1LWRkM25HYXZHX25MUnVSUWw0Y2ZhV3ZKRzhtdFJxWTFnRXhfSkVpVE5neWNlRnZ4YmRrckp6cmtzNWJzQXRzQ19PMlo1eGlqUlE1Tm10ZVFwcnRkeHdudw?oc=5",
+    "fonte": "Google News",
+    "montadora": "Volvo",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-03T08:00:00+00:00"
+  },
+  {
     "id": "29e43e6e21b429c2e34421b8795b6d05",
     "titulo": "2.Tudo o que sabemos sobre o Dolphin GT, híbrido mais barato da BYD que será vendido no Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/tudo-o-que-sabemos-sobre-o-dolphin-gt-hibrido-mais-barato-da-byd-que-sera-vendido-no-brasil/",

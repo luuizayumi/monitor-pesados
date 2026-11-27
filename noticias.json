@@ -1,5 +1,139 @@
 [
   {
+    "id": "4e9a39c92b9eafc1ec2e2f99e501445d",
+    "titulo": "Vendas de pneus nacionais caem 10% e registram menor volume desde 2019",
+    "link": "https://automotivebusiness.com.br/mercado/vendas-de-pneus-nacionais-caem-10-e-registram-menor-volume-desde-2019",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-27T23:40:07.948115"
+  },
+  {
+    "id": "b8f1765d6acd0f718b0681a07c4babf6",
+    "titulo": "Mercedes-Benz cria empresa para compra de peças na China",
+    "link": "https://automotivebusiness.com.br/industria/mercedes-benz-cria-empresa-para-compra-de-pecas-na-china",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-27T23:40:07.948131"
+  },
+  {
+    "id": "9933a9e1ffef9853dc9db34196d74700",
+    "titulo": "pneusVendas de pneus nacionais caem 10% e registram menor volume desde 201927/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/vendas-de-pneus-nacionais-caem-10-e-registram-menor-volume-desde-2019",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-27T23:40:07.948138"
+  },
+  {
+    "id": "ba07f828ac4a16624a7a1f02d6ca8437",
+    "titulo": "autopeçasMercedes-Benz cria empresa para compra de peças na China27/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-cria-empresa-para-compra-de-pecas-na-china",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-27T23:40:07.948141"
+  },
+  {
+    "id": "9e20d1f147e523c855a80dfa456a2ff7",
+    "titulo": "pneusVendas de pneus nacionais caem 10% e registram menor volume desde 201927 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/vendas-de-pneus-nacionais-caem-10-e-registram-menor-volume-desde-2019",
+    "fonte": "Automotive Business",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-27T23:40:07.948149"
+  },
+  {
+    "id": "9caf866962753a1931bef63f1abf73e7",
+    "titulo": "autopeçasMercedes-Benz cria empresa para compra de peças na China27 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-benz-cria-empresa-para-compra-de-pecas-na-china",
+    "fonte": "Automotive Business",
+    "montadora": "Mercedes-Benz",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-27T23:40:07.948152"
+  },
+  {
+    "id": "293fde0e727556b9ea55e77ca5233547",
+    "titulo": "Adesão a consórcios de veículos sobe 5% até outubro, apesar de recuo de pesados",
+    "link": "https://www.autodata.com.br/noticias/2026/11/27/adesao-a-consorcios-de-veiculos-sobe-5-ate-outubro-apesar-de-recuo-de-pesados/141495/",
+    "fonte": "AutoData",
+    "montadora": "Geral",
+    "temas": [
+      "Geral"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-27T23:40:10.408637"
+  },
+  {
+    "id": "7c24e9b112daacd65c34736f10513c0e",
+    "titulo": "Peugeot Expert registra crescimento de 157% nas vendas em 2026",
+    "link": "https://frotanews.com.br/peugeot-expert-cresce-157-com-avanco-da-logistica/",
+    "fonte": "Frota News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-27T23:40:11.899004"
+  },
+  {
+    "id": "4ecfcccdd09d1b01234667cf020b754d",
+    "titulo": "Fras-le lidera categoria de peças para pesados em prêmio do transporte",
+    "link": "https://www.balcaoautomotivo.com/2026/11/27/fras-le-lidera-categoria-de-pecas-para-pesados-em-premio-do-transporte/",
+    "fonte": "Balcão Automotivo",
+    "montadora": "Geral",
+    "temas": [
+      "Tecnologia"
+    ],
+    "destaque": "normal",
+    "data_coleta": "2026-11-27T23:40:19.274556"
+  },
+  {
+    "id": "3f4ffd151d64a0aad64d215396043f98",
+    "titulo": "50 carros mais vendidos em novembro de 2026 – até o dia 24 - Webmotors",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzFhc2w0ZVdPT3ZDZmJOQkx0YkpQVFF6UmQxSWM0ekFwam52Rm91d2l0aVZHOTZ0R3VVZW1tUmJzNTg2N0tWbVJFNkU3V2RkbGdxbW0zdkFQb0hiMmNrSUVHMlRGZDVIYlMwVk5NSDZrejAtSWlRZlozRGpBbjBzZkNYbTRDcy13OE5rTWJyTEo3SXoyM1Q4?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Tecnologia"
+    ],
+    "destaque": "vendas",
+    "data_coleta": "2026-11-25T16:43:50+00:00"
+  },
+  {
+    "id": "fb6eb9bf45157d88f3f34ded0e7fbd82",
+    "titulo": "Anuário – Ônibus elétricos: Brasil pode ter 43,5 mil veículos em 2035, mas diesel ainda dominará vendas em 2036, apontam estudos - Diário do Transporte",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnlfdmZOZnBzTVMzV21FTmFILS1hUE96eFYwdnp1M1BQTjA2SmotMVNnZnpSekZXbGJiRFpBaVdNeFhWcVdha3BMRV9pWWc3MzRQUWlZeFk2VEtBZzdfOVBfUi1tb3BXRXNZT3JIWXRCUXhRUzNSRklXT01wbnZ5UHZaZlVKaElhZmhLUThVb3hLV3RxQWlILXZZZ0QycFBTNk9uNG9seFpwdW12T0tGajFVOE9la2QtSkp2OHBxeDZUUEdmNFJ3blkzbW1WdnRvaTdqLWdPeDJYd0FhbkMwNGFXbUNHSlBOcndtNzAwWF9GN3ZMWENNdHc0QnfSAYICQVVfeXFMTXhqVUxpTE1ZRUctZ2x6M1NWc3NuWXhwNW1ZWExIemtFaWZqMUYyVjZzMkFUR2lMZVhuZWF5V0xyZVg2RkM1WHM1MWprVWlBRlVMQ20yQWVMcnNCcW12OXJYV2p0QnNobWJ0cVo0aGRYLUFJTjIzaUd5WVZ2TUVTUVVKZGRSc29ldDhDV1ZZcmZBNjNRVzFQb3RuUmtUejFYS0pVek5tMTN3cDBVRXE4Xy1yOWVhckNxSUFQRmJtVzJxdXRlSjFRWmw5V2xtaFRuWHZZUTM0bmJxYkNGUTFSMU0xclF6dkp1aG1PbGpablYxbG56VUNGcmdnZjRkMHZhOTZB?oc=5",
+    "fonte": "Google News",
+    "montadora": "Geral",
+    "temas": [
+      "Vendas",
+      "Elétricos"
+    ],
+    "destaque": "ambos",
+    "data_coleta": "2026-11-22T09:52:12+00:00"
+  },
+  {
     "id": "9d950fb72124ec929d8bc6a8f1bef3c9",
     "titulo": "Piauí, Sergipe e Goiás se unem a programa internacional para aumentar frotas de veículos eletrificados",
     "link": "https://www.autodata.com.br/mobility/2026/11/27/piaui-sergipe-e-goias-se-unem-a-programa-internacional-para-aumentar-frotas-de-veiculos-eletrificados/141341/",
